@@ -153,6 +153,11 @@ Vztah mezi ZOO a těmito režimy je **kumulativní**: oznamovatel splní oznamov
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Ad 14/2024 - 54](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/742169) — 16. 4. 2025
+  > „Pokud tedy dojde k tomu, že osoba ve služebním poměru podle zákona o státní službě učiní oznámení podle ust. § 2 zákona o ochraně oznamovatelů, bude se na ni plně vztahovat ochrana před odvetnými opatřeními podle tohoto zákona, a to i v případě, že se jedná o služební poměr uzavřený se zkušební dobou. Samotná skutečnost, že by takový její služební poměr byl následně zrušen ve zkušební době, i bez uvedení důvodu, tak neznamená, že by byla zbavena ochrany oznamovatelů"
+
 #### Věcný záběr oznámení (odst. 1) — čtyři kategorie
 
 Oznámením v právním smyslu ZOO je pouze takové sdělení, které **kumulativně splňuje** dvě podmínky: (i) **pracovní kontext** — informace se týká protiprávního jednání u osoby, pro niž oznamovatel vykonává/vykonával práci nebo jinou obdobnou činnost (přímo nebo zprostředkovaně), nebo s níž je v kontaktu v souvislosti s takovou činností; a (ii) **kvalifikované protiprávní jednání** spadající do jedné ze čtyř kategorií:
@@ -418,6 +423,11 @@ Některé informace jsou z věcného záběru ZOO **vyloučeny** — i kdyby je 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Ad 14/2024 - 54](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/742169) — 16. 4. 2025
+  > „Zákon o ochraně oznamovatelů koncipuje ochranu oznamovatelů před odvetnými opatřeními, která mohou poškodit oznamovatele, jenž učinil oznámení podle ust. § 2 tohoto zákona. … Lze si představit situaci, kdy osoba nadřízená oznamovateli získá informaci o tom, že se chystá oznámení podat, a jednala by vůči němu represivně, mohlo by být posouzeno, že šlo o odvetné opatření, pokud by se prokázala souvislost s tímto záměrem. Zákon tedy chrání i osoby, které se na oznámení teprve připravují"
+
 #### Pojmové znaky odvetného opatření (odst. 1, úvodní věta)
 
 § 4 odst. 1 obsahuje **legální definici odvetného opatření** se třemi kumulativními znaky:
@@ -519,6 +529,11 @@ V praxi to znamená povinnost:
 > *Ten, kdo nesmí být vystaven odvetnému opatření, má právo na přiměřené zadostiučinění, byla-li mu odvetným opatřením způsobena nemajetková újma. Ustanovení jiných právních předpisů o zvláštních podmínkách pro uplatnění práva na přiměřené zadostiučinění tím nejsou dotčena.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [22 As 19/2025 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744427) — 21. 8. 2025
+  > „§ 5 zákona o ochraně oznamovatelů představuje hmotněprávní základ práva oznamovatele na přiměřené zadostiučinění, pokud mu byla odvetným opatřeným opatřením způsobena nemajetková újma na osobnostních právech. Za této situace z ničeho podle Nejvyššího správního soudu nevyplývá, že by se mělo jednat o veřejnoprávní nárok, kterému by měla být poskytnuta ochrana ve správním soudnictví"
 
 #### Občanskoprávní satisfakce za retaliaci
 
