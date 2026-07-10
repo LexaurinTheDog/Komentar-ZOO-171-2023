@@ -16,3 +16,7 @@
 
 ## Vazby
 [ZP 262/2006](/home/vojtech/Komentar-ZP-262-2006/), 234/2014 (státní služba), AML 253/2008, [GDPR 110/2019](/home/vojtech/Komentar-GDPR-110-2019/).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
