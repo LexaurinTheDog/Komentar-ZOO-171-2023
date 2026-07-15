@@ -123,3 +123,120 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | určí; uloží | [§ 8](https://e-sbirka.gov.cz/sb/2023/171#par_8); [§ 9](https://e-sbirka.gov.cz/sb/2023/171#par_9); [§ 10](https://e-sbirka.gov.cz/sb/2023/171#par_10); [§ 13](https://e-sbirka.gov.cz/sb/2023/171#par_13); [§ 22](https://e-sbirka.gov.cz/sb/2023/171#par_22) |
 | Oprávnění a povinnost | má právo; je povinna; je povinen; povinnost | [§ 5](https://e-sbirka.gov.cz/sb/2023/171#par_5); [§ 10](https://e-sbirka.gov.cz/sb/2023/171#par_10); [§ 12](https://e-sbirka.gov.cz/sb/2023/171#par_12); [§ 17](https://e-sbirka.gov.cz/sb/2023/171#par_17); [§ 20](https://e-sbirka.gov.cz/sb/2023/171#par_20) |
 | Domněnky, fikce a účinkové konstrukce | má se za to | [§ 2](https://e-sbirka.gov.cz/sb/2023/171#par_2) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 171/2023 Sb., o ochraně oznamovatelů (ZOO, whistleblowing) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují způsob, jímž norma působí na chování adresátů. Deontická logika rozlišuje tři základní **objektivní modality**: příkaz (norma ukládá konání — co *má být* učiněno), zákaz (norma zapovídá určité jednání — co *nesmí* nastat) a dovolení (norma ponechává prostor volby — co *smí* být). Vedle nich stojí **zmocnění**, tzv. kompetenční (pravomocné) normy, které nezakládají přímo příkaz či zákaz chování, nýbrž propůjčují orgánu veřejné moci pravomoc autoritativně zasáhnout do právních poměrů jiných (typicky uložit opatření, sankci či rozhodnout). Zmocnění je proto modalitou druhého řádu — vytváří právní schopnost, nikoli bezprostředně povinnost adresáta.
+
+Objektivnímu členění odpovídá rovina **subjektivních modalit** — oprávnění (subjektivní právo) a povinnost. Obě jsou spojeny vztahem **korelativity**: oprávnění jednoho subjektu zpravidla zrcadlí povinnost subjektu druhého (právu oznamovatele na zadostiučinění odpovídá povinnost původce retaliace je poskytnout). ZOO tuto korelaci využívá důsledně: zákazu vystavit oznamovatele odvetnému opatření (objektivní zákaz) odpovídá subjektivní oprávnění dotčené osoby domáhat se satisfakce.
+
+**Normativní výrazy** jsou jazykové signály modalit v textu předpisu. Příkaz nese činné sloveso ve způsobovém významu povinnosti („zavede", „určí", „je povinna"), zákaz negaci možnosti („nesmí", „neposkytnou", „se nepřihlíží"), dovolení modální „může", zmocnění výkonové sloveso orgánu („uloží"). Rozpoznání výrazu je prvním krokem k určení, zda jde o normu kogentní, či dispozitivní.
+
+Samostatnou skupinu tvoří **domněnky a fikce** — normativní techniky práce s dokazovaným skutkovým stavem. Vyvratitelná domněnka (praesumptio iuris, „má se za to") přenáší důkazní břemeno na toho, kdo tvrdí opak, avšak připouští důkaz opaku; nevyvratitelná domněnka (praesumptio iuris et de iure) protidůkaz vylučuje. Fikce („se považuje / se nepřihlíží") pak s určitou skutečností spojuje následky, i když je zjevné, že tak ve skutečnosti není (fikce), popřípadě určitou skutečnost činí právně irelevantní. V ZOO se s touto technikou setkáváme jak u domněnky pravdivosti údajů o totožnosti oznamovatele, tak u konstrukce nepřihlížení ke vzdání se ochrany.
+
+### Příkaz
+
+Příkazové normy tvoří konstrukční osu institutu vnitřního oznamovacího systému (VOS). Zákon jimi zakládá pozitivní povinnosti konat směřující k vymezeným povinným subjektům — nejde o pouhé apely, nýbrž o vynutitelné právní povinnosti, jejichž porušení je zpravidla přestupkem s citelnou sazbou pokuty. Normativní výraz zde má podobu činného slovesa v oznamovacím způsobu s významem imperativu („zavede", „určí"), což je v české legislativní technice typický způsob vyjádření příkazu bez použití slova „musí".
+
+Charakteristické pro příkazy v ZOO je jejich řetězení: zavedení VOS (§ 8 odst. 1) je logicky podmínkou určení příslušné osoby (§ 9 odst. 1), a teprve určená příslušná osoba může plnit navazující procesní povinnosti při posuzování oznámení. Selhání kterékoli z těchto povinností narušuje funkčnost celého systému, a proto je zákon konstruuje jako kogentní.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 8 odst. 1 | zavede | „Vnitřní oznamovací systém zavede povinný subjekt, kterým se pro účely tohoto zákona rozumí" | Základní povinnost vymezených povinných subjektů zřídit vnitřní oznamovací kanál |
+| § 9 odst. 1 | určí | „Povinný subjekt určí příslušnou osobu nebo příslušné osoby k výkonu činnosti podle § 11." | Personální základ VOS; bez určení příslušné osoby systém nemůže fungovat |
+
+### Zákaz
+
+Zákazové normy nesou vlastní ochrannou funkci zákona. Jádrem je zákaz vystavit oznamovatele (a osm kategorií osob v jeho okolí) odvetnému opatření podle § 4 odst. 2 — jde o kogentní, nedispozitivní zápověď, která je předmětem přestupkové ochrany. Vedle tohoto materiálního zákazu retaliace obsahuje zákon zákazy procesní (§ 20 odst. 1 — zákaz poskytnout informace ohrožující účel oznámení) chránící důvěrnost systému.
+
+Zvláštní povahu má § 6: konstrukce „ke vzdání se práva na ochranu … se nepřihlíží" nefunguje jako typický zákaz chování, nýbrž jako **norma o neúčinnosti právního jednání** — směřuje k tomu, aby dohody o vzdání se ochrany (NDA, narovnání sjednané ex ante) byly právně bezúčinné. Systematicky proto stojí na pomezí zákazu a fikce (nepřihlížení), a v přehledové tabulce ji vedeme u zákazů pro její zápovědní účel: znemožnit obejití ochrany soukromoprávní dohodou.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 4 odst. 2 | nesmí být vystaven | „Odvetnému opatření nesmí být vystaven oznamovatel ani" | Kogentní zákaz retaliace vůči oznamovateli a osobám v jeho okolí — jádro ochrany |
+| § 6 | se nepřihlíží | „Ke vzdání se práva na ochranu před odvetným opatřením se nepřihlíží." | Nezcizitelnost ochrany; dohody o vzdání se ochrany ex ante jsou bezúčinné |
+| § 20 odst. 1 | neposkytnou | „Příslušná osoba nebo pověřený zaměstnanec neposkytnou informace, které by mohly zmařit nebo ohrozit účel podávání oznámení." | Zákaz sdělovat informace ohrožující účel systému a ochranu oznamovatele |
+
+Judikatorní ilustrace k dosahu zákazu odvetných opatření podle § 4:
+
+- *NSS* [8 Ad 14/2024 - 54](judikatura/NSS-8-Ad-14-2024-54.md) — rozsudek z 16. 4. 2025, § 2 a § 4; ochrana dopadá i na osoby připravující se na oznámení
+  > „Lze si představit situaci, kdy osoba nadřízená oznamovateli získá informaci o tom, že se chystá oznámení podat, a jednala by vůči němu represivně, mohlo by být posouzeno, že šlo o odvetné opatření, pokud by se prokázala souvislost s tímto záměrem. Zákon tedy chrání i osoby, které se na oznámení teprve připravují"
+
+### Dovolení
+
+Dovolovací modalita se v ZOO uplatňuje spíše výjimečně a má zde specifickou, **limitační** podobu. Formulace „příslušnou osobou může být jen fyzická osoba, která je bezúhonná, zletilá a plně svéprávná" (§ 10 odst. 1) sice používá modální „může", avšak spojení s omezovací partikulí „jen" mění dovolení v negativně vymezené kvalifikační kritérium: nikdo jiný než osoba splňující kumulativně uvedené znaky příslušnou osobou být nesmí. Jde tedy o dovolení uzavřené shora (numerus clausus způsobilých osob), nikoli o volnou možnost.
+
+Tato konstrukce ukazuje, že normativní výraz „může" sám o sobě neurčuje modalitu jednoznačně — teprve v kontextu („může být *jen*") získává funkci vylučující právnické osoby a osoby nesplňující předpoklady. V systému zákona plní dovolení podpůrnou roli: vymezuje personální okruh, na nějž teprve dopadají navazující příkazy a povinnosti (§ 10 odst. 6, § 12 odst. 3).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 10 odst. 1 | může být jen | „Příslušnou osobou může být jen fyzická osoba, která je bezúhonná, zletilá a plně svéprávná." | Vymezení, kdo smí být příslušnou osobou — pouze bezúhonná, zletilá a plně svéprávná fyzická osoba |
+
+### Zmocnění
+
+Zmocňovací (kompetenční) normy propůjčují ministerstvu pravomoc autoritativně zasáhnout do poměrů povinného subjektu. Ustanovení § 22 odst. 2 („uloží povinnému subjektu opatření k nápravě") zakládá dozorovou pravomoc, jejímž účelem je odstranění protiprávního stavu; nejde o povinnost adresáta chovat se určitým způsobem, nýbrž o pravomoc orgánu tuto povinnost vrchnostensky konkretizovat a vynutit. Konstrukce „zjistí-li … uloží" navíc vyjadřuje vázanou (nikoli volnou) pravomoc: při zjištění porušení ministerstvo opatření uložit má, prostor uvážení se týká obsahu a lhůty, nikoli toho, zda zasáhnout.
+
+Zmocnění je v systému zákona spojnicí mezi hmotněprávními povinnostmi VOS a jejich veřejnoprávním vynucením — bez kompetenční normy by příkazy a zákazy zůstaly bez efektivní sankční nadstavby.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 22 odst. 2 | uloží | „Zjistí-li ministerstvo při kontrole porušení povinnosti, uloží povinnému subjektu opatření k nápravě, jehož účelem je odstranění protiprávního stavu" | Kompetenční norma zmocňující ministerstvo uložit nápravné opatření a stanovit lhůtu k jeho splnění |
+
+### Oprávnění a povinnost
+
+Oprávnění a povinnost tvoří korelativní dvojici subjektivních modalit; v ZOO je jejich spojení nejzřetelnější u ochrany před retaliací. Na straně oprávnění stojí § 5 — samostatný hmotněprávní (občanskoprávní) nárok oznamovatele a chráněných osob na přiměřené zadostiučinění za nemajetkovou újmu způsobenou odvetným opatřením. Na straně povinnosti pak zákon ukládá jednak aktivní preventivní povinnost zaměstnavatele zamezit retaliaci (§ 4 odst. 4 — „nesmí umožnit", formulace zákazová co do jazyka, avšak povinnostní co do obsahu, neboť vyžaduje aktivní konání), jednak procesní a oznamovací povinnosti příslušné osoby (§ 10 odst. 6, § 12 odst. 3).
+
+Výraznou vlastností povinností příslušné osoby je jejich **lhůtní ukotvení**: povinnost posoudit důvodnost oznámení a písemně vyrozumět oznamovatele do 30 dnů (§ 12 odst. 3) je konstruována jako pevná procesní záruka, jejíž marné uplynutí zakládá oznamovateli navazující oprávnění věc zveřejnit podle § 7 odst. 1 písm. c). Zde se korelativita projevuje dynamicky: nesplnění povinnosti jednoho subjektu aktivuje oprávnění subjektu druhého.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 5 | má právo | „Ten, kdo nesmí být vystaven odvetnému opatření, má právo na přiměřené zadostiučinění, byla-li mu odvetným opatřením způsobena nemajetková újma." | Hmotněprávní nárok na satisfakci za nemajetkovou újmu z retaliace |
+| § 4 odst. 4 | nesmí umožnit | „Osoba, pro kterou oznamovatel vykonává práci nebo jinou obdobnou činnost, nesmí umožnit, aby oznamovatel nebo osoba podle odstavce 2 písm. a) až h) byli vystaveni odvetnému opatření." | Aktivní preventivní povinnost zaměstnavatele zabránit retaliaci; porušení je přestupkem |
+| § 10 odst. 6 | je povinna oznámit | „Příslušná osoba je povinna oznámit, že přestala splňovat podmínku bezúhonnosti podle odstavce 2, povinnému subjektu" | Povinnost příslušné osoby aktivně ohlásit ztrátu bezúhonnosti |
+| § 12 odst. 3 | je povinna posoudit | „Příslušná osoba je povinna posoudit důvodnost oznámení a písemně vyrozumět oznamovatele o výsledcích posouzení do 30 dnů ode dne přijetí oznámení." | Procesní povinnost s pevnou 30denní lhůtou; její marné uplynutí zakládá právo věc zveřejnit |
+
+Judikatorní ilustrace k povaze oprávnění podle § 5:
+
+- *NSS* [22 As 19/2025 - 38](judikatura/NSS-22-As-19-2025-38.md) — rozsudek z 21. 8. 2025, § 5; nárok na zadostiučinění je soukromoprávní, nikoli veřejnoprávní
+  > „§ 5 zákona o ochraně oznamovatelů představuje hmotněprávní základ práva oznamovatele na přiměřené zadostiučinění, pokud mu byla odvetným opatřeným opatřením způsobena nemajetková újma na osobnostních právech. Za této situace z ničeho podle Nejvyššího správního soudu nevyplývá, že by se mělo jednat o veřejnoprávní nárok, kterému by měla být poskytnuta ochrana ve správním soudnictví"
+
+### Domněnky a fikce
+
+Domněnky a fikce jsou v ZOO nástrojem, který zlepšuje důkazní pozici oznamovatele a chrání integritu ochrany. Ustanovení § 2 odst. 2 zavádí **vyvratitelnou domněnku** pravdivosti údajů o totožnosti oznamovatele („má se za to, že údaje o totožnosti oznamovatele jsou pravdivé"). Účinkem této praesumptio iuris je přenesení důkazního břemene: kdo tvrdí, že údaje pravdivé nejsou, musí to prokázat; do té doby se s údaji zachází jako s pravdivými. Domněnka tak usnadňuje vznik a fungování ochrany, aniž by oznamovatele nutila svou totožnost složitě dokládat.
+
+Vedle klasické domněnky pracuje zákon i s technikou **nepřihlížení** (§ 6 — „ke vzdání se … se nepřihlíží"), která má povahu blízkou fikci: právní jednání sice fakticky existuje, avšak zákon mu upírá jakékoli právní účinky, jako by učiněno nebylo. Tímto způsobem se zajišťuje nezcizitelnost ochrany. Obě techniky sdílejí společný cíl — vyloučit, aby procesní či důkazní překážky, popřípadě soukromoprávní ujednání, oslabily materiální ochranu oznamovatele.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 2 odst. 2 | má se za to | „má se za to, že údaje o totožnosti oznamovatele jsou pravdivé" | Vyvratitelná domněnka pravdivosti identifikačních údajů; usnadňuje důkazní pozici oznamovatele |
+| § 6 | se nepřihlíží | „Ke vzdání se práva na ochranu před odvetným opatřením se nepřihlíží." | Nepřihlížení k právnímu jednání (blízké fikci) — zajišťuje nezcizitelnost ochrany |
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Modality v ZOO nepůsobí izolovaně, nýbrž se v jednotlivých institutech vrství. **Institut ochrany před odvetným opatřením** kombinuje objektivní zákaz (§ 4 odst. 2 — „nesmí být vystaven"), na něj navazující povinnostní zákaz adresovaný zaměstnavateli (§ 4 odst. 4 — „nesmí umožnit"), korelativní subjektivní oprávnění dotčené osoby (§ 5 — „má právo") a pojistku nezcizitelnosti přes techniku nepřihlížení (§ 6). Teprve součinnost těchto modalit vytváří uzavřený ochranný okruh: zákaz vymezuje zakázané chování, povinnost aktivizuje prevenci, oprávnění poskytuje nápravu a nepřihlížení brání obcházení.
+
+Že jde o funkčně provázaný celek, potvrzuje i praxe, v níž se § 4 uplatňuje jako referenční rámec pro posouzení, zda konkrétní úkon (např. zrušení služebního poměru) je odvetným opatřením:
+
+- *NSS* [8 Ad 5/2024 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/740795) — rozsudek z 5. 2. 2025, § 4; odvetná opatření podle § 4 jako předmět posouzení
+  > „Žalovaný se dle svého přesvědčení také vypořádal s otázkou žalobcem tvrzeného uplatnění tzv. odvetných opatření ve smyslu § 1 nařízení vlády č. 145/2015 Sb., respektive odvetných opatření podle § 4 zákona č. 171/2023 Sb., o ochraně oznamovatelů"
+
+**Institut vnitřního oznamovacího systému** naopak kombinuje řetězec příkazů (§ 8 odst. 1 „zavede" → § 9 odst. 1 „určí") s dovolením vymezujícím způsobilou příslušnou osobu (§ 10 odst. 1 „může být jen"), na niž teprve dopadají navazující povinnosti (§ 10 odst. 6, § 12 odst. 3) a jejíž činnost je limitována procesním zákazem (§ 20 odst. 1). Celý systém je pak zastřešen zmocněním ministerstva k dozoru a nápravě (§ 22 odst. 2 „uloží"), které propojuje hmotněprávní povinnosti s jejich veřejnoprávním vynucením. **Domněnka pravdivosti totožnosti** (§ 2 odst. 2) prostupuje oběma instituty, neboť usnadňuje aktivaci ochrany i chod VOS.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+|---|---|---|
+| Příkaz | zavede; určí | § 8 odst. 1; § 9 odst. 1 |
+| Zákaz | nesmí být vystaven; se nepřihlíží; neposkytnou | § 4 odst. 2; § 6; § 20 odst. 1 |
+| Dovolení | může být jen | § 10 odst. 1 |
+| Zmocnění | uloží | § 22 odst. 2 |
+| Oprávnění | má právo | § 5 |
+| Povinnost | nesmí umožnit; je povinna oznámit; je povinna posoudit | § 4 odst. 4; § 10 odst. 6; § 12 odst. 3 |
+| Domněnka / fikce | má se za to; se nepřihlíží | § 2 odst. 2; § 6 |
