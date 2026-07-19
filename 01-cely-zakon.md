@@ -2289,60 +2289,64 @@ Pro výklad § 27 nebylo v této jednotce použito žádné soudní rozhodnutí.
 
 ### § 28 — Příslušnost k projednávání přestupků
 
-> **§ 28**
+> Revize: JUDr. Vojtěch Říha, Ph.D. | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
 >
 > *Přestupky podle tohoto zákona projednává ministerstvo s výjimkou přestupků, které projednává orgán inspekce práce podle zákona o inspekci práce.*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Dvojkolejnost přestupkové jurisdikce
+- [1] obecné pravidlo a povaha výjimky;
+- [2] skutkové podstaty podle zákona o inspekci práce;
+- [3] působnost a výluky orgánů inspekce práce;
+- [4] prvostupňový orgán a předání věci;
+- [5] procesní postavení osob dotčených přestupkem;
+- [6] novelizační historie a časová použitelnost;
+- [7] praktický test příslušnosti.
 
-§ 28 navazuje na rozdělení kontrolní působnosti v § 22:
+#### Souvisící ustanovení
 
-- **MSp** projednává **většinu přestupků** podle ZOO — všechny přestupky příslušných osob (§ 24), pověřených zaměstnanců MSp (§ 25), vědomě nepravdivá oznámení (§ 23), přestupky dalších osob (§ 27) a **přestupky povinných subjektů** kromě těch, které spadají pod orgán inspekce práce.
-- **Orgán inspekce práce** projednává přestupky **zaměstnavatelů v užším smyslu** podle § 6 odst. 1 písm. a) zák. o inspekci práce — typicky soukromé zaměstnavatele v pracovněprávních vztazích.
+§ 22 (kontrolní působnost); §§ 23 až 27 (skutkové podstaty přestupků); § 30 (účinnost).
 
-Tato dělba se opírá o **odbornou specializaci** — orgán inspekce práce má dlouhodobé know-how v kontrole pracovněprávních povinností a zaměstnavatelů, zatímco MSp je nejvhodnější pro otázky systémové (postoupení OČTŘ, výklad práva, kontrolu nezávislosti VOS).
+#### Souvisící předpisy
 
-#### Procesní rámec
+Zákon č. 251/2005 Sb., zejména §§ 1, 3 odst. 1 písm. h), 6, 34a a 35; zákon č. 250/2016 Sb., zejména § 64 a §§ 68 až 71.
 
-Přestupky podle ZOO projednává příslušný orgán podle **zák. č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich** (procesně) a **zák. č. 500/2004 Sb., správního řádu** (subsidiárně). Rozhodnutí o přestupku je správním rozhodnutím přezkoumatelným ve správním soudnictví (zák. č. 150/2002 Sb., SŘS).
+#### Z důvodové zprávy
 
-#### F. Kazuistika
+Důvodová zpráva popisuje rozdělení obdobné kontrolní působnosti podle § 22: oblastní inspektoráty mají projednávat vybraná porušení povinného subjektu spojená se zavedením a fungováním vnitřního oznamovacího systému, obsahově odpovídající § 26 odst. 1 písm. b) až e) a g), a ministerstvo ostatní přestupky. Přijatý text je však třeba vykládat spolu s § 34a a s působností i omezeními podle § 6 zákona o inspekci práce; důvodová zpráva sama meze věcné příslušnosti nerozšiřuje.
 
-**1. Modelová situace.** Soukromý zaměstnavatel (200 zaměstnanců) je obviněn ze dvou přestupků: (i) neurčení příslušné osoby [§ 26 odst. 1 písm. b)] a (ii) prozrazení totožnosti oznamovatele kolegou ve spisovně [§ 27 odst. 3]. Zaměstnavatel namítá, že o obou přestupcích má rozhodovat MSp, a zpochybňuje příslušnost orgánu inspekce práce, který řízení zahájil. K obstarání: doklad o povaze subjektu podle § 6 odst. 1 písm. a) zák. o inspekci práce, oznámení, identifikace pachatele prozrazení.
+#### Literatura
 
-**2. Právní otázka.** Který orgán je příslušný k projednání přestupku soukromého zaměstnavatele podle § 26 a přestupku třetí osoby podle § 27 — MSp, nebo orgán inspekce práce?
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto konstatování není výsledkem negativní literární rešerše.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 28 (přestupky projednává MSp s výjimkou přestupků, které projednává orgán inspekce práce).
-- *Související ustanovení téhož zákona:* § 22 (kontrolní působnost), § 23–27 (skutkové podstaty), § 26 (přestupky subjektů), § 27 (přestupky dalších osob).
-- *Související předpisy:* § 6 odst. 1 písm. a) zák. č. 251/2005 Sb. (o inspekci práce); zák. č. 250/2016 Sb. (řízení o přestupcích); zák. č. 500/2004 Sb. (správní řád, subsidiárně); zák. č. 150/2002 Sb. (SŘS — přezkum).
-- *Judikatura:* k určení věcné příslušnosti správního orgánu srov. zásadu zákonnosti a enumerativnosti (čl. 2 odst. 2 Listiny) — nosný závěr: příslušnost je dána zákonem a nelze ji měnit dohodou stran.
+#### Výklad
 
-**4. Subsumpce.** § 28 svěřuje projednávání přestupků MSp s výjimkou přestupků, které projednává orgán inspekce práce (tj. přestupky zaměstnavatelů podle § 6 odst. 1 písm. a) zák. o inspekci práce — navazuje na § 22 odst. 3). Přestupek zaměstnavatele podle § 26 odst. 1 písm. b) tak projedná orgán inspekce práce (jde o soukromého zaměstnavatele). Přestupek třetí osoby (kolegy) podle § 27 odst. 3 projedná MSp, neboť nejde o přestupek zaměstnavatele spadající pod inspekci práce.
+[1] § 28 zakládá obecnou věcnou příslušnost Ministerstva spravedlnosti a současně z ní vyjímá přestupky, které podle zákona o inspekci práce projednává orgán inspekce práce. Výjimku proto nelze určit jen podle toho, kdo provedl kontrolu nebo přijal podnět; rozhoduje právní kvalifikace konkrétního skutku a zákonem vymezená působnost orgánu.
 
-**5. Řešení.** Přestupek soukromého zaměstnavatele podle § 26 projedná orgán inspekce práce (§ 28 ve spojení s § 22 odst. 3) — námitka zaměstnavatele o výlučné příslušnosti MSp není důvodná. Přestupek kolegy podle § 27 odst. 3 projedná MSp. Obě řízení probíhají podle zák. č. 250/2016 Sb. (subsidiárně správní řád); rozhodnutí jsou přezkoumatelná ve správním soudnictví.
+[2] § 34a zákona č. 251/2005 Sb. upravuje přestupky právnické nebo podnikající fyzické osoby, která je povinným subjektem podle ZOO. Jeho písmena a) až e) obsahově odpovídají porušením podle § 26 odst. 1 písm. b), c), d), e) a g). Ostatní skutkové podstaty §§ 23 až 27 toto paralelní vymezení v § 34a nemají; u nich se použije obecné pravidlo § 28 ve prospěch ministerstva.
 
-**6. Varianty.** (a) Pokud by povinným subjektem byl orgán veřejné moci nebo veřejný zadavatel (nikoli zaměstnavatel podle zák. o inspekci práce), přestupek podle § 26 by projednalo MSp. (b) Pokud by šlo o vědomě nepravdivé oznámení (§ 23) nebo přestupek příslušné osoby (§ 24), projednalo by je vždy MSp bez ohledu na povahu zaměstnavatele.
+[3] Samotné naplnění osobního a skutkového popisu § 34a není bezpečným jediným testem příslušnosti. § 3 odst. 1 písm. h) svěřuje orgánům inspekce práce kontrolu právní úpravy ZOO, ale § 6 současně vymezuje okruh kontrolovaných osob, zvláštní omezení a výluky. **Autorský závěr:** překrývají-li se § 34a a působnost podle § 6, projedná přestupek orgán inspekce práce; pokud se osobní rozsahy nekryjí nebo dopadá omezení či výluka § 6, nelze příslušnost určit pouze z názvu skutkové podstaty a výsledek zůstává bez přímé judikatury otevřený.
 
-#### G. Protiargumenty a rizika
+[4] Podle § 35 zákona o inspekci práce projednává přestupky podle tohoto zákona v prvním stupni oblastní inspektorát práce; vykonal-li kontrolu Státní úřad inspekce práce, projedná je v prvním stupni úřad. Místní příslušnost ve správním řízení se podle § 6 odst. 5 téhož zákona řídí správním řádem. Nepříslušný správní orgán věc podle § 64 odst. 2 zákona č. 250/2016 Sb. bezodkladně předá věcně a místně příslušnému orgánu.
 
-- *Protiargument:* „Všechny přestupky podle ZOO projednává MSp jako gestor zákona." — Neutralizace: § 28 výslovně vyjímá přestupky projednávané orgánem inspekce práce; u soukromých zaměstnavatelů (§ 26) je příslušná inspekce práce (§ 22 odst. 3).
-- *Protiargument:* „Příslušnost lze sjednotit u jednoho orgánu z důvodu hospodárnosti." — Neutralizace: věcná příslušnost je dána zákonem a nelze ji měnit; každý orgán projedná přestupky ve své působnosti.
-- *Slabé místo:* u téhož skutkového komplexu mohou být příslušné dva orgány (inspekce práce pro § 26, MSp pro § 27) — vyžaduje to koordinaci a může vést k paralelním řízením.
+[5] Podatel oznámení o přestupku se jen podáním nestává účastníkem řízení. Účastníkem je podle § 68 zákona č. 250/2016 Sb. obviněný, poškozený v části týkající se jeho řádně uplatněného nároku na náhradu škody nebo vydání bezdůvodného obohacení a vlastník věci v části týkající se zabrání. Osoba přímo postižená spácháním přestupku má samostatná participační práva podle § 71, aniž je tím bez dalšího účastníkem; podle okolností může tatáž osoba splnit i podmínky poškozeného. Tyto role je nutné určit odděleně.
 
-#### H. Praktický závěr
+[6] § 28 nabyl účinnosti 1. srpna 2023 a do rozhodného dne 18. července 2026 nebyl změněn. Konsolidované znění ZOO účinné od 15. února 2025 zohledňuje zákon č. 32/2025 Sb., který § 28 nezměnil. Pro určení orgánu v konkrétní věci je třeba použít kompetenční úpravu rozhodnou pro vedené řízení a současně odděleně posoudit časovou působnost hmotněprávní skutkové podstaty.
 
-§ 28 rozděluje přestupkovou jurisdikci: MSp projednává většinu přestupků podle ZOO (§ 23, § 24, § 25, § 27 a přestupky povinných subjektů mimo inspekci práce), orgán inspekce práce projednává přestupky zaměstnavatelů podle § 6 odst. 1 písm. a) zákona o inspekci práce. Řízení probíhá podle zák. č. 250/2016 Sb. (subsidiárně správní řád); rozhodnutí přezkoumává správní soudnictví.
+[7] Praktický checklist:
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Jde o přestupek zaměstnavatele podle § 6 odst. 1 písm. a) zák. o inspekci práce (pak inspekce práce)?
-- [ ] Nebo o jiný přestupek podle ZOO (§ 23, § 24, § 25, § 27, ostatní subjekty — pak MSp)?
-- [ ] Je u jednoho skutkového komplexu dána příslušnost více orgánů (koordinace)?
-- [ ] Je rozhodnutí o přestupku přezkoumatelné ve správním soudnictví (SŘS)?
+- [ ] Je skutek přesně podřazen konkrétní skutkové podstatě v §§ 23 až 27 ZOO nebo v § 34a zákona o inspekci práce?
+- [ ] Jde u § 34a o právnickou nebo podnikající fyzickou osobu v postavení povinného subjektu?
+- [ ] Spadá osoba i věc do působnosti podle § 6 zákona o inspekci práce a nedopadá omezení nebo výluka?
+- [ ] Má v prvním stupni jednat inspektorát, nebo po vlastní kontrole Státní úřad inspekce práce?
+- [ ] Byly odděleně určeny role podatele podnětu, osoby přímo postižené, poškozeného a účastníků?
+- [ ] Pokud orgán příslušný není, předal věc bezodkladně podle § 64 odst. 2 zákona č. 250/2016 Sb.?
 
-**Typicky rozhodné důkazy / podklady:** doklad o povaze a zaměstnavatelském postavení subjektu; kvalifikace přestupku (§ 23–27); kontrolní/přestupkový spis.
+#### Judikatura
+
+Pro výklad § 28 nebylo v této jednotce použito žádné soudní rozhodnutí. Kompetenční překryv § 28 ZOO, § 34a a § 6 zákona o inspekci práce je proto v označeném rozsahu ponechán jako otevřená otázka. Nebyla provedena ani tvrzena úplná negativní rešerše všech soudních databází.
 
 ---
 
