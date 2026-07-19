@@ -591,158 +591,234 @@ Ne každá komunikace s duchovním je zpovědí ani každá interní církevní 
 
 ### § 4 — Odvetná opatření
 
-> **§ 4**
->
+> Revize: 2026-07-18 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > *(1) Odvetným opatřením se pro účely tohoto zákona rozumí jednání nebo jeho opomenutí v souvislosti s prací nebo jinou obdobnou činností oznamovatele, které bylo vyvoláno učiněním oznámení a které oznamovateli nebo osobě podle odstavce 2 písm. a) až h) může způsobit újmu; při splnění těchto podmínek je odvetným opatřením zejména*
 >
-> *- a) rozvázání pracovního poměru nebo neprodloužení pracovního poměru na dobu určitou,*
+> *a) rozvázání pracovního poměru nebo neprodloužení pracovního poměru na dobu určitou,*
 >
-> *- b) zproštění výkonu služby, zařazení mimo výkon služby nebo skončení služebního poměru,*
+> *b) zproštění výkonu služby, zařazení mimo výkon služby nebo skončení služebního poměru,*
 >
-> *- c) zrušení právního vztahu založeného dohodou o provedení práce nebo dohodou o pracovní činnosti,*
+> *c) zrušení právního vztahu založeného dohodou o provedení práce nebo dohodou o pracovní činnosti,*
 >
-> *- d) odvolání z místa vedoucího zaměstnance nebo ze služebního místa představeného,*
+> *d) odvolání z místa vedoucího zaměstnance nebo ze služebního místa představeného,*
 >
-> *- e) uložení kárného opatření nebo kázeňského trestu,*
+> *e) uložení kárného opatření nebo kázeňského trestu,*
 >
-> *- f) snížení mzdy, platu nebo odměny nebo nepřiznání osobního příplatku,*
+> *f) snížení mzdy, platu nebo odměny nebo nepřiznání osobního příplatku,*
 >
-> *- g) přeložení nebo převedení na jinou práci nebo na jiné služební místo,*
+> *g) přeložení nebo převedení na jinou práci nebo na jiné služební místo,*
 >
-> *- h) služební hodnocení nebo pracovní posudek,*
+> *h) služební hodnocení nebo pracovní posudek,*
 >
-> *- i) neumožnění odborného rozvoje,*
+> *i) neumožnění odborného rozvoje,*
 >
-> *- j) změna pracovní nebo služební doby,*
+> *j) změna pracovní nebo služební doby,*
 >
-> *- k) vyžadování lékařského posudku nebo pracovnělékařské prohlídky,*
+> *k) vyžadování lékařského posudku nebo pracovnělékařské prohlídky,*
 >
-> *- l) výpověď nebo odstoupení od smlouvy, nebo*
+> *l) výpověď nebo odstoupení od smlouvy, nebo*
 >
-> *- m) zásah do práva na ochranu osobnosti.*
+> *m) zásah do práva na ochranu osobnosti.*
 >
 > *(2) Odvetnému opatření nesmí být vystaven oznamovatel ani*
 >
-> *- a) osoba, která poskytla pomoc při zjišťování informací, které jsou obsahem oznámení, podání oznámení nebo posouzení jeho důvodnosti,*
+> *a) osoba, která poskytla pomoc při zjišťování informací, které jsou obsahem oznámení, podání oznámení nebo posouzení jeho důvodnosti,*
 >
-> *- b) osoba, která je ve vztahu k oznamovateli osobou blízkou,*
+> *b) osoba, která je ve vztahu k oznamovateli osobou blízkou,*
 >
-> *- c) osoba, která je zaměstnancem nebo kolegou oznamovatele,*
+> *c) osoba, která je zaměstnancem nebo kolegou oznamovatele,*
 >
-> *- d) osoba oznamovatelem ovládaná,*
+> *d) osoba oznamovatelem ovládaná,*
 >
-> *- e) právnická osoba, v níž má oznamovatel účast, osoba ji ovládající, jí ovládaná osoba nebo osoba, která je s touto právnickou osobou ovládaná stejnou ovládající osobou,*
+> *e) právnická osoba, v níž má oznamovatel účast, osoba ji ovládající, jí ovládaná osoba nebo osoba, která je s touto právnickou osobou ovládaná stejnou ovládající osobou,*
 >
-> *- f) právnická osoba, jejíhož voleného orgánu je oznamovatel členem, osoba ovládající, ovládaná nebo osoba ovládaná stejnou ovládající osobou,*
+> *f) právnická osoba, jejíhož voleného orgánu je oznamovatel členem, osoba ovládající, ovládaná nebo osoba ovládaná stejnou ovládající osobou,*
 >
-> *- g) osoba, pro kterou oznamovatel vykonává práci nebo jinou obdobnou činnost, nebo*
+> *g) osoba, pro kterou oznamovatel vykonává práci nebo jinou obdobnou činnost, nebo*
 >
-> *- h) svěřenský fond, jehož je oznamovatel nebo právnická osoba podle písmene e) nebo f) zakladatelem nebo obmyšleným nebo ve vztahu k němuž jsou oznamovatel nebo právnická osoba podle písmene e) nebo f) osobou, která podstatným způsobem zvýší majetek svěřenského fondu smlouvou nebo pořízením pro případ smrti.*
+> *h) svěřenský fond, jehož je oznamovatel nebo právnická osoba podle písmene e) nebo f) zakladatelem nebo obmyšleným nebo ve vztahu k němuž jsou oznamovatel nebo právnická osoba podle písmene e) nebo f) osobou, která podstatným způsobem zvýší majetek svěřenského fondu smlouvou nebo pořízením pro případ smrti.*
 >
 > *(3) Jde-li o oznámení, které neobsahuje údaje o jménu, příjmení a datu narození, nebo jiné údaje, z nichž je možné dovodit totožnost oznamovatele, náleží oznamovateli a osobám uvedeným v odstavci 2 písm. a) až h) ochrana podle tohoto zákona a jiných právních předpisů od okamžiku, kdy jejich totožnost vyjde najevo tomu, kdo je může vystavit odvetnému opatření.*
 >
 > *(4) Osoba, pro kterou oznamovatel vykonává práci nebo jinou obdobnou činnost, nesmí umožnit, aby oznamovatel nebo osoba podle odstavce 2 písm. a) až h) byli vystaveni odvetnému opatření.*
 
-**Výklad:**
+#### Přehled výkladu
 
-**Judikatura (z místních zdrojů):**
+- funkce ustanovení, pojmové znaky, čas a kauzalita — marg. č. 1–13;
+- typové formy a právní následky odvetných opatření — marg. č. 14–22;
+- chráněné osoby, právnické osoby a svěřenské fondy — marg. č. 23–34;
+- anonymní oznámení a preventivní povinnost — marg. č. 35–41;
+- odpovědnost, procesní ochrana a intertemporalita — marg. č. 42–47;
+- praktická aplikace — marg. č. 48.
 
-- *NSS* [8 Ad 14/2024 - 54](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/742169) — 16. 4. 2025
-  > „Zákon o ochraně oznamovatelů koncipuje ochranu oznamovatelů před odvetnými opatřeními, která mohou poškodit oznamovatele, jenž učinil oznámení podle ust. § 2 tohoto zákona. … Lze si představit situaci, kdy osoba nadřízená oznamovateli získá informaci o tom, že se chystá oznámení podat, a jednala by vůči němu represivně, mohlo by být posouzeno, že šlo o odvetné opatření, pokud by se prokázala souvislost s tímto záměrem. Zákon tedy chrání i osoby, které se na oznámení teprve připravují"
+#### Souvisící ustanovení
 
-#### Pojmové znaky odvetného opatření (odst. 1, úvodní věta)
+- § 1 a 2 — fyzická osoba jako oznamovatel, obsah oznámení a pracovní nebo jiná obdobná činnost;
+- § 3 — odpovědnostní štít při oznámení a získávání podkladů a obsahové výluky;
+- § 5 — přiměřené zadostiučinění za skutečně způsobenou nemajetkovou újmu;
+- § 6 — k vzdání se práva na ochranu před odvetným opatřením se nepřihlíží;
+- § 7 — chráněné způsoby oznámení, uveřejnění, oznámení jinému příslušnému orgánu a vědomě nepravdivé oznámení;
+- § 9 odst. 2 písm. d), § 20 a 21 — omezení přístupu k oznámení, ochrana totožnosti a evidence;
+- § 22 — kontrola nad povinnostmi povinných subjektů;
+- § 26 odst. 1 písm. a) a § 27 odst. 1, 2 a 4 — přestupky při umožnění či uskutečnění odvety a při bránění oznámení;
+- § 28 — příslušnost ministerstva a orgánů inspekce práce k projednání přestupků;
+- § 30 — účinnost zákona.
 
-§ 4 odst. 1 obsahuje **legální definici odvetného opatření** se třemi kumulativními znaky:
+#### Souvisící předpisy
 
-1. **Jednání nebo opomenutí** v souvislosti s prací nebo jinou obdobnou činností oznamovatele — odvetným opatřením je tedy nejen aktivní zásah (výpověď, převedení), ale i opomenutí (nepřiznání bonusu, neumožnění odborného rozvoje, neprodloužení smlouvy).
-2. **Kauzální vazba** — jednání bylo „**vyvoláno učiněním oznámení**". Klíčový důkazní problém: prokázat, že odvetné opatření bylo motivováno právě oznámením, a nikoli legitimními důvody (snižování stavů, organizační změny, výkonnostní problémy). Směrnice 2019/1937 v čl. 21 odst. 5 zakotvuje **presumpci kauzality**: prokáže-li oznamovatel oznámení a následnou újmu, presumuje se, že újma byla způsobena odvetou, a důkazní břemeno o opaku přechází na původce. ZOO tuto presumpci výslovně neformuluje, ale eurokonformním výkladem ji dovozují české soudy.
-3. **Způsobilost újmu**: jednání musí být objektivně způsobilé způsobit oznamovateli (nebo chráněné osobě) újmu — materiální (mzdovou, na zaměstnání, na podnikání) nebo nemateriální (osobnostní zásah, šikana, mobbing).
+- [směrnice (EU) 2019/1937](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:32019L1937), zejména čl. 4 odst. 4, čl. 5 body 8 až 11, čl. 6 odst. 3, čl. 19, 21 a 23 a body 41, 44, 93, 94 a 96 odůvodnění;
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 7, 9, 19, § 75b až 76, § 84 až 87, § 133a odst. 2 a § 138;
+- zákon č. 172/2023 Sb., zejména čl. I a II, čl. V až VIII a čl. XII a XIII;
+- zákon č. 89/2012 Sb., občanský zákoník, zejména § 17 a 18, § 22, § 81 a 82, § 135, § 152 odst. 2, § 580, 586, 588, 609, 612, 619, 620, 629 a 636 a § 1448;
+- zákon č. 90/2012 Sb., o obchodních korporacích, zejména § 74 a násl.;
+- zákon č. 262/2006 Sb., zákoník práce, zejména § 65, 66, 69, 72, 73a, § 77 odst. 5 a 6, § 84 a § 314 a 315;
+- zákon č. 234/2014 Sb., o státní službě, zejména § 60, 74, 155 a § 168 odst. 3;
+- zákon č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, zejména § 42, 51, § 190 odst. 1 až 5 a § 196;
+- zákon č. 221/1999 Sb., o vojácích z povolání, zejména § 19, § 150 odst. 2 až 4 a § 151;
+- zákon č. 373/2011 Sb., o specifických zdravotních službách, zejména § 55;
+- zákon č. 150/2002 Sb., soudní řád správní, zejména § 5, 7, § 36 odst. 3, § 38, 65, 72 a 73;
+- zákon č. 549/1991 Sb., o soudních poplatcích, § 11 a položky 1, 3 až 5 a 18 až 20 sazebníku;
+- zákon č. 251/2005 Sb., o inspekci práce, pro kontrolní a přestupkovou působnost orgánů inspekce práce;
+- Listina základních práv a svobod, zejména čl. 10, 17, 26 a 36.
 
-#### Demonstrativní výčet typů odvetných opatření (odst. 1 písm. a–m)
+#### Z důvodové zprávy
 
-Třináctidílný výčet pokrývá nejtypičtější formy pracovněprávní a služebněprávní retaliace:
+> Zvláštní část důvodové zprávy ke sněmovnímu tisku 352 (9. volební období) chápe odvetu jako přímé i nepřímé jednání v širokém pracovním kontextu, které může být formálně dovolené, ale je motivováno oznámením. Zdůrazňuje demonstrativní povahu výčtu, ochranu před ostrakizací, hrozbami a blacklistingem, absenci časového omezení, ochranu přidružených osob a aktivní povinnost osoby, pro kterou oznamovatel pracuje. U smíšených motivů spojuje ochranu s výlučně odvetným důvodem nebo s nepřiměřeností opatření k legitimnímu důvodu. Dále vysvětluje jednotlivé kategorie podle odstavce 2 a u anonymního oznámení připouští ochranu známých přidružených osob bez odhalení totožnosti oznamovatele. Její odkaz na § 580 odst. 1 občanského zákoníku podporuje možnost neplatnosti konkrétního právního jednání, nikoli však automatickou absolutní neplatnost každé odvety. Zákon č. 32/2025 Sb. změnil pouze § 8 odst. 1 písm. e); § 4 je od 1. 8. 2023 beze změny.
 
-| Typ | Klíčové ust. obecného předpisu | Komentář |
-|---|---|---|
-| **a) Skončení PP** | § 48 ZP (výpověď, dohoda, okamžité zrušení), § 65 ZP (neprodloužení doby určité) | Odvetná výpověď je **absolutně neplatná** podle § 580 OZ (rozpor s kogentním zákazem) |
-| **b) Skončení/zproštění služby** | § 42 zák. č. 234/2014 Sb., § 42 a § 47 zák. č. 361/2003 Sb., § 19 zák. č. 221/1999 Sb. | Týká se státních zaměstnanců, příslušníků BS, vojáků |
-| **c) Zrušení DPP/DPČ** | § 77a, § 77b ZP | Dohody, lze rušit jednostranně — odvetné zrušení neplatné |
-| **d) Odvolání z vedoucího místa** | § 73a ZP, § 60 zák. č. 234/2014 Sb. | Pojistka proti používání pravomoci odvolat vedoucího jako disciplinárního nástroje |
-| **e) Kárná či kázeňská opatření** | § 88 zák. č. 234/2014 Sb., § 51 zák. č. 361/2003 Sb. | Sankce na úrovni služebního práva |
-| **f) Snížení mzdy, platu, odměny, osobního příplatku** | § 109 ZP, § 134, § 134a, § 131 ZP | Včetně **nepřiznání** osobního příplatku (opomenutí) |
-| **g) Převedení na jinou práci/místo** | § 41, § 43 ZP | I bez snížení mzdy je převedení odvetné, je-li motivováno oznámením |
-| **h) Negativní služební hodnocení/pracovní posudek** | § 314 ZP (posudek), § 155 zák. č. 234/2014 Sb. (hodnocení) | Posudek může ovlivnit budoucí zaměstnatelnost |
-| **i) Neumožnění odborného rozvoje** | § 230 ZP (prohlubování kvalifikace) | Vyloučení z školení, kursů, kvalifikačních programů |
-| **j) Změna pracovní/služební doby** | § 78 a násl. ZP | Přesun na nevýhodnou směnu, prodloužení směny |
-| **k) Vyžadování lékařského posudku** | § 55 zák. č. 373/2011 Sb. (pracovnělékařské služby) | Šikanózní opakované vyžadování posudků jako nástroj nátlaku |
-| **l) Výpověď/odstoupení od smlouvy** | § 2001 a násl. OZ | Týká se zejména B2B vztahů (dodavatelé, OSVČ podle § 2 odst. 3 písm. j) |
-| **m) Zásah do osobnostních práv** | § 81 a násl. OZ | Šikana, mobbing, pomluvy, zveřejnění osobních informací |
+#### Literatura
 
-**Demonstrativní povaha** výčtu („zejména") znamená, že **jakékoli jednání naplňující obecnou definici** v úvodu odst. 1 spadne pod zákaz. Příklady mimo výčet: ztížení přístupu k pracovním prostředkům, vyloučení z porad, sociální izolace, soukromé žaloby pro pomluvu, šikanózní právní kroky.
+Odborná literatura je po rozhodnutí odpovědného editora odložena do 2. kola; v tomto kole nebyly převzaty žádné neověřené sekundární citace.
 
-#### Okruh chráněných osob (odst. 2)
+#### Výklad
 
-Ochrana se vztahuje **nejen na oznamovatele**, ale na osm kategorií osob v jeho okolí:
+[1] § 4 je hmotněprávním jádrem ochrany před odvetou, ale jeho čtyři odstavce plní rozdílné funkce. Odstavec 1 definuje odvetné opatření a uvádí jeho demonstrativní formy, odstavec 2 zakazuje vystavit odvetě oznamovatele a další osoby, odstavec 3 upravuje časový počátek ochrany u neidentifikovaného oznámení a odstavec 4 ukládá osobě, pro kterou oznamovatel pracuje, vlastní preventivní povinnost. Z definice nelze bez dalšího dovozovat konkrétní žalobní petit ani sankci; ty vyplývají zejména z § 5, §§ 26–28 a z právního režimu konkrétního opatření. Ústavně ustanovení podporuje svobodu projevu a právo na soudní ochranu podle čl. 17 a 36 Listiny, avšak nelze jím obejít textové podmínky § 2 a 7.
 
-- **Písm. a) Pomocníci** — kdokoli pomohl při zjišťování informací, podání oznámení nebo posouzení (kolega, který předal dokumenty; svědek; externí konzultant; novinář, který upozornil oznamovatele).
-- **Písm. b) Osoby blízké** podle § 22 OZ — manžel, registrovaný partner, příbuzný v přímé linii, sourozenec, osoby žijící v rodinné domácnosti, druh/družka.
-- **Písm. c) Zaměstnanci a kolegové** oznamovatele.
-- **Písm. d) Osoby oznamovatelem ovládané** — typicky děti v rodinné firmě, podřízení.
-- **Písm. e), f) Propojené právnické osoby** — chráněna je PO, v níž má oznamovatel účast nebo členství v orgánu, a další PO v ovládacím vztahu (definice ovládání podle § 74 a násl. ZOK). Cíl: zamezit retaliaci formou zhoršení obchodních podmínek vůči firmě, v níž oznamovatel působí.
-- **Písm. g) Zaměstnavatel oznamovatele** — chráněno je i to, aby oznamovatel nepřivedl pod sankci sám sebe — paradoxně. V praxi se ustanovení uplatní zejména tak, že pokud oznamovatel ohlásil věc týkající se třetí osoby (dodavatele, klienta), nesmí být sankcionován svým zaměstnavatelem tím, že dojde k újmě jeho zaměstnavatele.
-- **Písm. h) Svěřenské fondy**, jichž je oznamovatel zakladatelem, obmyšleným nebo donorem.
+[2] Zákaz odvety se váže na oznámení, které splňuje obsahové a vztahové znaky § 2 a je učiněno způsobem zakládajícím ochranu podle § 7. Ochrana náleží při podání prostřednictvím vnitřního systému, ministerstvu, za podmínek § 7 odst. 1 písm. c) při uveřejnění a podle § 7 odst. 2 také při oznámení jinému příslušnému orgánu. Nenáleží při vědomě nepravdivém oznámení (§ 7 odst. 3). NSS v rozsudku č. j. 8 Ads 100/2025-81, body 40–54, výslovně odmítl, že by § 4 chránil pouhý záměr oznámení podat. § 3 může chránit získávání podkladů před jiným druhem odpovědnosti, ale sám z předchozího personálního opatření neučiní odvetu podle § 4.
 
-#### Anonymní oznámení a vznik ochrany (odst. 3)
+[3] Odstavec 1 vyžaduje kumulativně: jednání nebo opomenutí; souvislost s prací nebo jinou obdobnou činností oznamovatele; příčinnou vazbu vyjádřenou slovy „vyvoláno učiněním oznámení“; a objektivní způsobilost způsobit újmu oznamovateli nebo osobě podle odstavce 2. Demonstrativní zařazení pod písmena a) až m) nenahrazuje žádný z těchto znaků. Negativní posudek, ukončení smlouvy nebo lékařská prohlídka proto nejsou odvetou jen svým názvem; rozhoduje jejich pracovní kontext, vazba na oznámení a způsobilost poškodit chráněnou osobu (§ 4 odst. 1; důvodová zpráva k § 4; čl. 5 bod 11 směrnice).
 
-U **anonymních oznámení** (resp. oznámení bez identifikačních údajů podle § 2 odst. 2) ochrana **vzniká od okamžiku, kdy totožnost oznamovatele (nebo chráněné osoby) vyjde najevo** tomu, kdo by ji mohl vystavit odvetě. Před tímto okamžikem ochrana nepřichází fakticky v úvahu, protože retaliace předpokládá znalost identity. Toto řešení je rozumné: ochrana je „spící" a aktivuje se okamžikem rozkrytí identity.
+[4] „Jednání nebo jeho opomenutí“ zahrnuje právní jednání, správní či služební akt, faktické zacházení i nečinnost. Opomenutím může být nepřiznání odměny, nepozvání na školení, neprodloužení smlouvy nebo nereagování na šikanu, jestliže jsou naplněny ostatní znaky. Výčet nevyžaduje, aby původce byl zaměstnavatelem; důvodová zpráva uvádí také zákazníky, obchodní partnery a spolupracovníky. Rozlišení formy je prakticky důležité: pouze právní jednání lze napadat pro neplatnost, zatímco faktické zacházení vyžaduje zápůrčí, restituční, satisfakční, náhradový nebo veřejnoprávní prostředek podle konkrétního vztahu.
 
-#### Povinnost zaměstnavatele zamezit retaliaci (odst. 4)
+[5] „V souvislosti s prací nebo jinou obdobnou činností oznamovatele“ navazuje na široký výčet v § 2 odst. 3 a 4: závislou práci, službu, podnikání, korporační a orgánovou činnost, plnění úkolů pro právnickou osobu, správu fondu, dobrovolnictví, stáž, smluvní dodávky a ucházení se o takovou činnost. Nevyžaduje trvající pracovní poměr ani totožnost původce odvety se zaměstnavatelem. Článek 5 bod 9 směrnice zahrnuje současné i minulé pracovní činnosti a důvodová zpráva pracuje s širokým pracovním kontextem. Soukromý konflikt bez věcné vazby na tuto činnost však § 4 nepokrývá jen proto, že jeho účastníkem je oznamovatel.
 
-Zaměstnavatel (osoba, pro kterou oznamovatel vykonává práci nebo jinou obdobnou činnost) **nesmí umožnit**, aby oznamovatel nebo chráněné osoby byly vystaveny odvetnému opatření. Jde o **aktivní povinnost prevence** — zaměstnavatel musí zajistit, aby ani jiní zaměstnanci (kolegové, nadřízení) oznamovatele nepostihovali. Porušení této povinnosti je samostatným přestupkem podle § 26 odst. 1 písm. a) s pokutou až 1 000 000 Kč.
+[6] Slova „bylo vyvoláno učiněním oznámení“ vyžadují konkrétní příčinný vztah, nikoli pouhou chronologii. Rozhodné mohou být znalost oznámení u osoby přijímající opatření, časová blízkost, změna zacházení, výroky o oznámení, odchylka od obvyklého postupu, srovnání s jinými pracovníky a nesoulad mezi tvrzeným důvodem a dokumentací. Bod 44 odůvodnění směrnice mluví o úzké přímé či nepřímé souvislosti. Důvodová zpráva označuje časovou blízkost pouze za jeden z ukazatelů a § 133a odst. 2 OSŘ po splnění prima facie prahu ukládá žalovanému prokázat objektivní legitimní cíl a přiměřenost a nezbytnost opatření. Samotné pořadí událostí tedy není konečným důkazem ani automatickou právní domněnkou mimo zákonný procesní režim.
 
-V praxi to znamená povinnost:
-- proškolit nadřízené a HR o zákazu retaliace;
-- nezveřejnit interně identitu oznamovatele (zachovat anonymitu, dokud nejsou nezbytné kroky);
-- reagovat na případné neformální projevy retaliace (vyloučení z týmu, šikana) a aktivně je řešit;
-- zajistit, aby personální rozhodnutí týkající se oznamovatele po dobu posuzování oznámení byla odůvodněna a navázána na objektivní kritéria nesouvisející s oznámením.
+[7] Pro definici postačuje, že opatření „může způsobit újmu“; skutečný vznik škody nebo nemajetkové újmy není nutný. Způsobilost se hodnotí objektivně podle povahy, intenzity a kontextu opatření. Újma může být majetková, profesní, reputační nebo osobní a může postihnout přímo oznamovatele či jinou chráněnou osobu. Naproti tomu § 5 přiznává zadostiučinění až tehdy, byla-li nemajetková újma skutečně způsobena. Kvalifikace jednání jako odvety a vznik konkrétního soukromoprávního nároku proto nejsou totožné otázky (§ 4 odst. 1; § 5; čl. 5 bod 11 a čl. 21 odst. 8 směrnice).
 
-#### F. Kazuistika
+[8] Časová posloupnost je striktní: opatření musí následovat po učinění oznámení. NSS v rozsudku č. j. 8 Ads 100/2025-81, body 40–54, zrušil opačný závěr Městského soudu v Praze a vyslovil, že ochrana podle § 4 se aktivuje až oznámením v souladu s § 7. Rozhodný je okamžik, kdy bylo oznámení učiněno příslušným způsobem, nikoli datum jeho pozdějšího potvrzení jako důvodného. Opatření pouze připravené před oznámením, ale přijaté či individualizované až po něm, se musí hodnotit podle toho, kdy a proč vznikl konkrétní zásah. Podle mého názoru může být objektivně doložená příprava legitimní reorganizace před oznámením silnou skutkovou indicií proti odvetnému motivu; jde o hodnocení skutkového průběhu doloženého v rozsudku č. j. 5 As 5/2024-36, body 23–26, nikoli o jeho samostatnou právní větu.
 
-**1. Modelová situace.** Zaměstnankyně (vedoucí prodejny řetězce, 200 zaměstnanců) podá VOS oznámení o tom, že regionální manažer nutí podřízené vykazovat fiktivní prodeje. Dva měsíce poté je odvolána z vedoucí pozice, převedena na běžnou pokladní s nižší mzdou a dostane mimořádně negativní pracovní posudek. Zaměstnavatel tvrdí, že jde o „reorganizaci". K obstarání: oznámení a jeho datum, rozhodnutí o odvolání a převedení, mzdové výměry před a po, posudek, organizační schéma.
+[9] Represivní jednání před podáním oznámení není odvetným opatřením podle § 4, i když má zabránit budoucímu oznámení. Může však naplnit samostatný přestupek bránění jinému v podání oznámení podle § 27 odst. 1, za který lze podle § 27 odst. 6 uložit pokutu do 100 000 Kč; podle okolností mohou nastoupit i obecné pracovněprávní, osobnostní nebo trestněprávní prostředky. Podle mého názoru je nutné toto rozlišení zachovat i při eurokonformním výkladu: čl. 23 odst. 1 písm. a) směrnice vyžaduje sankce za bránění nebo pokus zabránit oznámení, zatímco § 4 a čl. 5 bod 11 vážou odvetu na již učiněné oznámení.
 
-**2. Právní otázka.** Jsou odvolání z vedoucí pozice, převedení s nižší mzdou a negativní posudek odvetnými opatřeními podle § 4 odst. 1, a na kom leží důkazní břemeno o (ne)existenci kauzální vazby k oznámení?
+[10] Skončení pracovního či služebního vztahu neukončuje ochranu před pozdější odvetou. Pracovní kontext podle čl. 5 bodu 9 směrnice zahrnuje minulé pracovní činnosti a NSS v rozsudku č. j. 8 Ads 100/2025-81, bod 47, výslovně připustil, že bývalá státní zaměstnankyně by mohla být chráněna před opatřením učiněným až po jejím pozdějším oznámení, nikoli však před dřívějším skončením služby. Typickou pozdější odvetou může být zkreslený pracovní posudek, blacklist, poškození pověsti nebo zásah do navazujícího smluvního vztahu, jsou-li splněny obecné znaky § 4 odst. 1.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 4 odst. 1 (definice odvetného opatření + demonstrativní výčet písm. d) odvolání, f) snížení mzdy, g) převedení, h) posudek), odst. 4 (povinnost zaměstnavatele zamezit retaliaci).
-- *Související ustanovení téhož zákona:* § 5 (zadostiučinění), § 6 (nelze se vzdát ochrany), § 7 (vznik ochrany), § 26 odst. 1 písm. a) (přestupek povinného subjektu), § 27 odst. 2 (přestupek konkrétního pachatele).
-- *Související předpisy:* § 73a, § 41, § 314 ZP (odvolání, převedení, posudek); § 580 OZ (neplatnost pro rozpor se zákonem); čl. 19 a čl. 21 odst. 5 směrnice 2019/1937 (zákaz odvety + presumpce kauzality a obrácené důkazní břemeno).
-- *Judikatura:* k obrácenému důkaznímu břemenu při odvetě srov. eurokonformní výklad čl. 21 odst. 5 směrnice; analogicky judikatura k antidiskriminačnímu právu (přenos důkazního břemene podle § 133a OSŘ) — nosný závěr: prokáže-li oznamovatel oznámení a navazující újmu, je na zaměstnavateli prokázat, že opatření mělo jinou legitimní příčinu.
+[11] Ochrana není zákonem omezena pevnou dobou po oznámení. Důvodová zpráva k § 4 výslovně odmítá časový limit s odkazem na definici směrnice; s rostoucí prodlevou však zpravidla slábne důkazní význam časové blízkosti. Ani dlouhá prodleva kauzalitu nevyloučí, doloží-li ji například odložená příležitost k postihu, výslovné výroky, opakovaný vzorec nebo návaznost na výsledek šetření. Podle mého názoru naopak krátký interval sám o sobě nevyvrací objektivní důkazy, že důvod a příprava opatření předcházely oznámení; skutkovou oporu pro toto hodnotící dovození poskytuje rozsudek č. j. 5 As 5/2024-36, body 23–26 (důvodová zpráva, část k absenci časového omezení).
 
-**4. Subsumpce.** Tři znaky odvetného opatření: (i) jednání v souvislosti s prací — odvolání, převedení i posudek jsou pracovněprávní úkony; (ii) kauzální vazba — časová souvislost (2 měsíce po oznámení) zakládá indicii, presumpce kauzality přenáší břemeno na zaměstnavatele; (iii) způsobilost újmy — snížení mzdy je materiální újma, negativní posudek ohrožuje budoucí zaměstnatelnost. Všechny tři znaky jsou naplněny.
+[12] Legitimní pracovní či organizační důvod nevylučuje ochranu oznamovatele, ale může vyvrátit odvetnou kauzalitu. Důvodová zpráva připouští souběh legitimních a odvetných motivů a chrání před opatřením založeným výlučně na odvetě nebo nepřiměřeným k oprávněnému důvodu. § 133a odst. 2 OSŘ současně ukládá žalovanému po splnění prima facie prahu prokázat objektivní legitimní cíl a přiměřenost a nezbytnost prostředku. Podle mého názoru je ve smíšeném civilním případu rozhodující, zda by srovnatelné a stejně intenzivní opatření bylo přijato i bez oznámení a zda zvolený zásah byl k doloženému cíli skutečně přiměřený a nezbytný. Obecný odkaz na „ztrátu důvěry“ nebo „reorganizaci“ bez časové a věcné dokumentace tento standard nesplňuje.
 
-**5. Řešení.** Jde o odvetná opatření podle § 4 odst. 1 písm. d), f), g), h). Odvetné úkony jsou absolutně neplatné podle § 580 OZ (rozpor s kogentním zákazem). Zaměstnankyně se může domáhat: neplatnosti převedení/odvolání, doplacení mzdy, přiměřeného zadostiučinění podle § 5, a podat podnět orgánu inspekce práce (přestupek podle § 26, § 27 odst. 2). Zaměstnavatel musí prokázat, že „reorganizace" byla reálná, plánovaná před oznámením a nesouvisí s ním.
+[13] Písmena a) až m) jsou demonstrativní, jak potvrzuje slovo „zejména“, důvodová zpráva i NSS v rozsudku č. j. 5 As 5/2024-36, bod 25. Lze proto zahrnout ostrakizaci, vyloučení z porad, odebrání pracovních prostředků, blacklisting, šikanózní spory, negativní reference nebo hrozbu postihu. Článek 19 směrnice výslovně zakazuje i hrozby a pokusy o odvetu. Podle mého názoru je česká definice pokrývá eurokonformně tehdy, je-li samotná hrozba nebo pokus po oznámení jednáním způsobilým způsobit újmu; pouhý neprovedený interní nápad bez projevu navenek zpravidla takovou způsobilost nemá. Hrozbu před oznámením je třeba posoudit podle marg. č. 9.
 
-**6. Varianty.** (a) Pokud by zaměstnavatel doložil, že reorganizace byla schválena a komunikována ještě před podáním oznámení a postihla stejně i jiné vedoucí bez vazby na whistleblowing, kauzalita by byla vyvrácena a o odvetu by nešlo. (b) Pokud by újmu utrpěl i manžel zaměstnankyně pracující u téhož zaměstnavatele [§ 4 odst. 2 písm. b)], byl by chráněn rovněž a měl by vlastní nárok.
+[14] Písmeno a) pokrývá všechny způsoby rozvázání pracovního poměru i neprodloužení poměru na dobu určitou. Ani možnost skončit pracovní poměr ve zkušební době bez uvedení důvodu podle § 66 ZP neopravňuje k odvetě; NSS stejný závěr vyslovil pro služební poměr ve zkušební době v rozsudku č. j. 8 Ads 100/2025-81, body 37–39. Neprodloužení podle § 65 ZP může být odvetou jako opomenutí, zejména odporuje-li ustálené praxi či konkrétnímu legitimnímu očekávání, ale § 4 samo automaticky nepřeměňuje dobu určitou na neurčitou. U rozvázání se neplatnost uplatňuje ve dvouměsíční lhůtě podle § 72 ZP; u prostého neprodloužení je nutné zvolit jiný odpovídající nárok.
 
-#### G. Protiargumenty a rizika
+[15] Písmeno b) zahrnuje zproštění výkonu služby, zařazení mimo výkon služby a skončení služebního poměru bez ohledu na to, zda jde o státního zaměstnance, příslušníka bezpečnostního sboru nebo vojáka, pokud dané opatření odpovídá příslušnému služebnímu režimu. Pouhá existence široké personální pravomoci nebo možnosti skončit službu bez uvedení důvodu ochranu nevylučuje (8 Ads 100/2025-81, body 37–39). Současně obecná systemizace nebo organizační předpis nejsou samy individuálním odvetným opatřením; teprve navazující rozhodnutí o odvolání, zařazení mimo službu nebo skončení může podle okolností § 4 naplnit (5 As 5/2024-36, body 23–29). Ochrana se uplatňuje prostředky příslušného služebního práva, nikoli automatickou civilní žalobou na neplatnost.
 
-- *Protiargument:* „ZOO nezakotvuje obrácené důkazní břemeno, oznamovatel musí kauzalitu prokázat sám." — Neutralizace: čl. 21 odst. 5 směrnice presumpci kauzality vyžaduje; soudy ji dovozují eurokonformním výkladem; bez ní by ochrana byla iluzorní (důkazní nouze oznamovatele).
-- *Protiargument:* „Šlo o legitimní organizační změnu, zaměstnavatel má právo reorganizovat." — Neutralizace: ano, ale musí prokázat, že změna by nastala i bez oznámení a nebyla jím motivována; pouhé tvrzení o reorganizaci nestačí, je-li časová a věcná souvislost zjevná.
-- *Slabé místo:* dokazování vnitřní motivace je obtížné; oznamovatel by měl zajistit důkazy o tom, že před oznámením byl hodnocen kladně (kontrast s pozdějším negativním posudkem).
+[16] Písmeno c) se vztahuje na právní vztahy založené DPP a DPČ. Zrušení upravuje § 77 odst. 5 a 6 ZP: není-li sjednán jiný způsob, lze vztah zrušit dohodou, výpovědí z jakéhokoli důvodu nebo bez důvodu s patnáctidenní dobou nebo za sjednaných podmínek okamžitě; vyžaduje se písemná forma. §§ 77a a 77b naproti tomu upravují informační povinnosti a nejsou správným pramenem pro skončení. Možnost výpovědi bez důvodu nebrání kvalifikaci jako odvety, prokáže-li se vazba na oznámení. Konkrétní následek se však odvíjí od pracovněprávních pravidel a petitu; § 4 sám neobsahuje zvláštní žalobu ani lhůtu pro napadení zrušení dohody.
 
-#### H. Praktický závěr
+[17] Písmeno d) chrání před odvetným odvoláním vedoucího zaměstnance či představeného; podle § 73a odst. 2 ZP odvoláním vedoucího pracovní poměr sám nekončí, ale může založit další nabídku práce a případný výpovědní důvod. Písmeno e) zahrnuje formální kárná a kázeňská opatření i sankční postupy jinak dovolené služebním předpisem. V obou případech je třeba oddělit rozhodnutí o opatření od obecné organizační úpravy, zjistit oprávněný rozhodovací orgán, procesní obranu a skutečný důvod. Doložené porušení povinnosti může být legitimním cílem; nepřiměřený trest vybraný kvůli oznámení může zůstat odvetou podle testu v marg. č. 12.
 
-§ 4 je jádrem ochrany: definuje odvetné opatření třemi znaky (jednání/opomenutí v souvislosti s prací – vyvolané oznámením – způsobilé újmy), uvádí demonstrativní třináctidílný výčet, rozšiřuje ochranu na osm kategorií osob v okolí oznamovatele a ukládá zaměstnavateli aktivní povinnost retaliaci zamezit (odst. 4). Odvetné úkony jsou neplatné (§ 580 OZ).
+[18] Písmena f) a g) pokrývají snížení mzdy, platu nebo odměny, nepřiznání osobního příplatku a přeložení či převedení. Opatření může způsobit újmu i bez snížení celkového příjmu, například ztrátou odborné agendy, kariérního výhledu nebo dojížděním. U nenárokové složky odměny absence samostatného nároku na její přiznání nebrání kvalifikaci opomenutí jako odvety; ovlivní však volbu nápravy. Personální dokumentace má zachytit předem stanovená kritéria, srovnání s kolegy a dobu vzniku důvodu. Samotná shoda s formálními podmínkami převedení či přeložení nevylučuje odvetnou motivaci (důvodová zpráva k § 4, část o formálně dovolených a diskrečních opatřeních).
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Jsou naplněny všechny tři znaky odvetného opatření (souvislost s prací, kauzalita, způsobilost újmy)?
-- [ ] Existuje časová a věcná souvislost mezi oznámením a opatřením (indicie kauzality)?
-- [ ] Patří dotčená osoba do okruhu chráněných osob podle odst. 2 písm. a)–h)?
-- [ ] Splnil zaměstnavatel aktivní povinnost zamezit retaliaci (odst. 4), nebo ji umožnil?
+[19] Písmena h) až k) chrání před odvetným služebním hodnocením či pracovním posudkem, vyloučením z odborného rozvoje, změnou pracovní nebo služební doby a šikanózním vyžadováním lékařského posudku nebo pracovnělékařské prohlídky. U pracovního posudku může zaměstnanec žádat do tří měsíců od seznámení, aby jej soud přiměřeně upravil (§§ 314–315 ZP). Rozvrh pracovní doby se řídí mimo jiné § 84 ZP a mimořádná prohlídka § 55 zákona č. 373/2011 Sb.; zákonné oprávnění opatření uložit však nevylučuje odvetu. Rozhodují objektivní důvody, obvyklá praxe, srovnatelné osoby a intenzita zásahu.
 
-**Typicky rozhodné důkazy / podklady:** datum oznámení a datum opatření; rozhodnutí o personálních krocích; mzdové výměry před/po; dřívější (kladná) hodnocení; doklady o reálnosti a načasování tvrzené reorganizace.
+[20] Písmeno l) přenáší ochranu mimo pracovní poměr na smluvní vztahy, zejména samostatnou výdělečnou činnost a dodavatelské vztahy podle § 2 odst. 3 písm. c) a j). Odvetou může být výpověď, odstoupení, neobnovení smlouvy, zhoršení obchodních podmínek nebo podle demonstrativní definice i blacklist. Článek 19 směrnice uvádí také předčasné ukončení či zrušení smlouvy na zboží nebo služby a odnětí licence či povolení. Každý případ vyžaduje pracovní kontext a kauzalitu; běžné ukončení pro doložené porušení smlouvy odvetou není. Právní následek se posuzuje podle smluvního typu a zvláštní normy, nikoli automaticky podle pracovního práva.
 
----
+[21] Písmeno m) zahrnuje zásahy do osobnosti fyzické osoby podle § 81 a násl. OZ, zejména ponižování, pomluvy, neoprávněné šíření soukromých informací, obtěžování a cílenou ostrakizaci. Důvodová zpráva výslovně uvádí obtěžování, diskriminaci, pronásledování a vylučování z kolektivu; není nutné, aby jednání současně naplnilo antidiskriminační důvod. Právnické osobě náleží ochrana názvu, pověsti a soukromí podle § 135 OZ. I kdyby její zásah nebyl doslovně „ochranou osobnosti“ podle písmene m), může při splnění obecných znaků spadat pod návětí odstavce 1, protože výčet je demonstrativní.
+
+[22] § 4 neurčuje jednotný následek odvetného opatření a už vůbec nestanoví, že každé opatření je absolutně neplatné. Faktické jednání nebo opomenutí neplatnost vůbec nepřipouští. U právního jednání může rozpor se zákazem vést k neplatnosti podle § 580 odst. 1 OZ, jen vyžaduje-li to smysl a účel zákona; chrání-li zákaz určitou osobu, § 586 zpravidla směřuje k relativní neplatnosti, zatímco absolutní neplatnost podle § 588 vyžaduje zjevné narušení veřejného pořádku. Pracovní a služební právo navíc obsahují zvláštní prostředky a prekluzivní lhůty. Podle mého názoru je proto nutné pro každé opatření určit jeho právní formu, zvláštní režim a účelnou nápravu; obecný odkaz na § 580 nemůže nahradit tuto analýzu.
+
+[23] Odstavec 2 rozšiřuje zákaz nad osobu oznamovatele, aby pokryl nepřímou odvetu vedenou přes osoby a majetkové struktury spojené s oznámením. Odpovídá čl. 4 odst. 4 a bodu 41 odůvodnění směrnice. Kategorie a) až h) jsou samostatné; osoba nemusí splnit více z nich současně. Její ochrana je však odvozena od kvalifikovaného oznámení a konkrétní odvetné kauzality: nestačí samotný příbuzenský, pracovní či korporační vztah k někomu, kdo někdy oznámení podal. Opatření musí být vyvoláno tímto oznámením a být způsobilé způsobit újmu oznamovateli nebo chráněné osobě (§ 4 odst. 1 a 2).
+
+[24] Písmeno a) chrání osobu, která skutečně pomohla zjistit informace tvořící obsah oznámení, podat oznámení nebo posoudit jeho důvodnost. Důvodová zpráva uvádí obstarání podkladů, ověřování, radu, morální podporu i profesionální pomoc neziskové organizace. Český text používá obecné „osoba“ a na rozdíl od unijní definice prostředníka v čl. 5 bodu 8 není omezen jen na fyzickou osobu; konkrétní pomoc a její vztah k oznámení však musejí být doloženy. Externí konzultant, advokát, novinář nebo kolega není pomocníkem automaticky podle své profese. Ochrana důvěrnosti právní porady a profesní mlčenlivost se nadále řídí § 3 a zvláštními předpisy.
+
+[25] Osoba blízká podle písmene b) se určuje podle § 22 odst. 1 OZ. Vždy jí je příbuzný v přímé řadě, sourozenec, manžel a zákonem vymezený partner; jiná rodinná či obdobná osoba jí je, jestliže by újmu jedné druhá důvodně pociťovala jako vlastní. U sešvagřených osob a osob trvale spolu žijících platí vyvratitelná domněnka. Kategorie tedy není omezena na výčet členů domácnosti ani nevzniká z pouhého přátelství. Ve sporu je třeba doložit blízký vztah v rozhodné době a odvetnou vazbu; osoba blízká má vlastní ochranu proti újmě cílené na ni, nikoli jen odvozený nárok oznamovatele (§ 4 odst. 2 písm. b); důvodová zpráva k tomuto písmenu).
+
+[26] Písmeno c) rozlišuje zaměstnance oznamovatele a jeho kolegu. První pojem typicky míří na situaci, kdy oznamovatel sám zaměstnává další osobu; druhý pokrývá osobu působící s oznamovatelem ve společném pracovním kontextu. „Kolega“ není v ZOO definován a podle mého názoru nemá být omezen na stejného formálního zaměstnavatele, je-li společná práce doložena například v dodavatelském týmu, orgánu právnické osoby nebo na společném projektu. Pouhá profesní známost nestačí. Důvodová zpráva jako typ uvádí spřáteleného spolupracovníka a s odkazem na směrnici připomíná také zranitelnost dobrovolníků a stážistů; tyto osoby však musejí splnit text písmene c) nebo jinou kategorii odstavce 2.
+
+[27] „Osobou oznamovatelem ovládanou“ podle písmene d) není dítě, rodinný příslušník ani pracovní podřízený jen proto, že na něj oznamovatel fakticky působí. § 74 odst. 1 ZOK definuje ovládající osobu jako osobu schopnou přímo či nepřímo uplatňovat rozhodující vliv v obchodní korporaci a ovládanou osobu jako takto ovládanou obchodní korporaci. Písmeno d) proto typicky chrání společnost nebo družstvo ovládané oznamovatelem před vypovězením zakázky, ztrátou financování či poškozením pověsti vedeným jako nepřímá odveta. Konkrétní ovládání se prokazuje podle § 74 a násl. ZOK, nikoli jen označením společnosti za „rodinnou“.
+
+[28] Písmeno e) nejprve chrání právnickou osobu, v níž má oznamovatel účast. Důvodová zpráva pod účast zahrnuje postavení společníka obchodní společnosti, člena družstva i člena jiné právnické osoby. Dále chrání osobu tuto právnickou osobu ovládající, osobu jí ovládanou a sesterskou osobu ovládanou stejnou ovládající osobou. Každý článek řetězce musí být samostatně doložen; samotný obchodní kontakt nebo společný vlastník bez rozhodujícího vlivu nestačí. Účelem je zabránit tomu, aby třetí osoba obcházela zákaz odvety hospodářským postihem subjektu, v němž má oznamovatel majetkovou či členskou účast (§ 4 odst. 2 písm. e); § 74 a násl. ZOK; důvodová zpráva).
+
+[29] Písmeno f) chrání právnickou osobu, jejíhož voleného orgánu je oznamovatel členem, a navazující ovládající, ovládané a sesterské osoby. „Člen voleného orgánu“ je legislativní zkratkou z § 152 odst. 2 OZ a zahrnuje fyzickou osobu, která je do orgánu volena, jmenována nebo jinak povolána; nejde jen o orgán vzniklý volbou. Účast podle písmene e) není potřebná, takže chráněna může být například společnost, nadace či spolek, v jehož správní, statutární nebo kontrolní radě oznamovatel působí. Ochrana opět neplyne ze samotné funkce: hospodářské nebo reputační opatření musí být odvetou za konkrétní oznámení.
+
+[30] Pojmy ovládající a ovládaná osoba v písmenech d) až f) nejsou symetrické. Ovládající osobou podle § 74 ZOK může být fyzická i právnická osoba, kdežto ovládanou osobou je obchodní korporace. Proto nelze všechny položky souhrnně popsat jako „propojené právnické osoby“ a nelze předpokládat, že každá právnická osoba s účastí oznamovatele může být sama ovládána ve smyslu ZOK. Podle mého názoru se ovládací větve písmene e) a f) použijí pouze tam, kde lze konkrétní vztah podřadit § 74 a násl.; základní ochrana právnické osoby s účastí nebo s oznamovatelem v orgánu tím není dotčena.
+
+[31] Písmeno g) chrání osobu, pro kterou oznamovatel vykonává práci nebo jinou obdobnou činnost. Nemusí jít jen o zaměstnavatele ani o povinný subjekt provozující vnitřní systém; podle § 2 odst. 3 může jít také o klienta, objednatele, právnickou osobu, jejíž orgán či úkoly oznamovatel vykonává, nebo jiného příjemce smluvního plnění. Smyslem je zabránit nepřímé odvetě třetí osoby proti oznamovateli skrze hospodářský či reputační zásah do subjektu, pro který pracuje. Písmeno g) neznamená ochranu zaměstnavatele před sankcí za jeho vlastní protiprávní jednání a nebrání zákonnému výkonu kontroly či odpovědnosti bez odvetného motivu (důvodová zpráva k § 4 odst. 2 písm. g); čl. 4 odst. 4 písm. c) směrnice).
+
+[32] Písmeno h) chrání svěřenský fond, jehož je oznamovatel nebo právnická osoba podle písmene e) či f) zakladatelem, obmyšleným nebo osobou, která podstatně zvýšila jeho majetek smlouvou či pořízením pro případ smrti. Fond není fyzickou ani právnickou osobou (§ 18 OZ); zřídí-li zákon právo něčemu, co osobou není, § 17 odst. 2 OZ je přičítá osobě, které podle povahy případu náleží. Protože ZOO fondu nepřiznává zvláštní způsobilost být účastníkem řízení, nemůže sám vystupovat jako účastník podle § 19 OSŘ. Vlastnická práva k vyčleněnému majetku vykonává svěřenský správce vlastním jménem na účet fondu (§ 1448 odst. 3 OZ), nikoli jako zástupce fondu; u jiného nároku je nutné jeho nositele určit podle § 17 odst. 2 OZ a povahy zásahu. Bez přímé judikatury nebo ověřené literatury nelze uzavřít, že fond sám může utrpět reputační nemajetkovou újmu nebo být nositelem nároku podle § 5. Vždy je proto nutné určit, zda byl zasažen vyčleněný majetek, správce, zakladatel či obmyšlený; přímá judikatura k písmenu h) nebyla nalezena.
+
+[33] Každá osoba podle odstavce 2 je samostatným adresátem zákazu a při skutečně způsobené nemajetkové újmě jí text § 5 přiznává vlastní právo na přiměřené zadostiučinění. Nemusí sama podat oznámení ani prokazovat vlastní přesvědčení o pravdivosti jeho obsahu. Musí však doložit své zařazení do některé kategorie, existenci oznámení splňujícího podmínky ochrany a vztah mezi oznámením a opatřením vedeným proti ní. Přidružená osoba není chráněna proti každému nepříznivému kroku, který postihne jejího známého nebo podnik; rozhoduje úmysl či příčinná vazba k oznámení a způsobilost způsobit jí nebo oznamovateli újmu (§ 4 odst. 1 a 2; § 5; čl. 4 odst. 4 a čl. 21 odst. 8 směrnice).
+
+[34] Právnické osoby mohou utrpět majetkovou újmu ztrátou zakázky, financování či obchodní příležitosti a újmu na pověsti nebo soukromí chráněnou § 135 OZ. § 5 používá obecné „ten, kdo nesmí být vystaven“ a nevylučuje osoby podle § 4 odst. 2 písm. d) až g). Podle mého názoru jde o zvláštní zákonný základ zadostiučinění i pro chráněnou právnickou osobu, byla-li jí odvetou skutečně způsobena nemajetková újma; opačný výklad by podstatnou část osobního rozsahu ochrany zbavil účinku. Forma a výše zadostiučinění se však musí přizpůsobit povaze právnické osoby a konkrétnímu zásahu. Přímé české rozhodnutí k § 5 u právnické osoby ani literatura s ověřenou pasáží nebyly nalezeny, takže závěr vyžaduje označení jako vlastní stanovisko.
+
+[35] Odstavec 3 reaguje na podání bez jména, příjmení, data narození nebo jiných údajů umožňujících dovodit totožnost oznamovatele. Navazuje na identifikační pravidlo § 2 odst. 2 a na čl. 6 odst. 3 směrnice, podle něhož anonymní oznamovatel, jehož totožnost byla později odhalena a který utrpěl odvetu, požívá ochrany při splnění obecných podmínek. Ustanovení nevytváří jiný věcný standard oznámení: stále musí jít o informace podle § 2 odst. 1, pracovní kontext a chráněný způsob podle § 7. Jeho účelem je určit okamžik ochrany, nikoli zpětně zhojit vědomě nepravdivé či obsahově nekvalifikované podání.
+
+[36] Rozhodný není okamžik veřejného odhalení ani okamžik, kdy totožnost zjistí příslušná osoba, nýbrž kdy „vyjde najevo tomu, kdo“ může konkrétní osobu vystavit odvetě. Podle mého názoru jde o relativní, actor-specific test: u každého tvrzeného původce se zjišťuje, kdy získal dostatečnou znalost totožnosti a spojení osoby s oznámením. Nemusí znát datum narození ani mít formální potvrzení; postačí informace umožňující osobu fakticky identifikovat a zacílit. Bez této znalosti zpravidla chybí kauzální možnost úmyslně reagovat na anonymní oznámení, což odpovídá důvodové zprávě k odstavci 3.
+
+[37] U osob podle odstavce 2 nelze vznik ochrany vázat bezvýjimečně na odhalení anonymního oznamovatele. Důvodová zpráva výslovně uvádí, že přidružené osoby mohou být chráněny bez ohledu na odhalení jeho totožnosti, jestliže jejich vlastní totožnost a spojení s oznámením umožňují odvetu. Gramatické „jejich totožnost“ proto podle mého názoru vyžaduje samostatné posouzení identity každé chráněné osoby: je-li například znám pomocník, kterého původce spojuje s anonymním podáním, může být proti cílenému opatření chráněn, i když oznamovatel zůstane neznámý. Stále je nutné prokázat kvalifikované oznámení a kauzální vztah; pouhá spekulace původce bez vazby na skutečné oznámení nestačí.
+
+[38] § 4 odst. 3 nesmí být zaměňován s povinností vnitřního systému nebo ministerstva anonymní podání přijmout, evidovat a prošetřit. Tyto procesní otázky se řídí zejména § 2 odst. 2 a pravidly §§ 9 až 18; komentované ustanovení řeší pouze ochranu před odvetou po odhalení identity. Subjekt může interně přijímat anonymní podněty nad rámec zákonného minima, tím však automaticky nemění každý podnět na oznámení se všemi účinky ZOO. Ochranu podle § 4 odst. 3 nelze upřít jen proto, že prvotní podání neobsahovalo identifikační údaje; rozhodné je, kdy totožnost konkrétní chráněné osoby vyšla najevo konkrétnímu potenciálnímu původci odvety (§ 4 odst. 3; čl. 6 odst. 3 a bod 34 odůvodnění směrnice).
+
+[39] Odstavec 4 ukládá osobě, pro kterou oznamovatel vykonává práci nebo jinou obdobnou činnost, aby odvetu „neumožnila“. Nejde jen o zákaz vlastního přímého opatření; důvodová zpráva výslovně požaduje aktivní přístup k ochraně před odvetou jiných vedoucích, kolegů či osob v pracovním prostředí. Povinnost je proto preventivní a reakční: adresát musí přiměřeně uspořádat procesy, omezovat riziko a zasáhnout, dozví-li se o konkrétní hrozbě nebo probíhající odvetě. Text však nezaručuje absolutní výsledek bez ohledu na možnost ovlivnění; odpovědnost za přestupek a případná liberace podnikající osoby se posuzují podle obecného přestupkového práva a okolností případu (důvodová zpráva, část k § 4 odst. 4 a přestupkům).
+
+[40] Adresát odstavce 4 je širší než „zaměstnavatel“ a není omezen na povinný subjekt podle § 8. Rozhoduje, zda pro něj oznamovatel vykonává některou práci nebo obdobnou činnost podle § 2 odst. 3 a 4, například službu, funkci v orgánu, dobrovolnictví, stáž nebo smluvní dodávku. Povinnost tak může mít i subjekt bez zákonné povinnosti zavést vnitřní oznamovací systém. Současně musí jít o odvetu v pracovním kontextu oznamovatele, kterou adresát mohl umožnit; subjekt bez faktické či právní možnosti ovlivnit jednání zcela cizí třetí osoby nelze bez dalšího považovat za původce porušení. Poslední věta je vlastním názorem založeným na smyslu slova „umožnit“ a na požadavku přičitatelnosti.
+
+[41] Přiměřená prevence typicky zahrnuje přístup k identitě a obsahu oznámení jen podle potřeby, oddělení posuzování oznámení od personálních rozhodnutí, školení vedoucích a HR, kontrolu časově navazujících zásahů, dokumentaci předem existujících objektivních kritérií a bezpečný postup pro oznámení neformální šikany. Jde o praktické důsledky aktivního přístupu uvedeného v důvodové zprávě, nikoli o taxativní zákonný checklist. Rozsah se přizpůsobí velikosti, rizikům a reálným možnostem subjektu. Evidence nesmí vytvořit blacklist oznamovatelů ani zbytečně rozšiřovat okruh osob znalých identity; musí respektovat § 9 odst. 2 písm. d), § 20 a 21 ZOO.
+
+[42] Sankční režim rozlišuje přímé vystavení odvetě a její umožnění. Kdokoli v rozporu s § 4 odst. 2 vystaví chráněnou osobu odvetě, dopustí se přestupku podle § 27 odst. 2 s pokutou do 1 000 000 Kč (§ 27 odst. 7). Povinný subjekt, který poruší § 4 odst. 4, odpovídá podle § 26 odst. 1 písm. a) s pokutou do 1 000 000 Kč (§ 26 odst. 3). § 27 odst. 4 označuje za možného pachatele také osobu, pro kterou pracuje osoba podle § 4 odst. 2 písm. a) až f) nebo h), současně však blanketně vyžaduje jednání „v rozporu s § 4 odst. 4“; ten ukládá hmotněprávní povinnost výslovně jen osobě, pro kterou pracuje oznamovatel. Opačný, širší výklad lze opřít o zvláštní výčet pachatelů v § 27 odst. 4. Podle mého názoru však toto ustanovení samo nerozšiřuje povinnost § 4 odst. 4 na zaměstnavatele či klienta přidružené osoby, který současně není osobou, pro niž pracuje oznamovatel: blanketní odkaz vyžaduje skutečné porušení § 4 odst. 4 a extenzivní výklad skutkové podstaty v neprospěch pachatele by odporoval určitosti správního trestání. Přímá judikatura chybí; přímý původce odvety může nezávisle odpovídat podle § 27 odst. 2. Horní hranice pokuty podle § 27 odst. 4 je 1 000 000 Kč (§ 27 odst. 8), písmeno g) § 27 odst. 4 neuvádí. Kontrolní a projednací působnost se mezi ministerstvo a orgány inspekce práce dělí podle § 22 a 28. Přestupkové řízení nenahrazuje individuální nárok a správní orgán nerozhoduje o civilním zadostiučinění či pracovněprávní neplatnosti.
+
+[43] § 4 sám nezakládá jednotnou žalobu. § 5 poskytuje soukromoprávní přiměřené zadostiučinění při skutečně způsobené nemajetkové újmě; NSS tuto povahu potvrdil v rozsudku č. j. 22 As 19/2025-38, body 15–21. Samostatný nárok podle § 5 projedná v prvním stupni zpravidla okresní soud podle § 9 odst. 1 OSŘ a místně obecný soud žalovaného podle § 84 a 85; podle okolností lze prověřit také volitelný soud stálého pracoviště žalovaného nebo místa události zakládající právo na náhradu újmy podle § 87 písm. a) a b). Směřuje-li však věc samostatně k ochraně názvu nebo pověsti právnické osoby podle § 135 OZ, je v prvním stupni příslušný krajský soud podle § 9 odst. 2 písm. i) OSŘ. Majetková škoda, ušlá mzda, ochrana osobnosti, náprava pracovního posudku, neplatnost právního jednání nebo přezkum služebního rozhodnutí se řídí obecnou či zvláštní úpravou. Petit proto může podle povahy zásahu směřovat k plnění, určení, zdržení se, odstranění následku, úpravě posudku nebo zrušení veřejnoprávního rozhodnutí; přestupkový podnět soukromoprávní lhůty nestaví.
+
+[44] § 133a odst. 2 OSŘ výslovně upravuje důkazní břemeno: uvede-li žalobce skutečnosti, z nichž lze dovodit, že byl odvetě vystaven proto, že je oznamovatelem, musí žalovaný prokázat objektivní legitimní cíl a přiměřenost a nezbytnost opatření. Žalobce proto nese břemeno tvrzení a musí prokázat základní skutečnosti, které prima facie nasvědčují oznámení, nepříznivému opatření a jejich souvislosti; nemusí již prokazovat vnitřní motivaci žalovaného v plném rozsahu. Tento dvoufázový postup lze pouze analogicky osvětlit nálezy Pl. ÚS 37/04, body 67 a 72–75, a II. ÚS 1609/08, část IV, vydanými ke starší diskriminační úpravě § 133a: pouhé tvrzení nestačí, po prokázání základních skutečností se však břemeno k obtížně zjistitelné motivaci přesouvá. Tyto nálezy nepředstavují přímý výklad dnešního whistleblowingového odstavce. Ten výslovně mluví jen o žalobci, který je oznamovatelem, nikoli o osobách podle § 4 odst. 2. Článek 21 odst. 5 a 8 ve spojení s čl. 4 odst. 4 směrnice podporuje širší ochranu. V horizontálním sporu podle mého názoru směrnice sama nemůže zhoršit procesní postavení soukromého žalovaného a jednoznačný osobní rozsah § 133a odst. 2 nelze rozšířit contra legem; přidružená osoba proto musí pro jistotu unést břemena podle obecného § 120 OSŘ. Jde o vlastní právní závěr z obecného rozdílu mezi vertikálním a horizontálním účinkem směrnic, nikoli o nosnou tezi níže citovaných správních rozsudků. Ve vertikálním sporu proti státu musí soud navíc prověřit, zda uvedená ustanovení směrnice splňují podmínky přímého účinku pro přesun břemene také ve prospěch osoby podle § 4 odst. 2. Přímá civilní judikatura k novému odstavci nebyla nalezena.
+
+[45] Článek 21 odst. 6 a bod 96 odůvodnění směrnice vyžadují včasnou předběžnou ochranu. § 75b odst. 3 písm. b) OSŘ proto ve věci ochrany oznamovatele vylučuje povinnost složit jistotu za předběžné opatření; to však samo nezakládá právo na jeho nařízení. Navrhovatel musí osvědčit podmínky § 75c OSŘ a navrhnout konkrétní prozatímní povinnost odpovídající § 76 OSŘ; soudní poplatek za návrh zůstává nedotčen. Ve služebních vztazích umožňují § 168 odst. 3 zákona o státní službě, § 190 odst. 5 zákona č. 361/2003 Sb. a § 150 odst. 2 až 4 zákona č. 221/1999 Sb. navrhnout v odvolací lhůtě odkladný účinek nebo pozastavení vykonatelnosti rozhodnutí se znaky odvety. Po podání správní žaloby lze podle okolností žádat přiznání odkladného účinku podle § 73 SŘS nebo předběžné opatření podle § 38 SŘS. NSS v rozsudku č. j. 5 As 5/2024-36, body 26 a 30–35, současně zdůraznil, že ochrana směřuje proti individualizovanému aktu, nikoli samostatnou zásahovou žalobou proti obecné systemizaci.
+
+[46] Procesní cesta a lhůta závisí na formě opatření. Soukromoprávní právo na odčinění nemajetkové újmy podle § 5 se při absenci zvláštní úpravy promlčuje v obecné tříleté lhůtě (§ 612 a 629 OZ), jejíž subjektivní počátek se odvíjí od vědomosti o újmě a osobě povinné k jejímu odčinění (§ 619 a 620); objektivní mez je zpravidla deset let, při úmyslném způsobení patnáct let, s výjimkami § 636 odst. 3. Tím nejsou dotčeny zvláštní podmínky výslovně zachované druhou větou § 5. Neplatnost rozvázání pracovního poměru se podle § 72 ZP uplatní nejpozději do dvou měsíců ode dne, kdy měl poměr skončit; trvá-li zaměstnanec na dalším zaměstnávání, musí postupovat také podle § 69. Úprava pracovního posudku se žádá do tří měsíců od seznámení s jeho obsahem (§ 315). Proti služebnímu rozhodnutí je nutné nejprve vyčerpat řádný opravný prostředek (§ 5 SŘS) a poté podat žalobu podle § 65 SŘS ke krajskému soudu určenému § 7 SŘS, obecně do dvou měsíců od oznámení konečného rozhodnutí podle § 72 SŘS; zmeškání nelze prominout. Zvláštní šedesátidenní lhůta od právní moci platí pro příslušníka bezpečnostního sboru podle § 196 zákona č. 361/2003 Sb. a pro vojáka podle § 151 zákona č. 221/1999 Sb. Zadostiučinění podle § 5 naproti tomu patří civilnímu soudu (22 As 19/2025-38). Advokát proto musí vedle satisfakce prověřit kratší prekluzivní či procesní lhůtu k odstranění samotného opatření.
+
+[47] Zákon o soudních poplatcích neobsahuje obecné osvobození oznamovatele. Peněžitá náhrada nemajetkové újmy se řídí položkou 3 sazebníku: do 200 000 Kč včetně činí poplatek 2 000 Kč a nad tuto částku 1 %; jiný peněžitý nárok se zpravidla řídí položkou 1 (do 20 000 Kč poplatek 1 000 Kč, nad 20 000 Kč do 40 000 000 Kč 5 %). Ostatní nepeněžitý petit zpravidla podléhá poplatku 2 000 Kč podle položky 4 bodu 1 písm. c) a návrh na předběžné opatření poplatku 1 000 Kč podle položky 5. Žaloba proti správnímu rozhodnutí stojí 3 000 Kč podle položky 18 bodu 2 písm. a), kasační stížnost 5 000 Kč podle položky 19 a návrh na přiznání odkladného účinku 1 000 Kč podle položky 20. Vedle zákonných osvobození lze žádat individuální osvobození podle § 138 OSŘ, respektive § 36 odst. 3 SŘS; konkrétní poplatek a kumulace se posoudí podle petitu. § 4 je účinný od 1. 8. 2023 a zůstal beze změny i po zákonu č. 32/2025 Sb. Zákon č. 172/2023 Sb. stanovil, že civilní a vyjmenovaná služební řízení zahájená před 1. 8. 2023 se dokončí podle dřívějšího práva. Pro období od 18. 12. 2021 do 31. 7. 2023 mohl nastoupit vertikální přímý účinek směrnice vůči státu (3 As 309/2023-83, body 57–64; 6 Ads 191/2025-54, body 49–53). Podle mého názoru z tohoto vertikálního účinku nelze bez dalšího dovodit horizontální povinnost soukromé osoby; jde o obecný systematický závěr, nikoli o výslovnou tezi uvedených rozsudků. ZOO nelze na dokončenou dřívější odvetu použít zpětně.
+
+[48] Modelová situace: vedoucí zaměstnankyně prokazatelně podá vnitřním systémem oznámení o fiktivních prodejích a o dva měsíce později je odvolána, převedena na hůře placenou práci a obdrží negativní posudek; zaměstnavatel tvrdí reorganizaci. Pro závěr nestačí časová blízkost ani označení opatření v písmenech d), f), g) a h). Je třeba ověřit obsah a kanál oznámení, datum a osoby znalé jeho existence, rozhodovací řetězec, potenciální i skutečnou újmu, předchozí hodnocení, srovnatelné pracovníky, vznik a schválení organizačního plánu, nabídnuté alternativy a přiměřenost zásahu. Splní-li žalobkyně prima facie práh § 133a odst. 2 OSŘ, zaměstnavatel prokazuje legitimní cíl a přiměřený a nezbytný prostředek. Zástupce musí včas oddělit petit podle § 72 nebo § 315 ZP, zadostiučinění podle § 5, případnou náhradu mzdy či škody, předběžné opatření a přestupkový podnět; tvrzení o automatické absolutní neplatnosti všech kroků by bylo nesprávné. Checklist uzavírá kontrola chráněné osoby, anonymity, kauzality, procesních lhůt, příslušnosti, poplatku a inventáře důkazů.
+
+#### Judikatura
+
+##### Aktivace ochrany a časová posloupnost
+
+Ochrana před odvetnými opatřeními podle § 4 se aktivuje až učiněním oznámení v souladu s § 7. To platí i ve zkušební době; pozdější oznámení však nemůže učinit odvetou již dříve provedené skončení služby. Po skončení vztahu může ochrana dopadat na nové, pozdější opatření — rozsudek [Nejvyššího správního soudu ze dne 22. 10. 2025, č. j. 8 Ads 100/2025-81](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746301), body 37–54.
+
+Vypracování auditní zprávy v rámci běžných pracovních úkolů není samo oznámením aktivujícím ochranu. Bez oznámení, byť mohlo být založeno na zjištěních auditu, nemůže ochrana založit nezákonnost dřívějšího skončení služby — rozsudek [Nejvyššího správního soudu ze dne 31. 3. 2026, č. j. 6 Ads 191/2025-54](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/780845), body 49–53.
+
+##### Individualizované opatření a kauzální vztah
+
+Obecná systemizace ani organizační změna nejsou samy individuálně cíleným odvetným opatřením; navazující služební rozhodnutí o odvolání či zařazení mimo službu jím podle okolností být může. Příprava organizační změny před oznámením je významná pro časovou a příčinnou souvislost. Rozhodnutí rovněž potvrzuje význam předběžné ochrany a služebních opravných prostředků — rozsudek [Nejvyššího správního soudu ze dne 24. 5. 2024, č. j. 5 As 5/2024-36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/721742), č. 4609/2024 Sb. NSS, body 23–35.
+
+##### Soukromoprávní a služební procesní ochrana
+
+Právo na přiměřené zadostiučinění podle § 5 není veřejnoprávním nárokem projednatelným ve správním soudnictví; jde o soukromoprávní nárok, který je třeba uplatnit u civilního soudu. Přezkum samotného služebního opatření se tím neřídí a může náležet správním soudům — rozsudek [Nejvyššího správního soudu ze dne 21. 8. 2025, č. j. 22 As 19/2025-38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744427), body 15–21.
+
+##### Prima facie práh důkazního břemene
+
+U zvláštního důkazního režimu nestačí pouhé tvrzení diskriminačního zacházení: žalobce musí tvrdit a prokázat základní znevýhodňující zacházení a tvrdit zakázaný motiv; teprve poté se břemeno k motivaci přesouvá na žalovaného. Nález se týkal staršího diskriminačního § 133a odst. 2 OSŘ, a je proto pro dnešní úpravu odvety použitelný jen analogicky k procesnímu mechanismu, nikoli k osobnímu rozsahu nebo obsahu obrany — nález [Ústavního soudu ze dne 26. 4. 2006, sp. zn. Pl. ÚS 37/04](https://www.zakonyprolidi.cz/judikat/uscr/pl-us-37-04), ECLI:CZ:US:2006:Pl.US.37.04, N 92/41 SbNU 173, vyhlášen pod č. 419/2006 Sb., body 67 a 72–75.
+
+Soud musí nejprve vyhodnotit prokázané základní skutečnosti a teprve při jejich způsobilosti nasvědčovat diskriminaci použít přesun břemene; zvláštní pravidlo nezbavuje žalobce povinnosti tvrdit a dokazovat skutkový základ. Také tento nález předchází whistleblowingovému § 133a odst. 2 a používá se pouze analogicky — nález [Ústavního soudu ze dne 30. 4. 2009, sp. zn. II. ÚS 1609/08](https://www.zakonyprolidi.cz/judikat/uscr/ii-us-1609-08-1), ECLI:CZ:US:2009:2.US.1609.08.1, N 105/53 SbNU 313, část IV.
+
+##### Intertemporální použitelnost směrnice
+
+Po marném uplynutí transpoziční lhůty a před účinností ZOO se jednotlivec mohl vůči státu dovolávat dostatečně přesných a bezpodmínečných ustanovení směrnice. Externí oznámení přitom nemuselo být technicky vloženo výhradně do zvláštního kanálu, pokud bylo učiněno příslušnému orgánu — rozsudek [Nejvyššího správního soudu ze dne 5. 12. 2024, č. j. 3 As 309/2023-83](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/737188), body 57–64. Rozhodnutí se týká předzákonného vertikálního vztahu, nikoli zpětné účinnosti § 4.
+
+##### Výslovně překonaný názor
+
+Městský soud dovodil možnost ochrany osoby, která oznámení teprve připravuje. Tento závěr nelze použít: NSS jej v rozsudku č. j. 8 Ads 100/2025-81, body 40–54, výslovně odmítl a napadený rozsudek zrušil — rozsudek [Městského soudu v Praze ze dne 16. 4. 2025, č. j. 8 Ad 14/2024-54](https://www.zakonyprolidi.cz/judikat/msph/8-ad-14-2024-54), body 70 a 76–77.
 
 ### § 5 — Právo na přiměřené zadostiučinění
 
