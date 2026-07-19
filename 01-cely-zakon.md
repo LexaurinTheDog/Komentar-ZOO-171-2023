@@ -1140,15 +1140,17 @@ V povinně přezkoumaných oponenturách ani v dostupném korpusu oficiálních 
 
 ### § 12 — Postup příslušné osoby po podání oznámení
 
-> **§ 12**
->
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > *(1) Prostřednictvím vnitřního oznamovacího systému lze oznámení podat ústně nebo písemně. Požádá-li o to oznamovatel, je příslušná osoba povinna oznámení přijmout osobně v přiměřené lhůtě, nejdéle však do 14 dnů ode dne, kdy o to oznamovatel požádal.*
 >
 > *(2) O přijetí oznámení podle odstavce 1 je příslušná osoba povinna do 7 dnů ode dne jeho přijetí písemně vyrozumět oznamovatele, ledaže*
 >
-> *- a) oznamovatel výslovně požádal příslušnou osobu, aby ho o přijetí oznámení nevyrozumívala, nebo*
+> *a) oznamovatel výslovně požádal příslušnou osobu, aby ho o přijetí oznámení nevyrozumívala, nebo*
 >
-> *- b) je zřejmé, že vyrozuměním o přijetí oznámení by došlo k prozrazení totožnosti oznamovatele jiné osobě.*
+> *b) je zřejmé, že vyrozuměním o přijetí oznámení by došlo k prozrazení totožnosti oznamovatele jiné osobě.*
 >
 > *(3) Příslušná osoba je povinna posoudit důvodnost oznámení a písemně vyrozumět oznamovatele o výsledcích posouzení do 30 dnů ode dne přijetí oznámení. V případech skutkově nebo právně složitých lze tuto lhůtu prodloužit až o 30 dnů, nejvýše však dvakrát. O prodloužení lhůty a důvodech pro její prodloužení je příslušná osoba povinna oznamovatele písemně vyrozumět před jejím uplynutím. Odstavec 2 se použije obdobně.*
 >
@@ -1158,89 +1160,62 @@ V povinně přezkoumaných oponenturách ani v dostupném korpusu oficiálních 
 >
 > *(6) Není-li oznámení vyhodnoceno jako důvodné, příslušná osoba bez zbytečného odkladu písemně vyrozumí oznamovatele o tom, že na základě skutečností uvedených v oznámení a z okolností, které jí jsou známy, neshledala podezření ze spáchání protiprávního jednání, nebo shledala, že oznámení se zakládá na nepravdivých informacích, a poučí oznamovatele o právu podat oznámení u orgánu veřejné moci.*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Formy podání (odst. 1)
+- podání, potvrzení a lhůta posouzení — marg. č. 1–3;
+- tři možné výsledky interního posouzení — marg. č. 4–7;
+- vztah k dalším kanálům, časová působnost a dokumentace — marg. č. 8–10.
 
-VOS musí umožnit **písemné i ústní** podání oznámení. Ústní podání zahrnuje telefonický kontakt (typicky s nahráním nebo zápisem) i osobní setkání. **Osobní podání** je právem oznamovatele — požádá-li o ně, příslušná osoba **je povinna** ho uskutečnit v **přiměřené lhůtě, nejdéle 14 dnů** ode dne žádosti. Odepření přijetí oznámení je samostatným přestupkem podle § 24 odst. 1 písm. b) (pokuta až 50 000 Kč).
+#### Souvisící ustanovení
 
-#### Lhůty — 7 a 30 dnů (odst. 2, 3)
+§ 2, § 7 odst. 1 písm. c), § 9 odst. 2 písm. a), e) až g), §§ 11, 19 až 21, § 24 odst. 1 písm. b) a c) a § 26 odst. 1 písm. f) až h) ZOO.
 
-**Lhůta 7 dnů — vyrozumění o přijetí**
+#### Souvisící předpisy
 
-Příslušná osoba musí **písemně vyrozumět oznamovatele do 7 dnů** o tom, že oznámení přijala. Dvě výjimky:
+Čl. 8 a čl. 9 odst. 1 písm. b) až g) a odst. 2 směrnice Evropského parlamentu a Rady (EU) 2019/1937.
 
-- oznamovatel sám výslovně požádal, aby vyrozumění nedostával;
-- vyrozumění by **prozradilo totožnost** oznamovatele jiné osobě (např. by neproběhlo v důvěrném kanálu).
+#### Z důvodové zprávy
 
-**Lhůta 30 dnů — vyrozumění o výsledku**
+Důvodová zpráva k § 12 vysvětluje, že písemná, ústní a na žádost osobní forma mají odstranit praktické překážky oznamování. Čtrnáctidenní maximum konkretizuje „přiměřenou lhůtu“ směrnice. Prodloužení třicetidenní lhůty má být výjimečné, podmíněné skutkovou nebo právní složitostí a předem odůvodněné oznamovateli. U opatření zpráva uvádí jako příklady oznámení příslušnému orgánu, odstranění škody nebo změnu závadné vnitřní úpravy; tyto příklady nejsou uzavřeným zákonným výčtem.
 
-Příslušná osoba musí **posoudit důvodnost** a **písemně vyrozumět oznamovatele** o výsledku do **30 dnů** od přijetí oznámení. Lhůta lze prodloužit:
+#### Literatura
 
-- **o dalších 30 dnů**, ve **skutkově nebo právně složitých** případech;
-- **nejvýše dvakrát** — maximální možná lhůta je tedy **3 × 30 = 90 dnů**.
+Odborná literatura je rozhodnutím editora odložena do 2. kola. Toto sdělení není výsledkem negativní rešerše literatury.
 
-Oznámení o prodloužení musí být doručeno **před uplynutím** původní (nebo již jednou prodloužené) lhůty. Důvod prodloužení musí být specifikován.
+#### Výklad
 
-Tyto lhůty odpovídají čl. 9 odst. 1 písm. f) směrnice 2019/1937 (lhůta zpětné vazby max. 3 měsíce).
+[1] Odstavec 1 ukládá zpřístupnit písemné i ústní podání. Osobní přijetí není samostatnou povinnou formou pro každý případ, ale právem oznamovatele vznikajícím jeho žádostí; schůzka se musí uskutečnit v přiměřené lhůtě, nejpozději čtrnáctý den po žádosti. Ústní oznámení se zaznamenává postupem podle § 19.
 
-#### Negativní rozhodnutí — věc není oznámením (odst. 4)
+[2] Sedmidenní lhůta potvrzení běží od přijetí oznámení, nikoli od dřívější žádosti o osobní schůzku. Potvrzení musí být písemné. Nezasílá se pouze při výslovné žádosti oznamovatele nebo tehdy, je-li zřejmé, že by samo vyrozumění prozradilo jeho totožnost jiné osobě; pouhé provozní obtíže mezi výjimkami nejsou.
 
-Pokud příslušná osoba zjistí, že obdržené sdělení **není oznámením** ve smyslu ZOO (např. nesplňuje pracovní kontext, nespadá do věcného záběru § 2 odst. 1, je vědomě nepravdivé), je povinna **bez zbytečného odkladu** o tom oznamovatele písemně vyrozumět. Toto rozhodnutí má pro oznamovatele zásadní význam — pokud věc není oznámením podle ZOO, **ochrana před retaliací podle ZOO nepřichází v úvahu** (ledaže se uplatní jiný režim, typicky § 7 odst. 2 — oznámení jinému orgánu).
+[3] Do 30 dnů od přijetí musí příslušná osoba oznámení posoudit a oznamovatele písemně vyrozumět o výsledku. Ve skutkově nebo právně složité věci lze aktuální lhůtu prodloužit až o 30 dnů, nejvýše dvakrát, takže zákonné maximum činí 90 dnů. Každé prodloužení i jeho důvody se písemně sdělí před uplynutím právě běžící lhůty. ZOO pro interní VOS nestanoví obecnou metodu počítání času; bezpečná praxe proto zachytí datum a způsob přijetí i odeslání každého vyrozumění a zvolí výpočet, který nezkracuje postavení oznamovatele.
 
-#### Důvodné oznámení a nápravná opatření (odst. 5)
+[4] Odstavec 4 se použije, jestliže sdělení nesplňuje znaky oznámení podle ZOO. Od toho je třeba oddělit meritorní závěr podle odstavce 6, že z oznámených a známých okolností nevzniklo podezření, anebo že se oznámení zakládá na nepravdivých informacích. Samotná nepravdivost informace proto bez dalšího není důvodem převést věc z odstavce 6 do odstavce 4.
 
-Je-li oznámení **důvodné**, příslušná osoba navrhne povinnému subjektu **opatření k nápravě nebo prevenci**. ZOO řeší i situaci, kdy oznamovatel oznámil u VOS, ale ve vztahu k **jiné** osobě (typicky kdy povinný subjekt vede VOS pro jiný subjekt v rámci skupiny nebo sdílený VOS): v takovém případě navrhuje opatření **té osobě, pro niž oznamovatel vykonává práci** (zaměstnavatel oznamovatele), nevylučuje-li to povaha věci.
+[5] Vyrozumění podle odstavce 4 ani 6 není správním rozhodnutím. Jde o výsledek interního postupu příslušné osoby; zákon s ním nespojuje závazné rozhodnutí orgánu veřejné moci o existenci protiprávního jednání ani o odpovědnosti oznamovatele.
 
-**Povinnost reagovat:** povinný subjekt může:
-- **přijmout** opatření navržené příslušnou osobou;
-- nebo **přijmout jiné vhodné opatření** — má diskreci, ale **musí jednat** k nápravě nebo prevenci.
+[6] U důvodného oznámení příslušná osoba navrhne opatření k předejití nebo nápravě protiprávního stavu. Povinný subjekt může přijmout navržené opatření, nebo jiné vhodné opatření; prostou nečinnost zákonná věta nepřipouští. Výslovná výjimka platí pro opatření navržené jiné osobě než povinnému subjektu, který příslušnou osobu určil.
 
-Výjimka: subjekt není povinen jednat, pokud opatření bylo navrženo **jiné osobě** než tomu, který určil tuto příslušnou osobu (tj. ve sdílených VOS — opatření navržené primárnímu zaměstnavateli oznamovatele není povinen přijmout subjekt vedoucí VOS).
+[7] Povinný subjekt informuje příslušnou osobu o přijatém opatření neprodleně a příslušná osoba následně písemně informuje oznamovatele bez zbytečného odkladu. Na toto vyrozumění i na výsledkové vyrozumění podle odstavce 3 se obdobně použijí obě výjimky z odstavce 2. Obsah návrhu, opatření i zpětné vazby musí současně respektovat zákaz poskytnutí chráněných údajů podle § 20.
 
-O přijatém opatření subjekt **neprodleně** vyrozumí příslušnou osobu, která **bez zbytečného odkladu** vyrozumí oznamovatele.
+[8] Interní negativní výsledek nebrání oznamovateli podat oznámení ministerstvu nebo příslušnému orgánu veřejné moci. Samotné zmeškání lhůty v interním VOS však ještě nenaplňuje § 7 odst. 1 písm. c) bod 1: tato cesta k chráněnému uveřejnění předpokládá postup prostřednictvím VOS a ministerstva, nebo pouze ministerstva, a splnění dalších podmínek § 7.
 
-Nepřijetí žádného vhodného opatření je přestupkem povinného subjektu podle § 26 odst. 1 písm. h) (pokuta až 1 000 000 Kč).
+[9] § 12 nabyl účinnosti spolu se zákonem dne 1. 8. 2023. Jeho znění v rozhodné verzi k 18. 7. 2026 je shodné se zněním účinným od tohoto dne; novela č. 32/2025 Sb., podle níž je aktuální konsolidované znění zákona účinné od 15. 2. 2025, § 12 nezměnila. Pro postup se použije znění účinné v době, kdy příslušná osoba plní jednotlivou procesní povinnost; zvláštní přechodné pravidlo pro § 12 zákon nestanoví.
 
-#### Nedůvodné oznámení (odst. 6)
+[10] Auditní stopa má zachytit nejméně žádost o osobní přijetí a termín schůzky, okamžik přijetí oznámení, potvrzení nebo konkrétní důvod jeho nezaslání, každé prodloužení s důvodem, výsledek posouzení, návrh a přijetí opatření a bezpečné odeslání zpětné vazby. Tato dokumentace umožní oddělit povinnosti příslušné osoby od výsledkových povinností povinného subjektu a při případném sankčním posouzení přiřadit skutek ke konkrétní skutkové podstatě; § 26 odst. 1 písm. c) se výsledkového vyrozumění podle § 12 odst. 3 netýká.
 
-Pokud oznámení **není důvodné** — buď nebylo shledáno podezření ze spáchání protiprávního jednání, nebo bylo shledáno, že informace jsou nepravdivé — příslušná osoba **bez zbytečného odkladu** písemně vyrozumí oznamovatele a **poučí ho o právu podat oznámení u orgánu veřejné moci**. Toto poučení je důležité: ochrana oznamovatele zůstává zachována při souběžném nebo následném podání MSp nebo jinému orgánu (§ 7 odst. 1 písm. b, § 7 odst. 2).
+#### Judikatura
 
-#### F. Kazuistika
+K výkladu § 12 není v tomto kole použito žádné soudní rozhodnutí. Ověřené plné texty rozhodnutí shromážděné pro jiné otázky ZOO neposkytují ratio k formám, lhůtám ani výsledkům interního postupu podle § 12; komentář proto tyto otázky vykládá z právního předpisu, směrnice a důvodové zprávy. Nejde o tvrzení, že byla provedena vyčerpávající negativní rešerše všech soudních databází.
 
-**1. Modelová situace.** Oznamovatel podá VOS oznámení o porušení GDPR (hromadný únik osobních údajů klientů). Příslušná osoba mu do 7 dnů nepotvrdí přijetí, do 30 dnů neposoudí důvodnost a po dotazu sdělí, že „věc je složitá", aniž oznamovateli před uplynutím lhůty zaslala vyrozumění o prodloužení. Po 45 dnech oznamovatel zvažuje zveřejnění a stížnost. K obstarání: datum podání, doklady o (ne)zaslání vyrozumění, obsah oznámení, evidence VOS.
+#### Praktický checklist
 
-**2. Právní otázka.** Porušila příslušná osoba lhůty podle § 12 odst. 2 a 3, byla-li lhůta prodloužena bez včasného vyrozumění oznamovatele, a jaké to má důsledky pro oznamovatele i pro příslušnou osobu?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 12 odst. 2 (vyrozumění o přijetí do 7 dnů), odst. 3 (posouzení a vyrozumění do 30 dnů; prodloužení o 30 dnů, max dvakrát, s vyrozuměním před uplynutím lhůty).
-- *Související ustanovení téhož zákona:* § 7 odst. 1 písm. c) bod 1 (zveřejnění při nečinnosti ve lhůtě), § 24 odst. 1 písm. c) (přestupek příslušné osoby za nevyrozumění ve lhůtě), § 26 odst. 1 písm. g) (přestupek subjektu), § 9 odst. 2 písm. f).
-- *Související předpisy:* čl. 9 odst. 1 písm. b), f) směrnice 2019/1937 (lhůta potvrzení 7 dnů, zpětná vazba max 3 měsíce); nař. 2016/679 (GDPR).
-- *Judikatura:* přímá judikatura k § 12 ZOO je dosud nerozvinutá; rozhodný je gramatický výklad lhůt a teleologie směrnice (zajistit oznamovateli zpětnou vazbu v přiměřené době).
-
-**4. Subsumpce.** Vyrozumění o přijetí nezasláno do 7 dnů → porušení odst. 2 (nešlo o žádnou z výjimek). Posouzení nezasláno do 30 dnů a prodloužení nebylo oznamovateli sděleno před uplynutím lhůty → porušení odst. 3 (prodloužení je účinné jen při včasném vyrozumění o něm a jeho důvodech). Lhůta tak fakticky uplynula marně.
-
-**5. Řešení.** Příslušná osoba porušila lhůty podle § 12 odst. 2 a 3 — dopustila se přestupku podle § 24 odst. 1 písm. c) (pokuta až 20 000 Kč); subjekt přestupku podle § 26 odst. 1 písm. g) (až 1 000 000 Kč). Pro oznamovatele to znamená, že byla naplněna podmínka § 7 odst. 1 písm. c) bodu 1 (ve lhůtě nebylo přijato vhodné opatření) → může zveřejnit s ochranou, případně podat oznámení MSp. Doporučení: oznamovatel si uchová doklady o marném uplynutí lhůt.
-
-**6. Varianty.** (a) Pokud by příslušná osoba doručila vyrozumění o prodloužení o 30 dnů ještě před uplynutím původní lhůty s uvedením důvodů, prodloužení by bylo účinné a o porušení by nešlo. (b) Pokud by oznamovatel sám požádal, aby nebyl o přijetí vyrozumíván [odst. 2 písm. a)], absence vyrozumění o přijetí by porušením nebyla.
-
-#### G. Protiargumenty a rizika
-
-- *Protiargument:* „Věc byla objektivně složitá, prodloužení bylo namístě." — Neutralizace: prodloužení je možné, ale jen při vyrozumění oznamovatele o něm a jeho důvodech před uplynutím lhůty (odst. 3); bez toho je neúčinné.
-- *Protiargument:* „Zmeškání lhůty je formální pochybení bez následků." — Neutralizace: zmeškání zakládá přestupek (§ 24, § 26) a současně aktivuje právo oznamovatele na zveřejnění s ochranou (§ 7 odst. 1 písm. c) bod 1).
-- *Slabé místo:* prokázání okamžiku doručení vyrozumění (zda bylo včas) — rozhodující je auditní stopa a doklady o odeslání.
-
-#### H. Praktický závěr
-
-§ 12 stanoví procesní postup VOS: formy podání (ústně/písemně/osobně do 14 dnů), vyrozumění o přijetí do 7 dnů, posouzení důvodnosti a vyrozumění do 30 dnů (s možností prodloužení o 30 dnů, nejvýše dvakrát, vždy s včasným vyrozuměním). Rozlišuje výstupy: není oznámením (odst. 4), důvodné s nápravnými opatřeními (odst. 5), nedůvodné s poučením o právu jít k orgánu veřejné moci (odst. 6).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Bylo zasláno vyrozumění o přijetí do 7 dnů (odst. 2), není-li výjimka?
-- [ ] Bylo posouzení a vyrozumění o výsledku do 30 dnů (odst. 3)?
-- [ ] Bylo případné prodloužení oznámeno oznamovateli s důvody před uplynutím lhůty?
-- [ ] Byl správně zvolen výstup (není oznámením / důvodné + opatření / nedůvodné + poučení)?
-
-**Typicky rozhodné důkazy / podklady:** datum přijetí oznámení; doklady o odeslání a doručení jednotlivých vyrozumění; evidence podle § 21; obsah posouzení důvodnosti a navržených opatření.
+- [ ] Je doložena žádost o osobní schůzku a její uskutečnění nejpozději do 14 dnů?
+- [ ] Bylo potvrzení o přijetí odesláno do 7 dnů, nebo je zaznamenána konkrétní zákonná výjimka?
+- [ ] Bylo posouzení i výsledkové vyrozumění dokončeno do 30 dnů?
+- [ ] Bylo každé prodloužení založeno na složitosti a písemně odůvodněno před uplynutím běžící lhůty?
+- [ ] Odpovídá výstup odstavci 4, 5, nebo 6 a navazuje na něj správné vyrozumění či opatření?
+- [ ] Chrání návrh opatření a veškerá zpětná vazba totožnost a další údaje podle § 20?
 
 ---
 
