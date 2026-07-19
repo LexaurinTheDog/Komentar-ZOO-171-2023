@@ -1841,79 +1841,67 @@ Komentář nepoužívá žádné soudní rozhodnutí. Ověřené oficiální vý
 
 ### § 22 — Kontrola nad dodržováním povinností povinných subjektů
 
-> **§ 22**
->
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > *(1) Ministerstvo vykonává kontrolu, jde-li o povinnosti, jejichž porušení je přestupkem podle § 26 odst. 1 písm. a), f) a h) až j), a jde-li o povinnosti povinného subjektu, není-li povinným subjektem osoba podle § 6 odst. 1 písm. a) zákona o inspekci práce.*
 >
 > *(2) Zjistí-li ministerstvo při kontrole porušení povinnosti, uloží povinnému subjektu opatření k nápravě, jehož účelem je odstranění protiprávního stavu, a stanoví přiměřenou lhůtu nebo jiné nutné podmínky k zajištění jeho splnění.*
 >
 > *(3) Orgán inspekce práce vykonává kontrolu nad dodržováním povinností povinného subjektu podle tohoto zákona, je-li povinným subjektem osoba podle § 6 odst. 1 písm. a) zákona o inspekci práce.*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Rozdělení kontrolní působnosti — MSp vs. orgán inspekce práce
+Ustanovení rozděluje kontrolní působnost mezi Ministerstvo spravedlnosti a orgány inspekce práce. Příslušný orgán se určí podle kontrolované povinnosti, postavení povinného subjektu a omezení působnosti inspekce práce. Opatření podle odstavce 2 je zvláštní nápravný nástroj ministerstva; orgány inspekce práce používají vlastní nápravné pravomoci.
 
-ZOO konstruuje **dvoukolejnou kontrolu**:
+#### Souvisící ustanovení
 
-**Odst. 1 — MSp** vykonává kontrolu nad povinnostmi:
+§ 4 odst. 4, § 9 odst. 2 písm. e) a g), § 11 odst. 2, § 26 odst. 1 písm. a), f) a h) až j), § 26 odst. 2 a 3 a § 28.
 
-- **§ 26 odst. 1 písm. a)** — umožnění retaliace;
-- **§ 26 odst. 1 písm. f)** — nezajištění posouzení důvodnosti oznámení;
-- **§ 26 odst. 1 písm. h)** — nepřijetí vhodných nápravných opatření;
-- **§ 26 odst. 1 písm. i)** — postih příslušné osoby;
-- **§ 26 odst. 1 písm. j)** — nesplnění opatření k nápravě.
+#### Souvisící předpisy
 
-Rozsah pokrývá **klíčové substantivní povinnosti** — ochranu před retaliací, faktické posuzování, faktickou reakci. **Procesněadministrativní povinnosti** (písm. b)–e), g) — určení příslušné osoby, formy podání, zveřejnění informací, důvěrnost, vyrozumění) jsou mimo kontrolní působnost MSp; tyto však jsou současně přestupky, takže MSp je projednává podle § 28 (jako přestupkový orgán).
+§ 3 odst. 1 písm. h), §§ 4 až 7, § 34a a § 35 zákona č. 251/2005 Sb., o inspekci práce; zákon č. 255/2012 Sb., kontrolní řád, zejména §§ 1, 2, 5, 8 až 14 a 18.
 
-MSp však nekontroluje **zaměstnavatele v užším smyslu** podle § 6 odst. 1 písm. a) zák. č. 251/2005 Sb., o inspekci práce — typicky soukromé zaměstnavatele v ekonomickém slova smyslu.
+#### Z důvodové zprávy
 
-**Odst. 3 — Orgán inspekce práce** (Státní úřad inspekce práce a oblastní inspektoráty) vykonává kontrolu nad zaměstnavateli, kteří jsou „osobou podle § 6 odst. 1 písm. a) zák. o inspekci práce" — to je primárně **soukromý sektor** v rozsahu pracovněprávních vztahů. Tato dělba reflektuje, že inspektorát práce má dlouhodobé know-how a kapacity pro kontrolu pracovněprávních povinností v terénu.
+Zvláštní část důvodové zprávy k § 22 popisuje dvě skupiny povinných subjektů a vyjmenované povinnosti svěřuje ministerstvu bez ohledu na povahu kontrolované osoby. Uvádí také, že ministerské opatření slouží k nápravě nedostatků zjištěných kontrolou a jeho nesplnění naplňuje § 26 odst. 1 písm. j). Důvodová zpráva je výkladovou pomůckou; nemůže sama rozšířit zákonnou pravomoc.
 
-#### Opatření k nápravě (odst. 2)
+#### Literatura
 
-Při zjištění porušení MSp **uloží opatření k nápravě** — jeho účelem je **odstranění protiprávního stavu** (nikoli sankce per se — sankce přichází přestupkovým řízením podle § 28). Opatření má:
+Odborná literatura nebyla v tomto kole posuzována; její zpracování je rozhodnutím editora odloženo do 2. kola.
 
-- věcný obsah (co konkrétně subjekt musí udělat);
-- časový rámec (přiměřená lhůta);
-- případně další nutné podmínky (např. vypracovat zprávu, předložit důkazy).
+#### Výklad
 
-**Nesplnění opatření k nápravě** je samostatným přestupkem podle § 26 odst. 1 písm. j) — pokuta až **400 000 Kč** (vyšší pokuta jako sankce za eskalaci nesoučinnosti). Smyčka: opatření je tedy pojištěné dalším přestupkem.
+[1] ZOO spojuje působnost ministerstva se dvěma hledisky. Prvním je druh povinnosti: výslovně odkazuje na § 26 odst. 1 písm. a), f) a h) až j). Druhým je postavení povinného subjektu ve vazbě na § 6 odst. 1 písm. a) zákona o inspekci práce. Důvodová zpráva chápe první skupinu jako kontrolu ministerstva bez ohledu na povahu subjektu a zbývající povinnosti rozděluje podle druhého hlediska.
 
-#### F. Kazuistika
+[2] Odstavec 3 přiznává orgánu inspekce práce kontrolu povinného subjektu, který je osobou podle § 6 odst. 1 písm. a) zákona o inspekci práce. Tato kategorie zahrnuje zaměstnavatele a jejich zaměstnance, právnické osoby, u nichž jsou vykonávány veřejné funkce, a fyzické osoby vykonávající veřejné funkce; nelze ji ztotožnit jen se soukromým sektorem.
 
-**1. Modelová situace.** Oznamovatel podá MSp podnět, že soukromý zaměstnavatel (200 zaměstnanců) neposoudil jeho oznámení a umožnil vůči němu odvetu. MSp zahájí kontrolu. Zaměstnavatel namítá, že kontrolu nad ním má vykonávat orgán inspekce práce, nikoli MSp, a odmítá součinnost. K obstarání: doklad o postavení zaměstnavatele podle § 6 odst. 1 písm. a) zák. o inspekci práce, kontrolní spis, oznámení.
+[3] Nestačí mechanicky zjistit, že osoba spadá pod § 6 odst. 1 zákona o inspekci práce. Je nutno zohlednit zvláštní režim odstavce 2, omezení kontroly služebních vztahů podle odstavce 3, výluky podle odstavce 4 a místní příslušnost podle odstavce 5. § 3 odst. 1 písm. h) současně řadí ZOO do působnosti Úřadu a inspektorátů obecně. Vzájemný rozsah těchto ustanovení a § 22 ZOO může být v hraniční věci sporný; protokol musí uvést přesný právní základ působnosti.
 
-**2. Právní otázka.** Kdo je příslušný ke kontrole dodržování povinností soukromého zaměstnavatele podle ZOO — MSp, nebo orgán inspekce práce — a jaké následky má nesplnění opatření k nápravě?
+[4] Kontrola se řídí kontrolním řádem, nestanoví-li zvláštní zákon jinak. Zahajuje se z moci úřední úkonem podle § 5. Kontrolující dokládá zjištění podklady, kontrolovaná osoba poskytuje součinnost a může podat námitky. Protokol označí pravomoc, předmět, zjištěný stav, porušené předpisy a podklady.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 22 odst. 1 (kontrolní působnost MSp k povinnostem podle § 26 odst. 1 písm. a), f), h)–j), s výjimkou zaměstnavatelů podle § 6 odst. 1 písm. a) zák. o inspekci práce), odst. 2 (opatření k nápravě), odst. 3 (kontrola orgánem inspekce práce u zaměstnavatelů).
-- *Související ustanovení téhož zákona:* § 26 (přestupky povinných subjektů), § 28 (projednávání přestupků), § 4 odst. 4 (zákaz umožnit odvetu).
-- *Související předpisy:* § 6 odst. 1 písm. a) zák. č. 251/2005 Sb. (o inspekci práce); zák. č. 255/2012 Sb. (kontrolní řád); čl. 23 směrnice 2019/1937 (sankce a vynucení).
-- *Judikatura:* k rozdělení dozorové působnosti srov. zásadu, že věcná příslušnost je dána zákonem (čl. 2 odst. 2 Listiny) — nosný závěr: kontrolu vykonává zákonem určený orgán.
+[5] Zjistí-li ministerstvo v kontrole vedené v jeho působnosti porušení, § 22 odst. 2 mu ukládá opatření k nápravě uložit. Musí směřovat k odstranění konkrétního protiprávního stavu a stanovit přiměřenou lhůtu nebo jiné nutné podmínky. Opatření není samo pokutou.
 
-**4. Subsumpce.** Jde-li o soukromého zaměstnavatele, který je „osobou podle § 6 odst. 1 písm. a) zák. o inspekci práce", kontrolu nad ním vykonává **orgán inspekce práce** (§ 22 odst. 3), nikoli MSp (§ 22 odst. 1 in fine tyto zaměstnavatele z působnosti MSp vylučuje). Námitka zaměstnavatele o nepříslušnosti MSp je tedy důvodná v rozsahu, v němž je zaměstnavatel osobou podle zákona o inspekci práce.
+[6] ZOO neurčuje procesní formu ministerského opatření ani opravný prostředek. Kontrolní řád upravuje námitky proti kontrolním zjištěním a v § 14 odst. 3 počítá s navazujícím správním řízením o opatření k nápravě, sám však formu opatření podle § 22 odst. 2 neřeší. Procesní režim je nutno určit podle skutečné formy úkonu; bez přímé judikatorní opory zůstává otázka otevřená.
 
-**5. Řešení.** Kontrolu nad soukromým zaměstnavatelem provede orgán inspekce práce (§ 22 odst. 3), který při zjištění porušení postupuje podle kontrolního řádu a projedná přestupek podle § 28. Pokud by věc spadala do působnosti MSp (jiný typ povinného subjektu), MSp by uložilo opatření k nápravě (odst. 2); jeho nesplnění je samostatným přestupkem podle § 26 odst. 1 písm. j) (pokuta až 400 000 Kč). Součinnost s kontrolním orgánem je povinná.
+[7] Nesplnění opatření ministerstva podle § 22 odst. 2 je přestupkem podle § 26 odst. 1 písm. j), za který lze podle § 26 odst. 2 uložit pokutu do 400 000 Kč. Odpovědnost předpokládá dostatečně určitý obsah opatření, podmínky splnění a marné nesplnění; neurčité doporučení skutkovou podstatu nenahrazuje.
 
-**6. Varianty.** (a) Pokud by povinným subjektem byl orgán veřejné moci nebo veřejný zadavatel (nikoli zaměstnavatel podle zák. o inspekci práce), kontrolu v rozsahu § 26 odst. 1 písm. a), f), h)–j) by vykonalo MSp. (b) Pokud by zaměstnavatel po uložení opatření k nápravě tomuto opatření nevyhověl, eskaloval by riziko sankcí o přestupek podle § 26 odst. 1 písm. j).
+[8] SÚIP a oblastní inspektoráty neopírají nápravu o § 22 odst. 2. Úřad ukládá opatření podle § 4 odst. 1 písm. g) a inspektorát podle § 5 odst. 1 písm. b) zákona o inspekci práce; inspektor má odpovídající oprávnění podle § 7 odst. 1 písm. i). Tyto právní základy nelze směšovat s ministerským opatřením podle ZOO.
 
-#### G. Protiargumenty a rizika
+[9] § 22 je účinný od 1. 8. 2023 a v rozhodném znění k 18. 7. 2026 se nezměnil; novela č. 32/2025 Sb., účinná od 15. 2. 2025, změnila jiné ustanovení ZOO. Při kontrole minulého jednání je nutno oddělit procesní předpis použitelný při kontrole od hmotné povinnosti účinné v době jednání.
 
-- *Protiargument:* „MSp je ústřední orgán, může kontrolovat každého." — Neutralizace: § 22 odst. 1 in fine výslovně vylučuje z působnosti MSp zaměstnavatele podle § 6 odst. 1 písm. a) zák. o inspekci práce; ty kontroluje inspekce práce (odst. 3).
-- *Protiargument:* „Opatření k nápravě je jen doporučení." — Neutralizace: nesplnění opatření je samostatným přestupkem podle § 26 odst. 1 písm. j) s pokutou až 400 000 Kč; jde o vynutitelný nástroj.
-- *Slabé místo:* hranice, zda je konkrétní subjekt „osobou podle § 6 odst. 1 písm. a) zák. o inspekci práce", může být sporná u smíšených subjektů; rozhoduje povaha subjektu a jeho zaměstnavatelské postavení.
+#### Judikatura
 
-#### H. Praktický závěr
+Pro tento výklad není použito žádné soudní rozhodnutí. Procesní forma opatření podle § 22 odst. 2 a případný překryv kontrolních působností zůstávají otevřenými otázkami, nikoli závěry vydávanými za potvrzené judikaturou.
 
-§ 22 zavádí dvoukolejnou kontrolu: MSp kontroluje vybrané podstatné povinnosti [§ 26 odst. 1 písm. a), f), h)–j)] u povinných subjektů s výjimkou zaměstnavatelů podle zákona o inspekci práce, které kontroluje orgán inspekce práce. Při zjištění porušení MSp ukládá opatření k nápravě (odst. 2); jeho nesplnění je přestupkem podle § 26 odst. 1 písm. j).
+#### Praktický checklist
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je subjekt „osobou podle § 6 odst. 1 písm. a) zák. o inspekci práce" (pak kontroluje inspekce práce)?
-- [ ] Jde o povinnost spadající do kontrolní působnosti MSp [§ 26 odst. 1 písm. a), f), h)–j)]?
-- [ ] Bylo při zjištění porušení uloženo opatření k nápravě s přiměřenou lhůtou (odst. 2)?
-- [ ] Bylo opatření k nápravě splněno (jinak přestupek podle § 26 odst. 1 písm. j)?
-
-**Typicky rozhodné důkazy / podklady:** doklad o povaze a zaměstnavatelském postavení subjektu; kontrolní spis; uložené opatření k nápravě a doklad o jeho (ne)splnění.
+- [ ] Jaká konkrétní povinnost vymezuje předmět kontroly?
+- [ ] Dopadá § 6 odst. 1 písm. a) zákona o inspekci práce a některé omezení či výluka jeho odstavců 2 až 4?
+- [ ] Uvádí pověření a protokol přesný zákonný základ?
+- [ ] Jde o opatření ministerstva, nebo orgánu inspekce práce?
+- [ ] Je opatření konkrétní, splnitelné a opatřené přiměřenou lhůtou či podmínkami?
 
 ---
 
