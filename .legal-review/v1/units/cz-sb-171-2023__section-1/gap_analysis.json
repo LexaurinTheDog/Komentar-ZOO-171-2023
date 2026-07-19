@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "gap_analysis",
+  "unit_key": "cz:sb:171-2023:section:1",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-1-20260718-zpl-v2",
+  "created_at": "2026-07-18T12:14:11+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "before_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "before_file_sha256": "1f4ca5b7e65c3065ed1e66f04e4d845eb560e9ca0ad570538bebb4457c7edc25",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "scope": "full_substantive_gap_analysis_of_section_1",
+  "substantive_gap_analysis_performed": true,
+  "preflight": {
+    "repository": "/home/vojtech/Komentar-ZOO-171-2023",
+    "branch": "main",
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "target_file": "/home/vojtech/Komentar-ZOO-171-2023/01-cely-zakon.md",
+    "target_heading": "### § 1 — Předmět úpravy",
+    "baseline_lines": "9–84",
+    "next_heading": "### § 2 — Oznámení",
+    "anchor_unambiguous": true,
+    "group_heading": false,
+    "target_file_modified_before_run": false,
+    "tracked_worktree_clean_before_run": true,
+    "conflict_with_user_changes": false,
+    "preexisting_untracked_scope": ".legal-review/v1/"
+  },
+  "quality_text_preserved_and_integrated": [
+    "Přesné znění § 1 a jeho rubrika, nově ověřené a upravené do povinné struktury.",
+    "Základní rozlišení transpoziční, procesní, ochranné a institucionální funkce ustanovení.",
+    "Správná myšlenka, že § 1 sám neposkytuje konkrétní ochranu a musí se číst zejména s § 2, § 4 a § 7.",
+    "Užitečný praktický příklad účetní a důraz na zachování důkazů; příklad byl zkrácen a právně zpřesněn.",
+    "Upozornění na souběh s jinými oznamovacími režimy a vertikální povahu přímého účinku směrnice."
+  ],
+  "factual_or_legal_errors": [
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Řízení pro nesplnění povinnosti bylo označeno číslem 2022/0073.",
+      "correction": "Důvodová zpráva uvádí správné číslo 2022/0043 a zahájení dne 27. 1. 2022."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Datum 17. 12. 2023 bylo obecně spojeno se zaměstnavateli s 50–249 zaměstnanci.",
+      "correction": "Podle čl. 26 odst. 2 směrnice šlo pouze o odklad povinnosti soukromých subjektů této velikosti zavést interní kanál; obecná lhůta skončila 17. 12. 2021."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Text tvrdil, že po oznámení jinému příslušnému orgánu může nebo musí následovat duplicitní podání v režimu ZOO, aby vznikla ochrana.",
+      "correction": "§ 7 odst. 2 přiznává ochranu i oznámení příslušnému orgánu podle jiného předpisu; další podání ministerstvu není samo o sobě podmínkou."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Přijetí trestního oznámení bylo přiřazeno k § 158 odst. 1 trestního řádu.",
+      "correction": "Povinnost státního zástupce a policejního orgánu přijmout oznámení stanoví § 158 odst. 2 trestního řádu."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Intertemporální otázka přímého účinku byla po 1. 8. 2023 označena za nadbytečnou.",
+      "correction": "Pro historické skutky z období po marném uplynutí transpoziční lhůty před účinností ZOO zůstává rozhodná; potvrzují to NSS 3 As 309/2023-83 a 6 Ads 191/2025-54."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "§ 1 byl místy používán jako samostatný filtr působnosti, který přímo vylučuje ochranu.",
+      "correction": "Rozhodné obsahové a kanálové podmínky jsou v § 2, 3 a 7; užší pojetí § 1 je výslovně označeno jako vlastní názor autora."
+    }
+  ],
+  "paraphrase_without_interpretive_value": [
+    "Dlouhý seznam jiných oznamovacích režimů bez přesného rozlišení jejich vztahu k § 7 odst. 2.",
+    "Šestidílná kazuistika opakovala závěr, že § 1 je rozcestníkem, ale neřešila konkrétní civilní procesní nástroje.",
+    "Obecné odkazy na směrnici a judikaturu bez locatorů a bez vymezení dnešní použitelnosti."
+  ],
+  "existing_material_citations": [
+    "směrnice (EU) 2019/1937",
+    "řízení pro nesplnění povinnosti (v baseline nesprávně 2022/0073)",
+    "§§ 367 a 368 trestního zákoníku",
+    "§ 158 trestního řádu (v baseline nesprávný odstavec 1)",
+    "SDEU von Colson",
+    "SDEU Marleasing"
+  ],
+  "missing_topics": [
+    "výslovné konkurenční pojetí normativního významu § 1 a vlastní stanovisko",
+    "přesná novelizační vazba zákona č. 32/2025 Sb. a potvrzení, že § 1 nebyl změněn",
+    "aktuální judikatura NSS k okamžiku vzniku ochrany, přímému účinku a povaze nároku podle § 5",
+    "rozlišení eurokonformního výkladu, vertikálního přímého účinku a zákazu ukládat směrnicí povinnosti soukromé osobě",
+    "konkrétní procesní údaje: petit, pravomoc, věcná a místní příslušnost, poplatek, předběžné opatření a důkazní břemeno",
+    "rozlišení ochrany oznamovatele a dalších chráněných osob podle § 4 odst. 2 včetně mezí § 133a odst. 2 OSŘ",
+    "vztah identifikačního požadavku § 2 odst. 2 k odloženému vzniku ochrany anonymního oznamovatele podle § 4 odst. 3",
+    "oddělení zadostiučinění podle § 5 od napadení samotného odvetného opatření a od předběžné ochrany",
+    "procesní přechodné pravidlo čl. II zákona č. 172/2023 Sb.",
+    "zdrojový ledger a negativní rešeršní záznam"
+  ],
+  "source_gaps": [
+    "Nebyl nalezen místní literární korpus s ověřitelnou konkrétní pasáží k § 1; neověřené sekundární citace proto nebyly použity.",
+    "Online ověření bylo z vůle uživatele omezeno na www.zakonyprolidi.cz; souhlas s místním oficiálním snapshotem e-Sbírky je popsán v ledgeru."
+  ],
+  "novelization_and_intertemporal_gaps": [
+    "Baseline neobsahoval úplnou vazbu zákon č. 32/2025 Sb. → čl. XIX body 1 a 2 → § 8 odst. 1 písm. e) → účinnost 15. 2. 2025 → absence přechodného pravidla pro ZOO → novelizační důvodová zpráva.",
+    "Baseline neřešil historické případy od 18. 12. 2021 do 31. 7. 2023 podle novější judikatury NSS.",
+    "Baseline neřešil, že zvláštní § 75b odst. 3 písm. b) a § 133a odst. 2 OSŘ se podle čl. II zákona č. 172/2023 Sb. nepoužijí na řízení zahájená před 1. 8. 2023."
+  ],
+  "practical_and_procedural_gaps": [
+    "Chybělo vysvětlení, že § 1 nemá vlastní petit, lhůtu, příslušnost ani poplatek.",
+    "Chyběla konkrétní procesní cesta nároku podle § 5 a závěr NSS, že jde o soukromoprávní nárok.",
+    "Chybělo rozlišení nároku podle § 5, napadení vlastního odvetného opatření a předběžné ochrany včetně jejich odlišných petitů, lhůt a poplatků.",
+    "Chyběla aplikace § 75b odst. 3 písm. b) a přesné osobní i věcné vymezení § 133a odst. 2 OSŘ.",
+    "Chybělo vysvětlení anonymního režimu a okamžiku vzniku ochrany podle § 4 odst. 3.",
+    "Chyběl důkazní checklist zaměřený na okamžik oznámení, adresáta, vědomost a časovou posloupnost odvety."
+  ],
+  "structure_deviations": [
+    "Chyběl revizní řádek, Přehled výkladu, Souvisící ustanovení, Souvisící předpisy, Z důvodové zprávy, Literatura a samostatná Judikatura.",
+    "Výklad neměl jedinečná a souvislá marginální čísla.",
+    "Nadpis ustanovení zůstává na úrovni ###, protože úroveň ## je v repozitáři vyhrazena částem zákona; změna jediného § na ## by nesprávně podřadila následující ustanovení a změna celého souboru by byla mimo rozsah."
+  ],
+  "research_needed_and_completed": [
+    "aktuální a historické znění § 1 a poznámky č. 1",
+    "jediná vyhlášená novela ZOO a její důvodová zpráva",
+    "plné texty von Colson, Marleasing a čtyř rozsudků NSS",
+    "OSŘ, občanský zákoník, zákoník práce, Listina, trestní řád, trestní zákoník, kompetenční zákon a sazebník soudních poplatků",
+    "negativní rešerše ověřitelné literatury a dalších změn § 1"
+  ],
+  "blockers": []
+}

@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "revision_report",
+  "unit_key": "cz:sb:171-2023:section:3",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-3-20260718-zpl-v1",
+  "created_at": "2026-07-18T15:14:17+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_file_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_file_blob_oid": "db343185ff950cad21c9451b48b7f947ec48f9d6",
+    "pre_revision_file_sha256": "c8335592ccc77255c037191dec49aa20605a178bdf43899289400114c51a5607",
+    "pre_revision_section_sha256": "8a98461e62c0a0aa3c369a1a4e2700c62ebf4a713a4614c7b155c853a40e66ea",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "output_hashes": {
+    "comment_file_sha256": "7478c863389f2ee563b9290cd1efceb982a89933979bed24dd86931058a9a6ca",
+    "comment_file_blob_oid": "291e0f94d4ee230564780258894f1488fceb6ec4",
+    "section_sha256": "4c751ad94ecd887a76a95484090b0446e2c2b7fb3eddb97999ee76cea0f28eaf"
+  },
+  "final_status": "revidováno",
+  "comment_file_updated": true,
+  "comment_file": "/home/vojtech/Komentar-ZOO-171-2023/01-cely-zakon.md",
+  "revised_scope": "pouze § 3, výsledné řádky 349–594; dokončené revize §§ 1–2 byly zachovány a obsah od § 4 dále zůstal shodný s baseline",
+  "preserved": [
+    "Základní rozlišení smluvní a zákonné mlčenlivosti, odpovědnosti za získání podkladů a obsahových bezpečnostních výluk.",
+    "Užitečná typologie bankovního tajemství, profesní a zdravotní mlčenlivosti; byla zpřesněna podle skutečného nositele a funkčního rozsahu povinnosti.",
+    "Správná teze, že oznámení a způsob získání podkladů se posuzují odděleně; byla doplněna oddělitelnost řádného oznámení od trestného získávacího jednání.",
+    "Praktický model bankovního auditora a důkazní checklist; oba byly zachovány po opravě právních předpokladů a doplnění proporcionality.",
+    "Systematické rozlišení utajovaných informací, obranných zájmů, zpravodajských služeb a zpovědního tajemství; původní jádro bylo začleněno do přesnějšího výkladu odstavce 3."
+  ],
+  "corrected_or_removed": [
+    {
+      "change": "Odděleny tři různé mechanismy § 3: průlom do vybraných mlčenlivostí se zachovanými taxativními výlukami, odpovědnostní štít pro nezbytné oznámení a získání podkladů a negativní definice bezpečnostně citlivého obsahu.",
+      "reason": "Původní text jejich právní následky směšoval a místy vytvářel dojem jediného seznamu absolutních výjimek."
+    },
+    {
+      "change": "Obsahové a osobní podmínky podle § 2 a oprávněné důvody věřit v pravdivost podle § 7 byly odděleny od nezbytnosti podle § 3; u uveřejnění byly zachovány zvláštní podmínky předchozího oznámení.",
+      "reason": "Splnění pravdivostního standardu ani volba chráněného kanálu sama neprokazují nezbytnost konkrétního sdělení nebo získávacího úkonu."
+    },
+    {
+      "change": "Profesní, zdravotní, daňová, bankovní a zpovědní mlčenlivost byla vymezena podle nositele, zdroje informace, funkce a případného zproštění; odstraněno automatické zahrnování znalců a tlumočníků.",
+      "reason": "Výluky jsou taxativní a funkční, nikoli statusové; původní zobecnění přesahovala text zvláštních zákonů."
+    },
+    {
+      "change": "Opraven trestněprávní přehled: § 178 trestního zákoníku upravuje domovní svobodu a odkaz na neexistující § 232a byl odstraněn.",
+      "reason": "Původní identifikace skutkových podstat byla věcně chybná."
+    },
+    {
+      "change": "Doplněno, že bod 92 odůvodnění směrnice může krýt i neobvyklý, avšak netrestný, nezbytný a přiměřený přístup; každý získávací úkon se hodnotí odděleně.",
+      "reason": "Pouhé vybočení z běžné pracovní náplně neznamená trestnost ani automatickou ztrátu ochrany, plošný exces však chráněn být nemusí."
+    },
+    {
+      "change": "Vyjasněno, že trestný způsob získání nevymaže ochranu pozdějšího oddělitelného řádného oznámení, ale odpovědnostní štít nekryje ani související civilní nebo pracovněprávní následky samotného získávacího jednání.",
+      "reason": "Původní formulace nerozlišovala zdroj odpovědnosti a odvetu za oznámení."
+    },
+    {
+      "change": "Ochrana obchodního tajemství, autorského díla a osobních údajů byla podmíněna konkrétními znaky a tituly; výslovně odmítnut automatický titul či výjimka z čl. 6 a 9 GDPR.",
+      "reason": "§ 3 je vymezená odpovědnostní obrana, nikoli obecná licence k dalšímu zpracování nebo šíření."
+    },
+    {
+      "change": "Doplněna částečná oddělitelnost smíšeného podání a samostatné posouzení motivu odvety.",
+      "reason": "Jediný vyloučený fragment nesmí bez textové opory zničit ochranu samostatně použitelné části oznámení."
+    },
+    {
+      "change": "Všech sedm bezpečnostních zájmů bylo vyloženo podle chráněného objektu, bezprostřednosti, většího rozsahu, významnosti a taxativnosti; výluka zpravodajských služeb byla omezena funkční vazbou na jejich činnost.",
+      "reason": "Původní pasáže byly převážně parafrází a nerozlišovaly obecný bezpečnostní kontext od konkrétního zákonného testu."
+    },
+    {
+      "change": "Kritická infrastruktura byla aktualizována podle zákona č. 266/2025 Sb. včetně přesného desetiměsíčního přechodu od doručení rozhodnutí o zařazení na seznam.",
+      "reason": "Původní odkaz na krizový zákon a neurčité rozhodnutí o registraci či určení byly k rozhodnému dni zastaralé nebo nepřesné."
+    },
+    {
+      "change": "Doplněna intertemporalita, omezený vertikální účinek směrnice a spor o důkazní břemeno mezi § 120 OSŘ a bodem 97 jejího odůvodnění.",
+      "reason": "Původní komentář neřešil předzákonné období ani procesní důsledky obrany podle § 3."
+    },
+    {
+      "change": "Odstraněny neověřené obecné odkazy na Heinisch proti Německu, blíže neurčenou judikaturu Soudního dvora a neurčené alternativní kontrolní kanály.",
+      "reason": "Bez ověření plného textu, přesného locatoru a vztahu k § 3 nesměly zůstat materiálními citacemi."
+    }
+  ],
+  "case_law_added_or_updated": [
+    "ÚS ze dne 14. 10. 2020, sp. zn. II. ÚS 4071/19 — ústavní význam a nezbytný rozsah výjimek z advokátní mlčenlivosti; použito pouze analogicky.",
+    "NSS ze dne 3. 7. 2026, č. j. 8 As 212/2024-32 — účelové a restriktivní vymezení zákonné výjimky ze zdravotní mlčenlivosti; použito pouze analogicky.",
+    "NSS ze dne 14. 5. 2025, č. j. 6 As 135/2024-48 — rozlišení nositele bankovního tajemství podle §§ 38–39 zákona o bankách.",
+    "NSS ze dne 3. 6. 2025, č. j. 1 As 42/2025-84 — kumulativní znaky obchodního tajemství podle § 504 občanského zákoníku.",
+    "NS ze dne 16. 12. 2021, sp. zn. 5 Tdo 4/2021 — oddělení oprávněného přístupu do systému od následného neoprávněného užití; použito pouze analogicky.",
+    "NS ze dne 28. 4. 2026, sp. zn. 7 Tz 4/2026 — trvání stupně utajení do zákonné změny či zrušení; odlišeno od testu § 3 odst. 3.",
+    "Soudní dvůr ze dne 7. 6. 2012, InsTiimi Oy, C-615/10 — restriktivní a konkrétně odůvodněný výklad bezpečnostní výjimky v zadávání; použito systematicky.",
+    "Soudní dvůr ze dne 24. 1. 2012, Dominguez, C-282/10 — obecná pravidla vertikálního a zákazu horizontálního přímého účinku směrnice.",
+    "ÚS ze dne 25. 3. 2026, sp. zn. Pl. ÚS 8/25 — funkční vymezení zpovědního tajemství podle vztahu a obsahu; použito analogicky."
+  ],
+  "existing_case_law_removed_or_not_used": [
+    "Heinisch proti Německu — původní obecný odkaz nebyl bez plného textu a konkrétního locatoru použit.",
+    "Blíže neurčená judikatura Soudního dvora — nahrazena ověřenými rozhodnutími InsTiimi Oy a Dominguez.",
+    "Žádné přímé meritorní rozhodnutí českého soudu k § 3 ZOO nebylo nalezeno; všech devět použitých rozhodnutí je v komentáři omezeno na konkrétní analogickou otázku."
+  ],
+  "literature_verified": [],
+  "literature_gap": "V místním korpusu nebyla nalezena odborná literatura s ověřitelnými bibliografickými údaji a konkrétní pasáží k § 3. Sekundární odkazy nebyly materiálně citovány. Jádro výkladu lze poctivě uzavřít z textu zákona, důvodové zprávy, unijních a zvláštních předpisů a ověřených plných textů judikatury; skutečně sporné závěry jsou označeny jako vlastní názor.",
+  "unverified": [],
+  "author_opinions_added": [
+    "Marg. č. 4 — funkční test nezbytnosti podle § 3 nelze zaměnit s podmínkami volby kanálu nebo uveřejnění podle § 7.",
+    "Marg. č. 9 — současný rozsah průlomu do daňové mlčenlivosti je nutné číst podle přijatého znění § 3 a účinného daňového řádu, nikoli podle užšího předpokladu původní důvodové zprávy.",
+    "Marg. č. 18 — zachované mlčenlivosti odstavce 1 jsou lex specialis vůči obecnějšímu odpovědnostnímu štítu odstavce 2.",
+    "Marg. č. 22 — nezbytnost a proporcionalita se posuzují odděleně u jednotlivých způsobů získání i u konečného sdělení.",
+    "Marg. č. 31 — příjemce má oddělit nebo redigovat vyloučenou část a posoudit samostatně použitelný zbytek oznámení.",
+    "Marg. č. 33 — bezprostřední ohrožení bezpečnostního zájmu vyžaduje restriktivní, konkrétní a časově blízký test.",
+    "Marg. č. 34 — větší rozsah se určuje podle počtu osob, intenzity a územního, časového nebo kaskádového dopadu, nikoli pevnou číselnou hranicí.",
+    "Marg. č. 36 — výluka informací o zpravodajské službě se vykládá funkčně podle operací, schopností, zdrojů a aktiv, nikoli jen identity zaměstnavatele.",
+    "Marg. č. 40 — § 3 zpětně nemaže dokončené porušení před 1. 8. 2023, ale pozdější odveta se posuzuje podle účinného ochranného režimu.",
+    "Marg. č. 44 — po prima facie konkretizaci oznámení a obrany oznamovatelem má osoba zahajující řízení prokazovat nesplnění podmínek štítu."
+  ],
+  "open_questions": [
+    "K § 3 ZOO nebylo v povoleném korpusu nalezeno přímé meritorní rozhodnutí českého soudu; analogická použitelnost každého citovaného rozhodnutí je proto výslovně omezena.",
+    "Nebyla dostupná ověřitelná literatura k jazykovému sporu o nezbytnost jednotlivých získávacích úkonů ani k důkaznímu pravidlu bodu 97 odůvodnění směrnice.",
+    "U konkrétního dosavadního subjektu kritické infrastruktury je pro přesný konec přechodu nutné znát datum doručení rozhodnutí o zařazení na seznam podle zákona č. 266/2025 Sb.",
+    "Odpovědný odborný editor zůstává neurčen."
+  ],
+  "review_results": {
+    "review_1": "pass after corrections; původně 7 MAJOR a 5 MINOR, všechny vypořádány; konečně BLOCKER 0, MAJOR 0, MINOR 0",
+    "review_2": "pass after four source or locator corrections; 43/43 records reopened and verified; BLOCKER 0, MAJOR 0, MINOR 0",
+    "material_change_returned_to_review_1": false,
+    "source_review_required_new_substantive_return": false
+  },
+  "quality_gate_summary": {
+    "eligible_for_revidovano": true,
+    "passed": 15,
+    "failed": 0,
+    "details_file": "gate_result.json"
+  },
+  "git": {
+    "mode": "BEZ_COMMITU",
+    "commit_created": false,
+    "push_performed": false,
+    "suggested_commit_message": "komentar(§ 3): meze mlčenlivosti, získávání podkladů a bezpečnostní výluky",
+    "suggested_trailers": [
+      "Unit-Key: cz:sb:171-2023:section:3",
+      "Source-SHA256: b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109",
+      "Review-Rounds: 2"
+    ]
+  }
+}

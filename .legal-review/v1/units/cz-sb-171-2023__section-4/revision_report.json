@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "revision_report",
+  "unit_key": "cz:sb:171-2023:section:4",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-4-20260718-zpl-v1",
+  "created_at": "2026-07-18T16:42:23+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_file_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_file_blob_oid": "291e0f94d4ee230564780258894f1488fceb6ec4",
+    "pre_revision_file_sha256": "7478c863389f2ee563b9290cd1efceb982a89933979bed24dd86931058a9a6ca",
+    "pre_revision_section_sha256": "645cb1b754620876ee8b105d25dbb775e5f8a27e4ca7107a872729592e76d9e3",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "output_hashes": {
+    "comment_file_sha256": "4ff443926d36376bb20b9d1d18b122e9104afc4acbadf6bce8d622522726252d",
+    "comment_file_blob_oid": "cf55e03bdb1949d69b53ede7e04fca47e92916c1",
+    "section_sha256": "0b940b97ccad6eb62e78623ba4f263bd40fd8d0353509160d55ddce38bf66f1a"
+  },
+  "final_status": "revidováno",
+  "comment_file_updated": true,
+  "comment_file": "/home/vojtech/Komentar-ZOO-171-2023/01-cely-zakon.md",
+  "revised_scope": "pouze § 4, výsledné řádky 595–825; dokončené revize §§ 1–3 byly zachovány a obsah od § 5 dále zůstal bitově shodný s baseline",
+  "preserved": [
+    "Přesné znění všech čtyř odstavců § 4 a správné jádro definice založené na jednání nebo opomenutí, pracovním kontextu, souvislosti s oznámením a způsobilosti způsobit újmu.",
+    "Správný postřeh, že výčet odvetných opatření je demonstrativní a může zahrnout ostrakizaci nebo jiné faktické jednání.",
+    "Praktické využití časové souslednosti, komparátorů a legitimního důvodu při hodnocení kauzality; bylo doplněno o zákonný důkazní režim a smíšené motivy.",
+    "Preventivní doporučení k dokumentaci personálních a obchodních rozhodnutí a závěrečný modelový případ; obojí bylo začleněno po opravě právních závěrů a procesních návazností."
+  ],
+  "corrected_or_removed": [
+    {
+      "change": "Opravena identifikace rozsudku 8 Ad 14/2024-54 jako rozhodnutí Městského soudu v Praze a jeho teze o ochraně přípravy oznámení byla označena za výslovně překonanou rozsudkem NSS 8 Ads 100/2025-81.",
+      "reason": "Původní text připsal rozhodnutí NSS a používal právní názor, který vyšší soud odmítl."
+    },
+    {
+      "change": "Okamžik aktivace ochrany byl navázán na skutečné oznámení způsobem podle § 7; příprava ani pouhý záměr podat oznámení nejsou odvetou, bránění budoucímu oznámení se posuzuje odděleně podle § 27 odst. 1.",
+      "reason": "Časová posloupnost je znakem § 4 odst. 1 a judikatura ji vykládá restriktivně."
+    },
+    {
+      "change": "Odstraněn závěr o automatické absolutní neplatnosti každého odvetného opatření; rozlišena faktická opatření, právní jednání a zvláštní pracovní či služební režimy.",
+      "reason": "§§ 580, 586 a 588 OZ ani důvodová zpráva nepodporují plošný následek a část odvet vůbec není právním jednáním."
+    },
+    {
+      "change": "Opraven důkazní výklad podle § 133a odst. 2 OSŘ včetně prima facie prahu, obrany legitimním cílem a meze osobního rozsahu pro osoby podle § 4 odst. 2.",
+      "reason": "Původní tvrzení, že české právo zvláštní důkazní pravidlo nemá, bylo věcně chybné."
+    },
+    {
+      "change": "Jednotlivé kategorie § 4 odst. 2 písm. a) až h) byly přesně odděleny; zejména byla opravena osoba ovládaná, účastnické a orgánové právnické osoby, osoba, pro kterou oznamovatel pracuje, a postavení svěřenského fondu.",
+      "reason": "Původní text zaměňoval písmena d) až g) a opomíjel korporační a majetkové struktury."
+    },
+    {
+      "change": "U svěřenského fondu byly odděleny §§ 17–18 OZ, § 19 OSŘ a § 1448 odst. 3 OZ; nebyl předstírán vlastní satisfakční nárok fondu bez přímé opory.",
+      "reason": "Fond není právnickou osobou ani samostatným procesním subjektem a otázka jeho nepeněžní újmy podle § 5 zůstává otevřená."
+    },
+    {
+      "change": "Anonymní oznámení bylo vyloženo relativně vůči identitě konkrétní chráněné osoby a znalosti konkrétního potenciálního původce odvety.",
+      "reason": "Původní kategorická formulace zastírala časový mechanismus § 4 odst. 3."
+    },
+    {
+      "change": "Preventivní povinnost § 4 odst. 4 byla rozšířena z pouhého zaměstnavatele na osobu, pro kterou oznamovatel vykonává práci nebo obdobnou činnost, a propojena se sankcemi §§ 26–28.",
+      "reason": "Osobní rozsah zákona je širší než pracovněprávní zaměstnavatel."
+    },
+    {
+      "change": "U § 27 odst. 4 byly představeny dva konkurenční výklady konfliktu širšího výčtu pachatelů s blanketním odkazem na užší § 4 odst. 4; přijat byl užší závěr respektující určitost správního trestání.",
+      "reason": "Text zákona obsahuje skutečné normativní napětí a přímá judikatura chybí."
+    },
+    {
+      "change": "Opraveny odkazy u DPP a DPČ z §§ 77a–77b na § 77 odst. 5 a 6 ZP a doplněny konkrétní pracovní a služební opravné prostředky a lhůty.",
+      "reason": "Původní locatory upravovaly informační povinnosti, nikoli skončení dohod, a obecné služební odkazy nepodporovaly tvrzené procesní závěry."
+    },
+    {
+      "change": "Doplněny civilní a správní pravomoc a příslušnost, promlčení, prekluzivní lhůty, předběžná ochrana, soudní poplatky a konkrétní možné petity.",
+      "reason": "§ 4 sám jednotný nárok ani proces nezakládá; praktická ochrana závisí na formě opatření a navazujícím režimu."
+    },
+    {
+      "change": "Doplněna intertemporalita od 18. 12. 2021 přes účinnost ZOO 1. 8. 2023 a přechodná ustanovení zákona č. 172/2023 Sb.; horizontální účinek směrnice nebyl dovozován v neprospěch soukromé osoby.",
+      "reason": "Původní komentář neřešil skutky na rozhraní směrnice a českého zákona ani procesní přechod."
+    }
+  ],
+  "case_law_added_or_updated": [
+    "NSS ze dne 22. 10. 2025, č. j. 8 Ads 100/2025-81 — aktivace ochrany až oznámením, zkušební doba a pozdější opatření po skončení vztahu.",
+    "NSS ze dne 31. 3. 2026, č. j. 6 Ads 191/2025-54 — auditní výstup není sám oznámením; použito také jen v přesném rozsahu vertikálního přímého účinku.",
+    "NSS ze dne 24. 5. 2024, č. j. 5 As 5/2024-36, č. 4609/2024 Sb. NSS — obecná systemizace proti individualizovanému služebnímu aktu, kauzalita a služební předběžná ochrana.",
+    "NSS ze dne 21. 8. 2025, č. j. 22 As 19/2025-38 — § 5 zakládá soukromoprávní nárok náležející civilním soudům.",
+    "NSS ze dne 5. 12. 2024, č. j. 3 As 309/2023-83 — omezený vertikální účinek směrnice před účinností ZOO.",
+    "ÚS ze dne 26. 4. 2006, sp. zn. Pl. ÚS 37/04, a ze dne 30. 4. 2009, sp. zn. II. ÚS 1609/08 — pouze analogické osvětlení prima facie mechanismu důkazního břemene.",
+    "Městský soud v Praze ze dne 16. 4. 2025, č. j. 8 Ad 14/2024-54 — uveden výhradně jako názor výslovně překonaný NSS."
+  ],
+  "existing_case_law_removed_or_not_used": [
+    "Chybně označená citace NSS 8 Ad 14/2024-54 byla opravena a její překonaná teze nebyla použita jako platné právo.",
+    "Rozsudek Městského soudu v Praze ze dne 16. 4. 2026, č. j. 10 Ad 6/2025-91, nebyl použit pro obsahový závěr, protože obsahuje chybný odkaz na § 133 odst. 2 OSŘ a nepřidává bezpečnou přímou oporu.",
+    "Nebyla nalezena přímá civilní judikatura k novému § 133a odst. 2 OSŘ ani meritorní judikatura k osobním skupinám § 4 odst. 2 či preventivní povinnosti odstavce 4."
+  ],
+  "literature_verified": [],
+  "literature_gap": "V místním korpusu nebyla dostupná literatura s ověřitelnými bibliografickými údaji a konkrétní plnou pasáží k § 4. Sekundární bibliografické stopy nebyly citovány; otázky neuzavřené textem, důvodovou zprávou a judikaturou jsou označeny jako vlastní názor. Tato mezera nebránila poctivému uzavření základního výkladu.",
+  "unverified": [],
+  "author_opinions_added": [
+    "Marg. č. 8 a 11 — význam doložené přípravy reorganizace a meze časové blízkosti jsou označeny jako vlastní skutkové hodnocení.",
+    "Marg. č. 9 — je nutné oddělit odvetu po oznámení od bránění budoucímu oznámení.",
+    "Marg. č. 12 — u smíšených motivů je rozhodující kontrafaktuální test a proporcionalita opatření.",
+    "Marg. č. 13 — hrozba nebo pokus se pod § 4 zahrne jen při objektivní způsobilosti způsobit újmu.",
+    "Marg. č. 32 — vlastní satisfakční nárok svěřenského fondu nelze bez přímého pramene považovat za vyřešený.",
+    "Marg. č. 40 — prevenční povinnost předpokládá reálnou možnost adresáta odvetu ovlivnit.",
+    "Marg. č. 42 — užší výklad blanketní skutkové podstaty § 27 odst. 4 má přednost kvůli určitosti správního trestání.",
+    "Marg. č. 44 — osobní rozsah § 133a odst. 2 OSŘ nelze v horizontálním sporu rozšířit contra legem na přidruženou osobu.",
+    "Marg. č. 47 — z vertikálního přímého účinku směrnice nelze bez dalšího dovodit horizontální povinnost soukromé osoby."
+  ],
+  "open_questions": [
+    "Přímá civilní judikatura k podmínkám § 4 a novému § 133a odst. 2 OSŘ dosud nebyla v povoleném korpusu nalezena.",
+    "Není judikatorně vyřešen vlastní nárok svěřenského fondu na zadostiučinění podle § 5 ani jeho přesná procesní konstrukce.",
+    "Není přímo vyřešen konflikt osobního rozsahu § 27 odst. 4 s blanketním odkazem na § 4 odst. 4.",
+    "Není ověřenou literaturou uzavřen osobní rozsah přenosu důkazního břemene pro osoby podle § 4 odst. 2.",
+    "Odpovědný odborný editor zůstává neurčen."
+  ],
+  "review_results": {
+    "review_1": "pass after corrections; původně 0 BLOCKER, 6 MAJOR a 1 MINOR, všechny vypořádány; konečně 0/0/0",
+    "review_2": "pass after nine minor source or attribution corrections; 29/29 records reopened, 20/20 local SHA verified and 9/9 online full texts checked; konečně 0/0/0",
+    "material_change_returned_to_review_1": false,
+    "source_review_required_new_substantive_return": false
+  },
+  "quality_gate_summary": {
+    "eligible_for_revidovano": true,
+    "passed": 15,
+    "failed": 0,
+    "details_file": "gate_result.json"
+  },
+  "git": {
+    "mode": "BEZ_COMMITU",
+    "commit_created": false,
+    "push_performed": false,
+    "suggested_commit_message": "komentar(§ 4): vymez odvetná opatření, chráněné osoby a procesní ochranu",
+    "suggested_trailers": [
+      "Unit-Key: cz:sb:171-2023:section:4",
+      "Source-SHA256: b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109",
+      "Review-Rounds: 2"
+    ]
+  }
+}

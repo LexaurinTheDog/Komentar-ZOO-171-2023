@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **2 kapitol**, **30 samostatně nadepsaných ustanovení**, **43 modalitních příkladů** a **2 místních karet rozhodnutí**.
+Místní korpus pro tuto mapu tvoří **2 základní kapitolové soubory**, **30 samostatně nadepsaných ustanovení**, **43 modalitních příkladů** a **3 místní karty rozhodnutí**, z nichž jedna zachycuje zrušený rozsudek.
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -22,15 +22,14 @@ Komentář se sám vymezuje jako **Komentář k zákonu č. 171/2023 Sb., o ochr
 Normativní obsah je rozdělen do **2** místních kapitol; rejstřík je výchozím bodem pro určení rozhodného souboru a jeho systematiky.
 Místně zachycené údaje o znění, účinnosti nebo změnách:
 - [Úvod — zákon č. 171/2023 Sb., o ochraně oznamovatelů (ZOO)](00-uvod.md): „Předmět komentáře: Zákon č. 171/2023 Sb., o ochraně oznamovatelů (dále „ZOO" nebo „zákon o whistleblowingu"), nabyl účinnosti 1. srpna 2023 a do českého právního řádu transponoval směrnici Evropského parlamentu a Rady (EU) 2019/1937 ze…“
-- [Postavení ZOO v právním řádu](00-uvod.md): „Vůči obecné úpravě pracovního práva (zákoník práce — zákon č. 262/2006 Sb.) má ZOO povahu lex specialis v rozsahu zákazu odvetných opatření a jejich neplatnosti — odvetná výpověď, odvetné rozvázání DPP/DPČ či odvetné snížení mzdy jsou…“
-- [Novely ZOO](00-uvod.md): „Zákon byl od svého přijetí novelizován:“
-- [Novely ZOO](00-uvod.md): „Zákon č. 31/2024 Sb. — adaptace na nařízení MiCA (Markets in Crypto-Assets, nařízení EU 2023/1114): doplnění § 8 odst. 1 písm. e) bod 8 — režim VOS se vztahuje i na osoby v oblasti kryptoaktiv (vydavatelé tokenů vázaných na aktiva, osoby…“
-- [Novely ZOO](00-uvod.md): „Konsolidované znění k 15. 2. 2025 (verze, podle níž je tento komentář zpracován) — promítá uvedené novely a drobné úpravy v citacích souvisejících zákonů.“
+- [Postavení ZOO v právním řádu](00-uvod.md): ZOO je zvláštní ochrannou normou, ale právní následek odvety se určuje podle povahy konkrétního opatření a jeho soukromoprávního či veřejnoprávního režimu.
+- [Novely ZOO](00-uvod.md): § 8 odst. 1 písm. e) bod 8 a poznámku č. 16 doplnil zákon č. 32/2025 Sb. s účinností od 15. 2. 2025; nejde o zákon č. 31/2024 Sb.
+- [Novely ZOO](00-uvod.md): Aktuálnost konsolidovaného znění byla ověřena k 18. 7. 2026.
 Samostatně označené časové uzly: [Novely ZOO](00-uvod.md); [Lhůty — 7 a 30 dnů (odst. 2, 3)](01-cely-zakon.md); [Lhůty posuzování MSp (odst. 1)](01-cely-zakon.md); [ČÁST PÁTÁ — USTANOVENÍ PŘECHODNÉ A ZÁVĚREČNÉ (§§ 29–30)](01-cely-zakon.md); [§ 29 — Přechodné ustanovení](01-cely-zakon.md); [§ 30 — Účinnost](01-cely-zakon.md).
 Další časové signály v kapitolách:
 - [Úvod — zákon č. 171/2023 Sb., o ochraně oznamovatelů (ZOO)](00-uvod.md): „Předmět komentáře: Zákon č. 171/2023 Sb., o ochraně oznamovatelů (dále „ZOO" nebo „zákon o whistleblowingu"), nabyl účinnosti 1. srpna 2023 a do českého právního řádu transponoval směrnici Evropského parlamentu a Rady (EU) 2019/1937 ze…“
-- [e) Ministerstvo spravedlnosti jako externí kanál a dozor (§§ 13–18, 22)](00-uvod.md): „MSp plní v systému ZOO trojí roli: (i) externí oznamovací kanál — přijímá a posuzuje oznámení přes pověřené zaměstnance, postupuje v zákonných lhůtách 7 / 30 dnů (§§ 16, 17), v případě podezření ze spáchání protiprávního jednání postupuje…“
-- [Novely ZOO](00-uvod.md): „Zákon č. 31/2024 Sb. — adaptace na nařízení MiCA (Markets in Crypto-Assets, nařízení EU 2023/1114): doplnění § 8 odst. 1 písm. e) bod 8 — režim VOS se vztahuje i na osoby v oblasti kryptoaktiv (vydavatelé tokenů vázaných na aktiva, osoby…“
+- [e) Ministerstvo spravedlnosti jako externí kanál, metodický a kontrolní orgán (§§ 13–18, 22)](00-uvod.md): působnost MSp zahrnuje externí kanál, metodiku a zákonem vymezenou kontrolní a sankční agendu; dělbu s inspekcí práce nelze zjednodušit na jediný osobní test.
+- [Novely ZOO](00-uvod.md): změna pro vymezené osoby na trhu kryptoaktiv je účinná od 15. 2. 2025 na základě zákona č. 32/2025 Sb.
 
 **Hloubkový test.**
 - Určete přesné znění předpisu rozhodné pro skutkový stav, nikoli pouze znění platné při psaní komentáře.
@@ -46,12 +45,12 @@ Další časové signály v kapitolách:
 Místní rejstřík zdůrazňuje zejména tyto regulační uzly:
 - Whistleblower Directive — 2019/1937
 - Oznamovatel — FO oznamující protiprávní jednání
-- 3kolejnost: vnitřní oznamovací systém (VOS) / MSp / zveřejnění
-- Příslušná osoba — VOS u zaměstnavatele 50+
-- Zákaz odvetných opatření — § 4 (neplatné)
-- MSp jako externí kanál + dozor
+- oznamovací cesty: VOS / MSp / příslušný orgán veřejné moci; uveřejnění jen za podmínek § 7 odst. 1 písm. c)
+- příslušná osoba — fyzická osoba určená povinným subjektem pro VOS
+- zákaz odvetných opatření — § 4; následek se určuje podle konkrétního opatření
+- MSp jako externí kanál, metodický a dílčí kontrolní orgán
 - Ochrana totožnosti oznamovatele
-- Sankce — až 1 mil. Kč nebo 5 % obratu
+- Sankce podle ZOO — pokuta až 1 mil. Kč
 Zásadové nebo hodnotové uzly rozpoznané v místních dokumentech:
 - Úvod — zákon č. 171/2023 Sb., o ochraně oznamovatelů (ZOO)
 - f) Ochrana totožnosti a evidence (§§ 20, 21)
@@ -67,7 +66,7 @@ Zásadové nebo hodnotové uzly rozpoznané v místních dokumentech:
 Reprezentativní místní formulace:
 - [Úvod — zákon č. 171/2023 Sb., o ochraně oznamovatelů (ZOO)](00-uvod.md): „Předmět komentáře: Zákon č. 171/2023 Sb., o ochraně oznamovatelů (dále „ZOO" nebo „zákon o whistleblowingu"), nabyl účinnosti 1. srpna 2023 a do českého právního řádu transponoval směrnici Evropského parlamentu a Rady (EU) 2019/1937 ze…“
 - [Úvod — zákon č. 171/2023 Sb., o ochraně oznamovatelů (ZOO)](00-uvod.md): „ZOO není procesním ani správním kodexem v klasickém slova smyslu — jde o horizontální průřezovou úpravu, která prostupuje pracovním právem, služebním právem, správním právem trestním (přestupkové právo), právem obchodních korporací a…“
-- [Postavení ZOO v právním řádu](00-uvod.md): „ZOO je transpozičním zákonem — provádí směrnici 2019/1937, jejímž základem je čl. 16 SFEU (sociální politika), čl. 33 SFEU (celní spolupráce), čl. 43 a 50 SFEU (zemědělství, právo společností), čl. 114 SFEU (vnitřní trh) a další právní…“
+- [Postavení ZOO v právním řádu](00-uvod.md): „ZOO je transpozičním zákonem — provádí směrnici 2019/1937, jejímž základem je čl. 16 SFEU (ochrana osobních údajů), čl. 33 SFEU (celní spolupráce), čl. 43 a 50 SFEU (zemědělství, právo společností), čl. 114 SFEU (vnitřní trh) a další právní…“
 
 **Hloubkový test.**
 - Nejprve formulujte regulační problém, poté účel ustanovení a nakonec hodnotu, kterou pravidlo chrání.
@@ -85,7 +84,7 @@ Reprezentativní místní formulace:
 - [Úvod — zákon č. 171/2023 Sb., o ochraně oznamovatelů (ZOO)](00-uvod.md): „Předmět komentáře: Zákon č. 171/2023 Sb., o ochraně oznamovatelů (dále „ZOO" nebo „zákon o whistleblowingu"), nabyl účinnosti 1. srpna 2023 a do českého právního řádu transponoval směrnici Evropského parlamentu a Rady (EU) 2019/1937 ze…“
 - [b) Tři kanály oznamování — „trojkolejnost" (§§ 7, 8, 13)](00-uvod.md): „Vnitřní oznamovací systém zavedený povinným subjektem (§ 8) — typicky zaměstnavatelem s 50+ zaměstnanci, veřejným zadavatelem (s výjimkou obcí pod 10 000 obyvatel a malých veřejnoprávních korporací), regulovanými osobami ve finančním…“
 - [c) Příslušná osoba (§§ 10, 11)](00-uvod.md): „Příslušnou osobou musí povinný subjekt určit konkrétní fyzickou osobu (nikoli orgán či útvar) — bezúhonnou, zletilou, plně svéprávnou (§ 10 odst. 1). Bezúhonnost se posuzuje jak ve vztahu k trestní minulosti (žádný úmyslný trestný čin s…“
-- [e) Ministerstvo spravedlnosti jako externí kanál a dozor (§§ 13–18, 22)](00-uvod.md): „MSp plní v systému ZOO trojí roli: (i) externí oznamovací kanál — přijímá a posuzuje oznámení přes pověřené zaměstnance, postupuje v zákonných lhůtách 7 / 30 dnů (§§ 16, 17), v případě podezření ze spáchání protiprávního jednání postupuje…“
+- [e) Ministerstvo spravedlnosti jako externí kanál, metodický a kontrolní orgán (§§ 13–18, 22)](00-uvod.md): MSp přijímá a posuzuje oznámení, poskytuje metodickou pomoc a vykonává kontrolní a sankční působnost jen v zákonem vymezeném rozsahu.
 Výsledná odpověď musí kumulativně určit věcný, osobní, územní a časový rozsah a až poté vlastní právo, povinnost nebo kompetenci.
 
 **Hloubkový test.**
@@ -207,10 +206,11 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Místní složka obsahuje **2 karet rozhodnutí**; soubor zásad odkazuje na **2 místních karet s použitelnou citací**. Kapitoly obsahují nejméně **3 rozpoznaných citací nebo odkazů na rozhodovací praxi**.
-Orientační rozložení místního judikatorního korpusu: NSS: 2.
+Místní složka obsahuje **3 karty rozhodnutí**, z nichž jedna zachycuje zrušený rozsudek nižšího soudu pouze pro procesní historii.
+Orientační rozložení místního judikatorního korpusu: NSS 2; Městský soud v Praze 1 (zrušeno).
 Reprezentativní místní karty a jejich teze:
-- [8 Ad 14/2024 - 54](judikatura/NSS-8-Ad-14-2024-54.md) (§ 2 — Oznámení): „Pokud tedy dojde k tomu, že osoba ve služebním poměru podle zákona o státní službě učiní oznámení podle ust. § 2 zákona o ochraně oznamovatelů, bude se na ni plně vztahovat ochrana před odvetnými opatřeními podle tohoto zákona, a to i v případě, že…“
+- [8 Ads 100/2025-81](judikatura/NSS-8-Ads-100-2025-81.md) (§§ 2, 4 a 7): ochrana se aktivuje až skutečným oznámením; pouhá příprava nebo pracovní audit nestačí.
+- [8 Ad 14/2024-54](judikatura/NSS-8-Ad-14-2024-54.md): zrušený rozsudek Městského soudu v Praze, uchovaný pouze pro procesní historii.
 - [22 As 19/2025 - 38](judikatura/NSS-22-As-19-2025-38.md) (§ 5 — Právo na přiměřené zadostiučinění): „§ 5 zákona o ochraně oznamovatelů představuje hmotněprávní základ práva oznamovatele na přiměřené zadostiučinění, pokud mu byla odvetným opatřeným opatřením způsobena nemajetková újma na osobnostních právech. Za této situace z ničeho podle…“
 
 **Hloubkový test.**
@@ -226,15 +226,15 @@ Reprezentativní místní karty a jejich teze:
 **Zjištění z místního komentáře.**
 Místní kapitoly výslovně zachycují například tyto právní otázky, námitky nebo slabá místa:
 - [Protiargument: „§ 1 je jen proklamativní, nelze z něj nic vyvozovat." — Neutralizace: ano, ale § 1 určuje hranice působnosti a transpoziční povahu; při výkladu sporných ustanovení slouží jako interpretační vodítko (eurokonformní výklad) a vymezuje, že záběr je širší než minimum směrnice (TČ +…](01-cely-zakon.md)
-- [Protiargument: „Když ČR překročila transpoziční lhůtu, mohl se oznamovatel dovolávat přímého účinku směrnice." — Neutralizace: přímý účinek směrnice působí vertikálně (vůči státu), nikoli horizontálně mezi soukromými osobami; po 1. 8. 2023 je věc nadbytečná, neboť platí transponující zákon.](01-cely-zakon.md)
+- [Předúčinnostní období: po marném uplynutí transpoziční lhůty mohl nastoupit vertikální přímý účinek dostatečně přesných ustanovení směrnice vůči státu, nikoli horizontálně mezi soukromými osobami; účinnost ZOO od 1. 8. 2023 tuto historickou otázku nečiní nadbytečnou.](01-cely-zakon.md)
 - [Slabé místo: hranice 14 oblastí v § 2 odst. 1 písm. d) je interpretačně náročná; § 1 sám neřeší, zda konkrétní porušení do některé oblasti spadá — to je nutné posoudit podle § 2.](01-cely-zakon.md)
 - [Protiargument: „Uchazeč není v žádném vztahu k organizaci, nemůže být oznamovatelem." — Neutralizace: § 2 odst. 4 výslovně zahrnuje ucházení se o práci; odpovídá to čl. 4 směrnice 2019/1937, který chrání i osoby ve fázi náboru.](01-cely-zakon.md)
 - [Protiargument: „Informace nezískal při výkonu práce, ale jako účastník řízení — chybí pracovní kontext." — Neutralizace: kontext je dán právě účastí ve výběrovém řízení, která je formou ucházení se; získání informací o protiprávnosti v této fázi je chráněno (srov. i § 3 odst. 2 o jednání při…](01-cely-zakon.md)
-- [Slabé místo: obtížné prokázání kauzality mezi oznámením a pozdější újmou (zařazení na neformální „blacklist"); presumpci kauzality podle čl. 21 odst. 5 směrnice je nutné dovozovat eurokonformně, ZOO ji výslovně nezakotvuje.](01-cely-zakon.md)
+- [Slabé místo: § 133a odst. 2 OSŘ upravuje zvláštní důkazní režim jen pro žalobce, který tvrdí odvetu proto, že je oznamovatelem; textově jej automaticky nerozšiřuje na osoby podle § 4 odst. 2 a nepřenáší důkaz jejich statusu, oznámení ani újmy.](01-cely-zakon.md)
 - [Protiargument: „Zkopírování klientských dat je vždy porušením bankovního tajemství a GDPR." — Neutralizace: § 3 odst. 1 výslovně stanoví, že oznámení při oprávněných důvodech není porušením bankovního tajemství; zpracování dat za účelem oznámení má právní titul (plnění právní povinnosti /…](01-cely-zakon.md)
 - [Protiargument: „Hranice mezi shromažďováním důkazů a počítačovou kriminalitou je nejasná, zaměstnanec riskuje trestní stíhání." — Neutralizace: ano, riziko existuje; rozhodující je, zda zaměstnanec jednal v mezích svého legitimního přístupu a proporcionálně; aktivní pronikání do cizích systémů…](01-cely-zakon.md)
 - [Slabé místo: standard „oprávněné důvody se domnívat" je objektivně-subjektivní a v konkrétním sporu se hodnotí ex post; oznamovatel nese riziko, že soud shledá rozsah získaných dat za nepřiměřený.](01-cely-zakon.md)
-- [Protiargument: „ZOO nezakotvuje obrácené důkazní břemeno, oznamovatel musí kauzalitu prokázat sám." — Neutralizace: čl. 21 odst. 5 směrnice presumpci kauzality vyžaduje; soudy ji dovozují eurokonformním výkladem; bez ní by ochrana byla iluzorní (důkazní nouze oznamovatele).](01-cely-zakon.md)
+- [Protiargument: „ZOO samo nezakotvuje obrácené důkazní břemeno." — Upřesnění: procesní pravidlo obsahuje § 133a odst. 2 OSŘ, vložený zákonem č. 172/2023 Sb.; jeho rozsah a vstupní břemena se musí vykládat podle přesného textu.](01-cely-zakon.md)
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu.
@@ -247,10 +247,10 @@ Místní kapitoly výslovně zachycují například tyto právní otázky, námi
 ## 11. Systematické, ústavní, evropské a kolizní vazby
 
 **Zjištění z místního komentáře.**
-Místní rejstřík popisuje systematické vazby takto: ZP 262/2006, 234/2014 (státní služba), AML 253/2008, GDPR 110/2019.
+Místní rejstřík popisuje systematické vazby takto: zákoník práce č. 262/2006 Sb., zákon č. 234/2014 Sb., o státní službě, AML zákon č. 253/2008 Sb., přímo použitelné nařízení GDPR (EU) 2016/679 a český zákon č. 110/2019 Sb., o zpracování osobních údajů.
 Výslovně propojené komentáře nebo předpisové celky:
 - ZP 262/2006
-- GDPR 110/2019
+- GDPR — nařízení (EU) 2016/679; česká adaptační úprava — zákon č. 110/2019 Sb.
 Další místní uzly systematiky: [Vztah k AML zákonu č. 253/2008 Sb.](01-cely-zakon.md); [Vztah k bezúhonnosti](01-cely-zakon.md).
 
 **Hloubkový test.**

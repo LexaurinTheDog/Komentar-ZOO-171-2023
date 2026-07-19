@@ -1,0 +1,582 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "gap_analysis",
+  "unit_key": "cz:sb:171-2023:section:5",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-5-20260718-zpl-v1",
+  "created_at": "2026-07-18T16:51:30+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_target_blob": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_worktree_file_sha256": "4ff443926d36376bb20b9d1d18b122e9104afc4acbadf6bce8d622522726252d",
+    "pre_revision_worktree_file_blob": "cf55e03bdb1949d69b53ede7e04fca47e92916c1",
+    "pre_revision_section_sha256": "69fbd30aa16fdee7f0ff335d3d969a662f3a68f78567152afc180b621229934a",
+    "local_statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "scope": {
+    "statute": "zákon č. 171/2023 Sb., o ochraně oznamovatelů",
+    "provision": "§ 5 — Právo na přiměřené zadostiučinění",
+    "target_file": "/home/vojtech/Komentar-ZOO-171-2023/01-cely-zakon.md",
+    "baseline_lines": "525–594",
+    "pre_revision_worktree_lines": "826–895",
+    "next_heading": "### § 6 — Vzdání se ochrany před odvetným opatřením",
+    "online_verification_scope": "výhradně www.zakonyprolidi.cz",
+    "excluded": "jiná ustanovení, jejich komentáře a nesouvisející uživatelské změny"
+  },
+  "substantive_gap_analysis_performed": true,
+  "preflight": {
+    "repository": "/home/vojtech/Komentar-ZOO-171-2023",
+    "branch": "main",
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_target_blob": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_worktree_file_sha256": "4ff443926d36376bb20b9d1d18b122e9104afc4acbadf6bce8d622522726252d",
+    "pre_revision_worktree_file_blob": "cf55e03bdb1949d69b53ede7e04fca47e92916c1",
+    "pre_revision_section_sha256": "69fbd30aa16fdee7f0ff335d3d969a662f3a68f78567152afc180b621229934a",
+    "target_heading": "### § 5 — Právo na přiměřené zadostiučinění",
+    "baseline_anchor": "01-cely-zakon.md:525",
+    "pre_revision_worktree_anchor": "01-cely-zakon.md:826",
+    "anchor_is_unique": true,
+    "is_group_heading": false,
+    "target_section_same_as_head": true,
+    "preexisting_change_before_target": "dokončené revize §§ 1–4 před kotvou § 5",
+    "overlap_with_preexisting_user_change": false,
+    "exact_statutory_source_identified": true,
+    "result": "bezpečné pokračovat pouze v hranicích § 5"
+  },
+  "quality_text_preserved_and_integrated": [
+    "Přesné znění obou vět § 5.",
+    "Základní závěr, že § 5 je samostatným soukromoprávním základem přiměřeného zadostiučinění za nemajetkovou újmu způsobenou odvetným opatřením.",
+    "Správné zahrnutí oznamovatele i osob chráněných podle § 4 odst. 2, po doplnění podmínek § 4 odst. 3 a § 7.",
+    "Správný postřeh, že zákon nestanoví tarif ani výpočtový vzorec a že zadostiučinění může mít peněžitou i nepeněžitou formu.",
+    "Oddělení čistě majetkové újmy od působnosti § 5 a upozornění na možný souběh dalších nároků, po přesném určení jejich právního základu a podmínek.",
+    "Modelová situace OSVČ, seznam typických důkazů a varianta objektivního smluvního důvodu, budou-li odstraněny automatické skutkové závěry a rozlišena majetková a nemajetková újma.",
+    "Závěr rozsudku NSS č. j. 22 As 19/2025-38 o soukromoprávní povaze nároku a civilní pravomoci, bude-li parafrázován z ověřeného plného textu."
+  ],
+  "quality_findings_summary": {
+    "BLOCKER": 4,
+    "MAJOR": 18,
+    "MINOR": 4
+  },
+  "factual_or_legal_errors": [
+    {
+      "severity": "BLOCKER",
+      "baseline_issue": "Text přisuzuje § 2956 občanského zákoníku pravidlo, podle něhož lze nemajetkovou újmu odčinit jen při výslovném zákonném příkazu, a toto pravidlo navíc gramaticky komolí.",
+      "correction": "Výslovný zvláštní zákonný nebo smluvní základ vyžaduje § 2894 odst. 2 občanského zákoníku. § 2956 upravuje odčinění újmy vzniklé člověku zásahem do jeho přirozených práv; není obecným základem nároku právnických osob ani zdrojem požadavku výslovného zákonného příkazu."
+    },
+    {
+      "severity": "BLOCKER",
+      "baseline_issue": "§ 269 zákoníku práce je označen za obecnou odpovědnost zaměstnavatele za škodu způsobenou zaměstnanci, včetně ztráty na výdělku, bolestného a ztížení společenského uplatnění.",
+      "correction": "§ 269 zákoníku práce je součástí zvláštní úpravy pracovních úrazů a nemocí z povolání. Obecnou újmu z odvety je nutno podřadit podle skutku zejména § 265 zákoníku práce nebo občanskému právu a zdravotní následky nesměšovat s obecným pracovněprávním režimem."
+    },
+    {
+      "severity": "BLOCKER",
+      "baseline_issue": "Komentář opakovaně tvrdí, že přiznávané částky budou řádově desítky až stovky tisíc korun, avšak neuvádí žádné ověřené rozhodnutí k § 5 ani konkrétní srovnatelný skutkový základ.",
+      "correction": "Neověřený peněžní interval odstranit. K 18. 7. 2026 nebyla nalezena publikovaná meritorní civilní judikatura k výši zadostiučinění podle § 5; lze popsat pouze individualizovaná kritéria a povinnost přesně formulovat peněžitý petit."
+    },
+    {
+      "severity": "BLOCKER",
+      "baseline_issue": "§ 31a zákona č. 82/1998 Sb. je prezentován jako běžný souběžný základ pokaždé, když oznamovatelem je veřejný funkcionář nebo zasahuje stát.",
+      "correction": "Zákon č. 82/1998 Sb. dopadá jen na újmu při výkonu veřejné moci nezákonným rozhodnutím nebo nesprávným úředním postupem a vyžaduje splnění vlastních hmotných i procesních podmínek. Samotná totožnost veřejného zaměstnavatele nebo oznamovatele nestačí."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Podmínky nároku jsou redukovány na existenci chráněné osoby, odvetného opatření a obecně pojaté újmy.",
+      "correction": "Vyložit kvalifikované oznámení a podmínky ochrany podle § 7, status chráněné osoby podle § 4 odst. 2 a 3, existenci odvetného opatření podle § 4, skutečný vznik nemajetkové újmy a obě příčinné vazby: oznámení–opatření a opatření–újma."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Text nerozlišuje, že pro zákaz odvety podle § 4 postačuje objektivní způsobilost opatření způsobit újmu, zatímco doslovné znění § 5 vyžaduje, aby nemajetková újma byla skutečně způsobena.",
+      "correction": "U § 5 trvat na prokázání skutečně vzniklé nemajetkové újmy a nepřenášet na něj obecnou judikaturu k pouhé způsobilosti zásahu do osobnosti; ohrožení bez vzniklé újmy může zakládat jiné prostředky ochrany, nikoli samo o sobě satisfakci podle § 5."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Komentář mlčky předpokládá odpovědnost bez zavinění, aniž by se vypořádal s návazností § 2894 odst. 2 na pravidla náhrady škody a s absencí přímé judikatury.",
+      "correction": "Otázku zavinění označit za nevyřešenou. Představit textový argument pro samostatnou skutkovou podstatu § 5 a systematický argument pro obdobné použití odpovědnostních pravidel občanského zákoníku; případné řešení výslovně označit jako vlastní názor."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Právnické osoby jsou zahrnuty jen implicitně a bez vysvětlení povahy jejich nemajetkové újmy; svěřenský fond podle § 4 odst. 2 písm. h) není řešen vůbec.",
+      "correction": "Samostatně vyložit výslovné zahrnutí právnických osob, konkrétní projevy újmy na jejich fungování, účelu, důvěryhodnosti a vztazích a oddělit je od čistě ekonomické ztráty. U svěřenského fondu popsat konflikt jazykového zahrnutí a absence právní osobnosti; aktivní legitimaci ani procesní konstrukci neprezentovat jako ustálenou."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "§ 5 nepojmenovává žalovaného, přesto komentář neřeší původce opatření, jednání orgánu, zaměstnance či jiného pomocníka ani více škůdců.",
+      "correction": "Doplnit pasivní legitimaci s oporou v účelu § 4 odst. 4, důvodové zprávě a §§ 167, 2914 a 2915 občanského zákoníku. Rozlišit zaměstnance jednajícího bez excesu, jiného pomocníka, orgán právnické osoby a veřejnou moc; nepředstírat přímou judikaturu k § 5."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Formy zadostiučinění jsou zmíněny jen heslovitě a chybí pořadí podle § 2951 odst. 2 i procesní požadavky na petit.",
+      "correction": "Vyložit naturální formy, zejména omluvu, zveřejnění nebo deklaratorní satisfakci, a peněžité zadostiučinění, nestačí-li jiný způsob. Peněžitou částku i text omluvy musí žalobce formulovat určitě; soud omluvu za žalobce nevytváří."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Prevenční účinek vůči odpůrci je bez rozlišení uváděn jako kritérium výše, což může sugerovat české punitive damages.",
+      "correction": "Směrnice a důvodová zpráva vyžadují účinnou a odrazující ochranu, ale zadostiučinění zůstává kompenzační. Odrazující účinek nelze bez přímé opory proměnit v samostatnou sankční přirážku; výše musí odpovídat konkrétní újmě a okolnostem."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Důkazní část neuvádí § 133a odst. 2 občanského soudního řádu ani meze jeho účinku.",
+      "correction": "Vysvětlit dvoufázové pravidlo pro žalobce-oznamovatele: po osvědčení skutečností nasvědčujících odvetě musí žalovaný prokázat objektivně odůvodněný, přiměřený a nezbytný důvod. Zvláštní pravidlo nepřesouvá důkaz skutečného vzniku nemajetkové újmy, vazby opatření–újma, výše ani pasivní legitimace. Textový dosah na osoby podle § 4 odst. 2 zůstává otevřený."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Neplatnost odvetného právního jednání je uváděna jako automatický souběžný prostředek.",
+      "correction": "Rozlišit faktický zásah a právní jednání, §§ 580, 586 a 588 občanského zákoníku a zvláštní pracovní nebo služební režimy. § 5 sám právní jednání neruší, neobnovuje pracovní či služební poměr a nestaví zvláštní lhůty."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Praktická část nezpracovává prekluzivní dvouměsíční lhůtu k napadení skončení pracovního poměru ani tříměsíční lhůtu k úpravě pracovního posudku.",
+      "correction": "Doplnit §§ 69–72 a § 315 zákoníku práce a výslovně upozornit, že satisfakční žaloba podle § 5 tyto samostatné prostředky ani lhůty nenahrazuje."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Chybí oddělení civilního nároku podle § 5 od opravného prostředku a správní žaloby proti služebnímu rozhodnutí.",
+      "correction": "Navázat na rozsudek NSS č. j. 22 As 19/2025-38: satisfakce je soukromoprávní, zatímco zrušení či změna služebního aktu se sleduje ve zvláštním správním a správně-soudním režimu po vyčerpání opravných prostředků."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Komentář neřeší věcnou a místní příslušnost, předběžné opatření ani způsobilost svěřenského fondu být účastníkem.",
+      "correction": "Uvést obecnou civilní pravomoc, okresní soud podle § 9 odst. 1 OSŘ a možnou výjimku § 9 odst. 2 písm. i) jen tehdy, je-li spor právnické osoby svou povahou věcí ochrany názvu a pověsti; doplnit §§ 84–87 a §§ 74–76 OSŘ. U svěřenského fondu ponechat procesní řešení otevřené a nepřiznat mu bez opory účastenství."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Chybí promlčení nároku a okamžik počátku běhu u pokračující či opakované odvety.",
+      "correction": "Prověřit §§ 619, 620, 629 a 636 občanského zákoníku, subjektivní tříletou a objektivní desetiletou, při úmyslu patnáctiletou lhůtu a výjimky z objektivního stropu; u více opatření posoudit jednotlivé újmy a okamžiky vědomosti samostatně."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Zákon č. 82/1998 Sb. je zmíněn bez předběžného uplatnění, promlčení, správného žalovaného a rozdílu mezi státem a územním samosprávným celkem.",
+      "correction": "Rozpracovat nezákonné rozhodnutí a nesprávný úřední postup, podmínky §§ 7–8 a 13, postup podle §§ 6, 14–15, § 31a, § 32 odst. 3 a § 35 a samostatnou úpravu územních celků v §§ 19–22. Druhá věta § 5 zvláštní podmínky zachovává, nezakládá automatický souběh ani dvojí odčinění."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Chybí soudní poplatek a text sugeruje, že podnět správnímu orgánu může plnit individuální satisfakční funkci.",
+      "correction": "Uvést položky 3 až 5 sazebníku, absenci obecného osvobození pro oznamovatele a možnost individuálního osvobození podle § 138 OSŘ. Správní sankce je od individuálního civilního zadostiučinění oddělena."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Intertemporální část zcela chybí a neuvádí, zda byl § 5 novelizován.",
+      "correction": "Uvést účinnost od 1. 8. 2023, absenci zvláštního přechodného pravidla k § 5 a ověřit, že zákon č. 32/2025 Sb. změnil pouze § 8 odst. 1, nikoli § 5. Závěr o neaplikaci na dokončenou odvetu před účinností označit jako vlastní názor; opatření po účinnosti navazující na starší oznámení ponechat jako otevřenou otázku."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Doklady o ztracených zakázkách jsou bez rozlišení používány jako důkaz nemajetkové újmy a její výše.",
+      "correction": "Ztracené zakázky primárně dokládají majetkovou škodu nebo ušlý zisk. Pro § 5 je třeba samostatně prokázat nepeněžní dopad; stejný následek nelze odčinit dvakrát pod různými označeními."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Modelová subsumpce automaticky označuje odstoupení od smlouvy i veřejné prohlášení za odvetu bez zjištění motivu, kvalifikovaného oznámení, původce, příčinných vazeb a skutečné nemajetkové újmy.",
+      "correction": "Model zachovat jen jako hypotézu. Vést jej přes všechny kumulativní podmínky, připustit objektivní smluvní důvod a oddělit dokazování odvety, nemajetkové újmy, majetkové škody a přičitatelnosti jednání konkrétnímu žalovanému."
+    },
+    {
+      "severity": "MINOR",
+      "baseline_issue": "Komentář nemá závaznou strukturu úplného komentáře ani oddělené části pro související ustanovení, předpisy, důvodovou zprávu, literaturu a tematicky členěnou judikaturu.",
+      "correction": "Přestavět § 5 do závazného pořadí oddílů při zachování kvalitních původních pasáží."
+    },
+    {
+      "severity": "MINOR",
+      "baseline_issue": "Výkladové odstavce nemají souvislá a jedinečná marginální čísla.",
+      "correction": "Použít souvislou řadu [1] až [41] a sladit s ní přehled výkladu."
+    },
+    {
+      "severity": "MINOR",
+      "baseline_issue": "Stejné chybné teze o § 2956, částkovém rozpětí a souběhu se opakují v úvodu, kazuistice, protiargumentech i praktickém závěru.",
+      "correction": "Každý problém vyložit jednou, odstranit duplicity a modelovou situaci ponechat pouze jako aplikaci již vysvětlených pravidel."
+    },
+    {
+      "severity": "MINOR",
+      "baseline_issue": "Rozsudek NSS je převzat dlouhou doslovnou citací s překlepem a odkazem mimo uživatelem povolený online zdroj.",
+      "correction": "Nosný závěr parafrázovat vlastními slovy z plného textu na www.zakonyprolidi.cz a uvést přesné body 15–21."
+    }
+  ],
+  "paraphrase_without_interpretive_value": [
+    "Obecný seznam peněžité a nepeněžité satisfakce bez pořadí podle § 2951 odst. 2, kritérií přiměřenosti a požadavků na petit.",
+    "Výčet souběžných nároků bez oddělení jejich skutkových podstat, žalovaných, lhůt a procesních cest.",
+    "Checklist opakující doslovné podmínky § 5 bez kvalifikace oznámení, dvou kauzálních vazeb, pasivní legitimace a důkazního režimu.",
+    "Obecná zmínka o ustálené judikatuře Nejvyššího soudu bez identifikace rozhodnutí, plného textu, skutkového kontextu a přesného locatoru."
+  ],
+  "existing_material_citations": [
+    {
+      "citation_as_written": "NSS 22 As 19/2025-38 ze dne 21. 8. 2025",
+      "status": "materiálně ověřeno, způsob převzetí a URL je nutno opravit",
+      "finding": "Plný text v bodech 15–21 potvrzuje hmotněprávní soukromoprávní povahu nároku a civilní pravomoc; nerozhoduje však o splnění podmínek, výši ani pasivní legitimaci. Dlouhá citace obsahuje překlep a míří mimo povolenou doménu."
+    },
+    {
+      "citation_as_written": "§ 2956 občanského zákoníku",
+      "status": "opakovaně nesprávně použitý locator",
+      "finding": "Požadavek zvláštního zákonného nebo smluvního základu plyne z § 2894 odst. 2; § 2956 se týká újmy člověka na přirozených právech."
+    },
+    {
+      "citation_as_written": "§ 31a zákona č. 82/1998 Sb.",
+      "status": "ověřeno, ale nepřípustně zobecněno",
+      "finding": "Jde o formy zadostiučinění uvnitř zvláštního režimu odpovědnosti při výkonu veřejné moci; použitelnost vyžaduje splnit také ostatní podmínky zákona."
+    },
+    {
+      "citation_as_written": "§ 269 zákoníku práce",
+      "status": "nesprávný obecný základ",
+      "finding": "Ustanovení upravuje pracovní úrazy a nemoci z povolání, nikoli obecně každou újmu způsobenou zaměstnavatelem zaměstnanci."
+    },
+    {
+      "citation_as_written": "§ 81 a násl. občanského zákoníku a ustálená judikatura Nejvyššího soudu",
+      "status": "zákonná úprava ověřena, judikatura neidentifikována",
+      "finding": "Obecný odkaz nelze ponechat jako materiální citaci; jednotlivé teze je nutno opřít o konkrétní plné texty a vysvětlit jejich jen podpůrnou použitelnost pro nový § 5."
+    },
+    {
+      "citation_as_written": "§ 72 zákoníku práce",
+      "status": "ověřeno, ale neúplně vysvětleno",
+      "finding": "Zakládá samostatnou prekluzivní dvouměsíční cestu k určení neplatnosti skončení pracovního poměru; § 5 ji nenahrazuje ani nestaví."
+    }
+  ],
+  "missing_topics": [
+    "Normativní role § 5 jako zvláštního zákonného základu podle § 2894 odst. 2 občanského zákoníku a meze použití § 2956.",
+    "Kumulativní podmínky nároku včetně kvalifikovaného oznámení, ochrany podle § 4 odst. 2 a 3, obou příčinných vazeb a skutečné nemajetkové újmy.",
+    "Otevřená otázka zavinění a vztah samostatné skutkové podstaty § 5 k obecným odpovědnostním pravidlům.",
+    "Nemajetková újma člověka, její individuální projevy a důkazní prostředky.",
+    "Výslovné zahrnutí právnických osob a rozdíl mezi jejich nemajetkovou újmou a ekonomickou ztrátou.",
+    "Svěřenský fond jako chráněný majetkový soubor bez právní osobnosti a nevyřešená aktivní legitimace i procesní konstrukce.",
+    "Pasivní legitimace původce odvety, přičtení jednání orgánu, zaměstnance či jiného pomocníka a více škůdců.",
+    "Naturální a peněžité formy zadostiučinění, subsidiarita peněz a zákaz sankční přirážky bez zákonné opory.",
+    "Individualizovaná kritéria přiměřenosti bez neověřeného částkového tarifu.",
+    "Přesný peněžitý petit a přesný text omluvy nebo zveřejnění.",
+    "Zvláštní důkazní pravidlo § 133a odst. 2 OSŘ a jeho věcná i osobní omezení.",
+    "Oddělení satisfakce od majetkové škody, ušlého zisku, neplatnosti a veřejnoprávní sankce; zákaz dvojího odčinění stejného následku.",
+    "Druhá věta § 5 a zvláštní podmínky zákona č. 82/1998 Sb., pracovního práva a služebních předpisů.",
+    "Civilní pravomoc a oddělená správní cesta proti služebnímu rozhodnutí.",
+    "Věcná a místní příslušnost, předběžné opatření a jistota.",
+    "Promlčení satisfakce, pracovní prekluze a služební opravné a žalobní lhůty.",
+    "Soudní poplatky a absence automatického osvobození oznamovatele.",
+    "Vztah k antidiskriminační žalobě jen při současné existenci chráněného diskriminačního důvodu.",
+    "Účinnost, absence přechodného pravidla k § 5 a neexistence novelizačního bodu měnícího § 5.",
+    "Směrnicový požadavek úplné a účinné nápravy, předběžné ochrany a důkazního pravidla bez automatického založení punitive damages.",
+    "Modelová situace vedená přes podmínky nároku, obranu objektivním důvodem, důkazy, petit, lhůty a volbu žalovaného."
+  ],
+  "source_gaps": [
+    {
+      "gap": "K § 5 není v místním korpusu dostupná odborná literatura s plným textem, ověřenou bibliografií a konkrétním locatorem.",
+      "effect": "Odkazy na komentáře převzaté z bodů 18 a 19 rozsudku NSS lze evidovat jen jako sekundární bibliografické stopy; oddíl Literatura musí zdrojovou mezeru přiznat a nesmí jim připisovat další teze.",
+      "blocking": false
+    },
+    {
+      "gap": "Nebyla nalezena publikovaná meritorní civilní judikatura přímo aplikující § 5 na skutkový stav a určující výši zadostiučinění.",
+      "effect": "Nelze uvádět částkové rozpětí ani tvrdit ustálená kritéria specifická pro odvetu; obecná judikatura se použije jen podpůrně a s vysvětlením rozdílného normativního kontextu.",
+      "blocking": false
+    },
+    {
+      "gap": "Nebyla nalezena přímá judikatura k pasivní legitimaci, zavinění, osobnímu rozsahu § 133a odst. 2 OSŘ ani k právnické osobě podle § 5.",
+      "effect": "Výklad musí transparentně odlišit zákonný text, systematickou argumentaci a vlastní názor; žádnou z těchto otázek nelze označit za judikatorně uzavřenou.",
+      "blocking": false
+    },
+    {
+      "gap": "Nebyl nalezen plný odborný text ani rozhodnutí řešící právo na zadostiučinění svěřenského fondu podle § 5.",
+      "effect": "Jazykový argument z § 4 odst. 2 písm. h) a teleologický argument ochrany fondu musí být postaven proti absenci právní osobnosti a nejasné procesní konstrukci; konečné řešení nelze prezentovat jako ustálené.",
+      "blocking": false
+    }
+  ],
+  "novelization_and_intertemporal_gaps": [
+    "Chybí účinnost § 5 od 1. 8. 2023 a výslovné konstatování, že zákon neobsahuje zvláštní přechodné ustanovení k tomuto nároku.",
+    "Chybí vazba novela → změnový bod → změněné ustanovení: zákon č. 32/2025 Sb., čl. XIX bod 1 vypustil spojku v § 8 odst. 1 písm. e) bodu 6 a bod 2 doplnil nový bod 8 a poznámku č. 16 s účinností od 15. 2. 2025; § 5 nezměnil.",
+    "Chybí rozlišení data oznámení, data odvetného opatření a data vzniku nemajetkové újmy.",
+    "Chybí výslovně označené vlastní stanovisko k dokončené odvetě před 1. 8. 2023 a otevřená otázka opatření po účinnosti navazujícího na starší oznámení.",
+    "Chybí vysvětlení, že procesní novela zákonem č. 172/2023 Sb. vložila zvláštní důkazní pravidlo a předběžnou služební ochranu, aniž by měnila znění § 5."
+  ],
+  "practical_and_procedural_gaps": [
+    "Chybí volba konkrétní formy satisfakce a přesný peněžitý či omluvný petit.",
+    "Chybí rozdělení důkazního břemena pro odvetu a důkazu skutečné nemajetkové újmy, jejího rozsahu, druhé kauzální vazby a pasivní legitimace.",
+    "Chybí identifikace správného žalovaného podle toho, zda jednal orgán, zaměstnanec, jiný pomocník, stát nebo územní samosprávný celek při výkonu veřejné moci.",
+    "Chybí okresní či výjimečně krajská věcná příslušnost, místní příslušnost a předběžné opatření včetně výjimky z jistoty.",
+    "Chybí promlčení podle občanského zákoníku a samostatné prekluzivní či správní lhůty pro odstranění samotného odvetného opatření.",
+    "Chybí podmínky uplatnění nároku podle zákona č. 82/1998 Sb. a rozdíl mezi státem a územním samosprávným celkem.",
+    "Chybí sazebník soudních poplatků a možnost individuálního osvobození.",
+    "Chybí varování, že § 5 nezruší výpověď, neobnoví služební poměr, neupraví pracovní posudek a nenahradí odvolání ani správní žalobu.",
+    "Model neodděluje důkazy ušlého zisku od důkazů nepeněžního dopadu a neřeší riziko dvojího odčinění."
+  ],
+  "structure_deviations": [
+    "Úroveň nadpisu ### odpovídá záměrné hierarchii společného souboru repozitáře a nepředstavuje věcnou vadu; závaznou rubriku je však třeba zachovat beze změny.",
+    "Chybí revizní řádek se stavem a rozhodným datem.",
+    "Znění není v oddílu Znění ustanovení.",
+    "Chybí Přehled výkladu, Souvisící ustanovení a Souvisící předpisy.",
+    "Chybí oddíly Z důvodové zprávy a Literatura.",
+    "Výklad nemá marginální čísla a směšuje hmotné právo, kazuistiku a praktické poznámky.",
+    "Judikatura stojí před výkladem a není tematicky členěna.",
+    "Text opakuje stejné teze v několika částech a nevede k použitelným křížovým odkazům."
+  ],
+  "positive_research_log": [
+    {
+      "source": "aktuální a historické znění zákona č. 171/2023 Sb. v místním snapshotu a na www.zakonyprolidi.cz",
+      "result": "Ověřeno přesné znění § 5, účinnost od 1. 8. 2023, vazby na §§ 4, 6 a 7 a aktuální časová verze účinná od 15. 2. 2025."
+    },
+    {
+      "source": "zákon č. 32/2025 Sb., čl. XIX body 1 a 2 a čl. XXII",
+      "result": "Ověřeno, že změnový bod 1 vypustil spojku v dosavadním bodu 6 a změnový bod 2 doplnil § 8 odst. 1 písm. e) bod 8 a poznámku č. 16 s účinností od 15. 2. 2025; § 5 se novela nedotkla."
+    },
+    {
+      "source": "důvodová zpráva, obecná část k důkaznímu břemenu a zvláštní část k §§ 4 a 5",
+      "result": "Ověřen účel satisfakce, soukromoprávní odpovědnost původce odvety, zahrnutí osob podle § 4 odst. 2 a zachování zvláštních podmínek jiných předpisů; překlep ve výčtu písm. a) až h) koriguje přijaté znění zákona."
+    },
+    {
+      "source": "směrnice (EU) 2019/1937, čl. 4, 19 a 21 a body 93–96 odůvodnění",
+      "result": "Ověřen osobní rozsah, zákaz odvety, účinná a úplná náprava, předběžná ochrana a důkazní pravidlo; směrnice sama nepředepisuje českému soudu sankční peněžní přirážku."
+    },
+    {
+      "source": "rozsudek NSS ze dne 21. 8. 2025, č. j. 22 As 19/2025-38, body 15–21",
+      "result": "Přímo potvrzuje, že právo podle § 5 je hmotněprávní soukromoprávní nárok projednávaný v civilním soudnictví; služební rozhodnutí se napadá oddělenou správní cestou."
+    },
+    {
+      "source": "nález ÚS ze dne 15. 1. 2025, sp. zn. Pl. ÚS 26/24, zejména body 44–52, 62–71 a 119–127",
+      "result": "Ověřena možnost vzniku majetkové i nemajetkové újmy právnické osoby, nutnost účinné ochrany její pověsti a odlišení ekonomických následků od nemajetkového dopadu."
+    },
+    {
+      "source": "rozsudek velkého senátu NS ze dne 18. 6. 2025, sp. zn. 31 Cdo 1145/2025, body 17–26, a rozsudek NS ze dne 27. 8. 2025, sp. zn. 23 Cdo 1366/2025, body 13–27",
+      "result": "Ověřeno překonání R 66/2022 a současná možnost právnické osoby domáhat se přiměřeného zadostiučinění za zásah do pověsti; pro § 5 jde jen o podpůrný výklad povahy právnické osoby, protože § 5 obsahuje vlastní výslovný základ."
+    },
+    {
+      "source": "usnesení NS ze dne 3. 9. 2025, sp. zn. 25 Cdo 3133/2023, body 14–27",
+      "result": "Ověřena individualizace formy zadostiučinění a možnost, že při menší intenzitě postačí omluva; nepodporuje pevný částkový tarif k § 5."
+    },
+    {
+      "source": "usnesení NS ze dne 4. 1. 2023, sp. zn. 25 Cdo 3247/2021",
+      "result": "Ověřeno, že text omluvy musí být dostatečně konkrétní, jasný a určitý a soud jej za žalobce nekoncipuje."
+    },
+    {
+      "source": "rozsudek NS ze dne 26. 10. 2021, sp. zn. 25 Cdo 1029/2021, R 51/2022, a usnesení NS ze dne 25. 9. 2024, sp. zn. 25 Cdo 132/2024",
+      "result": "Ověřena pravidla § 2914: zaměstnavatel odpovídá výlučně za zaměstnance, který z nedbalosti nevybočí z rámce závislé práce; u jiných pomocníků obecně může být přímý nárok proti pomocníkovi i hlavní osobě."
+    },
+    {
+      "source": "usnesení NS ze dne 27. 9. 2023, sp. zn. 21 Cdo 1118/2023, a navazující usnesení ÚS ze dne 11. 1. 2024, sp. zn. II. ÚS 3286/23",
+      "result": "Dodatečná pramenná oponentura ověřila podpůrnou předzákonnou aplikaci čl. 21 odst. 5 směrnice: prokázané vyšší pracovní nasazení srovnávané zaměstnankyně bylo řádně odůvodněným důvodem rozdílu v osobním příplatku. Rozhodnutí neaplikovalo § 5 ani § 133a odst. 2 OSŘ; ústavní stížnost byla odmítnuta pro neodstraněné vady bez meritorního přezkumu."
+    },
+    {
+      "source": "občanský zákoník, OSŘ, zákoník práce, zákon č. 82/1998 Sb., služební předpisy a sazebník soudních poplatků",
+      "result": "Ověřeny obecné hmotněprávní a procesní normy pro formu satisfakce, přičtení, promlčení, zvláštní podmínky, příslušnost, důkazní břemeno, předběžnou ochranu, lhůty a poplatky."
+    },
+    {
+      "source": "www.zakonyprolidi.cz, plné texty všech použitých rozhodnutí a aktuální znění ZOO k 18. 7. 2026",
+      "result": "Online kontrola v povoleném rozsahu potvrdila soud, druh rozhodnutí, datum, spisovou značku, ECLI či publikaci, skutkový kontext a přesný dosah použitelných závěrů."
+    }
+  ],
+  "negative_research_log": [
+    {
+      "searched": "judikatura k § 5 zákona č. 171/2023 Sb. na www.zakonyprolidi.cz a v místním korpusu",
+      "result": "Kromě rozsudku NSS č. j. 22 As 19/2025-38 nebylo do 18. 7. 2026 nalezeno publikované rozhodnutí přímo aplikující § 5; uvedený rozsudek řeší pravomoc, nikoli meritum, výši či žalovaného. Usnesení 21 Cdo 1118/2023 použilo čl. 21 odst. 5 směrnice v předzákonném diskriminačním sporu a bylo zařazeno jen jako podpůrný pramen k legitimnímu důvodu opatření."
+    },
+    {
+      "searched": "civilní rozhodnutí k výši zadostiučinění za odvetu, k pasivní legitimaci a k zavinění podle § 5",
+      "result": "Nebyl nalezen ověřený meritorní rozsudek; částkové rozmezí a kategorický odpovědnostní standard proto nelze uvést."
+    },
+    {
+      "searched": "judikatura k právnické osobě a svěřenskému fondu jako osobě chráněné § 5",
+      "result": "Nebyla nalezena přímá aplikace § 5. Obecná judikatura Pl. ÚS 26/24, 31 Cdo 1145/2025 a 23 Cdo 1366/2025 podporuje pouze povahu nemajetkové újmy právnických osob; svěřenský fond neřeší."
+    },
+    {
+      "searched": "judikatura k § 133a odst. 2 OSŘ u žaloby podle § 5 a k jeho použití osobami podle § 4 odst. 2",
+      "result": "Nebyla nalezena publikovaná meritorní aplikace; osobní mez textu na žalobce, který je oznamovatelem, zůstává otevřená."
+    },
+    {
+      "searched": "rozsudky správních soudů 5 As 5/2024-36, 8 Ads 100/2025-81, 3 As 309/2023-83 a nižší služební věci",
+      "result": "Řeší kvalifikované oznámení, odvetu nebo přezkum služebního rozhodnutí, nikoli meritorní podmínky satisfakce podle § 5; pro § 5 mohou sloužit jen k vymezení předběžné otázky odvety nebo oddělené procesní cesty."
+    },
+    {
+      "searched": "rozsudek NS ze dne 30. 11. 2021, sp. zn. 23 Cdo 327/2021, R 66/2022",
+      "result": "Jeho závěr, že právnická osoba nemá za samotný zásah do pověsti právo na přiměřené zadostiučinění, byl překonán nálezem Pl. ÚS 26/24 a rozsudkem velkého senátu 31 Cdo 1145/2025; jako současná autorita nebude použit."
+    },
+    {
+      "searched": "místní literatura k § 5 včetně bibliografických stop Nulíček a kol. a Vlachová a kol. z bodů 18–19 rozsudku NSS č. j. 22 As 19/2025-38",
+      "result": "Plné pasáže komentářů nebyly v místním korpusu dostupné; sekundární citace NSS nestačí k ověření literatury a nebude vydávána za samostatně ověřený literární pramen."
+    }
+  ],
+  "research_needed_and_completed": [
+    "Porovnáno aktuální a historické znění § 5 s místním snapshotem a online zněním na povolené doméně.",
+    "Ověřeno, že § 5 je od 1. 8. 2023 beze změny a novela č. 32/2025 Sb. změnila pouze § 8 odst. 1.",
+    "Prověřeny vazby na §§ 4, 6 a 7 ZOO a rozdíl mezi zákazem odvety a nárokem na satisfakci za skutečnou nemajetkovou újmu.",
+    "Prověřena původní důvodová zpráva k § 5 i obecná část k důkaznímu břemenu a zvláštní část k § 4.",
+    "Otevřen a ověřen plný text rozsudku NSS č. j. 22 As 19/2025-38 v povoleném online zdroji.",
+    "Prověřena aktuální judikatura ÚS a NS k nemajetkové újmě právnických osob včetně překonání R 66/2022.",
+    "Prověřena judikatura NS k formám zadostiučinění, omluvnému petitu a přičtení jednání zaměstnance či jiného pomocníka.",
+    "Prověřeny §§ 2894, 2951, 2956, 2914 a 2915 občanského zákoníku a související pravidla osobnosti, neplatnosti a promlčení.",
+    "Prověřeny civilní pravomoc, věcná a místní příslušnost, předběžné opatření, dokazování, § 133a odst. 2 a § 138 OSŘ.",
+    "Prověřeny pracovní prekluzivní lhůty, pracovní posudek a zvláštní služební opravné a žalobní lhůty.",
+    "Prověřeny zvláštní podmínky zákona č. 82/1998 Sb. včetně rozdílu mezi státem a územním samosprávným celkem.",
+    "Prověřeny soudní poplatky a vztah k antidiskriminační ochraně.",
+    "Vyhledána přímá meritorní judikatura k § 5 a zaznamenán negativní výsledek mimo jedinou procesní autoritu NSS.",
+    "Vyhledána ověřitelná literatura s konkrétním locatorem a zaznamenána zdrojová mezera.",
+    "Navržena úplná struktura 41 marginálních odstavců pokrývající hmotněprávní, osobní, odpovědnostní, intertemporální a procesní otázky."
+  ],
+  "source_sufficiency_conclusion": {
+    "result": "prameny jsou pro úplnou opatrnou věcnou revizi § 5 dostatečné",
+    "reasoning": "Úplné zákonné znění, důvodová zpráva, směrnice, navazující hmotněprávní a procesní předpisy i jediná přímá judikatura k povaze nároku jsou dostupné a ověřené. Chybějící přímá meritorní judikatura, literatura a prameny ke svěřenskému fondu, zavinění a osobnímu rozsahu § 133a odst. 2 jsou materiální zdrojové mezery, ale lze je poctivě přiznat a ponechat otázky otevřené namísto vytvoření neověřeného závěru.",
+    "status_effect": "Není dán důvod pro stav blokováno-prameny; konečný stav revidováno zůstává podmíněn úplnou revizí textu, označením vlastních názorů, oběma oponenturami a splněním všech quality gates."
+  },
+  "blockers": [],
+  "proposed_41_margin_outline": [
+    {
+      "marginal": 1,
+      "topic": "Normativní účel § 5 a zvláštní zákonný základ podle § 2894 odst. 2 občanského zákoníku."
+    },
+    {
+      "marginal": 2,
+      "topic": "Kumulativní podmínky práva na zadostiučinění."
+    },
+    {
+      "marginal": 3,
+      "topic": "Kvalifikované oznámení, § 7 a ochrana oznamovatele."
+    },
+    {
+      "marginal": 4,
+      "topic": "Osoby podle § 4 odst. 2 písm. a) až h) a jejich vlastní právo."
+    },
+    {
+      "marginal": 5,
+      "topic": "Anonymní oznámení a okamžik ochrany podle § 4 odst. 3."
+    },
+    {
+      "marginal": 6,
+      "topic": "Odvetné opatření a první příčinná vazba oznámení–opatření."
+    },
+    {
+      "marginal": 7,
+      "topic": "Skutečný vznik nemajetkové újmy oproti pouhé způsobilosti způsobit újmu podle § 4."
+    },
+    {
+      "marginal": 8,
+      "topic": "Druhá příčinná vazba opatření–nemajetková újma a oddělení majetkové škody."
+    },
+    {
+      "marginal": 9,
+      "topic": "Nemajetková újma člověka a její konkrétní projevy."
+    },
+    {
+      "marginal": 10,
+      "topic": "Důkaz nemajetkové újmy člověka bez automatismu ani tarifu."
+    },
+    {
+      "marginal": 11,
+      "topic": "Otevřená otázka zavinění a vlastní stanovisko autora."
+    },
+    {
+      "marginal": 12,
+      "topic": "Výslovné zahrnutí chráněné právnické osoby do § 5."
+    },
+    {
+      "marginal": 13,
+      "topic": "Povaha nemajetkové újmy právnické osoby a oddělení ekonomické ztráty."
+    },
+    {
+      "marginal": 14,
+      "topic": "Důkaz újmy právnické osoby na fungování, účelu, důvěryhodnosti a vztazích."
+    },
+    {
+      "marginal": 15,
+      "topic": "Svěřenský fond: jazykový a teleologický argument pro ochranu."
+    },
+    {
+      "marginal": 16,
+      "topic": "Svěřenský fond: absence právní osobnosti a nevyřešená aktivní legitimace."
+    },
+    {
+      "marginal": 17,
+      "topic": "Opatrné vlastní stanovisko a procesní riziko u svěřenského fondu."
+    },
+    {
+      "marginal": 18,
+      "topic": "Původce odvetného opatření a pasivní legitimace."
+    },
+    {
+      "marginal": 19,
+      "topic": "Přičtení jednání orgánu právnické osoby podle § 167 občanského zákoníku."
+    },
+    {
+      "marginal": 20,
+      "topic": "Zaměstnanec bez excesu a výlučná odpovědnost zaměstnavatele podle judikatury k § 2914."
+    },
+    {
+      "marginal": 21,
+      "topic": "Jiný pomocník, hlavní osoba a případné společné zavázání podle §§ 2914–2915."
+    },
+    {
+      "marginal": 22,
+      "topic": "Formy zadostiučinění a subsidiarita peněžitého plnění podle § 2951 odst. 2."
+    },
+    {
+      "marginal": 23,
+      "topic": "Individualizovaná přiměřenost, kompenzační funkce a zákaz neověřeného částkového tarifu."
+    },
+    {
+      "marginal": 24,
+      "topic": "Peněžitý petit, přesný text omluvy, zveřejnění a deklaratorní satisfakce."
+    },
+    {
+      "marginal": 25,
+      "topic": "§ 133a odst. 2 OSŘ a první fáze důkazu odvety oznamovatelem."
+    },
+    {
+      "marginal": 26,
+      "topic": "Obrana žalovaného legitimním, přiměřeným a nezbytným důvodem."
+    },
+    {
+      "marginal": 27,
+      "topic": "Meze přesunu důkazního břemena a otevřený dosah na odvozeně chráněné osoby."
+    },
+    {
+      "marginal": 28,
+      "topic": "Souběh s majetkovou škodou, zákaz dvojího odčinění a neautomatická neplatnost."
+    },
+    {
+      "marginal": 29,
+      "topic": "Pracovněprávní prostředky, § 72 a § 315 zákoníku práce."
+    },
+    {
+      "marginal": 30,
+      "topic": "Druhá věta § 5 a zvláštní režim zákona č. 82/1998 Sb."
+    },
+    {
+      "marginal": 31,
+      "topic": "Antidiskriminační ochrana jen při samostatném chráněném důvodu."
+    },
+    {
+      "marginal": 32,
+      "topic": "Civilní pravomoc podle rozsudku NSS č. j. 22 As 19/2025-38."
+    },
+    {
+      "marginal": 33,
+      "topic": "Oddělený opravný prostředek a správní soudní přezkum služebního rozhodnutí."
+    },
+    {
+      "marginal": 34,
+      "topic": "Věcná a místní příslušnost civilního soudu."
+    },
+    {
+      "marginal": 35,
+      "topic": "Předběžné opatření, obsah návrhu a výjimka z jistoty."
+    },
+    {
+      "marginal": 36,
+      "topic": "Promlčení satisfakce podle občanského zákoníku."
+    },
+    {
+      "marginal": 37,
+      "topic": "Pracovní prekluze a služební opravné a žalobní lhůty."
+    },
+    {
+      "marginal": 38,
+      "topic": "Soudní poplatky a individuální osvobození."
+    },
+    {
+      "marginal": 39,
+      "topic": "Účinnost, intertemporalita a absence změny § 5 novelou č. 32/2025 Sb."
+    },
+    {
+      "marginal": 40,
+      "topic": "Modelová situace OSVČ s objektivní smluvní obranou a oddělením druhů újmy."
+    },
+    {
+      "marginal": 41,
+      "topic": "Praktický checklist: podmínky, žalovaný, důkazy, petit, lhůty a souběžné procesní cesty."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "gate_result",
+  "unit_key": "cz:sb:171-2023:section:3",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-3-20260718-zpl-v1",
+  "created_at": "2026-07-18T15:14:17+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_file_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_file_blob_oid": "db343185ff950cad21c9451b48b7f947ec48f9d6",
+    "pre_revision_file_sha256": "c8335592ccc77255c037191dec49aa20605a178bdf43899289400114c51a5607",
+    "pre_revision_section_sha256": "8a98461e62c0a0aa3c369a1a4e2700c62ebf4a713a4614c7b155c853a40e66ea",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "output_hashes": {
+    "comment_file_sha256": "7478c863389f2ee563b9290cd1efceb982a89933979bed24dd86931058a9a6ca",
+    "comment_file_blob_oid": "291e0f94d4ee230564780258894f1488fceb6ec4",
+    "section_sha256": "4c751ad94ecd887a76a95484090b0446e2c2b7fb3eddb97999ee76cea0f28eaf"
+  },
+  "eligible_for_revidovano": true,
+  "final_status": "revidováno",
+  "comment_mutation_allowed": true,
+  "blocker": null,
+  "gates": [
+    {
+      "gate": "Znění a časová verze jsou ověřeny",
+      "status": "pass",
+      "reason": "Místní snapshot SB-2023-00171_2025-02-15 a aktuální verze 2 na ZPL se shodují; historie potvrzuje, že § 3 je od účinnosti 1. 8. 2023 beze změny a k 18. 7. 2026 je součástí verze účinné od 15. 2. 2025."
+    },
+    {
+      "gate": "Zdrojové soubory a jejich SHA odpovídají ledgeru",
+      "status": "pass",
+      "reason": "Pramenná oponentura znovu otevřela všech 43 záznamů, opravila jednu cestu a dva hashe zpravodajských zákonů a cíleně potvrdila konečnou shodu všech místních SHA-256."
+    },
+    {
+      "gate": "Každá existující i nová materiální citace je ověřena",
+      "status": "pass",
+      "reason": "Z plných textů bylo ověřeno devět analogicky použitých rozhodnutí včetně soudu, druhu, data, značky, ECLI nebo publikace, kontextu, nosného závěru, časové verze a přesně omezené relevance."
+    },
+    {
+      "gate": "Nezůstává materiální NEOVĚŘENO",
+      "status": "pass",
+      "reason": "Ledger obsahuje 43 ověřených záznamů a žádný neověřený nebo nepoužitý; komentář neobsahuje značku NEOVĚŘENO."
+    },
+    {
+      "gate": "Každé netriviální tvrzení má pramen nebo označený vlastní názor",
+      "status": "pass",
+      "reason": "Tvrzení jsou navázána na 43 ledgerových záznamů; sporné závěry o nezbytnosti, lex specialis, oddělitelnosti, bezprostřednosti, větším rozsahu, zpravodajské výluce, intertemporalitě a důkazním břemenu jsou výslovně označeny jako vlastní názor."
+    },
+    {
+      "gate": "Povinné oddíly jsou úplné a ve správném pořadí",
+      "status": "pass",
+      "reason": "Znění, přehled, souvisící ustanovení a předpisy, důvodová zpráva, literatura, výklad a judikatura jsou úplné a ve stanoveném pořadí. Nadpisy jsou relativně posunuty o jednu úroveň, protože ## je v repozitáři vyhrazeno částem zákona."
+    },
+    {
+      "gate": "Marginální čísla jsou souvislá a jedinečná",
+      "status": "pass",
+      "reason": "Automatická kontrola potvrdila přesnou posloupnost 1–46 bez mezery a duplicity; přehled výkladu odpovídá tematickým rozsahům."
+    },
+    {
+      "gate": "Relevantní výkladové metody byly skutečně provedeny",
+      "status": "pass",
+      "reason": "Text porovnává jazyk tří odstavců a jejich výjimek, systematiku § 2, § 4, § 7 a zvláštních předpisů, legislativní historii a účel čl. 3 a 21 i bodů 91–92 a 97–98 odůvodnění směrnice."
+    },
+    {
+      "gate": "Sporné otázky obsahují konkurenční názory i vlastní závěr",
+      "status": "pass",
+      "reason": "Marg. č. 4, 18, 22, 31, 33–36, 40 a 44 podávají konkurenční jazykové, systematické, historické a eurokonformní argumenty, praktické důsledky a výslovné vlastní stanovisko."
+    },
+    {
+      "gate": "Novely, účinnost a přechodná pravidla jsou vyřešeny",
+      "status": "pass",
+      "reason": "Je doložena nezměněnost § 3 od 1. 8. 2023, jediná novela ZOO měnící pouze § 8, předzákonné období směrnice, zákaz zpětného zániku již vzniklé odpovědnosti a přechod kritické infrastruktury podle § 30 zákona č. 266/2025 Sb."
+    },
+    {
+      "gate": "Praktická a procesní dimenze je konkrétní nebo odůvodněna",
+      "status": "pass",
+      "reason": "Marg. č. 43–46 řeší povahu § 3 jako obrany, navazující petit a lhůtu, fórum a poplatek, § 75b a § 120 OSŘ, sporné důkazní rozdělení, trestní a přestupkové dokazování i aplikovatelný bankovní model a checklist."
+    },
+    {
+      "gate": "Oponentura 1 nezanechala BLOCKER ani MAJOR",
+      "status": "pass",
+      "reason": "Po šesti nezávislých věcných průchodech bylo všech sedm MAJOR a pět MINOR zapracováno; nový úplný průchod skončil BLOCKER 0, MAJOR 0, MINOR 0."
+    },
+    {
+      "gate": "Oponentura 2 znovu ověřila všechny prameny",
+      "status": "pass",
+      "reason": "Nezávislá pramenná oponentura otevřela 43/43 záznamů, opravila čtyři evidenční nebo locatorové vady, znovu je ověřila a skončila 43 PASS, 0 FAIL, BLOCKER 0, MAJOR 0, MINOR 0."
+    },
+    {
+      "gate": "Diff neobsahuje nesouvisející změny",
+      "status": "pass",
+      "reason": "Před revizí byl § 3 shodný s HEAD; po revizi se změnil jen blok § 3, zatímco obsah od § 4 do konce zůstal bitově shodný s baseline a dříve dokončené revize §§ 1–2 byly zachovány. Git diff --check je čistý."
+    },
+    {
+      "gate": "Revizní zpráva a návrh commit message jsou hotové",
+      "status": "pass",
+      "reason": "Revision_report.json obsahuje všechny povinné části, návrh commit message a trailers; režim BEZ_COMMITU byl zachován."
+    }
+  ],
+  "summary": {
+    "passed": 15,
+    "failed": 0,
+    "not_run": 0
+  }
+}

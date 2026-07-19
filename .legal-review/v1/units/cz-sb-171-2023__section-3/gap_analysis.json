@@ -1,0 +1,195 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "gap_analysis",
+  "unit_key": "cz:sb:171-2023:section:3",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-3-20260718-zpl-v1",
+  "created_at": "2026-07-18T14:30:00+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_file_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_file_sha256": "c8335592ccc77255c037191dec49aa20605a178bdf43899289400114c51a5607",
+    "pre_revision_section_sha256": "8a98461e62c0a0aa3c369a1a4e2700c62ebf4a713a4614c7b155c853a40e66ea",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "scope": "full_substantive_gap_analysis_of_section_3",
+  "substantive_gap_analysis_performed": true,
+  "preflight": {
+    "repository": "/home/vojtech/Komentar-ZOO-171-2023",
+    "branch": "main",
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "target_file": "/home/vojtech/Komentar-ZOO-171-2023/01-cely-zakon.md",
+    "target_heading": "### § 3 — Výjimky z porušení smluvní nebo zákonné povinnosti a informace, jejichž oznámení se za oznámení nepovažuje",
+    "baseline_lines": "241–369",
+    "pre_revision_worktree_lines": "349–477",
+    "next_heading": "### § 4 — Odvetná opatření",
+    "anchor_unambiguous": true,
+    "group_heading": false,
+    "target_section_unchanged_from_head_before_run": true,
+    "preexisting_target_file_change": "dokončené revize §§ 1–2 před kotvou § 3",
+    "conflict_with_user_changes": false,
+    "exact_statute_source_identified": true
+  },
+  "quality_text_preserved_and_integrated": [
+    "Základní identifikace kolize oznamování s bankovní, smluvní, daňovou a profesní mlčenlivostí.",
+    "Správné rozlišení samotného oznámení a předchozího získávání podkladů, po věcném zpřesnění jejich rozdílných podmínek.",
+    "Taxonomie sedmi bezpečnostních zájmů, zpravodajských služeb a zpovědního tajemství, po odstranění nepodložených alternativních kanálů.",
+    "Model interního auditora banky a důkazní checklist zaměřený na pracovní roli, logy, rozsah dat a obsah oznámení.",
+    "Myšlenka objektivizovaného standardu rozumného přesvědčení, doplněná o ex ante hledisko a oddělení od § 7 odst. 3."
+  ],
+  "factual_or_legal_errors": [
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Výjimky odstavce 1 byly směšeny s negativním vymezením odstavce 3 a všechny označeny za absolutní.",
+      "correction": "Rozlišeny tři samostatné právní mechanismy a následky; u odstavce 1 je zachována možnost zproštění či zvláštní zákonné výjimky."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Standard pravdivosti podle § 7 odst. 3 byl zaměněn za nezbytnost podle § 3.",
+      "correction": "Podmínky byly odděleny a obě zasazeny do kumulativního testu ochrany."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Text požadoval vždy přístup jen v mezích běžné pracovní náplně.",
+      "correction": "Doplněn bod 92 odůvodnění směrnice: chráněn může být i neobvyklý přístup či kopie, nejde-li o trestný čin a postup je nezbytný a přiměřený."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "§ 178 trestního zákoníku byl nesprávně označen za porušení tajemství dopravovaných zpráv a byl citován neexistující § 232a.",
+      "correction": "Opraveny skutkové podstaty §§ 178, 180, 182–183, 230 a 316–318; výčet je výslovně jen typový."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Trestný čin při získání podkladů byl prezentován jako automatická ztráta ochrany následného oznámení.",
+      "correction": "Oddělena odpovědnost za způsob získání od povahy a ochrany následného řádného oznámení."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Výluka právní pomoci byla bez opory rozšířena na znalce a tlumočníky.",
+      "correction": "Výluka je vázána na právní pomoc v konkrétním řízení; zachovány pouze důvodovou zprávou podložené příklady daňového a patentového poradce."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Profesní mlčenlivost byla podána jako osobní status bez vazby na chráněnou činnost.",
+      "correction": "Doplněn funkční test původu informace a příklady z důvodové zprávy."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Daňový průlom byl bez korekce vykládán podle užšího vládního návrhu.",
+      "correction": "Historická důvodová zpráva byla porovnána s širším přijatým § 2 odst. 1 a její zastaralé omezení odmítnuto."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "§ 303 zákoníku práce byl vydáván za obecnou mlčenlivost všech zaměstnanců.",
+      "correction": "Vymezen jeho omezený osobní rozsah a oddělen od smluvní i jiné zákonné mlčenlivosti."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "GDPR bylo redukováno na automatický titul plnění povinnosti nebo oprávněného zájmu.",
+      "correction": "Výslovně zachována použitelnost GDPR a nutnost určit titul, účel, roli správce, minimalizaci, zabezpečení a případně čl. 9."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Byly uváděny nepodložené generické alternativní kanály NÚKIB, GIBS, vojenské inspekce nebo NKÚ.",
+      "correction": "Neověřené kanály odstraněny; text pouze vysvětluje, že jiné povinnosti či režimy mohou existovat a musejí být určeny podle zvláštního předpisu."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Chyběla oddělitelnost vyloučené části sdělení a důsledky pro smíšené podání.",
+      "correction": "Doplněn textový, systematický a praktický test separace a redakce."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Kritická infrastruktura byla popsána bez aktuálního zákona č. 266/2025 Sb. a jeho přechodných pravidel.",
+      "correction": "Doplněna definice účinná k rozhodnému dni i skončení obecného a trvání individuálního přechodu."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Citace Heinisch proti Německu a neurčené judikatury SDEU nebyly ověřeny z plného textu ani propojeny s konkrétním tvrzením.",
+      "correction": "Odstraněny; nahrazeny osmi plnými rozhodnutími s přesně omezenou analogickou použitelností."
+    }
+  ],
+  "paraphrase_without_interpretive_value": [
+    "Původní přehled profesních a bezpečnostních položek z velké části pouze opakoval zákonné znění.",
+    "Kazuistika mechanicky uzavírala, že běžné přístupové oprávnění vždy vylučuje § 230 trestního zákoníku.",
+    "Závěrečné bloky F až H opakovaly obecné teze bez oddělení právních následků jednotlivých odstavců."
+  ],
+  "existing_material_citations": [
+    "§ 38 zákona č. 21/1992 Sb. a § 52 a násl. daňového řádu",
+    "§ 303 zákoníku práce",
+    "čl. 6 odst. 1 písm. a) a čl. 21 odst. 7 směrnice (EU) 2019/1937",
+    "zákony č. 412/2005 Sb. a č. 240/2000 Sb.",
+    "zákony č. 85/1996 Sb., č. 372/2011 Sb. a profesní zákony uvedené v poznámkách 6 až 10",
+    "směrnice 2009/81/ES a zákony č. 153/1994 Sb., č. 154/1994 Sb. a č. 289/2005 Sb.",
+    "§ 7 odst. 1 písm. e) zákona č. 3/2002 Sb. a čl. 16 Listiny",
+    "§§ 178 a 230 trestního zákoníku a neexistující § 232a",
+    "§ 18 zákona č. 253/2008 Sb. bez doložené relevance",
+    "Heinisch proti Německu a neurčená judikatura Soudního dvora bez locatoru"
+  ],
+  "missing_topics": [
+    "tři rozdílné normativní následky odstavců 1 až 3",
+    "kumulativní vztah k §§ 2, 4 a 7 a rozdíl mezi pravdivostí a nezbytností",
+    "ex ante standard rozumného přesvědčení a konkurenční pojetí nezbytnosti",
+    "oddělené hodnocení oznámení a způsobu získání každého podkladu",
+    "vlastní důvod pomocníka podle § 4 odst. 2 písm. a) až h)",
+    "podmínka, že získaná informace se později materiálně stane obsahem oznámení",
+    "zachování výluk odstavce 1 při aplikaci odstavce 2",
+    "obchodní tajemství, autorské právo a přesné meze ochrany osobních údajů",
+    "oddělitelnost části oznámení podle odstavce 3 a odvetné opatření u smíšeného podání",
+    "test bezprostředního ohrožení a taxativnost bezpečnostních zájmů",
+    "aktuální kritická infrastruktura a informační systém veřejné správy",
+    "výjimka pro unijně regulované obranné a bezpečnostní zakázky",
+    "konkurenční výklady informací o činnosti zpravodajských služeb",
+    "přesné funkční vymezení zpovědního tajemství",
+    "vztah k povinnostem překazit a oznámit trestný čin",
+    "anonymní podání, účinnost, přechodné otázky a předzákonné období směrnice",
+    "absence vlastního petitu, lhůty, příslušnosti a poplatku a meze § 133a odst. 2 OSŘ"
+  ],
+  "source_gaps": [
+    "Nebyla nalezena literatura s ověřitelnými bibliografickými údaji a konkrétní úplnou pasáží k § 3; žádný doktrinální názor nebyl domyšlen.",
+    "V povoleném místním a online korpusu nebylo nalezeno české rozhodnutí přímo aplikující nebo vykládající § 3 ZOO; použitá judikatura je výslovně omezena na analogické otázky.",
+    "Aktuální individuální přechod konkrétního subjektu kritické infrastruktury nelze bez jeho rozhodnutí zjistit; komentář proto vysvětluje obecné i individuální pravidlo, nikoli stav určité osoby."
+  ],
+  "novelization_and_intertemporal_gaps": [
+    "§ 3 je beze změny od 1. 8. 2023; zákon č. 32/2025 Sb. změnil jen § 8 odst. 1 písm. e).",
+    "Původní text neřešil podklady získané před 1. 8. 2023, již vzniklé soukromé nároky ani odvetu po účinnosti.",
+    "Před 1. 8. 2023 chybělo rozlišení eurokonformního výkladu a vertikálního přímého účinku směrnice od nepřípustného horizontálního účinku.",
+    "Od 19. 8. 2025 se změnil předpis vymezující kritickou infrastrukturu; obecný přechod skončil 17. 7. 2026 a individuální přechod může pokračovat."
+  ],
+  "practical_and_procedural_gaps": [
+    "Chyběla metodika separace platné a vyloučené části oznámení.",
+    "Chyběla přesná důkazní mapa pracovních oprávnění, logů, inventáře dat, časové osy a obsahu oznámení.",
+    "Původní bankovní model přeceňoval běžný pracovní přístup a nesprávně spojoval trestné získání s úplným zánikem ochrany.",
+    "Chyběla absence samostatného nároku, petitu, lhůty, příslušnosti a poplatku podle § 3.",
+    "Chyběly meze obráceného důkazního břemene a pravidlo jistoty pro předběžné opatření."
+  ],
+  "structure_deviations": [
+    "Chyběl revizní banner, samostatné ověřené znění s poznámkami 5 až 13, přehled, souvislosti, důvodová zpráva, literatura a ověřená judikatura.",
+    "Výklad neměl jedinečná souvislá marginální čísla a jeden problém nebyl důsledně oddělen do jednoho odstavce.",
+    "Nadpis ustanovení zůstává na úrovni ###, protože úroveň ## je v repozitáři vyhrazena částem zákona a zachovává se hierarchie celého souboru."
+  ],
+  "negative_research_log": [
+    "Hledáno plnotextově v místním korpusu judikatury podle citace zákona č. 171/2023 Sb., výrazů § 3, bankovní tajemství, získávání informací, chráněný oznamovatel a odvetné opatření; přímé rozhodnutí k § 3 nenalezeno.",
+    "Na www.zakonyprolidi.cz hledány kombinace zákon 171/2023 § 3, oznamovatel mlčenlivost, whistleblower bankovní tajemství, získávání podkladů a zpravodajská služba; nalezena pouze analogická rozhodnutí uvedená v ledgeru.",
+    "Místní literatura prohledána podle označení ZOO, zákona č. 171/2023 Sb., § 3 a whistleblowing; nebyla nalezena úplná ověřitelná pasáž s bibliografickými údaji.",
+    "Prověřeny původní i novelizační materiály; novela č. 32/2025 Sb. § 3 nemění a samostatná novelizační důvodová zpráva k němu proto není."
+  ],
+  "research_needed_and_completed": [
+    "aktuální a historické znění § 3 včetně poznámek 5 až 13",
+    "původní důvodová zpráva a jediná novela ZOO",
+    "směrnice (EU) 2019/1937, směrnice 2016/943/EU, směrnice 2009/81/ES a čl. 346 SFEU",
+    "bankovní, záloženská, daňová, profesní, zdravotní a krizová mlčenlivost",
+    "trestné činy relevantní pro způsob získání podkladů",
+    "obchodní tajemství, autorské právo, GDPR a procesní předpisy",
+    "bezpečnostní, zpravodajské, církevní a ústavní souvislosti",
+    "aktuální zákon o kritické infrastruktuře a jeho přechodná pravidla",
+    "plné texty osmi analogicky použitelných rozhodnutí a negativní rešerše přímé judikatury",
+    "negativní rešerše ověřitelné literatury"
+  ],
+  "blockers": []
+}

@@ -1,0 +1,333 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "source_ledger",
+  "unit_key": "cz:sb:171-2023:section:1",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-1-20260718-zpl-v2",
+  "created_at": "2026-07-18T12:14:11+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "before_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "before_file_sha256": "1f4ca5b7e65c3065ed1e66f04e4d845eb560e9ca0ad570538bebb4457c7edc25",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "records": [
+    {
+      "claim_id": "TXT-001",
+      "typ_pramene": "znění předpisu — oficiální místní snapshot",
+      "identifikace_pramene": "e-Sbírka, zákon č. 171/2023 Sb., identifikátor SB-2023-00171_2025-02-15, verze účinná od 15. 2. 2025",
+      "cesta_nebo_url": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2023/171-2023 Zákon o ochraně oznamovatelů.md",
+      "sha256_pokud_existuje": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109",
+      "přesný_locator": "frontmatter ř. 2–14; § 1 ř. 27–37; poznámka č. 1 ř. 669",
+      "tvrzení_které_pramen_podporuje": "Přesné znění, rubrika, transpoziční odkaz, legislativní zkratky a časová verze reprodukovaná v komentáři na ř. 13–23.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "CUR-001",
+      "typ_pramene": "aktuální a historická znění předpisu — online konsolidace",
+      "identifikace_pramene": "Zákony pro lidi, zákon č. 171/2023 Sb., aktuální verze 2 účinná od 15. 2. 2025 a historie verzí",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/cs/2023-171; https://www.zakonyprolidi.cz/cs/2023-171/historie",
+      "sha256_pokud_existuje": null,
+      "přesný_locator": "údaje o vyhlášení a účinnosti; přepínač Aktuální znění 15.02.2025 (verze 2); § 1 a poznámka č. 1; historie verzí 0, 1 a 2",
+      "tvrzení_které_pramen_podporuje": "Ke dni 18. 7. 2026 je účinná verze od 15. 2. 2025; § 1 a poznámka č. 1 se od vyhlášení nezměnily a jedinou vyhlášenou novelou ZOO je zákon č. 32/2025 Sb.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "ZOO-OPER-001",
+      "typ_pramene": "znění předpisu — navazující ustanovení",
+      "identifikace_pramene": "zákon č. 171/2023 Sb., operativní ustanovení navazující na § 1",
+      "cesta_nebo_url": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2023/171-2023 Zákon o ochraně oznamovatelů.md",
+      "sha256_pokud_existuje": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109",
+      "přesný_locator": "§ 2 ř. 39–105; § 4 odst. 1 až 4 ř. 157–209; § 5 ř. 211–215; § 7 ř. 231–249; §§ 13–18 ř. 399–481; §§ 20–22 ř. 493–533; § 28 ř. 645–649; §§ 29–30 ř. 655–665",
+      "tvrzení_které_pramen_podporuje": "Systematické mapování písmen a) až c), rozšíření ochrany na osoby podle § 4 odst. 2, odložený vznik ochrany u anonymního oznámení podle § 4 odst. 3, vnitrostátní rozšíření věcného záběru, vznik ochrany včetně § 7 odst. 2 a 3, konkrétní působnost ministerstva a přechodné a účinnostní závěry v marg. č. 1–4, 6, 8, 9, 11, 13, 17 a 18.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "EU-001",
+      "typ_pramene": "právní předpis Evropské unie",
+      "identifikace_pramene": "směrnice Evropského parlamentu a Rady (EU) 2019/1937, CELEX 32019L1937, online verze 7 ze dne 30. 12. 2024",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/pravoeu/dokument?celex=32019L1937; /home/vojtech/Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Directives/2019/32019L1937.md",
+      "sha256_pokud_existuje": "c3038c6f494bb98cc8ca061228a664e2372c50ebe0f243e2d3e911952da32d62",
+      "přesný_locator": "čl. 1; čl. 2 odst. 1 a 2; čl. 3 odst. 1; čl. 4 odst. 1 a 4; čl. 6 odst. 1; čl. 10; čl. 21 odst. 1, 5 a 6; čl. 25; čl. 26 odst. 1 až 3; místní úplný text zejména čl. 1 ř. 2324–2331, čl. 2 ř. 2336–2564, čl. 25 ř. 4657–4671 a čl. 26 ř. 4677–4715",
+      "tvrzení_které_pramen_podporuje": "Minimální harmonizace, možnost vnitrostátního rozšíření, přednost povinných odvětvových pravidel, podmínky ochrany, rozšíření ochranných opatření na související osoby, procesní opatření a transpoziční lhůty v marg. č. 4–7, 10, 13, 15 a 16.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "DZ-001",
+      "typ_pramene": "důvodová zpráva",
+      "identifikace_pramene": "Poslanecká sněmovna Parlamentu ČR, sněmovní tisk 352, 9. volební období, důvodová zpráva k návrhu ZOO",
+      "cesta_nebo_url": "/home/vojtech/Komentar-ZOO-171-2023/DUVODOVA-ZPRAVA.md",
+      "sha256_pokud_existuje": "fb863ee8bb5386e7e2c859bc4d01dd0c5100d52199f5653d4949969f07dbe156",
+      "přesný_locator": "provenience ř. 1–6; obecná část ř. 98–135; transpozice a infringement ř. 143–150; zvláštní část K § 1 ř. 2074–2104",
+      "tvrzení_které_pramen_podporuje": "Účel a tři osy § 1, role ministerstva, obecná a zvláštní transpoziční lhůta a řízení č. 2022/0043 zahájené 27. 1. 2022.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "NOV-001",
+      "typ_pramene": "novelizační předpis",
+      "identifikace_pramene": "zákon č. 32/2025 Sb.",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/cs/2025-32; /home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2025/32-2025 Zákon, kterým se mění některé zákony v souvislosti s implementací předpisů Evropské unie v oblasti digitalizace finančního trhu a financování udržitelnosti.md",
+      "sha256_pokud_existuje": "e53b1fe6d98717d5674c9a6472906d8c69ff8092486932c2409ea721f382afc8",
+      "přesný_locator": "část devatenáctá, čl. XIX body 1 a 2 (místní ř. 1009–1021); čl. XXII (místní ř. 1307–1315)",
+      "tvrzení_které_pramen_podporuje": "Novela změnila pouze § 8 odst. 1 písm. e), doplnila bod 8 a poznámku č. 16 a pro tuto část nabyla účinnosti 15. 2. 2025; § 1 nezměnila a nemá pro něj přechodné pravidlo.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "NOV-DZ-001",
+      "typ_pramene": "novelizační důvodová zpráva",
+      "identifikace_pramene": "důvodová zpráva k návrhu později vyhlášenému jako zákon č. 32/2025 Sb.",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/media2/file/2404/File66776.pdf?attachment-filename=7789657-2024-04-17-duvodova-zprava-7883718.pdf",
+      "sha256_pokud_existuje": "e35f87887177851fa943d9886f197824f1584eb57bd62deff8f17491af2415da",
+      "přesný_locator": "PDF fyzická strana 20, tištěná strana 43–44, část osmnáctá návrhu, K bodům 1 a 2 (§ 8 odst. 1); ve vyhlášeném zákoně jde po změně struktury o část devatenáctou",
+      "tvrzení_které_pramen_podporuje": "Důvodem změny ZOO byla vazba na nařízení MiCA; důvodová zpráva nepředpokládala změnu § 1.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "PROC-AMEND-001",
+      "typ_pramene": "doprovodný novelizační předpis",
+      "identifikace_pramene": "zákon č. 172/2023 Sb., účinný od 1. 8. 2023",
+      "cesta_nebo_url": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2023/172-2023 Zákon, kterým se mění některé zákony v souvislosti s přijetím zákona o ochraně oznamovatelů.md",
+      "sha256_pokud_existuje": "b41218f5dc4a016d2c3171f37a2143d263788edef6e4c4911a0aa22d21245f00",
+      "přesný_locator": "frontmatter ř. 1–14; čl. I body 1 a 2 ř. 27–35; čl. II ř. 36–40; čl. III ř. 46–52",
+      "tvrzení_které_pramen_podporuje": "Zákon doplnil výjimku z jistoty, zvláštní důkazní pravidlo a § 11 odst. 6 kompetenčního zákona; procesní přechodné pravidlo se vztahovalo na řízení zahájená před účinností.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "PROC-001",
+      "typ_pramene": "procesní předpis",
+      "identifikace_pramene": "zákon č. 99/1963 Sb., občanský soudní řád, online verze 135 účinná 1. 1. 2026 až 31. 8. 2026 a místní e-Sbírka snapshot",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/cs/1963-99; /home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1963/99-1963 Občanský soudní řád.md",
+      "sha256_pokud_existuje": "a313e2dd1217620249389cde279e63b7f01c52478eb01adc737b2325959424f9",
+      "přesný_locator": "§ 9 odst. 1 ř. 67–71; § 75b odst. 1 až 3 ř. 1025–1041; § 84 a § 85 ř. 1251–1262; § 133a odst. 2 ř. 1849–1861",
+      "tvrzení_které_pramen_podporuje": "Věcná a obecná místní příslušnost, výjimka z jistoty pro předběžné opatření a přesný osobní i věcný rozsah zvláštního důkazního pravidla v marg. č. 13, 15 a 16.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "FEE-001",
+      "typ_pramene": "předpis o soudních poplatcích",
+      "identifikace_pramene": "zákon č. 549/1991 Sb., sazebník soudních poplatků, online verze 51 účinná od 1. 1. 2026",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/cs/1991-549; /home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/549-1991 Zákon České národní rady o soudních poplatcích.md",
+      "sha256_pokud_existuje": "ef583403ea504774c967d3c5b96519b9491740c3ac27d047ed95d7388d393843",
+      "přesný_locator": "příloha, sazebník poplatků, položka 3 (místní ř. 489–492), položka 4 bod 1 písm. c) (ř. 493–508) a položka 5 (ř. 513–515)",
+      "tvrzení_které_pramen_podporuje": "Za peněžitý návrh na náhradu nemajetkové újmy činí poplatek do 200 000 Kč včetně 2 000 Kč a nad 200 000 Kč 1 % z částky; samostatný nepeněžitý osobnostní petit je typicky zpoplatněn 2 000 Kč a návrh na předběžné opatření 1 000 Kč.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "CIVIL-001",
+      "typ_pramene": "soukromoprávní hmotný předpis",
+      "identifikace_pramene": "zákon č. 89/2012 Sb., občanský zákoník, online aktuální znění ke dni ověření a místní e-Sbírka snapshot",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/cs/2012-89; /home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md",
+      "sha256_pokud_existuje": "84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7",
+      "přesný_locator": "§§ 81–82 místní ř. 542–552; §§ 619–620 ř. 4126–4136; § 629 ř. 4176–4180; § 636 ř. 4214–4220; § 2894 ř. 19236–19240; § 2951 ř. 19592–19596",
+      "tvrzení_které_pramen_podporuje": "Povaha a forma odčinění nemajetkové újmy, subsidiarita peněžitého zadostiučinění a obecný režim subjektivní a objektivní promlčecí lhůty popsané s výhradou typičnosti v marg. č. 13.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "LABOUR-001",
+      "typ_pramene": "pracovněprávní předpis",
+      "identifikace_pramene": "zákon č. 262/2006 Sb., zákoník práce, online aktuální znění ke dni ověření a místní e-Sbírka snapshot",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/cs/2006-262; /home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md",
+      "sha256_pokud_existuje": "dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d",
+      "přesný_locator": "§ 69 místní ř. 907–917; § 72 ř. 935–937",
+      "tvrzení_které_pramen_podporuje": "Dvouměsíční prekluzivní lhůta k napadení neplatného rozvázání pracovního poměru a podmínky dalšího zaměstnávání a náhrady v marg. č. 14.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "CHARTER-001",
+      "typ_pramene": "ústavní předpis",
+      "identifikace_pramene": "Listina základních práv a svobod, vyhlášená pod č. 2/1993 Sb., online aktuální znění a místní e-Sbírka snapshot",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/cs/1993-2; /home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1993/2-1993 Usnesení předsednictva České národní rady o vyhlášení LISTINY ZÁKLADNÍCH PRÁV A SVOBOD jako součástí ústavního pořádku České republiky.md",
+      "sha256_pokud_existuje": "0a7d4d67f872a0f725798c20bd417eeb769c81570b02be3bb437d353db29d413",
+      "přesný_locator": "čl. 36 odst. 1, místní ř. 329–333",
+      "tvrzení_které_pramen_podporuje": "Ústavní východisko práva domáhat se ochrany stanoveným postupem, k němuž se vztahuje výslovně označený vlastní závěr v marg. č. 12.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "COMP-001",
+      "typ_pramene": "kompetenční předpis",
+      "identifikace_pramene": "zákon č. 2/1969 Sb., kompetenční zákon, online verze 96 účinná 1. 1. 2026 až 31. 12. 2026 a místní e-Sbírka snapshot",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/cs/1969-2; /home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1969/2-1969 Zákon České národní rady o zřízení ministerstev a jiných ústředních orgánů státní správy České socialistické republiky.md",
+      "sha256_pokud_existuje": "1a29b3cf173245e8dd49f1b1465cd3c096cb5a500ad6df289d9979c8e0b893f0",
+      "přesný_locator": "§ 11 odst. 6, ř. 171–185",
+      "tvrzení_které_pramen_podporuje": "Ministerstvo spravedlnosti je ústředním orgánem státní správy pro ochranu oznamovatelů.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "CRIM-PROC-001",
+      "typ_pramene": "trestní procesní předpis",
+      "identifikace_pramene": "zákon č. 141/1961 Sb., trestní řád, online verze 118 účinná 1. 1. 2026 až 31. 12. 2026 a místní e-Sbírka snapshot",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/cs/1961-141; /home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1961/141-1961 Zákon o trestním řízení soudním (trestní řád).md",
+      "sha256_pokud_existuje": "0ac4af5aa746bdb5dc70b2ac0dbfb40d47e92beacb8c27fbc9010d5e28cfb1cd",
+      "přesný_locator": "§ 158 odst. 1 a 2, ř. 3125–3129",
+      "tvrzení_které_pramen_podporuje": "Oznámení skutečností nasvědčujících trestnému činu přijímá státní zástupce a policejní orgán; rozhodný je odstavec 2, nikoli odstavec 1.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "CRIM-MAT-001",
+      "typ_pramene": "trestní hmotněprávní předpis",
+      "identifikace_pramene": "zákon č. 40/2009 Sb., trestní zákoník, online verze 46 účinná od 1. 1. 2026 a místní e-Sbírka snapshot",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/cs/2009-40; /home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md",
+      "sha256_pokud_existuje": "079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb",
+      "přesný_locator": "§ 367 ř. 7011–7019; § 368 ř. 7021–7029",
+      "tvrzení_které_pramen_podporuje": "Trestní zákoník samostatně stanoví povinnosti překazit a bez odkladu oznámit taxativně vymezené trestné činy včetně zákonných výjimek.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "CJEU-001",
+      "typ_pramene": "judikatura Soudního dvora — plný text",
+      "identifikace_pramene": "rozsudek Soudního dvora ze dne 10. 4. 1984, von Colson a Kamann, 14/83, ECLI:EU:C:1984:153",
+      "cesta_nebo_url": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-24/EU Law/CJEU/Court of Justice/Judgments/1983/61983CJ0014.md",
+      "sha256_pokud_existuje": "d6547f362002213176f4f282f8e94b9fc4663950e91ff6cebfedf5bec4532196",
+      "přesný_locator": "frontmatter ř. 1–18; identifikace ř. 29–45; bod 26, ř. 371–382",
+      "tvrzení_které_pramen_podporuje": "Povinnost dosáhnout výsledku směrnice váže všechny orgány členského státu včetně soudů a vyžaduje výklad vnitrostátního práva ve světle znění a účelu směrnice.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "CJEU-002",
+      "typ_pramene": "judikatura Soudního dvora — plný text",
+      "identifikace_pramene": "rozsudek Soudního dvora ze dne 13. 11. 1990, Marleasing, C-106/89, ECLI:EU:C:1990:395",
+      "cesta_nebo_url": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-24/EU Law/CJEU-EN/Court of Justice/Judgments/1989/61989CJ0106.md",
+      "sha256_pokud_existuje": "35e5e11c1785544b60cadf2923ebc1f35df2e6b03f9cf926bfc1da268a958372",
+      "přesný_locator": "frontmatter ř. 1–19; identifikace ř. 36–40; body 6–9 ř. 121–127",
+      "tvrzení_které_pramen_podporuje": "Směrnice sama nemůže uložit povinnost jednotlivci a konformní výklad se vztahuje na vnitrostátní ustanovení přijatá před směrnicí i po ní.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "NSS-001",
+      "typ_pramene": "judikatura — plný text rozhodnutí",
+      "identifikace_pramene": "rozsudek Nejvyššího správního soudu ze dne 22. 10. 2025, č. j. 8 Ads 100/2025-81; ECLI a publikace na zdroji neuvedeny",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/judikat/nsscr/8-ads-100-2025-81",
+      "sha256_pokud_existuje": null,
+      "přesný_locator": "záhlaví, výrok a body 38–55, zejména 43–54",
+      "tvrzení_které_pramen_podporuje": "ZOO se vykládá eurokonformně i v čistě vnitrostátních situacích; ochrana se aktivuje až učiněním oznámení podle § 7, nikoli přípravou oznámení, a zrušen byl opačný rozsudek Městského soudu v Praze č. j. 8 Ad 14/2024-54.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "NSS-002",
+      "typ_pramene": "judikatura — plný text rozhodnutí",
+      "identifikace_pramene": "rozsudek Nejvyššího správního soudu ze dne 21. 8. 2025, č. j. 22 As 19/2025-38; ECLI a publikace na zdroji neuvedeny",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/judikat/nsscr/22-as-19-2025-38",
+      "sha256_pokud_existuje": null,
+      "přesný_locator": "záhlaví a body 16–21",
+      "tvrzení_které_pramen_podporuje": "§ 5 zakládá soukromoprávní hmotněprávní nárok na přiměřené zadostiučinění, nikoli veřejné subjektivní právo projednatelné ve správním soudnictví.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "NSS-003",
+      "typ_pramene": "judikatura — plný text rozhodnutí",
+      "identifikace_pramene": "rozsudek Nejvyššího správního soudu ze dne 5. 12. 2024, č. j. 3 As 309/2023-83; ECLI a publikace na zdroji neuvedeny",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/judikat/nsscr/3-as-309-2023-83",
+      "sha256_pokud_existuje": null,
+      "přesný_locator": "záhlaví; skutkový kontext body 1–13; nosné závěry body 56–64",
+      "tvrzení_které_pramen_podporuje": "Po marném uplynutí transpoziční lhůty před účinností ZOO bylo možné vůči státu použít dostatečně přesná ustanovení směrnice; externí oznámení mohlo být podáno příslušnému orgánu i mimo vyhrazený technický kanál.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "NSS-004",
+      "typ_pramene": "judikatura — plný text rozhodnutí",
+      "identifikace_pramene": "rozsudek Nejvyššího správního soudu ze dne 31. 3. 2026, č. j. 6 Ads 191/2025-54; ECLI a publikace na zdroji neuvedeny",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/judikat/nsscr/6-ads-191-2025-54",
+      "sha256_pokud_existuje": null,
+      "přesný_locator": "záhlaví; skutkový kontext body 1–13; nosné závěry body 49–53",
+      "tvrzení_které_pramen_podporuje": "Pro předzákonné období mohl nastoupit vertikální přímý účinek směrnice, ale zpracování auditní zprávy jako pracovní úkol nebylo oznámením aktivujícím ochranu.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "LIT-NEG-001",
+      "typ_pramene": "literatura — negativní rešerše",
+      "identifikace_pramene": "místní repozitář a nakonfigurované místní zdrojové kořeny",
+      "cesta_nebo_url": "/home/vojtech/Komentar-ZOO-171-2023; /home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law; /home/vojtech/Documents/Obsidian Vaults/Production 2026-05-24/EU Law",
+      "sha256_pokud_existuje": null,
+      "přesný_locator": "inventář souborů; hledání názvu zákona, § 1 a bibliografických záznamů; sekundární bibliografické údaje v NSS 22 As 19/2025-38 nebyly považovány za ověření konkrétní pasáže",
+      "tvrzení_které_pramen_podporuje": "Nebyla nalezena literatura, u níž by bylo možné z místního plného textu ověřit bibliografické údaje a konkrétní pasáž; literatura proto není v komentáři citována.",
+      "datum_ověření": "2026-07-18",
+      "stav": "nepoužito"
+    }
+  ],
+  "author_opinions": [
+    {
+      "claim_id": "AUT-001",
+      "locator_in_comment": "marg. č. 2",
+      "text_marker": "Podle mého názoru",
+      "position": "§ 1 je obsahové a interpretační ustanovení a sám nezakládá nárok, procesní legitimaci ani pravomoc."
+    },
+    {
+      "claim_id": "AUT-002",
+      "locator_in_comment": "marg. č. 8",
+      "text_marker": "Přikláním se",
+      "position": "Kvalifikované oznámení jinému příslušnému orgánu podle § 7 odst. 2 není nutné pro účely ochrany duplicitně podat ministerstvu."
+    },
+    {
+      "claim_id": "AUT-003",
+      "locator_in_comment": "marg. č. 11",
+      "text_marker": "Podle mého názoru",
+      "position": "Každý konkrétní úkon ministerstva musí mít oporu v operativním ustanovení; § 1 písm. c) pravomoc nerozšiřuje."
+    },
+    {
+      "claim_id": "AUT-004",
+      "locator_in_comment": "marg. č. 12",
+      "text_marker": "Podle mého názoru",
+      "position": "Právo na soudní ochranu podle čl. 36 odst. 1 Listiny nevytváří žalobu ze samotného § 1; uplatní se stanoveným postupem prostřednictvím navazujících norem."
+    },
+    {
+      "claim_id": "AUT-005",
+      "locator_in_comment": "marg. č. 15",
+      "text_marker": "Přikláním se",
+      "position": "V horizontálním sporu se na osoby podle § 4 odst. 2, které nejsou oznamovatelem, použije obecné rozložení důkazního břemene, protože rozšíření by překročilo text § 133a odst. 2 OSŘ; vůči státu je navíc nutné posoudit vertikální účinek čl. 4 odst. 4 ve spojení s čl. 21 odst. 5 směrnice."
+    }
+  ],
+  "negative_research": [
+    {
+      "searched_on": "2026-07-18",
+      "scope": "aktuální, historická a souvisící znění zákona č. 171/2023 Sb. na povoleném online zdroji",
+      "query_or_method": "porovnání vyhlášeného znění, verze účinné od 1. 8. 2023, aktuální verze účinné od 15. 2. 2025, historie a souvislostí",
+      "result": "Nenalezena změna § 1 ani poznámky č. 1; jediná vyhlášená novela ZOO, zákon č. 32/2025 Sb., změnila § 8."
+    },
+    {
+      "searched_on": "2026-07-18",
+      "scope": "plné texty judikatury na www.zakonyprolidi.cz",
+      "query_or_method": "cílené hledání ZOO, ochrany oznamovatelů, § 1, § 7, přímého účinku, eurokonformního výkladu a přiměřeného zadostiučinění; kontrola nalezených rozhodnutí od nejnovějších",
+      "result": "Ověřeny čtyři relevantní rozsudky NSS; nebylo nalezeno rozhodnutí, které by přímo zakládalo nárok ze samotného § 1."
+    },
+    {
+      "searched_on": "2026-07-18",
+      "scope": "místní literatura",
+      "query_or_method": "inventář a fulltextové hledání v repozitáři a nakonfigurovaných zdrojových kořenech",
+      "result": "Nenalezen ověřitelný plný text komentářové nebo monografické pasáže k § 1; bibliografické citace převzaté v rozsudku nebyly použity jako náhrada plného textu."
+    },
+    {
+      "searched_on": "2026-07-18",
+      "scope": "nevyhlášené legislativní návrhy v monitoru zákona na www.zakonyprolidi.cz",
+      "query_or_method": "kontrola návrhů zasahujících do § 1 nebo působnosti ministerstva",
+      "result": "Nalezeny návrhy na budoucí přesun působnosti na nový úřad, ale k rozhodnému dni nejsou součástí platného ani účinného práva; v komentáři nebyly použity jako současné právo."
+    }
+  ],
+  "unverified_material_claims_remaining": []
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "final_source_ledger",
+  "as_of": "2026-07-18",
+  "subject": "Zákon č. 171/2023 Sb., o ochraně oznamovatelů",
+  "scope": "Finální odborná revize komentáře k §§ 1–30 a navazujících projektových souborů",
+  "online_policy": {
+    "network_used": true,
+    "allowed_domains": [
+      "www.zakonyprolidi.cz"
+    ],
+    "used_domains": [
+      "www.zakonyprolidi.cz"
+    ],
+    "verification_date": "2026-07-18"
+  },
+  "primary_local_sources": [
+    {
+      "source_id": "ZOO_OFFICIAL_CONSOLIDATED_2025_02_15",
+      "type": "official_legislation_snapshot",
+      "path": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2023/171-2023 Zákon o ochraně oznamovatelů.md",
+      "sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109",
+      "use": "Doslovné porovnání znění všech §§ 1–30"
+    },
+    {
+      "source_id": "ZOO_REASONING_REPORT_ST_352",
+      "type": "official_explanatory_report",
+      "path": "/home/vojtech/Komentar-ZOO-171-2023/DUVODOVA-ZPRAVA.md",
+      "sha256": "fb863ee8bb5386e7e2c859bc4d01dd0c5100d52199f5653d4949969f07dbe156",
+      "use": "Historický a teleologický výklad; vždy podřízen přijatému textu"
+    },
+    {
+      "source_id": "LABOUR_INSPECTION_ACT_251_2005",
+      "type": "official_legislation_snapshot",
+      "path": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md",
+      "sha256": "e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465",
+      "use": "Kontrolní a přestupková působnost podle §§ 22 a 28 ZOO"
+    },
+    {
+      "source_id": "OFFENCE_PROCEDURE_ACT_250_2016",
+      "type": "official_legislation_snapshot",
+      "path": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/250-2016 Zákon o odpovědnosti za přestupky a řízení o nich.md",
+      "sha256": "ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca",
+      "use": "Obecná pravidla odpovědnosti, zavinění, přičitatelnosti a řízení"
+    },
+    {
+      "source_id": "DIRECTIVE_2019_1937",
+      "type": "official_eu_legislation_snapshot",
+      "path": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Directives/2019/32019L1937.md",
+      "sha256": "c3038c6f494bb98cc8ca061228a664e2372c50ebe0f243e2d3e911952da32d62",
+      "use": "Eurokonformní výklad, meze transpozice a předúčinnostní vertikální účinek"
+    }
+  ],
+  "core_online_verification": [
+    {
+      "title": "Zákon č. 171/2023 Sb. — aktuální znění",
+      "url": "https://www.zakonyprolidi.cz/cs/2023-171"
+    },
+    {
+      "title": "Zákon č. 32/2025 Sb. — novela MiCA",
+      "url": "https://www.zakonyprolidi.cz/cs/2025-32"
+    },
+    {
+      "title": "Zákon č. 251/2005 Sb., o inspekci práce",
+      "url": "https://www.zakonyprolidi.cz/cs/2005-251"
+    },
+    {
+      "title": "Zákon č. 250/2016 Sb., o odpovědnosti za přestupky",
+      "url": "https://www.zakonyprolidi.cz/cs/2016-250"
+    },
+    {
+      "title": "Směrnice (EU) 2019/1937",
+      "url": "https://www.zakonyprolidi.cz/pravoeu/dokument?celex=32019L1937"
+    }
+  ],
+  "key_case_law_verified": [
+    "NSS 3 As 309/2023-83",
+    "NSS 5 As 5/2024-36",
+    "NSS 8 Ads 100/2025-81",
+    "NSS 6 Ads 191/2025-54",
+    "NSS 22 As 19/2025-38",
+    "NS 21 Cdo 1118/2023",
+    "NS 23 Cdo 1366/2025",
+    "NS 25 Cdo 132/2024",
+    "NS 31 Cdo 1145/2025",
+    "ÚS IV. ÚS 2629/23",
+    "ÚS Pl. ÚS 26/24"
+  ],
+  "source_quality_rules": [
+    "Platný text má přednost před důvodovou zprávou a staršími projektovými shrnutími.",
+    "Zrušené rozhodnutí je označeno jako procesní historie a nepoužívá se jako nosná teze.",
+    "Přímá judikatura se nepředstírá; její absence je u dotčených ustanovení výslovně uvedena.",
+    "Online odkazy v hlavním komentáři směřují pouze na povolenou doménu Zákony pro lidi."
+  ]
+}

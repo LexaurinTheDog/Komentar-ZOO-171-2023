@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "review_1",
+  "unit_key": "cz:sb:171-2023:section:3",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-3-20260718-zpl-v1",
+  "created_at": "2026-07-18T14:54:39+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_file_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_file_sha256": "c8335592ccc77255c037191dec49aa20605a178bdf43899289400114c51a5607",
+    "pre_revision_section_sha256": "8a98461e62c0a0aa3c369a1a4e2700c62ebf4a713a4614c7b155c853a40e66ea",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "performed": true,
+  "independent_passes": 6,
+  "status": "pass_after_corrections",
+  "coverage": [
+    "každá věta, odstavec, písmeno a všech sedm bezpečnostních zájmů § 3",
+    "jazykový, systematický, historický a teleologický výklad tří odlišných mechanismů",
+    "konkurenční pojetí nezbytnosti oznámení a jednotlivých získávacích úkonů",
+    "profesní, zdravotní, daňová, bankovní a smluvní mlčenlivost",
+    "trestní způsob získání, obchodní tajemství, autorské právo a osobní údaje",
+    "bezpečnostní, zpravodajská, církevní, ústavní a unijní dimenze",
+    "oddělitelnost smíšeného podání, anonymita a intertemporalita",
+    "petit, důkazní břemeno, lhůty, příslušnost, poplatek, předběžné opatření a praktický model"
+  ],
+  "findings": [
+    {
+      "id": "R1-MAJOR-001",
+      "severity": "MAJOR",
+      "finding": "Marg. č. 4 původně neomezovala závěr o nevyčerpání kanálů na test § 3 a mohla kolidovat s podmínkami uveřejnění podle § 7 odst. 1 písm. c).",
+      "disposition": "resolved",
+      "change": "Výslovně oddělen test nezbytnosti podle § 3 od samostatných podmínek předchozího vnitřního nebo externího oznámení pro některé formy uveřejnění."
+    },
+    {
+      "id": "R1-MAJOR-002",
+      "severity": "MAJOR",
+      "finding": "První znění marg. č. 29 naznačovalo, že § 3 může sám vyloučit protiprávnost zpracování podle GDPR.",
+      "disposition": "resolved",
+      "change": "Doplněno, že § 3 není výjimkou z čl. 6 ani 9 GDPR, nenahrazuje právní titul a může pouze působit jako zákonná odpovědnostní obrana ve vymezeném rozsahu."
+    },
+    {
+      "id": "R1-MAJOR-003",
+      "severity": "MAJOR",
+      "finding": "Zpovědní tajemství nebylo přesně vázáno na přiznané oprávnění k výkonu zvláštního práva a na tradiční součást učení nejméně padesát let.",
+      "disposition": "resolved",
+      "change": "Marg. č. 37 nyní odkazuje na § 7 odst. 1 písm. e) a § 11 zákona č. 3/2002 Sb. a přesně rozlišuje registraci, přiznání oprávnění, duchovního a chráněný vztah."
+    },
+    {
+      "id": "R1-MAJOR-004",
+      "severity": "MAJOR",
+      "finding": "Procesní výklad nepodal poctivě konflikt obecného § 120 OSŘ s výslovným důkazním pravidlem bodu 97 odůvodnění směrnice.",
+      "disposition": "resolved",
+      "change": "Marg. č. 44 představuje oba přístupy a formuluje výslovný vlastní eurokonformní závěr: prima facie konkretizace oznamovatelem a následný důkaz nesplnění podmínek osobou zahajující řízení."
+    },
+    {
+      "id": "R1-MAJOR-005",
+      "severity": "MAJOR",
+      "finding": "Jádro odstavce 2 neukazovalo jazykový spor, zda český text váže nezbytnost jen na oznámení, nebo také na každý získávací úkon.",
+      "disposition": "resolved",
+      "change": "Marg. č. 22 nyní staví ryze doslovný výklad proti systematice věty, důvodové zprávě, čl. 21 odst. 3–4 a bodu 92 odůvodnění směrnice a obsahuje vlastní závěr pro oddělený test úkonů."
+    },
+    {
+      "id": "R1-MAJOR-006",
+      "severity": "MAJOR",
+      "finding": "Sedm bezpečnostních zájmů, zejména body 1–3 a 5–7, bylo z větší části jen parafrázováno.",
+      "disposition": "resolved",
+      "change": "Marg. č. 34 vykládá ústavní a zákonný původ pojmů, chráněné objekty a osoby, větší rozsah, konkrétní obranný závazek, významnost operace, bojeschopnost, taxativnost a absenci požadavku klasifikace."
+    },
+    {
+      "id": "R1-MAJOR-007",
+      "severity": "MAJOR",
+      "finding": "Přechod podle § 30 odst. 7 zákona č. 266/2025 Sb. byl nepřesně označen jako rozhodnutí o registraci nebo určení.",
+      "disposition": "resolved",
+      "change": "Marg. č. 39 přesně uvádí rozhodnutí o zařazení dosavadního subjektu na seznam subjektů kritické infrastruktury a deset měsíců ode dne doručení."
+    },
+    {
+      "id": "R1-MINOR-001",
+      "severity": "MINOR",
+      "finding": "Chyběl výslovný civilní, pracovněprávní a jiný souběžný následek trestného způsobu získání.",
+      "disposition": "resolved",
+      "change": "Marg. č. 23 nyní vysvětluje, že získávací jednání vypadá ze štítu odstavce 2 i pro případné netrestní následky, jejichž vlastní předpoklady je nutné prokázat."
+    },
+    {
+      "id": "R1-MINOR-002",
+      "severity": "MINOR",
+      "finding": "Interní a parlamentní kontrola zpravodajských služeb mohla vyznít jako náhradní kanál ZOO nebo individuální právo na prošetření.",
+      "disposition": "resolved",
+      "change": "Marg. č. 36 obě možnosti výslovně odmítá a zachovává je pouze jako systematický kontext zvláštní kontroly."
+    },
+    {
+      "id": "R1-MINOR-003",
+      "severity": "MINOR",
+      "finding": "U družstevních záložen nebyl oddělen § 25b zatěžující záložnu od mlčenlivosti pracovníků podle § 25c.",
+      "disposition": "resolved",
+      "change": "Marg. č. 8 i ledger nyní rozlišují oba nositele a uvádějí, že zákon funkčně obdobný režim nenazývá bankovním tajemstvím."
+    },
+    {
+      "id": "R1-MINOR-004",
+      "severity": "MINOR",
+      "finding": "Souvisící ustanovení a předpisy nezahrnovaly některé přímo použité procesní, pracovní, správní, bezpečnostní a datové předpisy.",
+      "disposition": "resolved",
+      "change": "Doplněny § 6 ZOO, zákony č. 262/2006 Sb., č. 500/2004 Sb., č. 141/1961 Sb., č. 110/2019 Sb., ústavní zákon č. 110/1998 Sb. a zákon č. 273/2008 Sb."
+    },
+    {
+      "id": "R1-MINOR-005",
+      "severity": "MINOR",
+      "finding": "Ústavní rovina nebyla souhrnně formulována jako kolize konkrétních práv a bezpečnostních důvodů.",
+      "disposition": "resolved",
+      "change": "Marg. č. 6 výslovně poměřuje čl. 17 Listiny s čl. 10, 13, 16, 37 odst. 2 a s omezeními podle čl. 17 odst. 4."
+    }
+  ],
+  "specialized_followups": [
+    {
+      "topic": "nezbytnost a důkazní břemeno",
+      "result": "Po zapracování jazykové i eurokonformní varianty nezůstává MAJOR; oba vlastní závěry jsou výslovně označeny a mezera přímé judikatury je uvedena."
+    },
+    {
+      "topic": "bezpečnostní výluky a kritická infrastruktura",
+      "result": "Každý ze sedmi zájmů byl znovu věcně zkontrolován a přechod podle zákona č. 266/2025 Sb. byl opraven podle úplného textu § 30 odst. 6–7."
+    },
+    {
+      "topic": "profesní, zdravotní a zpovědní mlčenlivost",
+      "result": "Výluky jsou funkční, nikoli statusové; osoby, činnost, zproštění a zvláštní právo církve jsou vymezeny konkrétními prameny."
+    }
+  ],
+  "final_counts": {
+    "BLOCKER": 0,
+    "MAJOR": 0,
+    "MINOR_unresolved": 0
+  },
+  "post_correction_recheck": {
+    "result": "Po zapracování sedmi MAJOR a pěti MINOR proběhl nový úplný průchod. Povinné oddíly jsou ve správném pořadí, marginální čísla 1–46 jsou jedinečná a souvislá, přehledové rozsahy odpovídají a nezůstává žádný BLOCKER, MAJOR ani MINOR."
+  },
+  "final_disposition": "PASS — všechny věcné nálezy byly zapracovány a věcná oponentura 1 nezanechává žádný nevypořádaný nález."
+}

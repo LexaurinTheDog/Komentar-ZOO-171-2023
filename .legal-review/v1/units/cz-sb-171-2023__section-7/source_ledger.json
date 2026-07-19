@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "source_ledger",
+  "unit_key": "cz:sb:171-2023:section:7",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-7-20260718-zpl-v1",
+  "created_at": "2026-07-18T20:30:00+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "records": [
+    {
+      "claim_id": "TXT-007",
+      "typ_pramene": "znění předpisu — místní snapshot",
+      "identifikace_pramene": "zákon č. 171/2023 Sb., § 7",
+      "cesta_nebo_url": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2023/171-2023 Zákon o ochraně oznamovatelů.md",
+      "sha256_pokud_existuje": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109",
+      "přesný_locator": "§ 7 ř. 231–249",
+      "tvrzení_které_pramen_podporuje": "Kanály VOS, ministerstvo, podmíněné uveřejnění a ochrana při podání příslušnému OVM.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "DZ-007",
+      "typ_pramene": "důvodová zpráva",
+      "identifikace_pramene": "sněmovní tisk 352, zvláštní část k § 7",
+      "cesta_nebo_url": "/home/vojtech/Komentar-ZOO-171-2023/DUVODOVA-ZPRAVA.md",
+      "sha256_pokud_existuje": "fb863ee8bb5386e7e2c859bc4d01dd0c5100d52199f5653d4949969f07dbe156",
+      "přesný_locator": "zvláštní část „K § 7“",
+      "tvrzení_které_pramen_podporuje": "Vznik ochrany podáním, podmínky uveřejnění, anonymita a oprávněné důvody.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "DIR-2019-007",
+      "typ_pramene": "unijní předpis",
+      "identifikace_pramene": "směrnice (EU) 2019/1937",
+      "cesta_nebo_url": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-24/EU Law/Legal Acts-EN/Legal Acts/Directives/2019/32019L1937.md; https://www.zakonyprolidi.cz/pravoeu/dokument?celex=32019L1937",
+      "sha256_pokud_existuje": "c3038c6f494bb98cc8ca061228a664e2372c50ebe0f243e2d3e911952da32d62",
+      "přesný_locator": "čl. 6, 10 a 15",
+      "tvrzení_které_pramen_podporuje": "Přímý kanál, ochrana při uveřejnění a standard oprávněných důvodů.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "NSS-8ADS100-007",
+      "typ_pramene": "judikatura — plný online text",
+      "identifikace_pramene": "NSS 8 Ads 100/2025-81",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/judikat/nsscr/8-ads-100-2025-81",
+      "sha256_pokud_existuje": null,
+      "přesný_locator": "body 40–47 a 53–54",
+      "tvrzení_které_pramen_podporuje": "Dřívější opatření nelze zpětně překvalifikovat na odvetu.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    },
+    {
+      "claim_id": "NSS-6ADS191-007",
+      "typ_pramene": "judikatura — plný online text",
+      "identifikace_pramene": "NSS 6 Ads 191/2025-54",
+      "cesta_nebo_url": "https://www.zakonyprolidi.cz/judikat/nsscr/6-ads-191-2025-54",
+      "sha256_pokud_existuje": null,
+      "přesný_locator": "body 49–53",
+      "tvrzení_které_pramen_podporuje": "Auditní zpráva není sama podáním chráněným kanálem.",
+      "datum_ověření": "2026-07-18",
+      "stav": "ověřeno"
+    }
+  ]
+}

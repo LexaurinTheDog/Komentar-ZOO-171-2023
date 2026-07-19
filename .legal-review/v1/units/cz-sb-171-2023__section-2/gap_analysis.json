@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "gap_analysis",
+  "unit_key": "cz:sb:171-2023:section:2",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-2-20260718-zpl-v1",
+  "created_at": "2026-07-18T13:20:00+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "before_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "before_file_sha256": "1f4ca5b7e65c3065ed1e66f04e4d845eb560e9ca0ad570538bebb4457c7edc25",
+    "before_section_sha256": "77855f983770417fa6b8c3b1fa40d67772efe9ebddf17fc6ca227e62b6c748c0",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "scope": "full_substantive_gap_analysis_of_section_2",
+  "substantive_gap_analysis_performed": true,
+  "preflight": {
+    "repository": "/home/vojtech/Komentar-ZOO-171-2023",
+    "branch": "main",
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "target_file": "/home/vojtech/Komentar-ZOO-171-2023/01-cely-zakon.md",
+    "target_heading": "### § 2 — Oznámení",
+    "baseline_lines": "86–240",
+    "pre_revision_worktree_lines": "125–279",
+    "next_heading": "### § 3 — Výjimky z porušení smluvní nebo zákonné povinnosti a informace, jejichž oznámení se za oznámení nepovažuje",
+    "anchor_unambiguous": true,
+    "group_heading": false,
+    "target_section_unchanged_from_head_before_run": true,
+    "preexisting_target_file_change": "dokončená revize § 1 před kotvou § 2",
+    "conflict_with_user_changes": false
+  },
+  "quality_text_preserved_and_integrated": [
+    "Základní rozlišení pracovního kontextu a kvalifikovaného protiprávního jednání.",
+    "Správná myšlenka, že oznamovatel nemusí předjímat konečnou právní kvalifikaci nebo výsledek deliktního řízení; byla zpřesněna objektivizovaným standardem § 7 odst. 3.",
+    "Přehled šíře práce a jiné obdobné činnosti podle odstavců 3 a 4.",
+    "Rozlišení identifikovaného a anonymního podání a vazba na § 4 odst. 3.",
+    "Praktický model a checklist zaměřený na dokumentaci pracovního vztahu, obsahu oznámení a časové osy; vadná původní subsumpce byla nahrazena."
+  ],
+  "factual_or_legal_errors": [
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Citované znění neobsahovalo odkazy a text poznámek pod čarou 2 až 4.",
+      "correction": "Doplněny odkazy na čl. 325 a čl. 26 odst. 1 a 2 SFEU i úplný výčet služebních předpisů."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Rozsudek 8 Ad 14/2024-54 byl nesprávně připsán NSS, citován dlouze a bez uvedení, že jeho závěr byl kasačně zrušen.",
+      "correction": "Citace odstraněna; nahrazena plným textem a nosným závěrem NSS 8 Ads 100/2025-81."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Obsah oznámení podle § 2 byl směšován s podmínkou ochrany podle § 7 odst. 3 a subjektivní dobrá víra byla prezentována jako dostačující.",
+      "correction": "Pojmové znaky, objektivizovaný standard oprávněných důvodů a vědomá nepravdivost jsou odděleny."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Nepravdivá identifikace byla bez opory ztotožněna s vědomě nepravdivým obsahem oznámení.",
+      "correction": "Oddělena identita, skutkový obsah a fakticky anonymní režim."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Čtrnáct oblastí bylo podáno jako mechanické převzetí přílohy směrnice.",
+      "correction": "Doplněno srovnání české syntézy s čl. 2 a přílohou směrnice a vysvětleno vnitrostátní rozšíření."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Model náboru zaměstnance bez potřebných znaků dovozoval § 256 trestního zákoníku a režim veřejných zakázek.",
+      "correction": "Nahrazen modelem externího IT auditu s konkrétní pracovní a sektorovou vazbou."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Uchazeči byli nesprávně spojeni s čl. 4 odst. 2 místo čl. 4 odst. 3 směrnice.",
+      "correction": "Odkaz opraven a rozšířen na jiná předsmluvní jednání."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Procesní text opomíjel účinný § 133a odst. 2 OSŘ a podával ochranu jako automatický následek § 2.",
+      "correction": "Doplněny meze zvláštního důkazního pravidla a samostatné podmínky §§ 3, 4 a 7."
+    }
+  ],
+  "paraphrase_without_interpretive_value": [
+    "Tabulka odstavce 3 z větší části přepisovala zákon a obsahovala nepodložené příklady beneficienta a omezeného dobrovolnictví.",
+    "Oddíly F až H opakovaly úvodní definici a působily jako obecná šablona.",
+    "Dlouhá citace z později zrušeného rozsudku neuváděla skutkový kontext ani současnou použitelnost."
+  ],
+  "existing_material_citations": [
+    "Městský soud v Praze 8 Ad 14/2024-54, chybně označený jako NSS",
+    "směrnice (EU) 2019/1937, zejména čl. 2, 4, 6 a 21",
+    "čl. 325 SFEU",
+    "§§ 3, 4, 7 a 23 ZOO",
+    "trestní zákoník, zákoník práce a služební předpisy",
+    "zákon č. 198/2002 Sb. a neurčitý odkaz na ZZVZ"
+  ],
+  "missing_topics": [
+    "význam slov možné a došlo nebo má dojít včetně budoucího jednání a pokusu o zatajení",
+    "přímý a zprostředkovaný výkon, dodavatelský řetězec a kontakt s jinou osobou v pracovním kontextu",
+    "fyzická osoba jako oznamovatel versus ochrana propojených právnických osob",
+    "přesná sankční hranice přestupku a varianty sazeb",
+    "rozsah a překryvy čtrnácti oblastí a nezávazná povaha seznamu ministerstva",
+    "povaha domněnky pravdivosti identity a režim anonymity před a po odhalení totožnosti",
+    "taxativnost kategorií práce, širší dobrovolnictví, správa fondu a uchazeči",
+    "možnost vyloučit některé osoby z vnitřního systému podle § 9 odst. 2 písm. a)",
+    "výluky § 3, posouzení podle §§ 12 a 17 a absence nároku na zahájení navazujícího řízení",
+    "intertemporalita před 1. 8. 2023 a přesné meze § 133a odst. 2 OSŘ",
+    "výslovná absence vlastního petitu, lhůty, příslušnosti a poplatku"
+  ],
+  "source_gaps": [
+    "Nebyla nalezena literatura s ověřitelnou úplnou konkrétní pasáží k § 2; sekundární citace v důvodové zprávě nebyla převzata.",
+    "Pozměňovací návrh SD 2477 neobsahuje důvod volby hranice 100 000 Kč; tento důvod se v komentáři nedomýšlí.",
+    "Aktuální ministerský seznam podle § 15 písm. j) je mimo povolenou online doménu; historický seznam v důvodové zprávě není vydáván za aktuální ani vyčerpávající."
+  ],
+  "novelization_and_intertemporal_gaps": [
+    "Původní důvodová zpráva vylučovala obecné přestupky mimo unijní oblasti, avšak konečný text byl rozšířen pozměňovacím návrhem SD 2477.",
+    "§ 2 se od 1. 8. 2023 nezměnil; zákon č. 32/2025 Sb. změnil pouze § 8 odst. 1 písm. e) a nemá přechodné pravidlo pro § 2.",
+    "Původní text nerozlišoval oznámení po účinnosti o starším jednání od historických oznámení a vertikálního účinku směrnice v období 18. 12. 2021 až 31. 7. 2023.",
+    "Chyběla potřeba ověřit časovou verzi skutkové podstaty a relevantní sankční sazby historického přestupku."
+  ],
+  "practical_and_procedural_gaps": [
+    "Chybělo vysvětlení přístupu dodavatelů a uchazečů k internímu a externímu kanálu.",
+    "Chybělo rozlišení posouzení oznámení od zahájení trestního, přestupkového nebo jiného řízení.",
+    "Chybělo přesné vymezení důkazního pravidla § 133a odst. 2 OSŘ.",
+    "Chyběla výslovná absence samostatného nároku, petitu, příslušnosti, lhůty a poplatku podle § 2.",
+    "Původní model používal vadnou právní kvalifikaci a neřešil nastavení vnitřního systému."
+  ],
+  "structure_deviations": [
+    "Chyběl revizní banner, samostatné ověřené znění, přehled, souvislosti, důvodová zpráva, literatura a členěná judikatura.",
+    "Výklad neměl jedinečná a souvislá marginální čísla.",
+    "Nadpis ustanovení zůstává na úrovni ###, protože úroveň ## je v repozitáři vyhrazena částem zákona; tím se zachovává hierarchie celého souboru."
+  ],
+  "research_needed_and_completed": [
+    "aktuální a historické znění § 2 včetně poznámek 2 až 4",
+    "původní návrh, pozměňovací návrh SD 2477, schválený text a jediná novela ZOO",
+    "původní i novelizační důvodová zpráva",
+    "směrnice, SFEU, trestní zákoník, přestupkový zákon, zákoník práce, OSŘ, občanský zákoník, služební a dobrovolnický předpis",
+    "plné texty aktuální judikatury NSS a Ústavního soudu",
+    "negativní rešerše literatury a judikatury k dosud nerozhodnutým dílčím otázkám"
+  ],
+  "blockers": []
+}

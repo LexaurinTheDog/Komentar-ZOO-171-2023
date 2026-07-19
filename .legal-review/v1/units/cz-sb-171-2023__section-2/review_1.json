@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "review_1",
+  "unit_key": "cz:sb:171-2023:section:2",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-2-20260718-zpl-v1",
+  "created_at": "2026-07-18T13:51:45+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "before_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "before_file_sha256": "1f4ca5b7e65c3065ed1e66f04e4d845eb560e9ca0ad570538bebb4457c7edc25",
+    "before_section_sha256": "77855f983770417fa6b8c3b1fa40d67772efe9ebddf17fc6ca227e62b6c748c0",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "performed": true,
+  "independent_passes": 5,
+  "status": "pass_after_corrections",
+  "coverage": [
+    "každý odstavec, písmeno a všech čtrnáct oblastí § 2",
+    "jazyková, systematická, historická a teleologická argumentace",
+    "konkurenční výklady věcné působnosti, zavinění podle § 23 a časové sazby přestupku",
+    "osobní, unijní, ústavní a intertemporální dimenze",
+    "anonymita, pracovní kontext, uchazeči a přístup k oznamovacím kanálům",
+    "petit, důkazní břemeno, lhůty, příslušnost, poplatek a praktický model"
+  ],
+  "findings": [
+    {
+      "id": "R1-MAJOR-001",
+      "severity": "MAJOR",
+      "finding": "První návrh nepodal použitelnou mapu všech čtrnácti oblastí § 2 odst. 1 písm. d), jejich hranic, překryvů a aktuálních reprezentativních předpisů.",
+      "disposition": "resolved",
+      "change": "Marg. č. 12–19 nyní vykládají všechny body 1–14, odlišují vnitrostátní rozšíření od minima směrnice, vysvětlují nezávaznost seznamu ministerstva a aktualizují veřejné dražby, kybernetickou bezpečnost i zvláštní AML režim."
+    },
+    {
+      "id": "R1-MAJOR-002",
+      "severity": "MAJOR",
+      "finding": "Nebyl vyřešen právní omyl oznamovatele o věcné působnosti ani rozdíl mezi nesprávnou právní nálepkou a objektivně neobhajitelnou stížností.",
+      "disposition": "resolved",
+      "change": "Marg. č. 20–21 představují přísně jazykový a eurokonformní výklad, přesně vymezují objektivizovaný standard ex ante a obsahují vlastní stanovisko."
+    },
+    {
+      "id": "R1-MAJOR-003",
+      "severity": "MAJOR",
+      "finding": "Anonymní režim směšoval zjištění totožnosti oprávněným příjemcem s odhalením totožnosti osobě schopné odvety.",
+      "disposition": "resolved",
+      "change": "Marg. č. 1 a 27–28 rozlišují procesní okamžik podle důvodové zprávy a hmotněprávní okamžik ochrany podle § 4 odst. 3 včetně možnosti rozdílného pořadí."
+    },
+    {
+      "id": "R1-MAJOR-004",
+      "severity": "MAJOR",
+      "finding": "Nebyl dostatečně oddělen standard ztráty ochrany podle § 7 odst. 3 od zaviněné přestupkové odpovědnosti za vědomě nepravdivé oznámení podle § 23.",
+      "disposition": "resolved",
+      "change": "Marg. č. 22–24 oddělují oprávněné důvody, materiálně nepravdivé jádro a zavinění; marg. č. 23 uvádí textový protiargument i výslovný restriktivní vlastní názor vyžadující alespoň vědomou nedbalost."
+    },
+    {
+      "id": "R1-MAJOR-005",
+      "severity": "MAJOR",
+      "finding": "Výklad práce a obdobné činnosti nerozlišoval vlastní smluvní výkon OSVČ od zprostředkované práce zaměstnance dodavatele a původní model používal vadnou subsumpci.",
+      "disposition": "resolved",
+      "change": "Marg. č. 29–35 přesně rozlišují kategorie odstavce 3 a přístup ke kanálům; marg. č. 42 používá OSVČ s přímou smlouvou na IT audit a podřazuje ji pod písmena c) a j)."
+    },
+    {
+      "id": "R1-MAJOR-006",
+      "severity": "MAJOR",
+      "finding": "Chyběl poctivý intertemporální test zákonné hranice 100 000 Kč u historického přestupku.",
+      "disposition": "resolved",
+      "change": "Marg. č. 37–38 oddělují účinnost ZOO od časové verze deliktní normy, představují oba výklady a formulují vlastní dvojí časový řez včetně lex mitior, dekriminalizace, pozdější změny a promlčení."
+    },
+    {
+      "id": "R1-MINOR-001",
+      "severity": "MINOR",
+      "finding": "Chybělo výslovné zahrnutí pokusu o zatajení porušení.",
+      "disposition": "resolved",
+      "change": "Marg. č. 3 jej vykládá podle čl. 5 bodu 2 směrnice a současně zachovává hranice českého § 2."
+    },
+    {
+      "id": "R1-MINOR-002",
+      "severity": "MINOR",
+      "finding": "Nebyl přesně rozlišen fyzický oznamovatel od chráněných právnických osob.",
+      "disposition": "resolved",
+      "change": "Marg. č. 2 rozlišuje § 1, § 4 odst. 2 písm. e) až g) a případný nárok podle § 5."
+    },
+    {
+      "id": "R1-MINOR-003",
+      "severity": "MINOR",
+      "finding": "Výraz „u osoby“ a hranice pracovního kontaktu byly nedostatečně určité.",
+      "disposition": "resolved",
+      "change": "Marg. č. 5–6 rozlišují přímou, zprostředkovanou a dodavatelskou vazbu od čistě soukromé nebo nahodilé souvislosti."
+    },
+    {
+      "id": "R1-MINOR-004",
+      "severity": "MINOR",
+      "finding": "Výklad písmene d) nerozlišoval porušení soukromoprávní normy od pouhého porušení smlouvy.",
+      "disposition": "resolved",
+      "change": "Marg. č. 11 požaduje porušení právního předpisu v příslušné oblasti; samotný smluvní nesoulad nestačí."
+    },
+    {
+      "id": "R1-MINOR-005",
+      "severity": "MINOR",
+      "finding": "Pojem služby a textové alternativy plnění úkolů podle písmene f) byly podány příliš volně.",
+      "disposition": "resolved",
+      "change": "Marg. č. 30–31 vážou službu na tři předpisy z poznámky 4 a vyžadují doložení některé konkrétní alternativy písmene f)."
+    },
+    {
+      "id": "R1-MINOR-006",
+      "severity": "MINOR",
+      "finding": "Procesní část neřešila nezávaznost posouzení příjemcem, procesní fórum a přesný rozsah § 133a odst. 2 OSŘ.",
+      "disposition": "resolved",
+      "change": "Marg. č. 39–41 oddělují předběžné posouzení, navazující řízení, samostatný procesní titul a rozložení tvrzení a důkazních břemen."
+    },
+    {
+      "id": "R1-MINOR-007",
+      "severity": "MINOR",
+      "finding": "Chyběl důraz na důkaz skutečného podání a odlišení pracovního či auditního výstupu.",
+      "disposition": "resolved",
+      "change": "Marg. č. 40 a 42 i oddíl Judikatura vyžadují samostatný oznamovací úkon, doklad doručení a časovou osu."
+    },
+    {
+      "id": "R1-MINOR-008",
+      "severity": "MINOR",
+      "finding": "Závěr nálezu IV. ÚS 2629/23 byl formulován příliš obecně vzhledem k jeho předzákonnému skutku.",
+      "disposition": "resolved",
+      "change": "Judikatura nyní omezuje význam nálezu na obecný požadavek reálného skutkového základu a výslovně uvádí, že nevykládá ZOO."
+    },
+    {
+      "id": "R1-MINOR-009",
+      "severity": "MINOR",
+      "finding": "Po specializované kontrole se ukázalo, že dílčí skutkové nepřesnosti tvoří samostatný problém oproti zavinění podle § 23.",
+      "disposition": "resolved",
+      "change": "Původní společná marg. č. 23 byla rozdělena; samostatná marg. č. 24 nyní řeší nosné skutkové jádro a materiální význam nepřesnosti."
+    }
+  ],
+  "specialized_followups": [
+    {
+      "topic": "věcná působnost a anonymita",
+      "result": "Doplněn rozumný právní omyl podle čl. 6 směrnice a body 71–73 rozsudku 3 As 309/2023-83; oddělen procesní a ochranný okamžik anonymity."
+    },
+    {
+      "topic": "zavinění podle § 23 a historický přestupek",
+      "result": "Po korekci zdrojového přesahu nezůstává MAJOR; vlastní závěry jsou výslovně označeny a absence přímé judikatury je evidována."
+    }
+  ],
+  "final_counts": {
+    "BLOCKER": 0,
+    "MAJOR": 0,
+    "MINOR_unresolved": 0
+  },
+  "post_correction_recheck": {
+    "result": "Nezávislý úplný průchod po zapracování všech původních nálezů skončil BLOCKER 0, MAJOR 0, MINOR 0. Po následném rozdělení marg. č. 23–24 a zpřesnění marg. č. 38 byla dotčená témata znovu věcně zkontrolována; nezůstal žádný BLOCKER ani MAJOR."
+  },
+  "final_disposition": "Všechny BLOCKER a MAJOR nálezy byly zapracovány; věcná oponentura 1 nezanechává žádný nevypořádaný nález."
+}

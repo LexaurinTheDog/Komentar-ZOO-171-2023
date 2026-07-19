@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "revision_report",
+  "unit_key": "cz:sb:171-2023:section:2",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-2-20260718-zpl-v1",
+  "created_at": "2026-07-18T14:02:21+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "before_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "before_file_sha256": "1f4ca5b7e65c3065ed1e66f04e4d845eb560e9ca0ad570538bebb4457c7edc25",
+    "before_section_sha256": "77855f983770417fa6b8c3b1fa40d67772efe9ebddf17fc6ca227e62b6c748c0",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "output_hashes": {
+    "comment_file_sha256": "c8335592ccc77255c037191dec49aa20605a178bdf43899289400114c51a5607",
+    "comment_file_blob_oid": "db343185ff950cad21c9451b48b7f947ec48f9d6",
+    "section_sha256": "5336f863a16e32832a41c0851f621f3defc446299b49b3d6b89b035250a11d5c"
+  },
+  "final_status": "revidováno",
+  "comment_file_updated": true,
+  "comment_file": "/home/vojtech/Komentar-ZOO-171-2023/01-cely-zakon.md",
+  "revised_scope": "pouze § 2, výsledné řádky 125–348; obsah od § 3 dále zůstal shodný s baseline a předchozí dokončená revize § 1 byla zachována",
+  "preserved": [
+    "Základní rozlišení pracovního kontextu a kvalifikovaného protiprávního jednání.",
+    "Správná teze, že oznamovatel nemusí předjímat konečný výsledek deliktního řízení; byla zpřesněna objektivizovaným standardem ex ante.",
+    "Přehled širokého pojetí práce a jiné obdobné činnosti podle odstavců 3 a 4.",
+    "Rozlišení identifikovaného a anonymního podání; bylo rozvinuto do dvou odlišných rozhodných okamžiků.",
+    "Užitečná praktická orientace na dokumentaci pracovního vztahu, obsahu podání a časové osy; vadný původní model byl nahrazen věcně správným."
+  ],
+  "corrected_or_removed": [
+    {
+      "change": "Doplněno úplné ověřené znění včetně poznámek 2 až 4.",
+      "reason": "Původní blok neobsahoval odkazy na SFEU ani úplný výčet služebních předpisů."
+    },
+    {
+      "change": "Odstraněna dlouhá citace rozsudku Městského soudu v Praze č. j. 8 Ad 14/2024-54, původně chybně označeného jako NSS, a nahrazena aktuálním kasačním závěrem.",
+      "reason": "Rozsudek byl NSS ve věci 8 Ads 100/2025-81 zrušen právě v otázce, zda příprava auditu sama aktivuje ochranu."
+    },
+    {
+      "change": "Oddělen obsah oznámení podle § 2 od podmínek ochrany podle § 7 odst. 3 a od přestupku podle § 23.",
+      "reason": "Původní text směšoval pojmový znak, objektivizovanou rozumnou víru a zaviněnou nepravdivost."
+    },
+    {
+      "change": "Nepravdivá identifikace byla oddělena od materiálně nepravdivého skutkového obsahu a anonymního režimu.",
+      "reason": "Samotný nesprávný identifikační údaj bez dalšího nepodporuje závěr o vědomě nepravdivém oznámení podle § 23."
+    },
+    {
+      "change": "Všech čtrnáct oblastí bylo přepracováno do aktuální sektorové mapy s hranicemi, překryvy, reprezentativními předpisy a zvláštními režimy.",
+      "reason": "Původní výklad mechanicky přebíral přílohu směrnice a neřešil vnitrostátní rozšíření ani pozdější náhradu sektorových předpisů."
+    },
+    {
+      "change": "Důvodová zpráva byla korigována legislativní historií písmene b) a pozměňovacím návrhem SD 2477.",
+      "reason": "Původní důvodová zpráva předpokládala vyloučení obecných přestupků, zatímco konečný zákon je zahrnul od hranice 100 000 Kč."
+    },
+    {
+      "change": "Doplněna taxativnost druhů práce, odlišení služby, OSVČ, dodavatelského zaměstnance, svěřenského správce, dobrovolníka a uchazeče a omezení přístupu k vnitřnímu systému.",
+      "reason": "Původní tabulka převážně parafrázovala zákon a některé příklady neměly pramennou oporu."
+    },
+    {
+      "change": "Původní model náboru s vadnou vazbou na § 256 trestního zákoníku a veřejné zakázky byl nahrazen případem IT specialisty-OSVČ s přímou smlouvou s nemocnicí.",
+      "reason": "Nový model má doložitelný pracovní kontext podle písm. c) a j) a věcnou vazbu na bod 12."
+    },
+    {
+      "change": "Doplněna intertemporalita historického přestupku, vertikální účinek směrnice a konkrétní procesní dimenze.",
+      "reason": "Původní text neřešil časovou verzi sankční sazby, skutečný oznamovací úkon, nezávaznost posouzení příjemcem ani § 133a odst. 2 OSŘ."
+    },
+    {
+      "change": "Duplicitní parafráze, obecné šablonové oddíly a neověřené příklady byly nahrazeny 42 souvislými marginaliemi a tematicky členěnou judikaturou.",
+      "reason": "Původní text nebyl samostatně použitelným odborným komentářem v požadované struktuře."
+    }
+  ],
+  "case_law_added_or_updated": [
+    "NSS ze dne 22. 10. 2025, č. j. 8 Ads 100/2025-81 — ochrana se aktivuje skutečným oznámením, nikoli přípravou auditu nebo sdělením na pracovní poradě; současně zrušil původně citovaný rozsudek.",
+    "NSS ze dne 31. 3. 2026, č. j. 6 Ads 191/2025-54 — auditní zpráva jako běžný pracovní úkol není sama oznámením; časová použitelnost je vysvětlena.",
+    "NSS ze dne 5. 12. 2024, č. j. 3 As 309/2023-83 — funkční pracovní kontext, vertikální přímý účinek a konkrétní podklady rozumné víry ve věcnou působnost.",
+    "ÚS ze dne 10. 12. 2024, sp. zn. IV. ÚS 2629/23 — zdrženlivě použit jen k obecnému požadavku reálného skutkového základu; nevykládá ZOO."
+  ],
+  "existing_case_law_removed_or_not_used": [
+    "Městský soud v Praze ze dne 16. 4. 2025, č. j. 8 Ad 14/2024-54 — odstraněn jako kasačně zrušený a v původním textu nesprávně identifikovaný."
+  ],
+  "literature_verified": [],
+  "literature_gap": "V místním korpusu nebyla nalezena literatura s ověřitelnými bibliografickými údaji a konkrétní pasáží k § 2. Sekundární odkaz z důvodové zprávy nebyl bez plného textu materiálně citován. Tato mezera nebrání uzavření zpracovaných otázek, které jsou podloženy primárními prameny, legislativní historií a plnými texty judikatury.",
+  "unverified": [],
+  "author_opinions_added": [
+    "Marg. č. 8 — při variantních sankčních sazbách je rozhodná sazba vztahující se k tvrzenému skutku a možnému pachateli.",
+    "Marg. č. 18 — příloha směrnice je minimum a interpretační pomůcka, nikoli uzavřený katalog českého písmene d).",
+    "Marg. č. 21 — objektivně rozumný právní omyl o věcné působnosti ochranu nevylučuje; pouhá subjektivní víra nestačí.",
+    "Marg. č. 23 — restriktivní výklad § 23 vyžaduje alespoň vědomou nedbalost a nepřipouští sankci za pouhou nevědomou nedbalost.",
+    "Marg. č. 25–26 — domněnka identity nevytváří rutinní povinnost předkládat doklad a falešná identita sama zpravidla nenaplňuje § 23.",
+    "Marg. č. 29 a 33 — druhy práce jsou taxativní, ale funkční; běžná soukromá nebo spotřebitelská smlouva bez profesní vazby pod písm. j) nespadá.",
+    "Marg. č. 38 — pro historický přestupek se použije dvojí časový řez a nejmírnější relevantní úprava účinná do dne oznámení."
+  ],
+  "open_questions": [
+    "K § 23 ZOO nebyla nalezena přímá judikatura k minimální formě zavinění; restriktivní závěr je proto výslovně označen jako vlastní názor.",
+    "Nebyla nalezena přímá judikatura k intertemporálnímu posouzení hranice 100 000 Kč, jednotlivým sektorovým bodům ani kategoriím práce; text používá primární prameny a výslovná vlastní stanoviska.",
+    "Dostupný pozměňovací návrh SD 2477 neodůvodňuje volbu hranice 100 000 Kč a komentář tento důvod nedoplňuje spekulací.",
+    "Odpovědný odborný editor zůstává neurčen."
+  ],
+  "review_results": {
+    "review_1": "pass after corrections; BLOCKER 0, MAJOR 0, MINOR 0",
+    "review_2": "pass after two locator corrections; 24/24 records reopened; BLOCKER 0, MAJOR 0, MINOR 0",
+    "material_change_returned_to_review_1": true,
+    "source_review_required_new_substantive_return": false
+  },
+  "quality_gate_summary": {
+    "eligible_for_revidovano": true,
+    "passed": 15,
+    "failed": 0,
+    "details_file": "gate_result.json"
+  },
+  "git": {
+    "mode": "BEZ_COMMITU",
+    "commit_created": false,
+    "push_performed": false,
+    "suggested_commit_message": "komentar(§ 2): revize oznámení, věcné působnosti a pracovního kontextu",
+    "suggested_trailers": [
+      "Unit-Key: cz:sb:171-2023:section:2",
+      "Source-SHA256: b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109",
+      "Review-Rounds: 2"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "unit",
+  "unit_key": "cz:sb:171-2023:section:4",
+  "unit_id": "cz-sb-171-2023__section-4",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "repo": "/home/vojtech/Komentar-ZOO-171-2023",
+  "run_id": "zoo-4-20260718-zpl-v1",
+  "created_at": "2026-07-18T15:28:48+02:00",
+  "completed_at": "2026-07-18T16:42:23+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "tool_version": {
+    "registry_parser_sha256": "c224f3f7a8c4fcd6c77ad3f4d625ea28b3fa672655afb067fae2d08ac346e04e",
+    "artifact_schema": "1.0.0"
+  },
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_file_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_file_blob_oid": "291e0f94d4ee230564780258894f1488fceb6ec4",
+    "pre_revision_file_sha256": "7478c863389f2ee563b9290cd1efceb982a89933979bed24dd86931058a9a6ca",
+    "pre_revision_section_sha256": "645cb1b754620876ee8b105d25dbb775e5f8a27e4ca7107a872729592e76d9e3",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "output_hashes": {
+    "comment_file_sha256": "4ff443926d36376bb20b9d1d18b122e9104afc4acbadf6bce8d622522726252d",
+    "comment_file_blob_oid": "cf55e03bdb1949d69b53ede7e04fca47e92916c1",
+    "section_sha256": "0b940b97ccad6eb62e78623ba4f263bd40fd8d0353509160d55ddce38bf66f1a"
+  },
+  "act_id": "cz:sb:171-2023",
+  "act_citation": "zákon č. 171/2023 Sb., o ochraně oznamovatelů",
+  "kind": "section",
+  "label": "4",
+  "rubric": "Odvetná opatření",
+  "comment_file": "01-cely-zakon.md",
+  "heading_anchor": "### § 4 — Odvetná opatření",
+  "heading_line_at_baseline": 370,
+  "heading_line_before_revision": 595,
+  "heading_line_after_revision": 595,
+  "anchor_id": "8b32a30c-5f29-4ef6-a3c4-cbad9d96b6b2",
+  "before_section_lines": {
+    "start": 370,
+    "end_inclusive": 524
+  },
+  "after_section_lines": {
+    "start": 595,
+    "end_inclusive": 825
+  },
+  "source_version": {
+    "source_id": "SB-2023-00171_2025-02-15",
+    "effective_from": "2025-02-15",
+    "effective_to": null,
+    "section_unchanged_since": "2023-08-01",
+    "local_snapshot_date": "2026-05-12",
+    "online_current_version": 2,
+    "online_verified_on": "2026-07-18",
+    "online_source": "https://www.zakonyprolidi.cz/cs/2023-171",
+    "covers_as_of": true,
+    "basis": "Místní oficiální import a povolená online konsolidace ZPL se shodují; historie ZPL potvrzuje, že novela účinná od 15. 2. 2025 změnila pouze § 8 a § 4 je od 1. 8. 2023 beze změny."
+  },
+  "workflow_state": "completed",
+  "target_status": "revidováno",
+  "blocker_codes": [],
+  "blockers": [],
+  "git_mode": "BEZ_COMMITU",
+  "responsible_editor": "NEURČENO"
+}

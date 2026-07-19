@@ -7,19 +7,19 @@
 ## Klíčové instituty
 - **Whistleblower Directive** — 2019/1937
 - **Oznamovatel** — FO oznamující protiprávní jednání
-- **3kolejnost**: vnitřní oznamovací systém (VOS) / MSp / zveřejnění
-- **Příslušná osoba** — VOS u zaměstnavatele 50+
-- **Zákaz odvetných opatření** — § 4 (neplatné)
-- **MSp jako externí kanál + dozor**
+- **Oznamovací cesty**: VOS / MSp / příslušný orgán veřejné moci; uveřejnění jen za podmínek § 7 odst. 1 písm. c)
+- **Příslušná osoba** — fyzická osoba určená povinným subjektem pro VOS
+- **Zákaz odvetných opatření** — § 4; právní následek se určuje podle povahy konkrétního opatření
+- **MSp jako externí kanál, metodický a dílčí kontrolní orgán**
 - **Ochrana totožnosti oznamovatele**
-- **Sankce** — až 1 mil. Kč nebo 5 % obratu
+- **Sankce podle ZOO** — pokuta až 1 mil. Kč
 
 ## Vazby
-[ZP 262/2006](/home/vojtech/Komentar-ZP-262-2006/), 234/2014 (státní služba), AML 253/2008, [GDPR 110/2019](/home/vojtech/Komentar-GDPR-110-2019/).
+[ZP 262/2006](/home/vojtech/Komentar-ZP-262-2006/), 234/2014 (státní služba), AML 253/2008, GDPR — nařízení (EU) 2016/679 a [zákon č. 110/2019 Sb., o zpracování osobních údajů](/home/vojtech/Komentar-GDPR-110-2019/).
 
 ## Právní modality
 
-- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a dalších účinkových konstrukcí použitých v předpisu.
 
 ## Zásady z místní judikatury
 

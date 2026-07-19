@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "review_1",
+  "unit_key": "cz:sb:171-2023:section:5",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-5-20260718-zpl-v1",
+  "created_at": "2026-07-18T17:43:19+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_file_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_file_sha256": "4ff443926d36376bb20b9d1d18b122e9104afc4acbadf6bce8d622522726252d",
+    "pre_revision_section_sha256": "69fbd30aa16fdee7f0ff335d3d969a662f3a68f78567152afc180b621229934a",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109",
+    "post_review_1_section_sha256": "e69d134d14bb7d9777f77d7835a6f7ff8088f729c9caa9d85b2765cfd7163fe6",
+    "gap_analysis_sha256": "7f0fd70ff4d5ee7caae56bf2a85222ae9a9647f851ebcad4547480329e6c6e2c",
+    "source_ledger_sha256": "98beb33fac8cb1cd553994d0618de3e2bb07c06187f0dfe0647874b58da9b070"
+  },
+  "performed": true,
+  "independent_passes": 2,
+  "status": "pass_after_corrections",
+  "original_counts": {
+    "BLOCKER": 0,
+    "MAJOR": 3,
+    "MINOR": 3
+  },
+  "coverage": [
+    "úplnost vůči oběma větám § 5 včetně poznámky pod čarou č. 14",
+    "kumulativní podmínky nároku, oba kauzální vztahy a skutečný vznik nemajetkové újmy",
+    "fyzické osoby, právnické osoby, osoby podle § 4 odst. 2 a svěřenský fond",
+    "pasivní legitimace, přičitatelnost orgánu, zaměstnance a jiného pomocníka a otevřená otázka zavinění",
+    "formy a přiměřenost zadostiučinění, petit, dokazování a meze § 133a odst. 2 OSŘ",
+    "souběh s jinými tituly, odpovědnost při výkonu veřejné moci a zákaz dvojího odčinění",
+    "civilní pravomoc a příslušnost, předběžná ochrana, promlčení, zvláštní lhůty a poplatky",
+    "intertemporální, unijní a ústavní souvislosti a modelová situace",
+    "41 souvislých marginálních odstavců, osm povinných oddílů a odkazy pouze na povolenou doménu"
+  ],
+  "findings": [
+    {
+      "id": "R1-MAJOR-001",
+      "severity": "MAJOR",
+      "location": "Znění ustanovení před marg. č. 1",
+      "finding": "Ověřené znění neobsahovalo marker ani text poznámky pod čarou č. 14, která identifikuje § 31a zákona č. 82/1998 Sb.",
+      "disposition": "resolved",
+      "change": "Doplněn marker 14) i úplné znění poznámky z místního snapshotu.",
+      "recheck": "Marker, text i identifikace zákona odpovídají § 5 a poznámce č. 14 místního autoritativního znění."
+    },
+    {
+      "id": "R1-MAJOR-002",
+      "severity": "MAJOR",
+      "location": "marg. č. 12",
+      "finding": "Výklad svěřenského fondu byl jednostranný, opomíjel § 1456 a § 1466 odst. 2 OZ i jazykový a teleologický argument z výslovného § 4 odst. 2 písm. h).",
+      "disposition": "resolved",
+      "change": "Doplněny konkurenční argumenty, §§ 1448, 1450, 1456 a 1466 OZ, praktická varianta žaloby správce vlastním jménem v zájmu fondu a opatrné vlastní stanovisko založené na § 17 odst. 2 OZ.",
+      "recheck": "Text zachovává účinek § 4 odst. 2 písm. h), ale fondu nepřiznává právní osobnost ani samostatnou procesní subjektivitu a netvrdí existenci přímé judikatury."
+    },
+    {
+      "id": "R1-MAJOR-003",
+      "severity": "MAJOR",
+      "location": "marg. č. 30 ve vazbě na marg. č. 33–34",
+      "finding": "Formulace mohla sugerovat automatický souběh § 5 a § 31a zákona č. 82/1998 Sb.",
+      "disposition": "resolved",
+      "change": "Výslovně uvedeno, že druhá věta § 5 zachovává zvláštní podmínky odpovědnosti při výkonu veřejné moci a § 31a není volitelným automaticky souběžným titulem; případná osobní odpovědnost jiného původce vyžaduje samostatný základ.",
+      "recheck": "Opravený text souhlasí s marg. č. 33–34 a nepřipouští dvojí odčinění stejného následku."
+    },
+    {
+      "id": "R1-MINOR-001",
+      "severity": "MINOR",
+      "location": "marg. č. 18",
+      "finding": "Výraz ‚odvetný motiv‘ vnášel do § 4 odst. 1 nepsaný subjektivní znak.",
+      "disposition": "resolved",
+      "change": "Nahrazen přesným kauzálním znakem ‚vyvoláno učiněním oznámení‘.",
+      "recheck": "Argument ke sporu o zavinění nyní rozlišuje zákonnou kauzalitu od dalšího psychického vztahu škůdce."
+    },
+    {
+      "id": "R1-MINOR-002",
+      "severity": "MINOR",
+      "location": "marg. č. 22",
+      "finding": "Text mohl sugerovat přímou působnost kritérií § 2957 OZ na všechny subjekty a druhy újmy podle § 5.",
+      "disposition": "resolved",
+      "change": "Přímé použití § 2957 je omezeno na újmu člověka na přirozeném právu; u jiných případů je přiměřené zohlednění obdobných okolností výslovně označeno jako vlastní názor.",
+      "recheck": "Právnická osoba ani jiná povaha újmy již nejsou podřazeny pod § 2957 přímo."
+    },
+    {
+      "id": "R1-MINOR-003",
+      "severity": "MINOR",
+      "location": "marg. č. 38",
+      "finding": "Služební odvolání a správní žaloba nebyly výslovně omezeny na odvetu mající podobu přezkoumatelného služebního rozhodnutí.",
+      "disposition": "resolved",
+      "change": "Doplněna podmínka přezkoumatelného rozhodnutí a odlišena pouhá faktická odveta, u níž se ochranná cesta volí podle právní formy opatření.",
+      "recheck": "Zvláštní lhůty a návrh na odkladný účinek jsou nyní správně vázány na služební rozhodnutí."
+    }
+  ],
+  "targeted_recheck": {
+    "snapshot_section_sha256": "e69d134d14bb7d9777f77d7835a6f7ff8088f729c9caa9d85b2765cfd7163fe6",
+    "result": "pass",
+    "details": "Všech šest nálezů bylo v nejnovějším textu znovu jednotlivě zkontrolováno a označeno RESOLVED. Opravy nezaložily nový BLOCKER, MAJOR ani MINOR; zůstává 41 souvislých marginů a povinná struktura."
+  },
+  "final_counts": {
+    "BLOCKER": 0,
+    "MAJOR": 0,
+    "MINOR_unresolved": 0
+  },
+  "post_correction_recheck": {
+    "result": "PASS",
+    "details": "Oponentura 1 po zapracování a cíleném opakovaném průchodu nezanechala žádný nevypořádaný věcný nález."
+  },
+  "post_source_review_2_corrections": null,
+  "final_disposition": "PASS — Oponentura 1 po opravách nezanechává žádný BLOCKER, MAJOR ani MINOR."
+}

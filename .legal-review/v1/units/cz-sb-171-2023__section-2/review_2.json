@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "review_2",
+  "unit_key": "cz:sb:171-2023:section:2",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-2-20260718-zpl-v1",
+  "created_at": "2026-07-18T14:02:21+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "before_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "before_file_sha256": "1f4ca5b7e65c3065ed1e66f04e4d845eb560e9ca0ad570538bebb4457c7edc25",
+    "before_section_sha256": "77855f983770417fa6b8c3b1fa40d67772efe9ebddf17fc6ca227e62b6c748c0",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "reviewed_comment_file_sha256": "c8335592ccc77255c037191dec49aa20605a178bdf43899289400114c51a5607",
+  "reviewed_section_sha256": "5336f863a16e32832a41c0851f621f3defc446299b49b3d6b89b035250a11d5c",
+  "performed": true,
+  "status": "pass_after_locator_corrections",
+  "method": "Po zapracování věcné oponentury byl nezávisle znovu otevřen každý z 24 záznamů ledgeru. U místních souborů byl porovnán SHA-256 a přesný locator; aktuálnost, legislativní historie a plné texty rozhodnutí byly online ověřeny výhradně na www.zakonyprolidi.cz, nikoli ze snippetů.",
+  "record_counts": {
+    "total": 24,
+    "verified": 22,
+    "unused": 2,
+    "unverified": 0
+  },
+  "records_reopened": [
+    "TXT-002",
+    "CUR-002",
+    "ZOO-OPER-002",
+    "DZ-002",
+    "LEG-AMEND-002",
+    "LEG-FINAL-002",
+    "NOV-002",
+    "EU-002",
+    "TFEU-002",
+    "SECTORS-1-9-002",
+    "SECTORS-10-12-002",
+    "AML-SPECIAL-002",
+    "DELICTS-002",
+    "WORK-002",
+    "TRUST-002",
+    "PROCESS-002",
+    "CHARTER-002",
+    "NSS-8ADS100-002",
+    "NSS-6ADS191-002",
+    "NSS-3AS309-002",
+    "US-IV2629-002",
+    "MSPH-8AD14-002",
+    "LIT-NEG-002",
+    "CASE-NEG-002"
+  ],
+  "sources_reopened": [
+    {
+      "claim_ids": ["TXT-002", "CUR-002", "ZOO-OPER-002"],
+      "source": "zákon č. 171/2023 Sb., místní úplný snapshot a aktuální i historická znění ZPL",
+      "locators": "§ 1 až 7, § 9, § 12, §§ 15–17, §§ 20–23 a §§ 29–30; § 2 a jeho poznámky 2–4; historie verzí 1 a 2",
+      "result": "verified"
+    },
+    {
+      "claim_ids": ["DZ-002", "LEG-AMEND-002", "LEG-FINAL-002", "NOV-002"],
+      "source": "původní důvodová zpráva, pozměňovací návrh SD 2477, sněmovní konečné znění a zákon č. 32/2025 Sb. s novelizační důvodovou zprávou",
+      "locators": "K § 2, K § 7 odst. 3, K § 23; čtyři legislativní PDF; čl. XIX a čl. XXII zákona č. 32/2025 Sb.",
+      "result": "verified"
+    },
+    {
+      "claim_ids": ["EU-002", "TFEU-002"],
+      "source": "směrnice (EU) 2019/1937 a čl. 26 a 325 SFEU",
+      "locators": "recitál 32, čl. 2–6, 21, 23, 25 a příloha; čl. 26 odst. 1–2 a čl. 325 odst. 1–2 SFEU",
+      "result": "verified"
+    },
+    {
+      "claim_ids": ["SECTORS-1-9-002", "SECTORS-10-12-002", "AML-SPECIAL-002"],
+      "source": "aktuální reprezentativní sektorové předpisy pro body 1–12 a zvláštní AML režim",
+      "locators": "předmět a relevantní části 23 místních předpisů; náhrada zákonů č. 26/2000 Sb. a č. 181/2014 Sb.; AML § 31d a § 34a odst. 6",
+      "result": "verified"
+    },
+    {
+      "claim_ids": ["DELICTS-002", "WORK-002", "TRUST-002", "PROCESS-002", "CHARTER-002"],
+      "source": "trestní a přestupkové právo, předpisy k práci, občanský zákoník, OSŘ, zákon č. 172/2023 Sb. a Listina",
+      "locators": "přestupkový zákon §§ 2, 5 a 15; ZP § 3; OZ §§ 1448 a 1456; OSŘ § 133a odst. 2; čl. II a XV zákona č. 172/2023 Sb.; Listina čl. 10, 17, 36 a 40 odst. 6",
+      "result": "verified"
+    },
+    {
+      "claim_ids": ["NSS-8ADS100-002", "NSS-6ADS191-002", "NSS-3AS309-002", "US-IV2629-002", "MSPH-8AD14-002"],
+      "source": "plné texty čtyř použitých a jednoho odstraněného rozhodnutí",
+      "locators": "8 Ads 100/2025-81 body 36–54; 6 Ads 191/2025-54 body 49–53; 3 As 309/2023-83 body 54–74; IV. ÚS 2629/23 body 29–40; 8 Ad 14/2024-54 body 76–77 a jeho kasační osud",
+      "result": "verified"
+    },
+    {
+      "claim_ids": ["LIT-NEG-002", "CASE-NEG-002"],
+      "source": "negativní rešerše místní literatury a judikatury",
+      "locators": "evidované fulltextové dotazy a ruční prověření hitů",
+      "result": "verified_negative_result"
+    }
+  ],
+  "findings": [
+    {
+      "id": "R2-MINOR-001",
+      "severity": "MINOR",
+      "finding": "Locator ZOO-OPER-002 končil u § 23 řádkem 543, ačkoli úplné ustanovení včetně sankce končí řádkem 545.",
+      "disposition": "resolved",
+      "change": "Locator byl opraven na § 23 ř. 539–545 a znovu otevřen."
+    },
+    {
+      "id": "R2-MINOR-002",
+      "severity": "MINOR",
+      "finding": "PROCESS-002 dokládal změnu OSŘ a přechodné ustanovení, nikoli vlastním locatorem datum účinnosti doprovodného zákona.",
+      "disposition": "resolved",
+      "change": "Doplněn čl. XV ř. 376–380 a locator byl znovu ověřen."
+    }
+  ],
+  "verification_results": {
+    "local_sha256_match": true,
+    "online_domain_policy_observed": true,
+    "online_domain_used": "www.zakonyprolidi.cz",
+    "statute_text_and_temporal_version_match": true,
+    "legislative_history_match": true,
+    "sector_and_special_regime_claims_match": true,
+    "case_metadata_context_and_holding_match": true,
+    "novelization_and_transition_claims_match": true,
+    "cross_references_and_margin_ranges_match": true,
+    "comment_does_not_overstate_sources": true,
+    "material_unverified_remaining": false
+  },
+  "high_risk_claims_checked": [
+    "rozumný omyl o věcné působnosti",
+    "dílčí nepřesnosti a zavinění podle § 23",
+    "dva okamžiky anonymity",
+    "AML výjimky a sektorová subsidiarita",
+    "historická sazba přestupku v marg. č. 38",
+    "rozsah § 133a odst. 2 OSŘ",
+    "nosné závěry a časová použitelnost všech rozhodnutí"
+  ],
+  "significant_substantive_change": false,
+  "return_to_review_1_required": false,
+  "final_counts": {
+    "BLOCKER": 0,
+    "MAJOR": 0,
+    "MINOR_unresolved": 0
+  },
+  "final_disposition": "PASS — všech 24 ledgerových záznamů bylo znovu otevřeno, oba locatorové nálezy byly opraveny a ověřeny a nezůstává žádný nevypořádaný nález."
+}

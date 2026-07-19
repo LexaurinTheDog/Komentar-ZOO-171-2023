@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "review_1",
+  "unit_key": "cz:sb:171-2023:section:1",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-1-20260718-zpl-v2",
+  "created_at": "2026-07-18T12:36:13+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "before_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "before_file_sha256": "1f4ca5b7e65c3065ed1e66f04e4d845eb560e9ca0ad570538bebb4457c7edc25",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "performed": true,
+  "independent_passes": 4,
+  "status": "pass_after_corrections",
+  "coverage": [
+    "každé písmeno § 1 a jeho vazba na operativní ustanovení",
+    "jazyková, systematická, historická a teleologická argumentace v rozsahu přinášejícím samostatný závěr",
+    "unijní a ústavní dimenze",
+    "novelizace a intertemporalita",
+    "petit, důkazní břemeno, lhůty, příslušnost, poplatky a předběžná ochrana",
+    "modelová situace, důkazy a praktická rizika"
+  ],
+  "findings": [
+    {
+      "id": "R1-MAJOR-001",
+      "severity": "MAJOR",
+      "finding": "Původní revizní návrh nevyložil, že osobní působnost ochrany není vyčerpána fyzickým oznamovatelem uvedeným v § 1 písm. b).",
+      "disposition": "resolved",
+      "change": "Marg. č. 2 nyní vykládá § 4 odst. 2 a § 5, odlišuje oznamovatele od dalších chráněných osob a výslovně uzavírá, že § 1 není samostatným titulem ochrany."
+    },
+    {
+      "id": "R1-MAJOR-002",
+      "severity": "MAJOR",
+      "finding": "Účinky oznámení podle § 7 odst. 2 byly formulovány příliš široce jako obecná ochrana podle celého ZOO.",
+      "disposition": "resolved",
+      "change": "Marg. č. 8 a 17 byly omezeny na ochranu před odvetným opatřením; ostatní účinky se posuzují podle konkrétních ustanovení a byly doplněny všechny relevantní požadavky § 2 a § 7 odst. 3."
+    },
+    {
+      "id": "R1-MAJOR-003",
+      "severity": "MAJOR",
+      "finding": "Procesní část dostatečně neoddělovala zadostiučinění podle § 5, napadení samotného odvetného opatření a předběžnou ochranu.",
+      "disposition": "resolved",
+      "change": "Marg. č. 12–16 rozlišují právní tituly, petity, příslušnost, promlčení a prekluzi, poplatky, jistotu a důsledky pracovněprávního § 69 a 72."
+    },
+    {
+      "id": "R1-MAJOR-004",
+      "severity": "MAJOR",
+      "finding": "Rozsah přesunu důkazního břemene podle § 133a odst. 2 OSŘ nebyl vymezen přesně.",
+      "disposition": "resolved",
+      "change": "Marg. č. 15 rozlišuje povinnost tvrzení, břemeno žalovaného a předpoklady, které zůstávají na žalobci, a samostatně řeší osoby podle § 4 odst. 2."
+    },
+    {
+      "id": "R1-MAJOR-005",
+      "severity": "MAJOR",
+      "finding": "Chybělo procesní přechodné ustanovení čl. II zákona č. 172/2023 Sb.",
+      "disposition": "resolved",
+      "change": "Marg. č. 16 uvádí, že nové § 75b odst. 3 písm. b) a § 133a odst. 2 OSŘ se nepoužijí na řízení zahájená před 1. 8. 2023."
+    },
+    {
+      "id": "R1-MAJOR-006",
+      "severity": "MAJOR",
+      "finding": "Úzký výklad § 133a odst. 2 OSŘ vůči osobám podle § 4 odst. 2 opomíjel protiargument z čl. 4 odst. 4 ve spojení s čl. 21 odst. 1 a 5 směrnice.",
+      "disposition": "resolved",
+      "change": "Marg. č. 15 představuje oba názory, jejich praktické důsledky a výslovné vlastní stanovisko; rozlišuje horizontální spor a nutnost posoudit vertikální účinek vůči státu."
+    },
+    {
+      "id": "R1-MINOR-001",
+      "severity": "MINOR",
+      "finding": "Intertemporální interval byl nutný vyjádřit od dne následujícího po uplynutí transpoziční lhůty.",
+      "disposition": "resolved",
+      "change": "Marg. č. 10 uvádí interval 18. 12. 2021 až 31. 7. 2023."
+    },
+    {
+      "id": "R1-MINOR-002",
+      "severity": "MINOR",
+      "finding": "Odkaz jen na § 2 odst. 1 až 3 opomíjel zvláštní situaci uchazeče o práci podle odstavce 4.",
+      "disposition": "resolved",
+      "change": "Marg. č. 8 nyní odkazuje na požadavky celého § 2 a výslovně připomíná odstavec 4, je-li relevantní."
+    },
+    {
+      "id": "R1-MINOR-003",
+      "severity": "MINOR",
+      "finding": "Osobní dosah výjimky z jistoty podle § 75b odst. 3 písm. b) OSŘ na osoby podle § 4 odst. 2 není stejně jasný jako ochrana oznamovatele.",
+      "disposition": "resolved",
+      "change": "Marg. č. 16 výslovně označuje tuto otázku a propojuje ji s čl. 4 odst. 4 směrnice, aniž automaticky přenáší závěr z § 133a odst. 2."
+    }
+  ],
+  "final_counts": {
+    "BLOCKER": 0,
+    "MAJOR": 0,
+    "MINOR_unresolved": 0
+  },
+  "post_source_review_recheck": {
+    "trigger": "Pramenná oponentura vyvolala doplnění anonymního režimu podle § 4 odst. 3 do marg. č. 8, 17 a 18.",
+    "result": "Nová věcná kontrola potvrdila správné rozlišení § 2 odst. 2 a odloženého vzniku ochrany; BLOCKER 0, MAJOR 0."
+  },
+  "final_disposition": "Všechny nálezy BLOCKER a MAJOR byly zapracovány; finální nezávislé kontroly včetně návratu po pramenné opravě potvrdily, že oponentura 1 nezanechává žádný BLOCKER ani MAJOR."
+}

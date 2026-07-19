@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "gap_analysis",
+  "unit_key": "cz:sb:171-2023:section:8",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-8-20260718-zpl-v1",
+  "created_at": "2026-07-18T21:00:00+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "scope": "§ 8 — zavedení vnitřního oznamovacího systému",
+  "corrected_material_errors": [
+    "Bod 8 písm. e) doplnil zákon č. 32/2025 Sb. s účinností od 15. 2. 2025, nikoli zákon č. 31/2024 Sb.",
+    "Písm. b) a odst. 3 používají prostý stav zaměstnanců k 1. lednu; průměr z důvodové zprávy nelze vložit do přijatého textu.",
+    "Sdílení může zahrnout tutéž řádně určenou fyzickou příslušnou osobu; zákon nevyžaduje odlišnou osobu pro každý subjekt.",
+    "§ 26 nemá obecnou skutkovou podstatu nazvanou nezavedení VOS; sankcionuje konkrétní porušení § 9.",
+    "AML osoby mají zvláštní režim § 21 odst. 6 písm. b) AML zákona a nelze je popsat pouze jako obecně přísnější režim."
+  ],
+  "open_questions": [
+    "Výpočet průměru u výjimky § 8 odst. 1 písm. a) bodu 2.",
+    "Započtení agenturních zaměstnanců u uživatele.",
+    "Překryv výjimky malé obce s obecným písm. b).",
+    "Některé skupinové přenosy oznámení a přesné role podle GDPR."
+  ],
+  "source_gaps": [
+    "Nebyla nalezena přímá publikovaná judikatura k osobní působnosti, počítání zaměstnanců, outsourcingu nebo sdílení podle § 8.",
+    "Nebyla dostupná ověřitelná plnotextová odborná literatura přímo k § 8."
+  ],
+  "blockers": [],
+  "quality_findings_summary": {
+    "BLOCKER": 0,
+    "MAJOR": 0,
+    "MINOR": 0
+  },
+  "source_sufficiency_conclusion": "Znění zákona, důvodová zpráva, aktuální sektorové předpisy, novela č. 32/2025 Sb. a směrnice postačují k transparentnímu výkladu; nevyřešené metodické otázky jsou výslovně označeny."
+}

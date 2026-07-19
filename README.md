@@ -6,7 +6,8 @@ Transpozice směrnice 2019/1937 (Whistleblower Directive).
 [INDEX.md](INDEX.md), [00](00-uvod.md), [01](01-cely-zakon.md).
 
 ## Metoda
-AI komentář **výhradně z lokálních materiálů**.
+
+Komentář vychází především z místních plných textů právních předpisů, důvodové zprávy a judikatury. Aktuálnost znění a citovaných rozhodnutí byla při finální revizi k 18. 7. 2026 ověřována online výhradně na Zákonech pro lidi; původ a rozsah ověření eviduje složka `.legal-review/`.
 
 ## Důvodová zpráva
 
@@ -14,11 +15,11 @@ Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku P
 
 ## Judikatura
 
-Ke komentovaným ustanovením je doplněna judikatura z místních zdrojů (sp. zn., datum, odkaz na plný text a právní věta). Přehled všech citovaných rozhodnutí: [judikatura/README.md](judikatura/README.md).
+Ke komentovaným ustanovením je doplněna místní i online ověřená judikatura (sp. zn., datum, odkaz na plný text a přesné vymezení významu rozhodnutí). Složka [judikatura/](judikatura/README.md) obsahuje vybrané místní karty; úplná citační mapa je přímo u jednotlivých ustanovení.
 
 ## Právní modality
 
-- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a dalších účinkových konstrukcí použitých v předpisu.
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-LINK -->
 ## Výkladové otázky a odpovědi

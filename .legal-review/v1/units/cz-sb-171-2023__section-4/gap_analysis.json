@@ -1,0 +1,412 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "gap_analysis",
+  "unit_key": "cz:sb:171-2023:section:4",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-4-20260718-zpl-v1",
+  "created_at": "2026-07-18T15:28:48+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_target_blob": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_worktree_file_sha256": "7478c863389f2ee563b9290cd1efceb982a89933979bed24dd86931058a9a6ca",
+    "pre_revision_worktree_file_blob": "291e0f94d4ee230564780258894f1488fceb6ec4",
+    "pre_revision_section_sha256": "645cb1b754620876ee8b105d25dbb775e5f8a27e4ca7107a872729592e76d9e3",
+    "local_statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "scope": {
+    "statute": "zákon č. 171/2023 Sb., o ochraně oznamovatelů",
+    "provision": "§ 4 — Odvetná opatření",
+    "target_file": "/home/vojtech/Komentar-ZOO-171-2023/01-cely-zakon.md",
+    "baseline_lines": "370–524",
+    "pre_revision_worktree_lines": "595–749",
+    "next_heading": "### § 5 — Právo na přiměřené zadostiučinění",
+    "online_verification_scope": "výhradně www.zakonyprolidi.cz",
+    "excluded": "jiná ustanovení, jejich komentáře a nesouvisející uživatelské změny"
+  },
+  "substantive_gap_analysis_performed": true,
+  "preflight": {
+    "repository": "/home/vojtech/Komentar-ZOO-171-2023",
+    "branch": "main",
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_target_blob": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_worktree_file_sha256": "7478c863389f2ee563b9290cd1efceb982a89933979bed24dd86931058a9a6ca",
+    "pre_revision_worktree_file_blob": "291e0f94d4ee230564780258894f1488fceb6ec4",
+    "pre_revision_section_sha256": "645cb1b754620876ee8b105d25dbb775e5f8a27e4ca7107a872729592e76d9e3",
+    "target_heading": "### § 4 — Odvetná opatření",
+    "baseline_anchor": "01-cely-zakon.md:370",
+    "pre_revision_worktree_anchor": "01-cely-zakon.md:595",
+    "anchor_is_unique": true,
+    "is_group_heading": false,
+    "target_section_same_as_head": true,
+    "preexisting_change_before_target": "dokončené revize §§ 1–3 před kotvou § 4",
+    "overlap_with_preexisting_user_change": false,
+    "exact_statutory_source_identified": true,
+    "result": "bezpečné pokračovat pouze v hranicích § 4"
+  },
+  "quality_text_preserved_and_integrated": [
+    "Přesné znění § 4 odst. 1 až 4 včetně demonstrativního výčtu odvetných opatření.",
+    "Základní rozlišení jednání nebo opomenutí, pracovního kontextu a souvislosti s oznámením jako tří prvků definice.",
+    "Správný postřeh, že výčet v § 4 odst. 1 je demonstrativní a může zahrnout i ostrakizaci či jiné faktické jednání schopné přivodit újmu.",
+    "Praktické použití časové souslednosti, porovnání s jinými osobami a prověření legitimního důvodu při posuzování příčinné souvislosti.",
+    "Doporučení k preventivní dokumentaci personálních a obchodních rozhodnutí, pokud bude přeformulováno bez nepřípustného přenesení důkazního břemene na oznamovatele.",
+    "Modelová situace a evidenční checklist, pokud budou opraveny jejich právní závěry a navázány na konkrétní procesní prostředky ochrany."
+  ],
+  "quality_findings_summary": {
+    "BLOCKER": 3,
+    "MAJOR": 17,
+    "MINOR": 4
+  },
+  "factual_or_legal_errors": [
+    {
+      "severity": "BLOCKER",
+      "baseline_issue": "Jediná nosná judikatorní citace je označena jako rozhodnutí NSS sp. zn. 8 Ad 14/2024-54 a dovozuje ochranu již při přípravě oznámení.",
+      "correction": "Jde o rozsudek Městského soudu v Praze sp. zn. 8 Ad 14/2024-54. Jeho závěr o ochraně pouhé přípravy oznámení NSS výslovně odmítl v rozsudku ze dne 22. 10. 2025, č. j. 8 Ads 100/2025-81, body 40–54; ochrana podle § 4 se aktivuje až podáním oznámení podle § 7."
+    },
+    {
+      "severity": "BLOCKER",
+      "baseline_issue": "Komentář tvrdí, že české právo výslovně nepřenáší důkazní břemeno ve sporech o odvetná opatření.",
+      "correction": "§ 133a odst. 2 občanského soudního řádu obsahuje zvláštní pravidlo sdíleného důkazního břemene; jeho osobní rozsah však výslovně míří na žalobce-oznamovatele, což vyžaduje samostatně vysvětlit procesní mezeru u chráněných osob podle § 4 odst. 2."
+    },
+    {
+      "severity": "BLOCKER",
+      "baseline_issue": "Text vyvozuje absolutní neplatnost všech odvetných opatření podle § 580 občanského zákoníku.",
+      "correction": "Faktická jednání vůbec nemusejí být právními jednáními; u právních jednání je nutno rozlišovat následky podle §§ 580, 586 a 588 občanského zákoníku a přednost zvláštních pracovněprávních či služebních režimů. Důvodová zpráva hovoří pouze o možné neplatnosti podle povahy věci."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "U dohod o pracích konaných mimo pracovní poměr jsou uváděna neodpovídající ustanovení § 77a a § 77b zákoníku práce.",
+      "correction": "Proces skončení a jeho přezkum je třeba vztáhnout k § 77 odst. 5 a 6 zákoníku práce v rozhodném znění."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Odkazy na § 42 zákona o státní službě a § 47 zákona o služebním poměru příslušníků bezpečnostních sborů nevystihují tvrzené opravné prostředky ani režim skončení služby.",
+      "correction": "Je nutno dohledat a uvést konkrétní zvláštní rozhodnutí, opravný prostředek a lhůtu podle příslušného služebního předpisu; obecné odkazy odstranit."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "§ 4 odst. 2 písm. d) je vykládán jako ochrana dětí nebo podřízených oznamovatele.",
+      "correction": "Písmeno d) chrání osobu ovládanou oznamovatelem; podle § 74 zákona o obchodních korporacích je ovládanou osobou obchodní korporace, v níž může oznamovatel přímo nebo nepřímo uplatňovat rozhodující vliv."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Skupiny podle § 4 odst. 2 písm. e) a f) jsou sloučeny a jejich vazba na právnické osoby je popsána nepřesně.",
+      "correction": "Písmeno e) chrání právnickou osobu, v níž má oznamovatel účast, a výslovně vymezený ovládací řetězec; písmeno f) chrání právnickou osobu, jejíhož voleného orgánu je oznamovatel členem, a její výslovně vymezený ovládací řetězec. Obě kategorie je třeba vyložit odděleně."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Výklad § 4 odst. 2 písm. g) zaměňuje chráněnou osobu s obecným pomocníkem oznamovatele.",
+      "correction": "Písmeno g) chrání osobu, pro kterou oznamovatel vykonává práci nebo jinou obdobnou činnost; pomocník je samostatně chráněn podle písmene a)."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "U anonymního oznámení je ochrana formulována kategoricky bez rozlišení okamžiku a okruhu osob.",
+      "correction": "Rozlišit § 4 odst. 3 pro oznamovatele a osoby podle odst. 2: ochrana nastupuje od okamžiku, kdy jejich totožnost vyjde najevo osobě, která je může vystavit odvetnému opatření."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Povinnost podle § 4 odst. 4 je zúžena pouze na zaměstnavatele.",
+      "correction": "Adresátem je osoba, pro kterou oznamovatel vykonává práci nebo jinou obdobnou činnost; to může být širší okruh než zaměstnavatel a musí být vyložen podle definice pracovního kontextu."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Chybí správní sankce za umožnění odvetného opatření a jejich rozlišení podle pachatele.",
+      "correction": "Doplnit vazbu na přestupky podle § 26 odst. 1 písm. a) a § 27 odst. 4 zákona o ochraně oznamovatelů a příslušnost podle § 28."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Definice odvetného opatření není systematicky propojena s definicemi oznámení, oznamovatele a pracovního kontextu ani s podmínkami ochrany.",
+      "correction": "Výklad musí společně použít § 2, § 4 a § 7; zejména odlišit věcný rozsah oznámení, osobní vazbu oznamovatele a okamžik aktivace ochrany."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Text připouští ochranu již před podáním oznámení.",
+      "correction": "Po rozsudku NSS č. j. 8 Ads 100/2025-81 je třeba uvést, že pouhá příprava ani úmysl oznámit ochranu podle § 4 neaktivují; rozhodné je skutečné oznámení podle § 7."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Není zpracována ochrana bývalého pracovníka proti následnému odvetnému opatření.",
+      "correction": "Doplnit závěr NSS č. j. 8 Ads 100/2025-81, že skončení pracovního vztahu samo nevylučuje pozdější odvetu, například nepříznivou referenci nebo zásah do další profesní dráhy."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Komentář nevysvětluje, zda je odvetné opatření omezeno časovou lhůtou.",
+      "correction": "Uvést, že zákon pevnou dobu nestanoví; s odstupem času se však zpravidla oslabuje indicie příčinné souvislosti, která musí být posouzena podle všech okolností."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Smíšené motivy jsou redukovány na jednoduchou časovou posloupnost.",
+      "correction": "Vyložit konkurenci legitimního důvodu a odvety, význam srovnatelného zacházení, proporcionality a dokumentace; časová blízkost je pouze indicií, nikoli automatickým důkazem."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Hrozba a pokus o odvetné opatření nejsou samostatně zpracovány.",
+      "correction": "Zdůraznit, že § 4 odst. 1 zahrnuje i hrozbu a pokus, takže dokonaná újma není nezbytnou podmínkou zákazu ani prevenční povinnosti."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Osobní rozsah je podán převážně jako ochrana fyzických osob a opomíjí korporátní a majetkové struktury.",
+      "correction": "Samostatně vysvětlit právnické osoby, vztahy účasti a ovládání i svěřenský fond podle § 4 odst. 2 písm. d) až h)."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Praktická část neřeší konkrétní nárok, petit, předběžnou ochranu, příslušnost, poplatek, dokazování ani zvláštní lhůty.",
+      "correction": "Rozlišit prostředky podle § 5, neplatnost či přezkum personálního aktu, náhradu újmy a zvláštní pracovní nebo služební režimy; u každého uvést procesní cestu a upozornit, že § 4 sám úplný petit nezakládá."
+    },
+    {
+      "severity": "MAJOR",
+      "baseline_issue": "Chybí intertemporální posouzení oznámení a odvetných opatření kolem nabytí účinnosti zákona.",
+      "correction": "Vyložit účinnost zákona, přechod od přímého účinku směrnice ve vertikálních vztazích a dopad zákona č. 172/2023 Sb. na procesní ochranu."
+    },
+    {
+      "severity": "MINOR",
+      "baseline_issue": "Komentář nemá závaznou strukturu úplného komentáře ani oddělené části pro související ustanovení, předpisy, důvodovou zprávu, literaturu a judikaturu.",
+      "correction": "Přestavět § 4 do závazného pořadí oddílů bez ztráty kvalitních původních pasáží."
+    },
+    {
+      "severity": "MINOR",
+      "baseline_issue": "Výkladové odstavce nejsou opatřeny souvislými a jedinečnými marginálními čísly.",
+      "correction": "Použít souvislou řadu [1] až [48] a sladit s ní přehled výkladu."
+    },
+    {
+      "severity": "MINOR",
+      "baseline_issue": "Některé příklady pomocníků a spojených osob jsou podány jako zákonné kategorie, ačkoli jde jen o ilustraci důvodové zprávy.",
+      "correction": "Důsledně odlišit zákonný text, demonstrativní příklady z důvodové zprávy a vlastní modelové situace."
+    },
+    {
+      "severity": "MINOR",
+      "baseline_issue": "Část o prevenci, rizicích a checklistu se opakuje a místy používá neurčité formulace.",
+      "correction": "Sloučit praktická doporučení do jednoho závěrečného marginálního odstavce a navázat jednotlivé kroky na konkrétní normu nebo procesní riziko."
+    }
+  ],
+  "paraphrase_without_interpretive_value": [
+    "Tabulkové přepsání jednotlivých písmen § 4 odst. 1 bez rozlišení právního jednání, faktického zásahu, hrozby a pokusu.",
+    "Výčet chráněných osob bez přesného rozlišení zákonných kategorií podle § 4 odst. 2 písm. a) až h).",
+    "Obecná věta, že zaměstnavatel nesmí dopustit odvetu, bez vymezení širšího adresáta § 4 odst. 4, prevenčního standardu a sankce.",
+    "Obecné doporučení shromažďovat důkazy bez vysvětlení pravidla § 133a odst. 2 občanského soudního řádu a konkrétní procesní cesty."
+  ],
+  "existing_material_citations": [
+    {
+      "citation_as_written": "NSS 8 Ad 14/2024-54",
+      "status": "chybně identifikováno a materiálně překonáno",
+      "finding": "Ve skutečnosti rozsudek Městského soudu v Praze sp. zn. 8 Ad 14/2024-54; tezi o ochraně přípravy oznámení odmítl NSS v rozsudku č. j. 8 Ads 100/2025-81."
+    },
+    {
+      "citation_as_written": "§ 580 občanského zákoníku",
+      "status": "ověřeno, ale nadhodnoceno",
+      "finding": "Nemůže bez dalšího založit absolutní neplatnost každého odvetného opatření; nutno rozlišit faktické a právní jednání i §§ 586 a 588."
+    },
+    {
+      "citation_as_written": "§ 77a a § 77b zákoníku práce",
+      "status": "nesprávný locator",
+      "finding": "Pro skončení dohod a přezkumnou lhůtu jsou relevantní § 77 odst. 5 a 6 v rozhodném znění."
+    },
+    {
+      "citation_as_written": "§ 42 zákona o státní službě; § 47 zákona o služebním poměru příslušníků bezpečnostních sborů",
+      "status": "nepoužitelné jako obecná opora tvrzeného procesního závěru",
+      "finding": "Je třeba citovat konkrétní zvláštní režim podle typu služebního rozhodnutí a opravného prostředku."
+    }
+  ],
+  "missing_topics": [
+    "Normativní vztah § 4 k § 2 a podmínkám ochrany podle § 7.",
+    "Okamžik aktivace ochrany a vyloučení pouhé přípravy oznámení.",
+    "Rozdíl mezi právním jednáním, faktickým jednáním, opomenutím, hrozbou a pokusem.",
+    "Příčinná souvislost, časová blízkost, legitimní důvod, komparátor a smíšené motivy.",
+    "Absence pevné časové hranice a ochrana bývalých pracovníků.",
+    "Přesný osobní rozsah § 4 odst. 2 písm. a) až h), včetně právnických osob, ovládání a svěřenského fondu.",
+    "Samostatné postavení osoby, pro kterou oznamovatel pracuje, podle § 4 odst. 2 písm. g) a odst. 4.",
+    "Ochrana u anonymního oznámení a okamžik odhalení totožnosti potenciálnímu původci odvety.",
+    "Prevenční povinnost a její přiměřený obsah podle organizačního postavení adresáta.",
+    "Správní delikty podle §§ 26 a 27 a příslušnost podle § 28.",
+    "Vztah zákazu odvetných opatření k prostředkům nápravy podle § 5.",
+    "Pravidlo důkazního břemena podle § 133a odst. 2 občanského soudního řádu a jeho osobní mez.",
+    "Konkrétní petit, věcná a místní příslušnost, soudní poplatek, předběžné opatření a zvláštní lhůty.",
+    "Pracovněprávní a služební přezkum včetně zkušební doby a dohod mimo pracovní poměr.",
+    "Intertemporální vztah směrnice 2019/1937, zákona č. 171/2023 Sb. a zákona č. 172/2023 Sb.",
+    "Názorový vývoj judikatury NSS v letech 2024 až 2026 a omezená použitelnost nižších rozhodnutí."
+  ],
+  "source_gaps": [
+    {
+      "gap": "Ověřená odborná literatura s konkrétním locatorem k § 4 není v místním korpusu dostupná.",
+      "effect": "Oddíl Literatura musí zdrojovou mezeru přiznat; nelze konstruovat doktrinální spor bez ověřené pasáže.",
+      "blocking": false
+    },
+    {
+      "gap": "Nebyla nalezena meritorní judikatura přímo vykládající jednotlivé skupiny osob podle § 4 odst. 2.",
+      "effect": "Výklad musí vycházet z textu, systematiky a důvodové zprávy a nesmí předstírat ustálenou soudní praxi.",
+      "blocking": false
+    },
+    {
+      "gap": "Nebyla nalezena meritorní judikatura k rozsahu prevenční povinnosti podle § 4 odst. 4.",
+      "effect": "Standard prevence je nutno formulovat opatrně jako výklad založený na účelu normy a sankční vazbě.",
+      "blocking": false
+    },
+    {
+      "gap": "Nebyla nalezena publikovaná civilní judikatura Nejvyššího soudu k novému § 133a odst. 2 občanského soudního řádu.",
+      "effect": "Popsat zákonné pravidlo a otevřenou otázku jeho osobního rozsahu bez tvrzení o ustáleném výkladu.",
+      "blocking": false
+    }
+  ],
+  "novelization_and_intertemporal_gaps": [
+    "Chybí přesné datum účinnosti § 4 a oddělení skutků před a po nabytí účinnosti zákona č. 171/2023 Sb.",
+    "Chybí popis období po uplynutí transpoziční lhůty směrnice 2019/1937 a před účinností českého zákona, včetně pouze vertikálního přímého účinku.",
+    "Chybí vazba zákona č. 172/2023 Sb. na § 133a odst. 2 občanského soudního řádu a procesní účinnost tohoto pravidla.",
+    "Chybí rozlišení data oznámení, data odvetného opatření a data vzniku nebo pokračování újmy.",
+    "Chybí vysvětlení dnešní použitelnosti rozsudků založených na směrnici nebo na přechodném období."
+  ],
+  "practical_and_procedural_gaps": [
+    "§ 4 sám neurčuje úplný žalobní petit; je nutné zvolit nárok podle § 5 nebo podle zvláštního pracovního, služebního či soukromoprávního režimu.",
+    "Není vysvětleno sdílené důkazní břemeno podle § 133a odst. 2 občanského soudního řádu ani jeho omezení na žalobce-oznamovatele.",
+    "Není zpracována věcná a místní příslušnost podle typu nároku ani možnost předběžného opatření.",
+    "Není odlišena obecná promlčecí lhůta od krátkých prekluzivních lhůt pro napadení skončení pracovního vztahu či zvláštního služebního aktu.",
+    "Chybí poplatkový režim a upozornění, že může záviset na přesné podobě žaloby a kumulaci nároků.",
+    "Chybí doporučení k zachování samotného oznámení, časové osy, komparátorů, hodnoticích podkladů a komunikace o legitimním důvodu.",
+    "Není vyloženo, jak reagovat na hrozící či pokusné odvetné opatření ještě před vznikem dokonané újmy.",
+    "Modelová situace neřeší správnou procesní volbu ani důsledky toho, že opatření zasáhne osobu podle § 4 odst. 2, nikoli samotného oznamovatele."
+  ],
+  "structure_deviations": [
+    "Nadpis ustanovení nemá předepsanou podobu druhé úrovně ani revizní řádek se stavem.",
+    "Chybějí nebo nejsou odděleny povinné oddíly Přehled výkladu, Souvisící ustanovení, Souvisící předpisy, Z důvodové zprávy a Literatura.",
+    "Výklad nemá jedinečná souvislá marginální čísla a přehled na ně nemůže odkazovat.",
+    "Judikatura je umístěna před výkladem, není tematicky členěna a obsahuje chybnou identifikaci soudu."
+  ],
+  "positive_research_log": [
+    {
+      "source": "rozsudek NSS ze dne 31. 3. 2026, č. j. 6 Ads 191/2025-54, body 49–53",
+      "result": "V předzákonném vertikálním vztahu se zkoumá přímý účinek směrnice; běžný interní auditní výstup bez oznámení podle příslušného režimu ochranu neaktivuje."
+    },
+    {
+      "source": "rozsudek NSS ze dne 22. 10. 2025, č. j. 8 Ads 100/2025-81, body 36–55",
+      "result": "Ochrana vzniká skutečným oznámením podle § 7, nikoli jeho pouhou přípravou; může chránit i bývalého pracovníka před pozdější odvetou."
+    },
+    {
+      "source": "rozsudek NSS ze dne 24. 5. 2024, č. j. 5 As 5/2024-36, č. 4609/2024 Sb. NSS, body 23–35",
+      "result": "Potvrzuje význam časové posloupnosti a kauzality, demonstrativní povahu forem odvety a nutnost individualizovat zásah; obecná systemizace sama o sobě odvetou být nemusí."
+    },
+    {
+      "source": "rozsudek NSS ze dne 5. 12. 2024, č. j. 3 As 309/2023-83, body 33, 57–64 a 70–74",
+      "result": "V transpoziční mezeře připustil vertikální přímý účinek směrnice, široký osobní rozsah a posouzení stažení návrhu na jmenování jako možné odvety."
+    },
+    {
+      "source": "důvodová zpráva k zákonu č. 171/2023 Sb., část k § 4",
+      "result": "Podporuje širší pracovní kontext, demonstrativnost výčtu, smíšené motivy, absenci pevné časové hranice, korporátní vazby, anonymitu a širšího adresáta § 4 odst. 4."
+    },
+    {
+      "source": "místní úplné znění zákona č. 171/2023 Sb., §§ 2, 4–7 a 26–28",
+      "result": "Ověřen text definice, prostředků ochrany, podmínek ochrany, přestupků a příslušnosti."
+    },
+    {
+      "source": "§ 133a odst. 2 občanského soudního řádu ve znění doplněném zákonem č. 172/2023 Sb.",
+      "result": "Ověřeno zvláštní pravidlo důkazního břemena a jeho textové omezení na žalobce, který je oznamovatelem."
+    },
+    {
+      "source": "www.zakonyprolidi.cz, časově účinné znění zákona č. 171/2023 Sb. a navazujících předpisů k 18. 7. 2026",
+      "result": "Online kontrola v uživatelem povoleném rozsahu potvrdila použitá zákonná znění a identifikaci novelizačního předpisu."
+    }
+  ],
+  "negative_research_log": [
+    {
+      "searched": "místní soubor NSS-8-Ad-14-2024-54.md a navazující judikatura",
+      "result": "Soubor neobsahuje plný text rozhodnutí NSS; jde o rozhodnutí Městského soudu v Praze a jeho nosná teze o přípravě oznámení byla překonána rozsudkem NSS č. j. 8 Ads 100/2025-81."
+    },
+    {
+      "searched": "judikatura k § 4 odst. 2 písm. a) až h)",
+      "result": "Nebyl nalezen ověřený meritorní rozsudek, který by jednotlivé skupiny chráněných osob přímo vykládal."
+    },
+    {
+      "searched": "judikatura k § 4 odst. 3 a 4",
+      "result": "Nebyl nalezen ověřený meritorní rozsudek k okamžiku ochrany u anonymního oznámení ani k přesnému standardu aktivní prevence."
+    },
+    {
+      "searched": "civilní judikatura Nejvyššího soudu k § 133a odst. 2 občanského soudního řádu",
+      "result": "Nebyla nalezena ověřená meritorní aplikace nové úpravy; rozsah vůči osobám podle § 4 odst. 2 zůstává otevřený."
+    },
+    {
+      "searched": "rozsudek Městského soudu v Praze ze dne 16. 4. 2026, č. j. 10 Ad 6/2025-91, body 132–144",
+      "result": "Nižší a neověřeně pravomocné rozhodnutí chybně odkazuje na § 133 namísto § 133a; nebude použito jako materiální autorita."
+    },
+    {
+      "searched": "rozsudek NSS č. j. 22 As 19/2025-38",
+      "result": "Týká se zejména § 5 a procesní příslušnosti, nikoli přímého výkladu § 4; použitelnost je jen podpůrná pro procesní část."
+    },
+    {
+      "searched": "místní literatura k § 4 zákona o ochraně oznamovatelů",
+      "result": "Nebyla nalezena ověřitelná odborná pasáž s úplnými bibliografickými údaji a konkrétním locatorem."
+    }
+  ],
+  "research_needed_and_completed": [
+    "Porovnáno aktuální znění § 4 s místním snapshotem a online zněním na povolené doméně.",
+    "Ověřena systematická vazba na §§ 2, 5, 6, 7 a 26–28 zákona o ochraně oznamovatelů.",
+    "Prověřena původní důvodová zpráva včetně osobního rozsahu, smíšených motivů, anonymity a prevenční povinnosti.",
+    "Prověřen judikatorní vývoj od rozsudku č. j. 5 As 5/2024-36 přes č. j. 3 As 309/2023-83 a 8 Ads 100/2025-81 po č. j. 6 Ads 191/2025-54.",
+    "Ověřeno, že citace 8 Ad 14/2024-54 neoznačuje NSS a že její nosný závěr byl překonán.",
+    "Prověřeno pravidlo § 133a odst. 2 občanského soudního řádu a novelizační zákon č. 172/2023 Sb.",
+    "Prověřeny možné následky právních jednání podle §§ 580, 586 a 588 občanského zákoníku.",
+    "Prověřeny odkazy na skončení dohod podle § 77 odst. 5 a 6 zákoníku práce.",
+    "Prověřeny korporátní pojmy, zejména ovládaná osoba podle § 74 zákona o obchodních korporacích.",
+    "Vyhledána přímá judikatura k § 4 odst. 2 až 4 a zaznamenán její negativní výsledek.",
+    "Vyhledána ověřitelná literatura s konkrétním locatorem a zaznamenána zdrojová mezera.",
+    "Navržena úplná struktura 48 marginálních odstavců pokrývající hmotněprávní, osobní, intertemporální, sankční a procesní dimenzi."
+  ],
+  "proposed_48_margin_outline": [
+    { "marginal": 1, "topic": "Normativní role čtyř odstavců § 4 a vztah k navazujícím prostředkům." },
+    { "marginal": 2, "topic": "Kvalifikované oznámení a aktivace ochrany podle § 2 a 7." },
+    { "marginal": 3, "topic": "Kumulativní pojmové znaky odvetného opatření." },
+    { "marginal": 4, "topic": "Jednání, opomenutí a význam právní formy opatření." },
+    { "marginal": 5, "topic": "Široký pracovní kontext a minulé pracovní činnosti." },
+    { "marginal": 6, "topic": "Příčinná souvislost a důkazní indicie." },
+    { "marginal": 7, "topic": "Objektivní způsobilost způsobit újmu a vztah ke skutečné újmě podle § 5." },
+    { "marginal": 8, "topic": "Časová posloupnost a skutečné oznámení jako okamžik aktivace ochrany." },
+    { "marginal": 9, "topic": "Jednání před oznámením a samostatný přestupek bránění v oznámení." },
+    { "marginal": 10, "topic": "Ochrana bývalého pracovníka před pozdější odvetou." },
+    { "marginal": 11, "topic": "Absence pevné časové hranice a důkazní význam prodlevy." },
+    { "marginal": 12, "topic": "Legitimní a smíšené motivy, komparace a proporcionalita." },
+    { "marginal": 13, "topic": "Demonstrativní výčet, hrozba a pokus o odvetu." },
+    { "marginal": 14, "topic": "Rozvázání a neprodloužení pracovního poměru." },
+    { "marginal": 15, "topic": "Služební personální opatření a individualizovaný akt." },
+    { "marginal": 16, "topic": "Skončení DPP a DPČ a jeho zvláštní režim." },
+    { "marginal": 17, "topic": "Odvolání z vedoucího místa a disciplinární opatření." },
+    { "marginal": 18, "topic": "Odměňování, osobní příplatek, převedení a přeložení." },
+    { "marginal": 19, "topic": "Hodnocení, pracovní posudek, rozvoj, pracovní doba a lékařská prohlídka." },
+    { "marginal": 20, "topic": "Smluvní zásahy mimo pracovní poměr." },
+    { "marginal": 21, "topic": "Zásah do osobnosti a pověsti právnické osoby." },
+    { "marginal": 22, "topic": "Diferencované následky právního jednání, faktického zásahu a opomenutí." },
+    { "marginal": 23, "topic": "Funkce a podmínky ochrany osob podle § 4 odst. 2." },
+    { "marginal": 24, "topic": "Osoba poskytující pomoc při zjištění, podání či posouzení oznámení." },
+    { "marginal": 25, "topic": "Osoba blízká oznamovateli." },
+    { "marginal": 26, "topic": "Zaměstnanec nebo kolega oznamovatele." },
+    { "marginal": 27, "topic": "Osoba ovládaná oznamovatelem podle § 74 ZOK." },
+    { "marginal": 28, "topic": "Právnická osoba s účastí oznamovatele a její ovládací řetězec." },
+    { "marginal": 29, "topic": "Právnická osoba, v jejímž voleném orgánu oznamovatel působí, a její ovládací řetězec." },
+    { "marginal": 30, "topic": "Asymetrie pojmů ovládající a ovládaná osoba v písmenech d) až f)." },
+    { "marginal": 31, "topic": "Osoba, pro kterou oznamovatel vykonává práci, podle písmene g)." },
+    { "marginal": 32, "topic": "Svěřenský fond, procesní subjektivita a výkon práv správcem." },
+    { "marginal": 33, "topic": "Vlastní ochrana a nárok přidružené osoby." },
+    { "marginal": 34, "topic": "Nemajetková újma a zadostiučinění chráněné právnické osoby jako vlastní stanovisko." },
+    { "marginal": 35, "topic": "Vymezení anonymního oznámení a nezměněné hmotné podmínky." },
+    { "marginal": 36, "topic": "Relativní okamžik odhalení totožnosti konkrétnímu původci odvety." },
+    { "marginal": 37, "topic": "Ochrana známé přidružené osoby bez odhalení anonymního oznamovatele." },
+    { "marginal": 38, "topic": "Rozlišení procesního přijetí anonymního podání a ochrany před odvetou." },
+    { "marginal": 39, "topic": "Aktivní preventivní a reakční povinnost podle § 4 odst. 4." },
+    { "marginal": 40, "topic": "Adresát prevenční povinnosti a meze jeho možnosti ovlivnění." },
+    { "marginal": 41, "topic": "Přiměřená prevence, dokumentace a ochrana totožnosti." },
+    { "marginal": 42, "topic": "Přestupky, rozpor § 27 odst. 4 s § 4 odst. 4 a správní příslušnost." },
+    { "marginal": 43, "topic": "Soukromoprávní nároky, petit a civilní věcná a místní příslušnost." },
+    { "marginal": 44, "topic": "§ 133a odst. 2 OSŘ a procesní mez u osob podle § 4 odst. 2." },
+    { "marginal": 45, "topic": "Civilní a správní předběžná ochrana." },
+    { "marginal": 46, "topic": "Promlčení, pracovní prekluze a služební správní žaloba." },
+    { "marginal": 47, "topic": "Soudní poplatky a intertemporální vztah směrnice, ZOO a doprovodného zákona." },
+    { "marginal": 48, "topic": "Modelová situace a praktický kontrolní seznam." }
+  ],
+  "source_sufficiency_conclusion": {
+    "result": "prameny jsou pro úplnou věcnou revizi § 4 dostatečné",
+    "reasoning": "Úplné zákonné znění, důvodová zpráva, relevantní navazující předpisy a nosná judikatura NSS jsou dostupné a ověřitelné. Chybějící literatura a absence judikatury k dílčím odstavcům jsou transparentně zaznamenané zdrojové mezery, které nebrání poctivému výkladu založenému na textu, systematice, historii a účelu normy.",
+    "status_effect": "Není dán důvod pro stav blokováno-prameny; konečný stav revidováno však zůstává podmíněn úplnou revizí textu, ledgerem, oběma oponenturami a splněním všech quality gates."
+  },
+  "blockers": []
+}

@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "final_commentary_audit",
+  "completed_on": "2026-07-18",
+  "timezone": "Europe/Prague",
+  "subject": "Zákon č. 171/2023 Sb., o ochraně oznamovatelů",
+  "scope": "Finální odborná revize komentáře k §§ 1–30, průřezových výkladových dokumentů a místních judikatorních karet",
+  "result": "PASS",
+  "open_findings": {
+    "blocker": 0,
+    "major": 0
+  },
+  "coverage": {
+    "statutory_sections": "§§ 1–30",
+    "section_count": 30,
+    "sections_with_revision_status": 30,
+    "sections_with_statutory_text_block": 30,
+    "commentary_margins_total": 403,
+    "commentary_margin_ranges": {
+      "1": "1–18",
+      "2": "1–42",
+      "3": "1–46",
+      "4": "1–48",
+      "5": "1–41",
+      "6": "1–14",
+      "7": "1–20",
+      "8": "1–20",
+      "9": "1–8",
+      "10": "1–7",
+      "11": "1–7",
+      "12": "1–9",
+      "13": "1–6",
+      "14": "1–5",
+      "15": "1–6",
+      "16": "1–5",
+      "17": "1–8",
+      "18": "1–10",
+      "19": "1–8",
+      "20": "1–9",
+      "21": "1–10",
+      "22": "1–9",
+      "23": "1–6",
+      "24": "1–6",
+      "25": "1–5",
+      "26": "1–7",
+      "27": "1–6",
+      "28": "1–5",
+      "29": "1–6",
+      "30": "1–6"
+    }
+  },
+  "validations": [
+    {
+      "id": "exact_statutory_text",
+      "result": "PASS",
+      "detail": "Normalizované porovnání odstranilo pouze Markdownové blockquote, kurzívu, seznamové značky a wiki-linkovou syntaxi; vlastní text všech §§ 1–30 se shoduje s místním oficiálním konsolidovaným snapshotem.",
+      "source_path": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2023/171-2023 Zákon o ochraně oznamovatelů.md",
+      "source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+    },
+    {
+      "id": "commentary_numbering_and_status",
+      "result": "PASS",
+      "detail": "Všech 30 oddílů má právě jeden revizní stav, jeden blok znění a souvislou řadu marginálií bez mezer nebo duplicit."
+    },
+    {
+      "id": "heading_structure",
+      "result": "PASS",
+      "detail": "Zachováno je 30 jedinečných paragrafových nadpisů v pořadí 1–30 a hierarchie část–hlava–díl–paragraf."
+    },
+    {
+      "id": "main_commentary_online_links",
+      "result": "PASS",
+      "detail": "Hlavní komentář obsahuje 55 online odkazů, 40 jedinečných; všechny směřují na www.zakonyprolidi.cz."
+    },
+    {
+      "id": "stale_legal_theses",
+      "result": "PASS",
+      "detail": "Kontrolní hledání nepotvrdilo zastaralé teze o třech rovnocenných cestách, pětiprocentní sankci, automatické neplatnosti odvety, obecné nezávislosti příslušné osoby, samotném selhání VOS jako titulu uveřejnění, ochraně pouhé přípravy oznámení ani záměně GDPR se zákonem č. 110/2019 Sb."
+    },
+    {
+      "id": "markdown_parse",
+      "result": "PASS",
+      "detail": "Pandoc úspěšně načetl všech 11 změněných nebo nových Markdownových výstupů."
+    },
+    {
+      "id": "json_parse",
+      "result": "PASS",
+      "detail": "jq úspěšně validoval všechny JSON artefakty ve složce .legal-review."
+    },
+    {
+      "id": "git_diff_check",
+      "result": "PASS",
+      "detail": "git diff --check nehlásí chyby whitespace ani konfliktní značky."
+    },
+    {
+      "id": "relative_link_integrity",
+      "result": "PASS_WITH_EXCLUDED_SOURCE_ARTIFACT",
+      "detail": "V autorských a revidovaných souborech nebyl nalezen neexistující místní cíl. Tři chybějící odkazy media/image1.png až media/image3.png zůstávají pouze v převzatém DUVODOVA-ZPRAVA.md; jde o preexistující obrazové přílohy zdrojového importu, nikoli o část výkladu."
+    }
+  ],
+  "independent_review": {
+    "section_range_reviews": [
+      {
+        "range": "§§ 1–10",
+        "result": "PASS_AFTER_FIXES",
+        "resolved": "2 MAJOR a 5 MINOR"
+      },
+      {
+        "range": "§§ 11–21",
+        "result": "PASS_AFTER_FIXES",
+        "resolved": "3 MAJOR a 8 MINOR"
+      },
+      {
+        "range": "§§ 22–30",
+        "result": "PASS_AFTER_FIXES",
+        "resolved": "2 MINOR při finálním rechecku"
+      }
+    ],
+    "cross_document_reviews": [
+      {
+        "scope": "ZASADY.md a návaznosti vzniku ochrany, důkazního břemene a § 23",
+        "result": "PASS_AFTER_FIXES",
+        "resolved": "3 MAJOR"
+      },
+      {
+        "scope": "PRAVNI-MODALITY.md, úvod, hloubkový výklad, výkladové otázky a judikatorní karty",
+        "result": "PASS_AFTER_FIXES",
+        "resolved": "5 MAJOR"
+      },
+      {
+        "scope": "Závěrečný nezávislý spot-check hlavního souboru",
+        "result": "NO_NEW_CONFIRMED_BLOCKER_OR_MAJOR",
+        "qualification": "Celosouborový opakovaný reread nebyl dokončen; úplné pokrytí stojí na předchozích třech rozsahových auditech a automatizovaných finálních kontrolách, nikoli na tomto spot-checku."
+      }
+    ]
+  },
+  "known_limits": [
+    "Přímá česká judikatura nebo ověřená odborná literatura k některým dílčím otázkám dosud chybí; komentář tyto mezery a vlastní právní názory výslovně označuje.",
+    "Tři obrazové odkazy v převzaté důvodové zprávě nemají v repozitáři zdrojové soubory; text důvodové zprávy a jeho hash zůstaly nedotčeny."
+  ],
+  "deliverables": [
+    {
+      "path": "00-uvod.md",
+      "sha256": "69f8b8a59420d7f303cbebcecf07c16af9245c941237364e8d02eae543c3fe77"
+    },
+    {
+      "path": "01-cely-zakon.md",
+      "sha256": "f781b82a30af4587ec04916f90446645fc1907beda8f020c13fec0836aa261d4"
+    },
+    {
+      "path": "HLOUBKOVY-VYKLAD.md",
+      "sha256": "24f5e8ff692f856ca1668986b2c328fa01596eadeb62ea33a02caa5f4e60b2fe"
+    },
+    {
+      "path": "INDEX.md",
+      "sha256": "1abef276f2245fb3fe820076b158b3e729a34bcbce2b83a9f2d925172b532a70"
+    },
+    {
+      "path": "PRAVNI-MODALITY.md",
+      "sha256": "6420bad30cd08ce37cc8d331ebfdcac4d5937efd8f12bfb950f26685cab391c5"
+    },
+    {
+      "path": "README.md",
+      "sha256": "a57eee3451a9b4471c1130d8887d8c412648c0a8d69a70cab728b73798000ef9"
+    },
+    {
+      "path": "VYKLADOVE-OTAZKY.md",
+      "sha256": "342feed386eba301be993f8a23cd438eacf2a64ce883fb2e0599673df9f77dc2"
+    },
+    {
+      "path": "ZASADY.md",
+      "sha256": "40ee14275d8974aa96f21805305c015b4bca74c19055d9642759aef72525e93e"
+    },
+    {
+      "path": "judikatura/NSS-8-Ad-14-2024-54.md",
+      "sha256": "73fdbd74f81f9388594c323d8efe16d84a634908efb54d48a5562467b2dd3b00"
+    },
+    {
+      "path": "judikatura/NSS-8-Ads-100-2025-81.md",
+      "sha256": "b4a466ab767f756e02dabc9afbe3d542f4536eaf69e40383992cfe3306b98e91"
+    },
+    {
+      "path": "judikatura/README.md",
+      "sha256": "af68f3247b387f1801d788bb3b82d1649a90104c539cfb1795400fb531feccd8"
+    },
+    {
+      "path": ".legal-review/v1/final_source_ledger.json",
+      "sha256": "1fef145cf4bca2332fb80abf482fda592caf1d935fb842c8eb406181ba3d4672"
+    }
+  ],
+  "repository_state": {
+    "commit_created": false,
+    "push_performed": false,
+    "reason": "Commit ani push nebyly součástí zadání."
+  }
+}

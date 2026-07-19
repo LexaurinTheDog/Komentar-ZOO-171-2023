@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "review_2",
+  "unit_key": "cz:sb:171-2023:section:3",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-3-20260718-zpl-v1",
+  "created_at": "2026-07-18T15:10:24+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_file_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_file_sha256": "c8335592ccc77255c037191dec49aa20605a178bdf43899289400114c51a5607",
+    "pre_revision_section_sha256": "8a98461e62c0a0aa3c369a1a4e2700c62ebf4a713a4614c7b155c853a40e66ea",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "reviewed_comment_file_sha256": "7478c863389f2ee563b9290cd1efceb982a89933979bed24dd86931058a9a6ca",
+  "reviewed_section_sha256": "4c751ad94ecd887a76a95484090b0446e2c2b7fb3eddb97999ee76cea0f28eaf",
+  "performed": true,
+  "status": "pass_after_source_and_locator_corrections",
+  "method": "Po zapracování věcné oponentury byl nezávisle znovu otevřen každý z 43 záznamů ledgeru. U místních souborů byl ověřen skutečný název, SHA-256 a přesný locator; u rozhodnutí také druh, datum, spisová značka, ECLI či publikace, skutkový a právní kontext, nosný závěr, časová verze a omezená použitelnost. Online kontrola proběhla výhradně na www.zakonyprolidi.cz a žádný závěr nebyl převzat ze snippetu nebo samostatné právní věty.",
+  "record_counts": {
+    "total": 43,
+    "verified": 43,
+    "unused": 0,
+    "unverified": 0
+  },
+  "records_reopened": [
+    "TXT-003",
+    "CUR-003",
+    "ZOO-OPER-003",
+    "DZ-003",
+    "NOVEL-003",
+    "DIR-2019-003",
+    "BANK-003",
+    "CREDIT-003",
+    "TAX-003",
+    "WORK-SECRECY-003",
+    "PROF-SECRECY-003",
+    "LEGAL-HELP-003",
+    "HEALTH-003",
+    "CLASSIFIED-003",
+    "CRISIS-003",
+    "CRIMINAL-003",
+    "TRADE-SECRET-003",
+    "DIR-943-003",
+    "COPYRIGHT-003",
+    "GDPR-003",
+    "DATA-CZ-003",
+    "SECURITY-CONST-003",
+    "POLICE-003",
+    "CRIT-INFRA-003",
+    "ISVS-003",
+    "DEF-PROC-003",
+    "TFEU-346-003",
+    "INTEL-003",
+    "CONFESSION-003",
+    "CHARTER-003",
+    "PROCESS-003",
+    "PUBLIC-PROOF-003",
+    "US-II-4071-003",
+    "NSS-8AS212-003",
+    "NSS-6AS135-003",
+    "NSS-1AS42-003",
+    "NS-5TDO4-003",
+    "NS-7TZ4-003",
+    "CJEU-C615-003",
+    "CJEU-DOMINGUEZ-003",
+    "US-PLUS8-003",
+    "NEGATIVE-CASELAW-003",
+    "LITERATURE-GAP-003"
+  ],
+  "sources_reopened": [
+    {
+      "claim_ids": [
+        "TXT-003",
+        "CUR-003",
+        "ZOO-OPER-003",
+        "NOVEL-003"
+      ],
+      "source": "zákon č. 171/2023 Sb., místní úplný snapshot, aktuální a historická znění ZPL a novela č. 32/2025 Sb.",
+      "locators": "§§ 2–7, §§ 12, 17, 20–21, 23 a 30; § 3 a poznámky 5–13; historie verzí 1 a 2; změnový bod novely pouze k § 8",
+      "result": "verified_after_path_correction"
+    },
+    {
+      "claim_ids": [
+        "DZ-003",
+        "DIR-2019-003",
+        "DIR-943-003",
+        "DEF-PROC-003",
+        "TFEU-346-003"
+      ],
+      "source": "důvodová zpráva, směrnice (EU) 2019/1937, směrnice 2016/943/EU, směrnice 2009/81/ES, ZZVZ a čl. 346 SFEU",
+      "locators": "DZ k § 3 ř. 2701–2860; směrnice body 24–28, 32, 91–92 a 97–98, čl. 3, 6 a 21; směrnice 2016/943 čl. 3 a 5; směrnice 2009/81 čl. 2; ZZVZ § 29 a § 187; čl. 346 SFEU",
+      "result": "verified"
+    },
+    {
+      "claim_ids": [
+        "BANK-003",
+        "CREDIT-003",
+        "TAX-003",
+        "WORK-SECRECY-003",
+        "PROF-SECRECY-003",
+        "LEGAL-HELP-003",
+        "HEALTH-003"
+      ],
+      "source": "bankovní, záloženské, daňové, pracovní, správní, profesní a zdravotní předpisy",
+      "locators": "zákon o bankách §§ 38–39; zákon č. 87/1995 Sb. §§ 25b–25c; daňový řád §§ 52–55 a 246; ZP § 303; správní řád § 15 odst. 3; přesné profesní mlčenlivosti; zdravotní služby § 51",
+      "result": "verified"
+    },
+    {
+      "claim_ids": [
+        "CLASSIFIED-003",
+        "CRISIS-003",
+        "SECURITY-CONST-003",
+        "POLICE-003",
+        "CRIT-INFRA-003",
+        "ISVS-003",
+        "INTEL-003",
+        "CONFESSION-003"
+      ],
+      "source": "utajované informace, krizové řízení, ústavní bezpečnost, Policie ČR, kritická infrastruktura, ISVS, zpravodajské služby a zpovědní tajemství",
+      "locators": "zákon č. 412/2005 Sb. §§ 2–3 a 22; krizový zákon § 27; ústavní zákon č. 110/1998 Sb. čl. 1–3; Policie §§ 48–49; zákon č. 266/2025 Sb. § 2 a § 30 odst. 6–7; ISVS § 2; tři zpravodajské zákony; zákon č. 3/2002 Sb. §§ 6, 7 a 11",
+      "result": "verified_after_sha_corrections"
+    },
+    {
+      "claim_ids": [
+        "CRIMINAL-003",
+        "TRADE-SECRET-003",
+        "COPYRIGHT-003",
+        "GDPR-003",
+        "DATA-CZ-003",
+        "CHARTER-003",
+        "PROCESS-003",
+        "PUBLIC-PROOF-003"
+      ],
+      "source": "trestní, soukromé, datové, ústavní a procesní předpisy",
+      "locators": "trestní zákoník §§ 178, 180, 182–183, 230, 316–318 a 367–368; OZ § 504; autorský zákon § 12 a §§ 40–41; GDPR čl. 5, 6 a 9; zákon č. 110/2019 Sb. §§ 1–5; Listina čl. 10, 13, 16, 17, 37 a 40; OSŘ §§ 75b, 120 a 133a; trestní řád § 2 a přestupkový zákon § 69",
+      "result": "verified"
+    },
+    {
+      "claim_ids": [
+        "US-II-4071-003",
+        "NSS-8AS212-003",
+        "NSS-6AS135-003",
+        "NSS-1AS42-003",
+        "NS-5TDO4-003",
+        "NS-7TZ4-003",
+        "CJEU-C615-003",
+        "CJEU-DOMINGUEZ-003",
+        "US-PLUS8-003"
+      ],
+      "source": "plné texty devíti analogicky použitých rozhodnutí",
+      "locators": "II. ÚS 4071/19 body 24–29 a 45–48; 8 As 212/2024 body 15–20 a 41–46; 6 As 135/2024 bod 30; 1 As 42/2025 body 27–30; 5 Tdo 4/2021 body 25–26; 7 Tz 4/2026 body 13–17; C-615/10 body 34–46; C-282/10 body 33 a 37–42; Pl. ÚS 8/25 body 221–225",
+      "result": "verified_after_locator_correction"
+    },
+    {
+      "claim_ids": [
+        "NEGATIVE-CASELAW-003",
+        "LITERATURE-GAP-003"
+      ],
+      "source": "negativní rešerše přímé judikatury a ověřitelné literatury",
+      "locators": "evidované fulltextové dotazy a ruční kontrola významových hitů",
+      "result": "verified_negative_result"
+    }
+  ],
+  "findings": [
+    {
+      "id": "R2-MAJOR-001",
+      "severity": "MAJOR",
+      "finding": "NOVEL-003 uváděl neexistující místní název souboru novely č. 32/2025 Sb.",
+      "disposition": "resolved",
+      "change": "Cesta byla opravena na skutečný název souboru o implementaci unijních předpisů v oblasti digitalizace finančního trhu a financování udržitelnosti; soubor a SHA byly znovu ověřeny."
+    },
+    {
+      "id": "R2-MAJOR-002",
+      "severity": "MAJOR",
+      "finding": "INTEL-003 obsahoval nesprávné SHA-256 zákonů č. 154/1994 Sb. a č. 289/2005 Sb.",
+      "disposition": "resolved",
+      "change": "Hashe byly nahrazeny skutečnými hodnotami a oba místní soubory znovu otevřeny; věcný locator ani závěr se nezměnil."
+    },
+    {
+      "id": "R2-MAJOR-003",
+      "severity": "MAJOR",
+      "finding": "DIR-2019-003 dokládal transpoziční lhůtu, nikoli sám obecnou doktrínu vertikálního a horizontálního přímého účinku tvrzenou v marg. č. 41.",
+      "disposition": "resolved",
+      "change": "Zdrojový přesah byl odstraněn a doplněn plný text rozsudku Soudního dvora Dominguez, C-282/10, body 33 a 37–42; komentář uvádí jeho obecnou a pouze analogickou relevanci."
+    },
+    {
+      "id": "R2-MAJOR-004",
+      "severity": "MAJOR",
+      "finding": "První locator nového záznamu CJEU-DOMINGUEZ-003 nedosahoval k bodu 42, který výslovně dokládá zákaz horizontálního účinku.",
+      "disposition": "resolved",
+      "change": "Locator byl opraven na body 37–42 ř. 992–1087 a cíleným recheckem potvrzen."
+    }
+  ],
+  "verification_results": {
+    "local_sha256_match": true,
+    "online_domain_policy_observed": true,
+    "online_domain_used": "www.zakonyprolidi.cz",
+    "statute_text_and_temporal_version_match": true,
+    "legislative_history_match": true,
+    "professional_and_confidentiality_claims_match": true,
+    "security_and_transition_claims_match": true,
+    "case_metadata_context_and_holding_match": true,
+    "novelization_and_transition_claims_match": true,
+    "cross_references_and_margin_ranges_match": true,
+    "comment_does_not_overstate_sources": true,
+    "material_unverified_remaining": false
+  },
+  "high_risk_claims_checked": [
+    "oddělení právních následků odstavců 1 až 3",
+    "nezbytnost oznámení proti nezbytnosti jednotlivého získávacího úkonu",
+    "trestný způsob získání a zachování oddělitelného oznámení",
+    "GDPR bez automatického titulu nebo výjimky",
+    "profesní a zpovědní mlčenlivost jako funkční režimy",
+    "sedm taxativních bezpečnostních zájmů a jejich bezprostřední ohrožení",
+    "přechod kritické infrastruktury k 18. 7. 2026",
+    "důkazní břemeno podle bodu 97 odůvodnění směrnice a § 133a odst. 2 OSŘ",
+    "předzákonné období, vertikální a horizontální účinek směrnice",
+    "nosné závěry, metadata, časová a analogická použitelnost devíti rozhodnutí"
+  ],
+  "significant_substantive_change": false,
+  "return_to_review_1_required": false,
+  "final_counts": {
+    "BLOCKER": 0,
+    "MAJOR": 0,
+    "MINOR_unresolved": 0
+  },
+  "final_disposition": "PASS — všech 43 ledgerových záznamů bylo znovu otevřeno; čtyři evidenční nebo pramenné nálezy byly opraveny a cíleně znovu ověřeny; 43/43 PASS, 0 FAIL a nezůstává žádný nevypořádaný nález."
+}

@@ -1,0 +1,139 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "review_1",
+  "unit_key": "cz:sb:171-2023:section:4",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-4-20260718-zpl-v1",
+  "created_at": "2026-07-18T16:09:13+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_file_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_file_sha256": "7478c863389f2ee563b9290cd1efceb982a89933979bed24dd86931058a9a6ca",
+    "pre_revision_section_sha256": "645cb1b754620876ee8b105d25dbb775e5f8a27e4ca7107a872729592e76d9e3",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "performed": true,
+  "independent_passes": 3,
+  "status": "pass_after_corrections",
+  "original_counts": {
+    "BLOCKER": 0,
+    "MAJOR": 6,
+    "MINOR": 1
+  },
+  "coverage": [
+    "všech 48 marginálních odstavců a zvlášť marg. č. 32, 38, 42, 43 a 45 až 47",
+    "osobní rozsah § 4 odst. 2 včetně ovládání, právnických osob a svěřenského fondu",
+    "aktivace ochrany u anonymního oznámení a relativní okamžik odhalení totožnosti",
+    "preventivní povinnost podle § 4 odst. 4 a konflikt blanketní skutkové podstaty § 27 odst. 4",
+    "civilní a správní soudní příslušnost, petit, dokazování, promlčení a zvláštní procesní lhůty",
+    "civilní i správní předběžná ochrana a podmínky jejího přiznání",
+    "civilní a správní soudní poplatky a individuální osvobození",
+    "opravené kategorie písm. d) až f) v gap analýze a pramenné krytí nových procesních tvrzení v ledgeru"
+  ],
+  "findings": [
+    {
+      "id": "R1-MAJOR-001",
+      "severity": "MAJOR",
+      "location": "marg. č. 32",
+      "finding": "Původní text naznačoval procesní uplatnění nároku prostřednictvím svěřenského správce jako zástupce fondu a bez dostatečného základu připouštěl vlastní reputační újmu fondu.",
+      "disposition": "resolved",
+      "change": "Text nyní výslovně uvádí, že fond není fyzickou ani právnickou osobou, odlišuje přičtení jiného práva podle § 17 odst. 2 OZ a procesní způsobilost podle § 19 OSŘ, omezuje výkon správcem vlastním jménem na vlastnická práva k vyčleněnému majetku podle § 1448 odst. 3 OZ a ponechává otevřenou otázku vlastního nároku fondu podle § 5 bez přímé judikatury nebo ověřené literatury.",
+      "recheck": "Formulace odpovídá kombinaci §§ 17–18 OZ, § 19 OSŘ a § 1448 odst. 3 OZ, rozlišuje vlastnická práva od jiných nároků a nerozšiřuje závěr nad ověřené prameny."
+    },
+    {
+      "id": "R1-MAJOR-002",
+      "severity": "MAJOR",
+      "location": "marg. č. 42",
+      "finding": "Původní sankční výklad neřešil napětí mezi širším vymezením pachatele v § 27 odst. 4 a blanketním odkazem na užší hmotněprávní povinnost § 4 odst. 4.",
+      "disposition": "resolved",
+      "change": "Doplněny oba konkurenční výklady, důsledek zásady určitosti správního trestání, výslovně označené vlastní užší stanovisko a informace o absenci přímé judikatury; samostatná odpovědnost přímého původce podle § 27 odst. 2 zůstala odlišena.",
+      "recheck": "Text přesně reprodukuje odlišný osobní rozsah § 4 odst. 4 a § 27 odst. 4 a sporný závěr nepředkládá jako ustálené právo."
+    },
+    {
+      "id": "R1-MAJOR-003",
+      "severity": "MAJOR",
+      "location": "marg. č. 43 a 46",
+      "finding": "Procesní část původně neurčila konkrétní civilní a správní soudní příslušnost, obecné promlčení nároku podle § 5 ani základní a zvláštní žalobní lhůty ve služebních věcech.",
+      "disposition": "resolved",
+      "change": "Doplněny § 9 odst. 1 a odst. 2 písm. i), §§ 84 až 87 OSŘ, §§ 612, 619, 620, 629 a 636 OZ, §§ 5, 7, 65 a 72 SŘS a zvláštní šedesátidenní lhůty podle § 196 zákona č. 361/2003 Sb. a § 151 zákona č. 221/1999 Sb.; současně zůstaly odděleny prekluzivní lhůty § 72 a § 315 ZP.",
+      "recheck": "Okresní soud je správně uveden jako obecné první fórum pro samostatný nárok podle § 5, krajský soud pro samostatnou ochranu názvu či pověsti právnické osoby; obecná tříletá a objektivní desetiletá či patnáctiletá mez i správní žalobní lhůty odpovídají plným textům citovaných předpisů."
+    },
+    {
+      "id": "R1-MAJOR-004",
+      "severity": "MAJOR",
+      "location": "marg. č. 45",
+      "finding": "Předběžná ochrana původně uváděla jen výjimku z jistoty a služební návrhy, nikoli podmínky nařízení civilního opatření ani prostředky po podání správní žaloby.",
+      "disposition": "resolved",
+      "change": "Doplněny podmínky § 75c OSŘ, požadavek konkrétní prozatímní povinnosti podle § 76 OSŘ, odkladný účinek podle § 73 SŘS a předběžné opatření podle § 38 SŘS.",
+      "recheck": "Text správně zdůrazňuje, že výjimka z jistoty podle § 75b odst. 3 písm. b) OSŘ sama nezakládá právo na nařízení opatření, a odlišuje správní od civilní předběžné ochrany."
+    },
+    {
+      "id": "R1-MAJOR-005",
+      "severity": "MAJOR",
+      "location": "marg. č. 47",
+      "finding": "Poplatková část původně vyčíslila jen civilní řízení, ačkoli procesní výklad zahrnoval také služební správní soudnictví.",
+      "disposition": "resolved",
+      "change": "Doplněny sazby 3 000 Kč za žalobu proti správnímu rozhodnutí, 5 000 Kč za kasační stížnost a 1 000 Kč za návrh na přiznání odkladného účinku podle položek 18 až 20 sazebníku a individuální osvobození podle § 138 OSŘ a § 36 odst. 3 SŘS.",
+      "recheck": "Částky, položky a oba režimy individuálního osvobození odpovídají úplným textům příslušných procesních a poplatkových předpisů."
+    },
+    {
+      "id": "R1-MAJOR-006",
+      "severity": "MAJOR",
+      "location": "gap_analysis.json, původní korekce k § 4 odst. 2 písm. d) až f)",
+      "finding": "Gap analýza původně pod písm. d) popisovala kategorii písm. e) a u písmen e) a f) je zaměňovala s kategoriemi pracovní činnosti podle § 2.",
+      "disposition": "resolved",
+      "change": "Písmeno d) je nyní správně popsáno jako osoba ovládaná oznamovatelem; písmeno e) jako právnická osoba s účastí oznamovatele a její ovládací řetězec; písmeno f) jako právnická osoba, jejíhož voleného orgánu je oznamovatel členem, a její ovládací řetězec.",
+      "recheck": "Korekce v gap analýze nyní odpovídají textu § 4 odst. 2 i správnému výkladu v marg. č. 27 až 30."
+    },
+    {
+      "id": "R1-MINOR-001",
+      "severity": "MINOR",
+      "location": "marg. č. 38",
+      "finding": "Závěr o anonymním oznámení měl neurčitý předmět a mohl zastřít relativní okamžik vzniku ochrany konkrétní chráněné osoby.",
+      "disposition": "resolved",
+      "change": "Text nyní váže ochranu na okamžik, kdy totožnost konkrétní chráněné osoby vyšla najevo konkrétnímu potenciálnímu původci odvety, a neodvozuje odmítnutí ochrany jen z absence identifikačních údajů v prvotním podání.",
+      "recheck": "Opravená formulace navazuje na marg. č. 35 až 37, § 4 odst. 3 a čl. 6 odst. 3 směrnice bez vnitřního rozporu."
+    }
+  ],
+  "targeted_recheck": {
+    "commentary": {
+      "result": "pass",
+      "details": "Marg. č. 32, 38, 42, 43 a 45 až 47 byly znovu porovnány s úplnými texty předpisů. Nově doplněná věcná a místní příslušnost, promlčení, civilní a správní předběžná ochrana, obecné i zvláštní žalobní lhůty a soudní poplatky jsou právně přesné a přiměřeně podmíněné povahou konkrétního nároku."
+    },
+    "gap_analysis": {
+      "result": "pass",
+      "details": "Obě chybné korekce kategorií § 4 odst. 2 písm. d) až f) byly opraveny a nyní souhlasí s komentářem i textem zákona. JSON je syntakticky validní."
+    },
+    "source_ledger": {
+      "result": "pass",
+      "details": "Věcná oponentura potvrdila obsahový rozsah 29 záznamů, z toho 28 použitých a 1 nepoužitého, i shodu všech 20 místních SHA-256. Následná pramenná oponentura 2 odhalila dvě chybné číselné lokalizace řádků (§ 36 odst. 3 SŘS a § 11 zákona o soudních poplatcích), příliš široký claim k 6 Ads 191/2025 a další drobné evidenční či atribuční vady. Ty byly zapracovány do komentáře, ledgeru a gap analýzy; věcný závěr Oponentury 1 tím nebyl změněn."
+    },
+    "structure": {
+      "result": "pass",
+      "details": "Marginální čísla 1 až 48 jsou jedinečná a souvislá; cílené opravy nenarušily povinné oddíly ani křížové odkazy."
+    }
+  },
+  "final_counts": {
+    "BLOCKER": 0,
+    "MAJOR": 0,
+    "MINOR_unresolved": 0
+  },
+  "post_correction_recheck": {
+    "result": "Po zapracování původních šesti MAJOR a jednoho MINOR proběhl cílený opakovaný věcný průchod komentáře, gap analýzy a ledgeru. Všechny nálezy jsou vypořádány a nevznikl nový BLOCKER, MAJOR ani MINOR."
+  },
+  "post_source_review_2_corrections": {
+    "initial_source_review_counts": {
+      "BLOCKER": 0,
+      "MAJOR": 0,
+      "MINOR": 9
+    },
+    "effect_on_review_1": "Pramenné nálezy neopravily žádný nosný věcný závěr Oponentury 1. Zpřesnily dva řádkové locatory, jeden judikatorní claim a datum nepoužitého rozhodnutí, doplnily procesní pramen ke svěřenskému fondu a označily tři systematické či skutkové inference jako vlastní stanovisko.",
+    "disposition": "Všechny nálezy byly zapracovány; konečné vypořádání a opakované ověření dokumentuje review_2.json."
+  },
+  "final_disposition": "PASS — Oponentura 1 po opravách nezanechává žádný nevypořádaný věcný nález; pozdější pramenná zpřesnění neměla významný věcný dopad."
+}

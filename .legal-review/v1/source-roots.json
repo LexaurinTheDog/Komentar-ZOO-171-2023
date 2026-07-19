@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0.0",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "online_policy": {
+    "allowed": true,
+    "allowed_domains": [
+      "www.zakonyprolidi.cz"
+    ],
+    "used_domains": [
+      "www.zakonyprolidi.cz"
+    ]
+  },
+  "roots": [
+    {
+      "root_id": "REPO_ZOO_BASELINE_A259B079",
+      "absolute_path": "/home/vojtech/Komentar-ZOO-171-2023",
+      "source_class": "repository_local_sources",
+      "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+      "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+      "snapshot_reaches_as_of": true
+    },
+    {
+      "root_id": "CZ_LAW_2026_05_12",
+      "absolute_path": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-12/Czech Law",
+      "snapshot_date": "2026-05-12",
+      "source_class": "official_import_and_local_judicature",
+      "snapshot_reaches_as_of": false
+    },
+    {
+      "root_id": "EU_LAW_2026_05_24",
+      "absolute_path": "/home/vojtech/Documents/Obsidian Vaults/Production 2026-05-24/EU Law",
+      "snapshot_date": "2026-05-24",
+      "source_class": "eur_lex_and_curia_import",
+      "snapshot_reaches_as_of": false
+    },
+    {
+      "root_id": "ZPL_ONLINE_2026_07_18",
+      "base_url": "https://www.zakonyprolidi.cz",
+      "verified_on": "2026-07-18",
+      "source_class": "permitted_online_consolidated_legislation_and_full_text_case_law",
+      "snapshot_reaches_as_of": true,
+      "scope_note": "Online ověřování bylo na pokyn uživatele omezeno výhradně na www.zakonyprolidi.cz. Aktuálnost českého znění je založena na souhlasném výsledku tohoto zdroje a místního oficiálního snapshotu e-Sbírky."
+    }
+  ]
+}

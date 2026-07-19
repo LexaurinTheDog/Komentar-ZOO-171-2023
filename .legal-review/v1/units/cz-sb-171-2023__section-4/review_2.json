@@ -1,0 +1,169 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "review_2",
+  "unit_key": "cz:sb:171-2023:section:4",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-4-20260718-zpl-v1",
+  "created_at": "2026-07-18T16:40:55+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "baseline_file_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "pre_revision_file_sha256": "7478c863389f2ee563b9290cd1efceb982a89933979bed24dd86931058a9a6ca",
+    "pre_revision_section_sha256": "645cb1b754620876ee8b105d25dbb775e5f8a27e4ca7107a872729592e76d9e3",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "performed": true,
+  "status": "pass_after_source_and_locator_corrections",
+  "method": "Po zapracování Oponentury 1 byl znovu otevřen každý z 29 záznamů ledgeru. U 20 místních souborů byl přepočten SHA-256 a ověřen přesný locator; u devíti online plných textů rozhodnutí také soud, druh, datum, značka, ECLI nebo publikace, skutkový a právní kontext, nosný závěr, časová verze, dnešní použitelnost a případné překonání. Online kontrola proběhla výhradně na www.zakonyprolidi.cz; vyhledávací výsledek ani právní věta nebyly považovány za ověření.",
+  "record_counts": {
+    "total": 29,
+    "verified": 28,
+    "unused": 1,
+    "unverified": 0
+  },
+  "local_file_verification": {
+    "files_with_sha256": 20,
+    "sha256_matches_after_corrections": 20,
+    "mismatches_remaining": 0
+  },
+  "online_full_text_verification": {
+    "decisions_reopened": 9,
+    "decisions_verified": 9,
+    "allowed_domain_observed": true,
+    "unused_decisions": [
+      "MSPH-10AD6-004"
+    ]
+  },
+  "records_reopened": [
+    "TXT-004",
+    "CUR-004",
+    "NOVEL-2025-004",
+    "DZ-004",
+    "DIR-2019-004",
+    "CHARTER-004",
+    "CIVIL-004",
+    "CORPORATE-004",
+    "LABOUR-004",
+    "HEALTH-WORK-004",
+    "STATE-SERVICE-004",
+    "SECURITY-SERVICE-004",
+    "SOLDIERS-004",
+    "PROCESS-CIVIL-004",
+    "PROC-AMEND-004",
+    "PROCESS-ADMIN-004",
+    "INSPECTION-004",
+    "FEE-004",
+    "NSS-8ADS100-004",
+    "NSS-6ADS191-004",
+    "NSS-5AS5-004",
+    "NSS-3AS309-004",
+    "NSS-22AS19-004",
+    "US-PLUS37-004",
+    "US-II1609-004",
+    "MSPH-8AD14-004",
+    "MSPH-10AD6-004",
+    "NEGATIVE-CASELAW-004",
+    "LITERATURE-GAP-004"
+  ],
+  "initial_counts": {
+    "BLOCKER": 0,
+    "MAJOR": 0,
+    "MINOR": 9
+  },
+  "findings": [
+    {
+      "id": "R2-MINOR-001",
+      "severity": "MINOR",
+      "finding": "PROCESS-ADMIN-004 uváděl nepřesný řádkový locator § 36 odst. 3 SŘS.",
+      "disposition": "resolved",
+      "change": "Locator byl opraven na řádky 461–470, zejména řádek 469, a znovu ověřen."
+    },
+    {
+      "id": "R2-MINOR-002",
+      "severity": "MINOR",
+      "finding": "FEE-004 uváděl nepřesný řádkový rozsah § 11 zákona o soudních poplatcích.",
+      "disposition": "resolved",
+      "change": "Locator byl opraven na řádky 271–402 a znovu ověřen."
+    },
+    {
+      "id": "R2-MINOR-003",
+      "severity": "MINOR",
+      "finding": "NSS-6ADS191-004 připisoval rozsudku i závěr o nezpětném účinku pozdějšího oznámení a širší bodový rozsah, ačkoli rozhodnutí přímo řeší auditní výstup a vertikální přímý účinek.",
+      "disposition": "resolved",
+      "change": "Claim a locator byly zúženy na body 49–53 a na skutečný nosný závěr; závěr o pozdějším oznámení zůstává správně opřen o 8 Ads 100/2025-81."
+    },
+    {
+      "id": "R2-MINOR-004",
+      "severity": "MINOR",
+      "finding": "Gap analýza uváděla u nepoužitého rozsudku 10 Ad 6/2025-91 nesprávné datum.",
+      "disposition": "resolved",
+      "change": "Datum bylo opraveno na 16. 4. 2026; rozhodnutí zůstává výslovně nepoužité."
+    },
+    {
+      "id": "R2-MINOR-005",
+      "severity": "MINOR",
+      "finding": "Tvrzení o svěřenském fondu nebylo dostatečně rozděleno mezi § 17–18 OZ, § 19 OSŘ a § 1448 odst. 3 OZ.",
+      "disposition": "resolved",
+      "change": "Ledger, marg. č. 32 a protokol Oponentury 1 nyní rozlišují neexistenci právní osobnosti, přičtení práv, procesní způsobilost a výkon vlastnických práv správcem; otevřený nárok podle § 5 není vydáván za vyřešený."
+    },
+    {
+      "id": "R2-MINOR-006",
+      "severity": "MINOR",
+      "finding": "TXT-004 neuváděl plný rozsah ustanovení ZOO potřebný pro tvrzení o zpracování anonymního oznámení.",
+      "disposition": "resolved",
+      "change": "Locator a claim byly doplněny o §§ 9–18, řádky 303–485, a odlišení anonymity podání od anonymního zpracování."
+    },
+    {
+      "id": "R2-MINOR-007",
+      "severity": "MINOR",
+      "finding": "Marg. č. 8 a 11 podávaly skutkové inference z přípravy reorganizace a krátkého časového odstupu jako obecné soudní závěry.",
+      "disposition": "resolved",
+      "change": "Obě inference byly výslovně označeny jako vlastní názor a jejich skutková opora byla omezena na body 23–26 rozsudku 5 As 5/2024-36."
+    },
+    {
+      "id": "R2-MINOR-008",
+      "severity": "MINOR",
+      "finding": "Marg. č. 44 a 47 nebyly dostatečně přesné v oddělení vertikálního přímého účinku směrnice od zákazu jejího horizontálního použití v neprospěch soukromé osoby.",
+      "disposition": "resolved",
+      "change": "Vertikální závěry byly ponechány u citované judikatury a horizontální důsledek byl označen jako vlastní systematický právní názor, nikoli jako nosná teze správních rozsudků."
+    },
+    {
+      "id": "R2-MINOR-009",
+      "severity": "MINOR",
+      "finding": "Review_1.json původně shrnoval pramenný základ svěřenského fondu příliš široce.",
+      "disposition": "resolved",
+      "change": "R1-MAJOR-001 nyní přesně rozlišuje §§ 17–18 OZ, § 19 OSŘ a § 1448 odst. 3 OZ a netvrdí, že poslední ustanovení upravuje všechny možné nároky fondu."
+    }
+  ],
+  "verification_results": {
+    "local_sha256_match": true,
+    "online_domain_policy_observed": true,
+    "online_domain_used": "www.zakonyprolidi.cz",
+    "statute_text_and_temporal_version_match": true,
+    "legislative_history_match": true,
+    "case_metadata_context_and_holding_match": true,
+    "overruled_lower_court_view_identified": true,
+    "novelization_and_transition_claims_match": true,
+    "cross_references_and_margin_ranges_match": true,
+    "comment_does_not_overstate_sources": true,
+    "material_unverified_remaining": false
+  },
+  "targeted_final_recheck": {
+    "scope": "R1-MAJOR-001 po posledním zpřesnění pramenů svěřenského fondu",
+    "result": "pass",
+    "details": "Konečné znění správně odlišuje status fondu podle §§ 17–18 OZ, procesní způsobilost podle § 19 OSŘ a výkon vlastnických práv podle § 1448 odst. 3 OZ; poslední původně hlášený MINOR je odstraněn."
+  },
+  "significant_substantive_change": false,
+  "return_to_review_1_required": false,
+  "final_counts": {
+    "BLOCKER": 0,
+    "MAJOR": 0,
+    "MINOR_unresolved": 0
+  },
+  "final_disposition": "PASS — všech 29 záznamů bylo znovu otevřeno, u 20 místních souborů ověřen SHA-256 a z plného textu ověřeno 9 online rozhodnutí; všech devět drobných nálezů bylo opraveno a cílený závěrečný průchod skončil 0 BLOCKER, 0 MAJOR a 0 MINOR."
+}

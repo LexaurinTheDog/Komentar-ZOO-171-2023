@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "revision_report",
+  "unit_key": "cz:sb:171-2023:section:1",
+  "repo_key": "Komentar-ZOO-171-2023",
+  "run_id": "zoo-1-20260718-zpl-v2",
+  "created_at": "2026-07-18T12:46:01+02:00",
+  "as_of": "2026-07-18",
+  "local_only": false,
+  "network_used": true,
+  "allowed_online_domain": "www.zakonyprolidi.cz",
+  "input_hashes": {
+    "baseline_commit": "a259b079a3598c0084bb55faa3f55dd5d6624ecf",
+    "baseline_tree": "b222ad70baebd09eba006c32bb070ce50d3ca749",
+    "before_blob_oid": "8349b9e2a5d6a4f33c6600cfecf62e35673b74c9",
+    "before_file_sha256": "1f4ca5b7e65c3065ed1e66f04e4d845eb560e9ca0ad570538bebb4457c7edc25",
+    "statute_source_sha256": "b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109"
+  },
+  "output_hashes": {
+    "comment_file_sha256": "23dd062bb4a1983a8c1044133cb4d8f6542eaf7d5069a6cccf54365e49f965b2",
+    "comment_file_blob_oid": "74ff5580a858ee912bbfa3fcfb09c9b685818a1d"
+  },
+  "final_status": "revidováno",
+  "comment_file_updated": true,
+  "comment_file": "/home/vojtech/Komentar-ZOO-171-2023/01-cely-zakon.md",
+  "revised_scope": "pouze § 1, výsledné řádky 9–124; obsah od § 2 dále zůstal shodný s baseline",
+  "preserved": [
+    "Přesné znění a rubrika § 1; text byl znovu ověřen a vložen do závazné struktury.",
+    "Správné původní rozlišení transpoziční, ochranné a institucionální funkce § 1.",
+    "Správná původní teze, že konkrétní ochrana nevzniká ze samotného § 1, nýbrž z navazujících ustanovení.",
+    "Užitečná modelová situace účetní a důraz na důkazy; obojí bylo začleněno v kratší a právně přesnější podobě.",
+    "Upozornění na jiné oznamovací režimy, eurokonformní výklad a vertikální povahu přímého účinku."
+  ],
+  "corrected_or_removed": [
+    {
+      "change": "Opraveno číslo řízení pro nesplnění povinnosti z 2022/0073 na 2022/0043 a doplněno datum zahájení 27. 1. 2022.",
+      "reason": "Původní údaj odporoval důvodové zprávě."
+    },
+    {
+      "change": "Odlišena obecná transpoziční lhůta 17. 12. 2021 od zvláštní lhůty 17. 12. 2023 jen pro interní kanály soukromých subjektů s 50–249 pracovníky.",
+      "reason": "Původní formulace nerozlišovala rozsah čl. 26 odst. 1 a 2 směrnice."
+    },
+    {
+      "change": "Opraven odkaz na přijímání trestních oznámení z § 158 odst. 1 na § 158 odst. 2 trestního řádu.",
+      "reason": "Povinnost přijmout oznámení stanoví odstavec 2."
+    },
+    {
+      "change": "Odstraněna teze, že oznámení jinému příslušnému orgánu je pro vznik ochrany nutné duplicitně podat v režimu ZOO.",
+      "reason": "§ 7 odst. 2 samostatně přiznává ochranu před odvetným opatřením, jsou-li splněny další podmínky."
+    },
+    {
+      "change": "Doplněn anonymní režim § 4 odst. 3 a jeho vztah k identifikaci podle § 2 odst. 2.",
+      "reason": "Identifikace při podání není absolutní podmínkou; ochrana může vzniknout později odhalením totožnosti potenciálnímu původci odvety."
+    },
+    {
+      "change": "Přepracována intertemporalita období 18. 12. 2021 až 31. 7. 2023 a odstraněn závěr, že přímý účinek je po účinnosti ZOO bez významu.",
+      "reason": "Novější rozsudky NSS potvrzují význam pro historické skutky."
+    },
+    {
+      "change": "Doplněn úplný novelizační řetězec zákona č. 32/2025 Sb. a procesní přechodné pravidlo zákona č. 172/2023 Sb.",
+      "reason": "Původní text novelizaci ani intertemporální procesní pravidlo neřešil."
+    },
+    {
+      "change": "Dlouhé seznamy a opakovaná parafráze byly nahrazeny systematickým výkladem, souvislými marginaliemi a samostatnou judikaturou.",
+      "reason": "Původní pasáže byly duplicitní nebo neměly dostatečnou výkladovou hodnotu."
+    },
+    {
+      "change": "Procesní část byla rozdělena na zadostiučinění podle § 5, napadení vlastního odvetného opatření a předběžnou ochranu.",
+      "reason": "Každý prostředek má jiný petit, lhůtu, důkazní režim a poplatek."
+    }
+  ],
+  "case_law_added": [
+    "NSS ze dne 22. 10. 2025, č. j. 8 Ads 100/2025-81 — vznik ochrany až učiněním oznámení a eurokonformní výklad i vnitrostátního rozšíření.",
+    "NSS ze dne 5. 12. 2024, č. j. 3 As 309/2023-83 — vertikální přímý účinek a externí oznámení v předzákonném období.",
+    "NSS ze dne 31. 3. 2026, č. j. 6 Ads 191/2025-54 — auditní zpráva jako pracovní úkol není sama oznámením.",
+    "NSS ze dne 21. 8. 2025, č. j. 22 As 19/2025-38 — soukromoprávní povaha zadostiučinění podle § 5."
+  ],
+  "existing_case_law_verified": [
+    "SDEU ze dne 10. 4. 1984, von Colson a Kamann, 14/83, ECLI:EU:C:1984:153, bod 26.",
+    "SDEU ze dne 13. 11. 1990, Marleasing, C-106/89, ECLI:EU:C:1990:395, body 6–9."
+  ],
+  "literature_verified": [],
+  "literature_gap": "V místním korpusu nebyla nalezena literatura s ověřitelnými bibliografickými údaji a konkrétní pasáží k § 1. Mezery nebrání uzavření zpracovaných otázek, které jsou podloženy primárními prameny a plnými texty judikatury; neověřené sekundární citace nebyly použity.",
+  "unverified": [],
+  "author_opinions_added": [
+    "Marg. č. 2 — § 1 je interpretační a obsahové ustanovení, nikoli samostatný titul nároku, legitimace nebo pravomoci.",
+    "Marg. č. 8 — kvalifikované oznámení příslušnému orgánu podle § 7 odst. 2 není pro vznik ochrany před odvetou nutné duplicitně podat ministerstvu.",
+    "Marg. č. 11 — konkrétní úkon ministerstva musí mít oporu v operativním ustanovení, nikoli pouze v § 1 písm. c).",
+    "Marg. č. 12 — čl. 36 odst. 1 Listiny nevytváří autonomní žalobu ze samotného § 1.",
+    "Marg. č. 15 — v horizontálním sporu nelze proti textu § 133a odst. 2 OSŘ rozšířit zvláštní břemeno na osoby podle § 4 odst. 2; vůči státu je nutné posoudit vertikální účinek směrnice."
+  ],
+  "open_questions": [
+    "Osobní dosah § 133a odst. 2 a § 75b odst. 3 písm. b) OSŘ na osoby podle § 4 odst. 2 není v českém textu jednoznačný; komentář představuje unijní protiargument a zaujímá stanovisko pro horizontální spor.",
+    "Odpovědný odborný editor zůstává neurčen; případné doplnění ověřené odborné literatury je redakční možnost, nikoli materiální NEOVĚŘENO."
+  ],
+  "review_results": {
+    "review_1": "pass; BLOCKER 0, MAJOR 0",
+    "review_2": "pass; všechny prameny znovu otevřeny; BLOCKER 0, MAJOR 0, MINOR 0",
+    "material_change_returned_to_review_1": true
+  },
+  "quality_gate_summary": {
+    "eligible_for_revidovano": true,
+    "passed": 15,
+    "failed": 0,
+    "details_file": "gate_result.json"
+  },
+  "git": {
+    "mode": "BEZ_COMMITU",
+    "commit_created": false,
+    "push_performed": false,
+    "suggested_commit_message": "komentar(§ 1): revize předmětu úpravy a procesních souvislostí",
+    "suggested_trailers": [
+      "Unit-Key: cz:sb:171-2023:section:1",
+      "Source-SHA256: b30da219db8fbe73aa5aa69f16f414699843e1dc2f2302481f449a1610873109",
+      "Review-Rounds: 2"
+    ]
+  }
+}
