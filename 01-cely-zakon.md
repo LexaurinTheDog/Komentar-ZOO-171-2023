@@ -8,78 +8,117 @@
 
 ### § 1 — Předmět úpravy
 
-> **§ 1**
+> Revize: 2026-07-18 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
+> Tento zákon zapracovává příslušný předpis Evropské unie1) a upravuje
 >
-> *Tento zákon zapracovává příslušný předpis Evropské unie a upravuje*
+> a) podávání a postup posuzování oznámení o možném protiprávním jednání,
 >
-> *- a) podávání a postup posuzování oznámení o možném protiprávním jednání,*
+> b) podmínky poskytování ochrany fyzické osobě, která oznámení učinila (dále jen „oznamovatel“), a
 >
-> *- b) podmínky poskytování ochrany fyzické osobě, která oznámení učinila (dále jen „oznamovatel"), a*
+> c) působnost Ministerstva spravedlnosti (dále jen „ministerstvo“) na úseku ochrany oznamovatelů.
 >
-> *- c) působnost Ministerstva spravedlnosti (dále jen „ministerstvo") na úseku ochrany oznamovatelů.*
+> 1) Směrnice Evropského parlamentu a Rady (EU) 2019/1937 ze dne 23. října 2019 o ochraně osob, které oznamují porušení práva Unie, v platném znění.
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Transpoziční doložka a unijní právní rámec
+- funkce a systematické zařazení § 1 — marg. č. 1–3;
+- unijní rámec a eurokonformní výklad — marg. č. 4–5;
+- transpozice, jiné oznamovací režimy a novelizace — marg. č. 6–9;
+- intertemporální otázky — marg. č. 10;
+- působnost ministerstva — marg. č. 11;
+- praktická a procesní dimenze — marg. č. 12–18.
 
-Zákon je výslovně **transpozičním předpisem** — zapracovává směrnici Evropského parlamentu a Rady (EU) 2019/1937 ze dne 23. října 2019 o ochraně osob, které oznamují porušení práva Unie (Whistleblower Directive). Směrnice představuje minimální harmonizaci a zakotvuje povinnost členských států zavést k 17. prosinci 2021 (resp. k 17. prosinci 2023 pro zaměstnavatele s 50–249 zaměstnanci) vnitřní a externí kanály oznamování a chránit oznamovatele před retaliací. ČR transpoziční lhůtu dlouhodobě porušovala — Komise zahájila v lednu 2022 řízení o porušení Smlouvy (infringement proc. č. 2022/0073) a ZOO byl přijat až téměř s dvouletým zpožděním.
+#### Souvisící ustanovení
 
-ZOO **překračuje minimum** směrnice ve dvou směrech: (i) chrání oznamovatele i o protiprávním jednání naplňujícím **znaky trestného činu** podle českého trestního zákoníku, bez ohledu na vazbu na unijní právo (§ 2 odst. 1 písm. a), a (ii) chrání i oznamovatele o **závažném přestupku** (sazba pokuty s horní hranicí ≥ 100 000 Kč, § 2 odst. 1 písm. b). Široký záběr je legitimní — směrnice 2019/1937 v čl. 2 odst. 2 výslovně dovoluje členským státům „rozšířit ochranu podle vnitrostátního práva v souvislosti s oblastmi nebo akty, na něž se [směrnice] nevztahuje".
+- § 2 a 3 — obsah oznámení, pracovní kontext a meze dovoleného získání a oznámení informací;
+- § 4 až 7 — zákaz odvetných opatření, zadostiučinění a vznik ochrany;
+- § 8 až 12 — vnitřní oznamovací systém a posuzování oznámení;
+- § 13 až 18 — příjem a posuzování oznámení ministerstvem;
+- § 19 až 21 — záznamy, ochrana totožnosti a evidence;
+- § 22 a § 28 — kontrolní a přestupková působnost ministerstva;
+- § 29 a 30 — přechodné pravidlo a účinnost zákona.
 
-#### Trojí předmět úpravy
+#### Souvisící předpisy
 
-Písmena a)–c) vymezují tři osy zákona:
+- [směrnice (EU) 2019/1937](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:32019L1937), zejména čl. 1 až 4, 6, 10, 21, 25 a 26;
+- zákon č. 172/2023 Sb., zejména čl. I až III — procesní ochrana v občanském soudním řízení a kompetenční zakotvení ministerstva;
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 9 odst. 1, § 75b odst. 3 písm. b), § 84 a § 133a odst. 2;
+- zákon č. 89/2012 Sb., občanský zákoník, zejména § 81 a 82, § 619 a 620, § 629, § 636, § 2894 a § 2951;
+- zákon č. 262/2006 Sb., zákoník práce, zejména § 69 a 72;
+- zákon č. 2/1969 Sb., kompetenční zákon, § 11 odst. 6;
+- zákon č. 40/2009 Sb., trestní zákoník, §§ 367 a 368, a zákon č. 141/1961 Sb., trestní řád, § 158 odst. 2;
+- zákon č. 549/1991 Sb., o soudních poplatcích, položky 3 až 5 sazebníku;
+- usnesení předsednictva České národní rady č. 2/1993 Sb., o vyhlášení Listiny základních práv a svobod, čl. 36 odst. 1;
+- zákon č. 32/2025 Sb., část devatenáctá čl. XIX a čl. XXII — jediná vyhlášená novela ZOO do rozhodného dne.
 
-1. **Procesní** [písm. a)] — pravidla podávání oznámení (vnitřní oznamovací systém, externí kanál MSp, zveřejnění) a posuzování oznámení (§§ 12, 17).
-2. **Materiální (ochranná)** [písm. b)] — podmínky poskytování ochrany oznamovateli (§§ 4–7) a chráněným osobám v jeho okolí (§ 4 odst. 2). Klíčový pojem „oznamovatel" je zaveden zde formou legislativní zkratky — fyzická osoba, která oznámení učinila.
-3. **Institucionální** [písm. c)] — působnost MSp (§§ 13–18, 22, 28). MSp je v rámci ZOO ústředním státním orgánem ochrany oznamovatelů.
+#### Z důvodové zprávy
 
-#### Souběh s jinými oznamovacími režimy
+> Zvláštní část důvodové zprávy ke sněmovnímu tisku 352 (9. volební období) chápe § 1 jako referenční odkaz na směrnici a jako přehled tří částí úpravy: způsobů podávání a posuzování oznámení, ochrany před odvetou a role ministerstva coby vnějšího oznamovacího systému a poradenského orgánu. Důvodová zpráva k zákonu č. 32/2025 Sb. se ve vztahu k ZOO týká pouze rozšíření § 8 odst. 1 písm. e) v návaznosti na nařízení MiCA; změnu § 1 neodůvodňuje ani nepředpokládá.
 
-ZOO **neruší ani neomezuje** jiné oznamovací povinnosti a kanály existující v právním řádu — zejména:
+#### Literatura
 
-- **§§ 367 a 368 trestního zákoníku** (nepřekažení a neoznámení trestného činu) — povinnost oznamovatele oznámit vybrané trestné činy zůstává nedotčena; ZOO toliko chrání toho, kdo oznamuje, navíc se rozšiřuje na osoby, které oznamovat nemusí.
-- **§ 18 zákona č. 253/2008 Sb., o AML** — oznamovací povinnost povinných osob (banky, advokáti, notáři atd.) ve vztahu k FAÚ MF.
-- **§ 30 zákona č. 250/2016 Sb., o odpovědnosti za přestupky** — možnost oznámit přestupek správnímu orgánu.
-- **§ 158 odst. 1 trestního řádu** — oznámení trestného činu OČTŘ.
+Odborná literatura je po rozhodnutí odpovědného editora odložena do 2. kola; v tomto kole nebyly převzaty žádné neověřené sekundární citace.
 
-Vztah mezi ZOO a těmito režimy je **kumulativní**: oznamovatel splní oznamovací povinnost vůči jinému orgánu a současně může (nebo musí) oznámit věc i v rámci ZOO, aby získal ochranu. § 7 odst. 2 ZOO ostatně výslovně poskytuje ochranu osobě, která oznámení podala orgánu veřejné moci příslušnému podle jiného právního předpisu nebo přímo použitelného předpisu EU.
+#### Výklad
 
-#### F. Kazuistika
+[1] § 1 plní současně tři funkce: označuje zákon jako transpoziční, v písmenech a) až c) podává orientační mapu jeho obsahu a zavádí legislativní zkratky „oznamovatel“ a „ministerstvo“. Jednotlivá práva, povinnosti a pravomoci však vznikají až z navazujících ustanovení; § 1 je proto nutné číst společně zejména s § 2 až 7, § 8 až 21, § 22 a § 28.
 
-**1. Modelová situace.** Účetní soukromé společnosti (zaměstnavatel s 80 zaměstnanci) zjistí, že jednatel systematicky fakturuje fiktivní poradenské služby spřízněné firmě a tím krátí daň z příjmů PO. Současně má podezření, že tatáž praxe poškozuje finanční zájmy EU u dotačního projektu. Účetní zvažuje, zda věc oznámit, a komu — interně, ministerstvu, či policii. K obstarání by bylo třeba: kopie sporných faktur, smluv, účetních sestav, e-mailové komunikace s „dodavatelem".
+[2] Písmeno b) není vyčerpávajícím vymezením osobní působnosti ochrany. Vedle fyzického oznamovatele zakazuje § 4 odst. 2 odvetu také vůči pomocníkům, osobám blízkým, kolegům, některým právnickým osobám a svěřenskému fondu; § 5 pak přiznává zadostiučinění tomu, kdo nesmí být odvetnému opatření vystaven. Tato systematická vazba podle mého názoru potvrzuje, že § 1 je závazným obsahovým a interpretačním ustanovením, nikoli samostatným a úplným titulem ochrany. Sám proto nezakládá nárok, procesní legitimaci ani pravomoc ministerstva a nemůže nahradit chybějící podmínku navazující normy.
 
-**2. Právní otázka.** Zakládá samotný § 1 ZOO oznamovateli nárok na ochranu, nebo jen vymezuje předmět úpravy a ochranu je nutné dovodit z dalších ustanovení?
+[3] Systematika zákona konkretizuje jednotlivá písmena následovně. Písmeno a) se rozvíjí v pravidlech o kanálech a postupu podle § 7 až 21; písmeno b) v definici oznámení a ochranném režimu podle § 2 až 7 a v navazující procesní úpravě; písmeno c) v § 13 až 18, § 22 a § 28. Pojem „oznamovatel“ v § 1 označuje fyzickou osobu, která oznámení učinila, ale teprve § 2 vymezuje kvalifikované oznámení a § 7 stanoví, kdy náleží ochrana.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 1 ZOO — transpoziční doložka a trojí předmět úpravy [písm. a)–c)]; samo o sobě nezakládá hmotná práva, je úvodním vymezovacím ustanovením.
-- *Související ustanovení téhož zákona:* § 2 (co je oznámení), § 4 (odvetná opatření), § 7 (vznik ochrany — teprve zde vzniká konkrétní nárok), § 13–18 (působnost MSp).
-- *Související předpisy:* směrnice 2019/1937, čl. 2 odst. 2 (možnost rozšíření ochrany); § 240 TZ (zkrácení daně); čl. 325 SFEU; § 367, 368 TZ (souběžné oznamovací povinnosti).
-- *Judikatura:* k povaze transpozičních ustanovení a eurokonformnímu výkladu srov. ustálenou judikaturu SDEU o povinnosti vykládat vnitrostátní právo ve světle směrnice (von Colson, Marleasing) — nosný závěr: vnitrostátní soud má vykládat transponující předpis tak, aby dosáhl cíle směrnice.
+[4] Článek 1 směrnice stanoví společné minimální normy pro vysokou úroveň ochrany; její čl. 2 odst. 1 vymezuje unijní oblasti a čl. 2 odst. 2 dovoluje vnitrostátní rozšíření. Český zákon této možnosti využil: § 2 odst. 1 písm. a) až c) zahrnuje bez nutné unijní vazby jednání se znaky trestného činu, závažnějšího přestupku a porušení samotného ZOO. Toto rozšíření však neruší další podmínky, zejména pracovní kontext podle § 2 a způsob vzniku ochrany podle § 7. Příznivější vnitrostátní úpravu připouští také čl. 25 směrnice.
 
-**4. Subsumpce.** § 1 vymezuje, že zákon „upravuje podávání a posuzování oznámení" a „podmínky ochrany". Skutkový stav (daňový únik) spadá do věcného rámce vytyčeného v § 1 písm. a), b), avšak konkrétní ochranu účetní nezíská z § 1 — ten je pouze rozcestníkem. Ochrana se aktivuje až naplněním podmínek § 7 ve spojení s § 2 a § 4.
+[5] Transpoziční odkaz má konkrétní interpretační význam. Při více možných výkladech operativních ustanovení je třeba dát v mezích jejich textu přednost výkladu odpovídajícímu znění a účelu směrnice. Povinnost eurokonformního výkladu vyplývá z rozsudků Soudního dvora ve věcech von Colson a Marleasing. Nejvyšší správní soud ji pro ZOO výslovně použil i na čistě vnitrostátní situace, které český zákonodárce zahrnul nad minimum směrnice. Eurokonformita však není oprávněním přeskočit podmínku učinění oznámení podle § 7.
 
-**5. Řešení.** Účetní by měla věc kvalifikovat jako oznámení podle § 2 odst. 1 písm. a) (znaky TČ zkrácení daně) i písm. d) bodu 2 (daň z příjmů PO) a bodu 13 (finanční zájmy EU) a podat je kanálem podle § 7. § 1 sám o sobě jí ochranu neposkytuje, ale určuje, že její situace do působnosti zákona vůbec spadá — což je předpokladem dalšího postupu.
+[6] Obecná transpoziční lhůta uplynula 17. 12. 2021. Datum 17. 12. 2023 se podle čl. 26 odst. 2 směrnice týkalo jen povinnosti soukromých subjektů s 50 až 249 pracovníky zavést interní kanál. Česká republika směrnici provedla ZOO účinným od 1. 8. 2023; řízení pro nesplnění povinnosti neslo číslo 2022/0043 a Komise je zahájila 27. 1. 2022. Původní § 29 pak uvedené skupině soukromých povinných subjektů poskytl čas k zavedení vnitřního systému do 15. 12. 2023.
 
-**6. Varianty.** (a) Pokud by jednání nemělo žádnou vazbu na § 2 odst. 1 (např. čistě soukromý spor bez znaků TČ/přestupku/porušení vyjmenovaného předpisu), nešlo by o věc upravenou ZOO a § 1 by působnost zákona vyloučil. (b) Pokud by šlo o porušení práva EU mimo 14 vyjmenovaných oblastí, ochrana by se neaktivovala, protože ZOO přebírá jen taxativní záběr směrnice rozšířený o TČ a závažné přestupky.
+[7] § 1 nevytváří výlučný oznamovací režim. Zvláštní unijní odvětvová pravidla se podle čl. 3 odst. 1 směrnice použijí v rozsahu, v němž danou otázku povinně upravují; samostatně trvají i trestněprávní povinnosti překazit nebo oznámit taxativně vymezené trestné činy podle §§ 367 a 368 trestního zákoníku. Splnění podmínek ochrany podle ZOO proto samo o sobě neprokazuje splnění jiné veřejnoprávní oznamovací povinnosti a naopak.
 
-#### G. Protiargumenty a rizika
+[8] Sporné může být, zda oznámení příslušnému orgánu podle jiného předpisu musí oznamovatel zopakovat ve vnitřním systému nebo ministerstvu. Izolované čtení § 7 odst. 1 by mohlo vést k požadavku dalšího oznámení; § 7 odst. 2 však výslovně přiznává ochranu před odvetným opatřením také osobě, která podala oznámení orgánu veřejné moci příslušnému podle jiného právního nebo přímo použitelného unijního předpisu. Přikláním se proto k závěru, že kvalifikované trestní oznámení přijaté státním zástupcem nebo policejním orgánem podle § 158 odst. 2 trestního řádu není pro vznik této ochrany nutné duplicitně podat ministerstvu. Ostatní účinky ZOO je třeba posoudit podle konkrétního ustanovení. Nadále musí být splněny věcné a osobní požadavky § 2, včetně odst. 4, jde-li o osobu ucházející se o práci nebo jinou obdobnou činnost, a podmínka oprávněného důvodu věřit v pravdivost podle § 7 odst. 3. Identifikaci podle § 2 odst. 2 je však nutné číst spolu s § 4 odst. 3: neobsahuje-li oznámení identifikační údaje, ochrana oznamovateli a souvisejícím osobám vznikne až okamžikem, kdy jejich totožnost vyjde najevo tomu, kdo je může vystavit odvetě. Pouhé sdělení nepříslušnému adresátovi účinky § 7 odst. 2 nemá.
 
-- *Protiargument:* „§ 1 je jen proklamativní, nelze z něj nic vyvozovat." — Neutralizace: ano, ale § 1 určuje hranice působnosti a transpoziční povahu; při výkladu sporných ustanovení slouží jako interpretační vodítko (eurokonformní výklad) a vymezuje, že záběr je širší než minimum směrnice (TČ + závažné přestupky).
-- *Protiargument:* „Když ČR překročila transpoziční lhůtu, mohl se oznamovatel dovolávat přímého účinku směrnice." — Neutralizace: přímý účinek směrnice působí vertikálně (vůči státu), nikoli horizontálně mezi soukromými osobami; po 1. 8. 2023 je věc nadbytečná, neboť platí transponující zákon.
-- *Slabé místo:* hranice 14 oblastí v § 2 odst. 1 písm. d) je interpretačně náročná; § 1 sám neřeší, zda konkrétní porušení do některé oblasti spadá — to je nutné posoudit podle § 2.
+[9] Text § 1 ani poznámka pod čarou č. 1 se od vyhlášení nezměnily. Zákon č. 32/2025 Sb., část devatenáctá čl. XIX body 1 a 2, zasáhl pouze do § 8 odst. 1 písm. e), kde doplnil bod 8 a poznámku č. 16 v návaznosti na nařízení MiCA; tato změna nabyla účinnosti 15. 2. 2025 a nemá pro § 1 zvláštní přechodné ustanovení. Novelizační vazba je tedy: zákon č. 32/2025 Sb. → čl. XIX body 1 a 2 → § 8 odst. 1 písm. e) → účinnost 15. 2. 2025 → bez přechodného pravidla pro ZOO → důvodová zpráva k implementaci MiCA. Pro § 1 zůstává rozhodný původní text.
 
-#### H. Praktický závěr
+[10] Na oznámení a tvrzené odvety z doby po marném uplynutí transpoziční lhůty, tedy od 18. 12. 2021 do 31. 7. 2023, nelze zpětně použít ZOO. Vůči státu se však jednotlivec mohl dovolávat těch ustanovení směrnice, která byla bezpodmínečná a dostatečně přesná. Na vertikální přímý účinek v předzákonném období výslovně navázala správní judikatura; jeho použití je nosným základem zejména rozsudku č. j. 3 As 309/2023-83, zatímco rozsudek č. j. 6 Ads 191/2025-54 řeší především, zda byl vůbec učiněn oznamovací úkon. Směrnice sama naproti tomu nemůže založit povinnost soukromé osobě. Pro historický případ je proto nutné odděleně ověřit datum oznámení a odvety, povahu žalovaného a konkrétní ustanovení směrnice; účinnost ZOO od 1. 8. 2023 nečiní tuto otázku bezpředmětnou.
 
-§ 1 je úvodní vymezovací ustanovení: definuje transpoziční povahu zákona, jeho trojí předmět (proces – ochrana – působnost MSp) a zavádí zkratky „oznamovatel" a „ministerstvo". Konkrétní práva z něj neplynou — ta je třeba hledat v § 2, § 4 a § 7.
+[11] Písmeno c) je obecnou obsahovou větou, nikoli samostatným zmocněním ministerstva. Kompetenční zákon v § 11 odst. 6 označuje Ministerstvo spravedlnosti za ústřední orgán státní správy pro ochranu oznamovatelů; konkrétní úkoly stanoví zejména § 14 ZOO (příjem a posuzování oznámení, metodická, poradenská a odborná pomoc), § 15 až 18, kontrolní § 22 a přestupkový § 28. Podle mého názoru musí každý úkon ministerstva nalézt oporu v některém z těchto konkrétních ustanovení; § 1 písm. c) nemůže pravomoc rozšiřovat.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Spadá věc vůbec do působnosti ZOO podle § 1 ve spojení s § 2 odst. 1?
-- [ ] Jde o oblast pokrytou směrnicí, nebo o český TČ / závažný přestupek (rozšíření nad rámec směrnice)?
-- [ ] Existuje souběžná oznamovací povinnost podle jiného předpisu (§ 367/368 TZ, AML, TrŘ)?
-- [ ] Je správně identifikován kanál (VOS / MSp / jiný orgán podle § 7 odst. 2)?
+[12] Samotný § 1 nezakládá žalobní nárok, petit, důkazní břemeno, lhůtu, věcnou či místní příslušnost ani soudní poplatek. Ty se určují podle dotčeného právního vztahu a zvoleného prostředku: jiný je nárok na zadostiučinění podle § 5, jiný prostředek proti samotnému odvetnému opatření a jiná předběžná ochrana. Podle mého názoru není tento závěr v napětí s čl. 36 odst. 1 Listiny: právo na soudní ochranu se uplatní stanoveným postupem prostřednictvím navazujících norem, nikoli vytvořením žaloby ze samotného § 1.
 
-**Typicky rozhodné důkazy / podklady:** text napadeného jednání a jeho subsumpce pod některou ze 14 oblastí; doklady o pracovním kontextu; identifikace předpisu EU nebo TZ, jehož porušení se tvrdí.
+[13] Zadostiučinění podle § 5 je podle NSS soukromoprávním nárokem. Může mít jinou účinnou podobu než peníze, například omluvu; peněžité zadostiučinění nastupuje, nezajistí-li jiný způsob skutečné a dostatečně účinné odčinění (§ 2951 odst. 2 občanského zákoníku). V prvním stupni nárok bez zvláštní výjimky projedná okresní soud (§ 9 odst. 1 OSŘ), zpravidla obecný soud žalovaného (§ 84 OSŘ). U peněžitého petitu se poplatek řídí položkou 3 sazebníku (2 000 Kč do částky 200 000 Kč včetně, nad ni 1 % z částky); u samostatného nepeněžitého petitu zpravidla položkou 4 bodem 1 písm. c) (2 000 Kč). Právo na odčinění újmy se typicky promlčuje v tříleté subjektivní lhůtě podle § 619, § 620 odst. 1 a § 629 odst. 1 občanského zákoníku; objektivní mez činí podle § 636 deset let, při úmyslném způsobení újmy patnáct let, s výjimkou práv z újmy na svobodě, životě nebo zdraví.
+
+[14] Prostředek proti samotnému odvetnému opatření se řídí právním režimem tohoto opatření, nikoli § 5. Je-li odvetou rozvázání pracovního poměru, zaměstnanec se musí domáhat jeho neplatnosti nejpozději do dvou měsíců ode dne, kdy měl pracovní poměr skončit (§ 72 zákoníku práce); chce-li další zaměstnávání a související náhradu, musí postupovat také podle § 69. Ve služebním nebo jiném veřejnoprávním vztahu se žalobní typ, příslušnost a lhůta určují podle příslušné zvláštní úpravy. Nárok podle § 5 proto nenahrazuje včasné napadení opatření, které má vlastní právní účinky.
+
+[15] Zvláštní pravidlo § 133a odst. 2 OSŘ textově dopadá na žalobce, jenž tvrdí, že byl odvetnému opatření vystaven proto, že je oznamovatelem. Musí uvést skutečnosti umožňující takový závěr; žalovaný pak prokazuje objektivní legitimní cíl a přiměřenost a nezbytnost opatření. Přesun se netýká prokázání postavení oznamovatele, vzniku a rozsahu újmy ani ostatních předpokladů zvoleného nároku. Na pomocníky, osoby blízké a další osoby podle § 4 odst. 2 se pravidlo výslovně nevztahuje. Pro úzký výklad mluví jednoznačná vazba textu na postavení oznamovatele a výjimečná povaha zvláštního důkazního režimu. Opačný závěr lze opřít o čl. 4 odst. 4 směrnice, který ochranná opatření kapitoly VI případně vztahuje i na prostředníky, spojené třetí osoby a právní subjekty, ve spojení s čl. 21 odst. 1 a 5; z tohoto pohledu je česká transpozice přinejmenším sporně užší. Rozdíl je prakticky zásadní: při širším výkladu by související osoba po doložení vztahu k oznámení a následné újmy těžila z přesunu břemene, při úzkém výkladu musí odvetnou motivaci prokázat sama. Přikláním se k úzkému výkladu v horizontálním sporu, protože rozšíření okruhu žalobců by překročilo možný význam § 133a odst. 2; vůči státu však musí soud navíc posoudit vertikální účinek dostatečně přesných ustanovení směrnice. Zástupce osoby podle § 4 odst. 2 by proto měl podpůrně uplatnit eurokonformní i unijní argumentaci a navrhnout důkazy i pro obecný režim břemen.
+
+[16] Ve věci ochrany oznamovatele se při návrhu na předběžné opatření neuplatní povinnost složit jistotu [§ 75b odst. 3 písm. b) OSŘ]; nejde však o osvobození od soudního poplatku za návrh, který podle položky 5 sazebníku činí 1 000 Kč, není-li dán jiný důvod osvobození. Text výjimky váže věc na ochranu oznamovatele a její použití na osoby podle § 4 odst. 2 neřeší jednoznačně; i zde je třeba vážit čl. 4 odst. 4 směrnice, výsledek proto nelze bez dalšího přenést z § 133a odst. 2. Přímá civilní judikatura k osobnímu rozsahu § 133a odst. 2 a § 75b odst. 3 písm. b) OSŘ nebyla v použitých primárních pramenech ověřena; uvedený úzký osobní rozsah je proto textovým výkladem, nikoli judikatorním závěrem k ZOO. Zvláštní § 75b odst. 3 písm. b) a § 133a odst. 2 se navíc nepoužijí na řízení zahájená před 1. 8. 2023: podle čl. II zákona č. 172/2023 Sb. se na ně použije dřívější znění OSŘ. Prakticky jsou klíčové důkazy o obsahu, adresátovi, okamžiku podání a přijetí oznámení, vědomosti původce odvety, časové posloupnosti, podobě újmy a skutečném důvodu opatření.
+
+[17] Modelová situace: účetní zjistí fiktivní faktury nasvědčující trestnému činu a před propuštěním je doloženě oznámí policii. Je-li policie příslušným orgánem a jsou-li splněny § 2, § 7 odst. 3 a u anonymního podání časová podmínka § 4 odst. 3, může jí ochrana před odvetným opatřením náležet přímo podle § 7 odst. 2, aniž by věc znovu podala ministerstvu. Pouhé projednání zjištění na běžné poradě, vypracování auditní zprávy jako pracovní úkol nebo oznámení podané až po propuštění však samo o sobě nezaloží ochranu proti dřívějšímu opatření. NSS v rozsudcích sp. zn. 8 Ads 100/2025 a 6 Ads 191/2025 váže ochranu na již učiněné oznámení, nikoli na jeho přípravu nebo na samotný výkon auditu.
+
+[18] Praktický postup vyžaduje pět oddělených kontrol: určit časovou verzi práva; podřadit informace pod § 2 včetně pracovního kontextu a zaznamenat, zda bylo podání identifikované, nebo se okamžik vzniku ochrany řídí § 4 odst. 3; doložit oprávněný důvod věřit v pravdivost informací; zvolit a zaznamenat kanál podle § 7; a pro případ odvety uchovat časovou osu, doklad o přijetí, identifikaci osob se znalostí oznámení a podklady k újmě. Ihned poté je třeba odděleně zvolit petit proti opatření, zadostiučinění a případnou předběžnou ochranu a u každého prověřit vlastní lhůtu, příslušnost a poplatek.
+
+#### Judikatura
+
+##### Eurokonformní výklad
+
+Při použití vnitrostátního práva musí soud vykládat jeho text v co největším možném rozsahu ve světle znění a účelu směrnice; povinnost váže všechny orgány členského státu v mezích jejich pravomoci — rozsudek Soudního dvora ze dne 10. 4. 1984, von Colson a Kamann, 14/83, ECLI:EU:C:1984:153, bod 26. Jde o obecné východisko použitelné při výkladu ZOO.
+
+Povinnost konformního výkladu se vztahuje na vnitrostátní ustanovení přijatá před směrnicí i po ní; směrnice však sama nemůže uložit povinnost jednotlivci — rozsudek Soudního dvora ze dne 13. 11. 1990, Marleasing, C-106/89, ECLI:EU:C:1990:395, body 6–9. Pro ZOO je rozhodnutí významné jako obecný rámec, nikoli jako výklad whistleblowingové směrnice.
+
+##### Vznik ochrany a časová působnost
+
+ZOO je třeba vykládat eurokonformně i v čistě vnitrostátních případech, které český zákon zahrnul nad rámec minima směrnice; ochrana před odvetným opatřením se však aktivuje až učiněním oznámení některým ze způsobů podle § 7 — rozsudek Nejvyššího správního soudu ze dne 22. 10. 2025, č. j. 8 Ads 100/2025-81, body 43–54. Rozsudek zrušil opačný závěr Městského soudu v Praze, a je proto rozhodný i pro odmítnutí ochrany pouhé přípravy oznámení.
+
+Po uplynutí transpoziční lhůty a před účinností ZOO bylo možné uplatnit dostatečně přesná a bezpodmínečná ustanovení směrnice vertikálně vůči státu; externí oznámení přitom nemuselo projít výhradně technickým kanálem, bylo-li podáno příslušnému orgánu — rozsudek Nejvyššího správního soudu ze dne 5. 12. 2024, č. j. 3 As 309/2023-83, body 56–64. Rozhodnutí se týká předzákonného období, nikoli zpětné účinnosti ZOO.
+
+V období mezi marným uplynutím transpoziční lhůty a 1. 8. 2023 mohl nastoupit vertikální přímý účinek směrnice, avšak samotné zpracování auditní zprávy jako pracovní úkol nebylo oznámením aktivujícím ochranu — rozsudek Nejvyššího správního soudu ze dne 31. 3. 2026, č. j. 6 Ads 191/2025-54, body 49–53. Závěr navazuje na rozsudek sp. zn. 8 Ads 100/2025.
+
+##### Procesní ochrana
+
+Právo na přiměřené zadostiučinění podle § 5 je hmotněprávním soukromoprávním nárokem, nikoli veřejným subjektivním právem projednatelným ve správním soudnictví — rozsudek Nejvyššího správního soudu ze dne 21. 8. 2025, č. j. 22 As 19/2025-38, body 16–21. Závěr určuje procesní cestu navazující na § 1 písm. b), avšak nárok zakládá § 5, nikoli komentované ustanovení.
 
 ---
 
