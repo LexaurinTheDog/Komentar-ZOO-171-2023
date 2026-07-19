@@ -1428,6 +1428,10 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o 
 
 ### § 16 — Přijetí oznámení
 
+> Revize: JUDr. Vojtěch Říha, Ph.D. | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+###### Znění ustanovení
+
 > **§ 16**
 >
 > *(1) Ministerstvu lze oznámení podat ústně nebo písemně. Požádá-li o to oznamovatel, je pověřený zaměstnanec povinen oznámení přijmout osobně v přiměřené lhůtě, nejdéle však do 14 dnů ode dne, kdy o to oznamovatel požádal.*
@@ -1438,49 +1442,55 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o 
 >
 > *- b) je zřejmé, že vyrozuměním o přijatém oznámení by došlo k prozrazení totožnosti oznamovatele jiné osobě.*
 
-**Výklad:**
+###### Přehled výkladu
 
-#### Paralelní úprava přijetí na MSp (§ 16 ↔ § 12 odst. 1–2)
+1. Formy podání a osobní přijetí
+2. Potvrzení přijetí a jeho výjimky
+3. Oznámení bez použitelného kontaktu
+4. Vztah k vnitřnímu oznamovacímu systému a směrnici
+5. Sankční meze
+6. Novelizační historie a intertemporalita
 
-§ 16 strukturně **kopíruje** § 12 odst. 1–2 — formy podání (ústně, písemně, na žádost osobně do 14 dnů), lhůta vyrozumění o přijetí (7 dnů) a výjimky (žádost oznamovatele o nevyrozumění, riziko prozrazení totožnosti). Tato paralelní úprava je úmyslná — oznamovatel má **stejnou míru procesního komfortu** bez ohledu na to, zda volí VOS nebo MSp.
+###### Souvisící ustanovení
 
-Pro pověřeného zaměstnance, který odepře přijetí, je stanoven samostatný přestupek (§ 25 odst. 1 písm. a) — pokuta až 50 000 Kč.
+- § 12 odst. 1 a 2, §§ 15, 17, 19 a 20, § 25 odst. 1 písm. a) a odst. 3 ZOO.
 
-#### F. Kazuistika
+###### Souvisící předpisy
 
-**1. Modelová situace.** Oznamovatel požádá MSp o osobní přijetí ústního oznámení. Pověřený zaměstnanec mu sdělí, že „osobní schůzky neposkytuje" a ať podá vše písemně. Oznamovatel trvá na osobním přijetí. Po podání písemného oznámení mu navíc do 7 dnů nepřijde žádné potvrzení o přijetí, ačkoli o nevyrozumění nepožádal. K obstarání: žádost o osobní přijetí a její datum, odpověď pověřeného zaměstnance, datum podání a doklad o (ne)vyrozumění.
+- čl. 11 odst. 2 písm. a) a b) a čl. 12 směrnice Evropského parlamentu a Rady (EU) 2019/1937.
 
-**2. Právní otázka.** Je pověřený zaměstnanec povinen přijmout oznámení osobně na žádost oznamovatele do 14 dnů a vyrozumět jej o přijetí do 7 dnů, a co znamená odepření těchto úkonů?
+###### Z důvodové zprávy
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 16 odst. 1 (osobní přijetí na žádost do 14 dnů), odst. 2 (vyrozumění o přijetí do 7 dnů, s výjimkami).
-- *Související ustanovení téhož zákona:* § 17 (posouzení a lhůty), § 19 (zaznamenání ústního oznámení), § 25 odst. 1 písm. a) (přestupek pověřeného zaměstnance za odepření přijetí), § 12 odst. 1, 2 (paralelní úprava VOS).
-- *Související předpisy:* zák. č. 234/2014 Sb. (kárná odpovědnost); čl. 9 odst. 1 písm. b) a čl. 11 směrnice 2019/1937 (přijetí a potvrzení do 7 dnů).
-- *Judikatura:* přímá judikatura k § 16 je dosud nerozvinutá; rozhodný je gramatický výklad (povinnost „je povinen … přijmout osobně") a teleologie směrnice.
+Důvodová zpráva spojuje odstavec 1 s povinností ministerstva zajistit ústní a písemné kanály a omezit styk s oznámením na pověřené zaměstnance. K odstavci 2 zdůrazňuje potvrzení i ústně přijatého oznámení a obě zákonné výjimky. Její tvrzení, že ministerstvo nemusí přijímat anonymní oznámení, nelze zaměňovat s obecným oprávněním odmítnout oznámení jen proto, že oznamovatel neuvedl kontakt pro vyrozumění.
 
-**4. Subsumpce.** § 16 odst. 1 zakládá oznamovateli právo na osobní přijetí, jemuž odpovídá povinnost pověřeného zaměstnance přijmout oznámení osobně do 14 dnů od žádosti. Odepření této povinnosti naplňuje skutkovou podstatu přestupku podle § 25 odst. 1 písm. a). Nevyrozumění o přijetí do 7 dnů (bez výjimky podle odst. 2) je porušením odst. 2.
+###### Literatura
 
-**5. Řešení.** Pověřený zaměstnanec je povinen oznámení přijmout osobně do 14 dnů od žádosti; odepření je přestupkem podle § 25 odst. 1 písm. a) (pokuta až 50 000 Kč) a může být služebním proviněním podle zák. č. 234/2014 Sb. O přijetí oznámení musí oznamovatele vyrozumět do 7 dnů, neplatí-li výjimka (žádost o nevyrozumění, riziko prozrazení totožnosti). Oznamovatel se může obrátit na MSp se stížností a uchovat doklady o odepření.
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o negativní rešerši.
 
-**6. Varianty.** (a) Pokud by oznamovatel sám požádal, aby nebyl o přijetí vyrozumíván [odst. 2 písm. a)], absence vyrozumění by porušením nebyla. (b) Pokud by osobní přijetí v dané době objektivně nešlo (např. oznamovatel sám není dostupný), lhůta „nejdéle 14 dnů" se počítá od žádosti a pověřený zaměstnanec musí nabídnout termín v jejím rámci.
+###### Výklad
 
-#### G. Protiargumenty a rizika
+[1] Odstavec 1 rozlišuje ústní a písemné podání a zvlášť osobní přijetí na žádost oznamovatele. Je-li o osobní přijetí požádáno, pověřený zaměstnanec musí oznámení přijmout v přiměřené lhůtě, jejíž nepřekročitelná hranice je 14 dnů ode dne žádosti. Zákonná hranice nedává prostor nahradit požadované osobní přijetí pouhým odkazem na písemný kanál.
 
-- *Protiargument:* „MSp nemusí poskytovat osobní schůzky, stačí písemný kanál." — Neutralizace: § 16 odst. 1 výslovně ukládá povinnost přijmout oznámení osobně na žádost do 14 dnů; jde o právo oznamovatele, nikoli o diskreci MSp.
-- *Protiargument:* „Nevyrozumění o přijetí je formalita." — Neutralizace: jde o zákonnou povinnost (odst. 2) a její porušení zakládá přestupek podle § 25 odst. 1 písm. c) (nedodržení lhůty pro vyrozumění o výsledku) resp. nesplnění odst. 2; oznamovatel má právo na zpětnou vazbu.
-- *Slabé místo:* prokázání, že oznamovatel o osobní přijetí skutečně požádal a kdy — rozhodující je doklad o žádosti a o reakci pověřeného zaměstnance.
+[2] Odstavec 2 ukládá pověřenému zaměstnanci písemně vyrozumět oznamovatele o přijetí do 7 dnů. Povinnost odpadá jen při výslovné žádosti oznamovatele o nevyrozumění nebo je-li zřejmé, že by vyrozumění prozradilo jeho totožnost jiné osobě. Výjimky se vztahují k vyrozumění, nikoli k samotnému přijetí a posouzení oznámení.
 
-#### H. Praktický závěr
+[3] Neobsahuje-li podání použitelný kontakt, nelze oznamovateli písemné vyrozumění fakticky doručit. Tato praktická překážka sama o sobě neruší povinnost oznámení přijmout ani další povinnosti ministerstva, které lze bez součinnosti oznamovatele splnit. ZOO v § 16 výslovně neupravuje zvláštní postup pro chybějící kontakt.
 
-§ 16 zrcadlí § 12 odst. 1–2 pro externí kanál MSp: oznámení lze podat ústně i písemně, na žádost osobně do 14 dnů; o přijetí musí pověřený zaměstnanec vyrozumět do 7 dnů (s výjimkami). Oznamovatel má u MSp stejný procesní komfort jako u VOS. Odepření přijetí je přestupkem pověřeného zaměstnance (§ 25).
+[4] Text odstavců 1 a 2 je v podstatných bodech paralelní s § 12 odst. 1 a 2 pro vnitřní oznamovací systém, adresátem povinností je zde však pověřený zaměstnanec ministerstva. Sedmidenní potvrzení a jeho výjimky provádějí čl. 11 odst. 2 písm. b) směrnice; požadavky na podobu externích kanálů rozvíjí její čl. 12.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Bylo oznámení umožněno podat ústně i písemně (odst. 1)?
-- [ ] Bylo osobní přijetí na žádost poskytnuto do 14 dnů (odst. 1)?
-- [ ] Bylo vyrozumění o přijetí zasláno do 7 dnů, neplatí-li výjimka (odst. 2)?
-- [ ] Byla při ústním podání respektována pravidla § 19 (nahrávka jen se souhlasem)?
+[5] § 25 odst. 1 písm. a) postihuje pověřeného zaměstnance, který v rozporu s § 16 odst. 1 odepře přijetí oznámení; podle § 25 odst. 3 lze uložit pokutu do 50 000 Kč. § 25 naproti tomu nestanoví samostatnou skutkovou podstatu za porušení sedmidenní povinnosti podle § 16 odst. 2. Skutkovou podstatu týkající se lhůty v § 25 odst. 1 písm. c) nelze rozšířit na potvrzení přijetí, protože výslovně odkazuje na vyrozumění o výsledku posouzení podle § 17 odst. 1.
 
-**Typicky rozhodné důkazy / podklady:** žádost o osobní přijetí a její datum; reakce pověřeného zaměstnance; datum podání a doklad o vyrozumění o přijetí; záznam/nahrávka ústního oznámení.
+[6] § 16 nabyl účinnosti 1. srpna 2023 a k 18. červenci 2026 zůstává ve vyhlášeném znění. Zákon č. 32/2025 Sb., po němž je ZOO v aktuálním znění od 15. února 2025, § 16 nezměnil. Přechodný § 29 se týkal zavedení některých vnitřních oznamovacích systémů, nikoli přijímání oznámení ministerstvem.
+
+###### Judikatura
+
+Pro výklad § 16 není v této revizi použito žádné soudní rozhodnutí. Povinné oponentury neidentifikovaly rozhodnutí s přímým nosným výkladem tohoto ustanovení; nejde o tvrzení o úplné negativní judikatorní rešerši všech soudních databází.
+
+###### Praktický checklist
+
+- [ ] Bylo umožněno ústní i písemné podání?
+- [ ] Byl na žádost nabídnut termín osobního přijetí v přiměřené lhůtě, nejpozději do 14 dnů?
+- [ ] Bylo do 7 dnů odesláno písemné vyrozumění, nebo je doložena konkrétní výjimka podle odstavce 2?
+- [ ] Je u ústního oznámení dodržen způsob zaznamenání podle § 19?
 
 ---
 
