@@ -1969,19 +1969,21 @@ Pro výklad § 23 nebylo použito žádné soudní rozhodnutí. Zejména otázka
 
 ### § 24 — Přestupky příslušných osob
 
-> **§ 24**
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
 >
 > *(1) Příslušná osoba se dopustí přestupku tím, že*
 >
-> *- a) v rozporu s § 10 odst. 6 neoznámí, že přestala splňovat podmínku bezúhonnosti,*
+> *a) v rozporu s § 10 odst. 6 neoznámí, že přestala splňovat podmínku bezúhonnosti,*
 >
-> *- b) v rozporu s § 11 odst. 1 písm. a) odepře přijetí oznámení nebo neposoudí jeho důvodnost,*
+> *b) v rozporu s § 11 odst. 1 písm. a) odepře přijetí oznámení nebo neposoudí jeho důvodnost,*
 >
-> *- c) nevyrozumí oznamovatele o výsledku posouzení oznámení podle § 12 odst. 3 ve stanovené lhůtě,*
+> *c) nevyrozumí oznamovatele o výsledku posouzení oznámení podle § 12 odst. 3 ve stanovené lhůtě,*
 >
-> *- d) v rozporu s § 20 odst. 1 poskytne informaci, která by mohla zmařit nebo ohrozit účel podávání oznámení, nebo*
+> *d) v rozporu s § 20 odst. 1 poskytne informaci, která by mohla zmařit nebo ohrozit účel podávání oznámení, nebo*
 >
-> *- e) v rozporu s § 20 odst. 2 poskytne informaci o totožnosti oznamovatele nebo osoby podle § 4 odst. 2 písm. a) až h) bez jejich písemného souhlasu.*
+> *e) v rozporu s § 20 odst. 2 poskytne informaci o totožnosti oznamovatele nebo osoby podle § 4 odst. 2 písm. a) až h) bez jejich písemného souhlasu.*
 >
 > *(2) Za přestupek podle odstavce 1 písm. a) a c) lze uložit pokutu do 20 000 Kč.*
 >
@@ -1989,67 +1991,51 @@ Pro výklad § 23 nebylo použito žádné soudní rozhodnutí. Zejména otázka
 >
 > *(4) Za přestupek podle odstavce 1 písm. d) a e) spáchaný úmyslně lze uložit pokutu do 100 000 Kč.*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Pět skutkových podstat přestupků příslušné osoby
+Ustanovení obsahuje pět zvláštních přestupků fyzické osoby v postavení příslušné osoby. Sazby rozlišují méně závažná informační pochybení, porušení základních úkolů a důvěrnosti a úmyslné porušení důvěrnosti. Pravomocné uznání vinným má též následek pro bezúhonnost příslušné osoby.
 
-§ 24 vyjmenovává pět typů přestupků příslušné osoby s odstupňovanými sankcemi:
+#### Souvisící ustanovení
 
-| Písm. | Skutková podstata | Pokuta | Při úmyslu |
-|---|---|---|---|
-| a) | Neoznámení ztráty bezúhonnosti | 20 000 Kč | — |
-| b) | Odepření přijetí oznámení nebo neposouzení důvodnosti | 50 000 Kč | — |
-| c) | Nevyrozumění o výsledku posouzení ve lhůtě | 20 000 Kč | — |
-| d) | Poskytnutí informace ohrožující účel systému | 50 000 Kč | **100 000 Kč** |
-| e) | Poskytnutí informace o totožnosti bez souhlasu | 50 000 Kč | **100 000 Kč** |
+§ 4 odst. 2 písm. a) až h), § 9 odst. 1, § 10 odst. 1, 2 písm. b), 6 a 7, § 11 odst. 1 písm. a) a e), § 12 odst. 3, § 20 odst. 1 až 3 a § 28.
 
-**Tři skupiny závažnosti:**
+#### Souvisící předpisy
 
-1. **Administrativní pochybení** [písm. a), c)] — neoznámení ztráty bezúhonnosti, nedodržení lhůty. Pokuta 20 000 Kč.
-2. **Substantivní selhání** [písm. b)] — odepření přijetí nebo neposouzení důvodnosti = porušení samotného účelu pozice příslušné osoby. Pokuta 50 000 Kč.
-3. **Porušení důvěrnosti** [písm. d), e)] — porušení mlčenlivosti = zásadní selhání. Pokuta 50 000 Kč, **při úmyslu 100 000 Kč**.
+§ 15 a § 41 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich; čl. 16 směrnice Evropského parlamentu a Rady (EU) 2019/1937.
 
-Vyšší sankce při úmyslu odráží zvýšenou společenskou nebezpečnost úmyslného zveřejnění informací — typicky vědomé prozrazení totožnosti oznamovatele, vědomé předání oznámení nepovolané osobě (např. nadřízenému oznamovatele s úmyslem usnadnit retaliaci).
+#### Z důvodové zprávy
 
-#### Vztah k bezúhonnosti
+Zvláštní část důvodové zprávy k § 24 označuje postihované povinnosti za stěžejní. Nižší sazbu odůvodňuje menší závažností neoznámení pozbytí bezúhonnosti a opožděného vyrozumění; základní sazbu 50 000 Kč váže na jednání jdoucí přímo proti smyslu zákona a sazbu 100 000 Kč na úmyslné porušení ochrany účelu oznámení nebo totožnosti chráněných osob.
 
-Přestupek podle § 24 odst. 1 přímo souvisí s definicí bezúhonnosti v § 10 odst. 2 písm. b) — kdo byl v posledních 5 letech pravomocně uznán vinným z přestupku podle § 24 odst. 1, **přestává splňovat podmínku bezúhonnosti** a nemůže být příslušnou osobou. Smyčka tedy směřuje k vyřazení nespolehlivých osob ze systému.
+#### Literatura
 
-#### F. Kazuistika
+Odborná literatura nebyla v tomto kole posuzována; její zpracování je rozhodnutím editora odloženo do 2. kola.
 
-**1. Modelová situace.** Příslušná osoba úmyslně sdělí nadřízenému oznamovatele jeho totožnost s poznámkou „ať si to s ním vyřídí", ačkoli oznamovatel k tomu nedal souhlas a neexistovala zákonná povinnost. Současně v jiné věci nestihla ve lhůtě vyrozumět oznamovatele o výsledku posouzení podle § 12 odst. 3. K obstarání: doklad o sdělení totožnosti, komunikace s nadřízeným, datum oznámení a doklad o (ne)vyrozumění o výsledku.
+#### Výklad
 
-**2. Právní otázka.** Jakými přestupky podle § 24 se příslušná osoba dopustila a jaká sankce hrozí za úmyslné prozrazení totožnosti oznamovatele oproti opožděnému vyrozumění?
+[1] Pachatelem může být jen fyzická osoba, která má postavení příslušné osoby. K odpovědnosti se podle § 15 zákona č. 250/2016 Sb. vyžaduje zavinění. U základních skutkových podstat postačí nedbalost; odstavec 4 zvyšuje horní hranici pokuty pouze u úmyslného spáchání přestupků podle písm. d) a e).
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 24 odst. 1 písm. e) (poskytnutí totožnosti bez souhlasu), písm. c) (nevyrozumění o výsledku ve lhůtě), odst. 3 a 4 (sazby 50 000 Kč, při úmyslu 100 000 Kč).
-- *Související ustanovení téhož zákona:* § 20 odst. 2 (zákaz poskytnutí totožnosti), § 12 odst. 3 (lhůta), § 10 odst. 2 písm. b) (ztráta bezúhonnosti), § 28 (projednává MSp), § 11 odst. 1 písm. e) (mlčenlivost).
-- *Související předpisy:* § 15 zák. č. 250/2016 Sb. (zavinění, úmysl); § 41 téhož zákona (souběh přestupků); čl. 16 směrnice 2019/1937 (důvěrnost totožnosti).
-- *Judikatura:* k odstupňování sankce podle formy zavinění srov. obecné zásady správního trestání — nosný závěr: úmyslné porušení důvěrnosti je závažnější a odůvodňuje vyšší sankci.
+[2] Písm. a) sankčně navazuje na desetidenní oznamovací povinnost podle § 10 odst. 6. Pravomocné uznání vinným z kteréhokoli přestupku podle § 24 odst. 1 je po dobu pěti let překážkou bezúhonnosti podle § 10 odst. 2 písm. b). Dozví-li se povinný subjekt o ztrátě bezúhonnosti, musí bez zbytečného odkladu zrušit určení této osoby a případně současně určit jinou příslušnou osobu podle § 10 odst. 7.
 
-**4. Subsumpce.** Úmyslné sdělení totožnosti oznamovatele nadřízenému bez souhlasu a bez zákonné povinnosti naplňuje § 24 odst. 1 písm. e); spáchání úmyslně otevírá zvýšenou sazbu podle odst. 4 (až 100 000 Kč). Nevyrozumění o výsledku posouzení ve lhůtě podle § 12 odst. 3 naplňuje § 24 odst. 1 písm. c) (až 20 000 Kč). Jde o souběh dvou přestupků.
+[3] Písm. b) obsahuje dvě alternativy: odepření přijetí oznámení a neposouzení jeho důvodnosti. Samotný nesouhlas s výsledkem skutečně provedeného posouzení nenaplňuje bez dalšího znak neposouzení. Písm. c) se váže na písemné vyrozumění podle § 12 odst. 3 do 30 dnů od přijetí, popřípadě v řádně prodloužené lhůtě; pro posouzení jsou rozhodná data přijetí, prodloužení a odeslání výsledku.
 
-**5. Řešení.** Příslušná osoba spáchala dva přestupky: úmyslné prozrazení totožnosti [§ 24 odst. 1 písm. e), odst. 4 — až 100 000 Kč] a nevyrozumění ve lhůtě [písm. c) — až 20 000 Kč]. Při souběhu se uplatní zásada absorpce (§ 41 zák. o přestupcích) — sankce podle nejzávažnějšího přestupku, ostatní přitěžují. Současně příslušná osoba ztrácí bezúhonnost podle § 10 odst. 2 písm. b) a subjekt musí zrušit její určení (§ 10 odst. 7). Prozrazení umožnilo retaliaci — odpovědnost subjektu podle § 26.
+[4] Písm. d) chrání účel podávání oznámení, zatímco písm. e) chrání totožnost oznamovatele a osob podle § 4 odst. 2 písm. a) až h). Písemný souhlas není třeba, ukládá-li jiný právní předpis příslušné osobě poskytnout totožnost příslušnému orgánu veřejné moci. Při předání totožnosti oznamovatele musí být navíc dodržen předchozí informační postup podle § 20 odst. 3; text tohoto odstavce jej automaticky nerozšiřuje na totožnost každé přidružené osoby. Interní pokyn ani organizační zájem sám zákonnou výjimku nezakládá.
 
-**6. Varianty.** (a) Pokud by příslušná osoba sdělila totožnost na základě zákonné povinnosti vůči orgánu veřejné moci a po předchozím vyrozumění oznamovatele (§ 20 odst. 3), o přestupek by nešlo. (b) Pokud by prozrazení bylo nedbalostní (omylem zaslaný e-mail), uplatnila by se základní sazba podle odst. 3 (50 000 Kč), nikoli zvýšená sazba za úmysl.
+[5] Horní hranice pokuty činí 20 000 Kč u písm. a) a c), 50 000 Kč u písm. b), d) a e) a 100 000 Kč u úmyslného spáchání písm. d) nebo e). Při více přestupcích projednaných ve společném řízení se použije § 41 zákona č. 250/2016 Sb.: vychází se z nejpřísněji trestného přestupku a horní hranici lze za podmínek odstavce 2 zvýšit. Přestupky podle § 24 projednává ministerstvo.
 
-#### G. Protiargumenty a rizika
+[6] § 24 nabyl účinnosti 1. 8. 2023 a do rozhodného dne nebyl novelizován; zákon č. 32/2025 Sb. změnil jiné ustanovení zákona. Odpovědnost za jednání se posuzuje podle právní úpravy účinné v době jeho spáchání a případné pozdější příznivější úpravy podle obecných intertemporálních pravidel přestupkového práva.
 
-- *Protiargument:* „Příslušná osoba jednala v zájmu vyřešení věci, ne se zlým úmyslem." — Neutralizace: sdělení totožnosti nadřízenému s pokynem „ať si to vyřídí" svědčí o úmyslu umožnit retaliaci; § 24 odst. 1 písm. e) nevyžaduje zlý motiv, postačí vědomé poskytnutí bez souhlasu/povinnosti.
-- *Protiargument:* „Opožděné vyrozumění je bagatelní." — Neutralizace: jde o samostatný přestupek podle písm. c); v souběhu přitěžuje, byť sankce se odvíjí od nejzávažnějšího přestupku.
-- *Slabé místo:* rozlišení úmyslu a nedbalosti při prozrazení je rozhodné pro výši sankce; rozhodují okolnosti sdělení a doprovodná komunikace.
+#### Judikatura
 
-#### H. Praktický závěr
+Pro výklad § 24 nebylo použito žádné soudní rozhodnutí. Formulované závěry vycházejí z textu zákona, důvodové zprávy a čl. 16 směrnice (EU) 2019/1937; přímá judikatura nebyla podkladem jednotky.
 
-§ 24 vymezuje pět skutkových podstat přestupků příslušné osoby se třemi úrovněmi závažnosti: administrativní pochybení [písm. a), c) — 20 000 Kč], substantivní selhání [písm. b) — 50 000 Kč] a porušení důvěrnosti [písm. d), e) — 50 000 Kč, při úmyslu 100 000 Kč]. Odsouzení za přestupek podle § 24 odst. 1 vede ke ztrátě bezúhonnosti (§ 10 odst. 2 písm. b). Přestupky projednává MSp (§ 28).
+#### Praktický checklist
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Jde o poskytnutí informace/totožnosti bez souhlasu a bez zákonné povinnosti [písm. d), e)]?
-- [ ] Bylo porušení úmyslné (zvýšená sazba 100 000 Kč), nebo nedbalostní (50 000 Kč)?
-- [ ] Byly dodrženy lhůty pro vyrozumění [písm. c)] a oznamovací povinnost o ztrátě bezúhonnosti [písm. a)]?
-- [ ] Vede přestupek ke ztrátě bezúhonnosti a nutnosti zrušit určení (§ 10 odst. 2 písm. b), odst. 7)?
-
-**Typicky rozhodné důkazy / podklady:** doklad o sdělení informace/totožnosti a jeho okolnosti; komunikace prokazující úmysl; datum oznámení a doklad o vyrozuměních; výpis z evidence VOS.
+- [ ] Měla osoba v době skutku postavení příslušné osoby a je prokázáno zavinění?
+- [ ] Která přesná alternativa písm. a) až e) byla naplněna a jaká povinnost na ni navazuje?
+- [ ] U písm. c): kdy bylo oznámení přijato, byla lhůta včas prodloužena a kdy byl výsledek odeslán?
+- [ ] U písm. d) a e): komu, co a na jakém právním základě bylo poskytnuto; byl dán souhlas nebo zákonná povinnost?
+- [ ] Je prokázán úmysl rozhodný pro zvýšenou sazbu a byly zohledněny následky pro bezúhonnost a případný souběh?
 
 ---
 
