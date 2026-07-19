@@ -1909,63 +1909,61 @@ Pro tento výklad není použito žádné soudní rozhodnutí. Procesní forma o
 
 ### § 23 — Vědomě nepravdivé oznámení
 
-> **§ 23**
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
 >
 > *(1) Fyzická osoba se dopustí přestupku tím, že podá vědomě nepravdivé oznámení.*
 >
 > *(2) Za přestupek podle odstavce 1 lze uložit pokutu do 50 000 Kč.*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Vědomě nepravdivé oznámení jako pojistka systému
+Ustanovení postihuje fyzickou osobu za podání oznámení, které naplňuje zákonnou definici vědomě nepravdivého oznámení. Samotné pozdější nepotvrzení oznámených informací nestačí. Sporná zůstává nejnižší potřebná forma zavinění ve vztahu mezi § 7 odst. 3 ZOO a § 15 zákona č. 250/2016 Sb.
 
-§ 23 představuje **vyvažující ustanovení** vůči široké ochraně oznamovatelů. **Vědomě nepravdivé oznámení** — tj. oznámení podané osobou, která **neměla oprávněné důvody se domnívat, že informace jsou pravdivé** [§ 7 odst. 3] — je samostatným přestupkem fyzické osoby (oznamovatel je vždy fyzická osoba) s pokutou až **50 000 Kč**.
+#### Souvisící ustanovení
 
-Klíčové rozlišení:
+§ 1 písm. b) a c), § 2 odst. 1, § 7 odst. 1 až 3 a § 28.
 
-- **Vědomě nepravdivé** = oznamovatel věděl, že informace jsou nepravdivé, nebo to musel vědět (objektivně neměl rozumný důvod se domnívat opak). Trestá se.
-- **Bona fide nepravdivé** = oznamovatel se v dobré víře mýlil, informace se ukázaly jako nepravdivé. Netresta se, ochrana je zachována.
+#### Souvisící předpisy
 
-Tento přestupek je projednáván MSp [§ 28] a slouží:
+§ 2, § 15, § 37 a § 69 odst. 2 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich; čl. 6 odst. 1 a čl. 23 odst. 2 směrnice Evropského parlamentu a Rady (EU) 2019/1937.
 
-- jako prevence zneužití systému (např. odvetné oznámení proti kolegovi, fingované oznámení s cílem získat ochranu před chystaným personálním krokem);
-- jako informační hodnota — povinné subjekty a regulátoři vědí, že vědomá nepravdivost se trestá, což usnadňuje vyhodnocování důvěryhodnosti budoucích oznámení.
+#### Z důvodové zprávy
 
-#### F. Kazuistika
+Zvláštní část důvodové zprávy k § 23 označuje skutkovou podstatu za ochranu proti zneužívání systému, pachatele omezuje na fyzickou osobu, vysvětluje horní hranici pokuty a výslovně uvádí, že má postačit vědomá nedbalost. Poslední závěr je výkladovou pomůckou, nikoli textem přijatého zákona, a musí být poměřen § 7 odst. 3 ZOO a obecným § 15 zákona č. 250/2016 Sb.
 
-**1. Modelová situace.** Zaměstnanec se dozví, že jeho kolega bude povýšen na pozici, o kterou sám usiloval. Aby povýšení zhatil, podá VOS oznámení, v němž vědomě nepravdivě tvrdí, že kolega bere úplatky od dodavatele; žádné indicie nemá a tvrzení si vymyslel. Prošetřením se ukáže, že oznámení je smyšlené. K obstarání: oznámení, výsledek šetření, doklady o motivaci (konkurence o pozici), případná komunikace oznamovatele.
+#### Literatura
 
-**2. Právní otázka.** Naplňuje vědomě smyšlené oznámení podané s cílem poškodit kolegu skutkovou podstatu přestupku podle § 23, a jak se odliší od oznámení učiněného v dobré víře, které se ukázalo nepravdivým?
+Odborná literatura nebyla v tomto kole posuzována; její zpracování je rozhodnutím editora odloženo do 2. kola.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 23 odst. 1 (přestupek — vědomě nepravdivé oznámení), odst. 2 (pokuta do 50 000 Kč).
-- *Související ustanovení téhož zákona:* § 7 odst. 3 (vědomě nepravdivé oznámení nepožívá ochrany), § 2 odst. 1 (co je oznámení), § 28 (projednává MSp).
-- *Související předpisy:* § 184 TZ (pomluva — při naplnění znaků TČ); § 15 zák. č. 250/2016 Sb. (zavinění u přestupku — zde se vyžaduje vědomost); čl. 6 odst. 1 a čl. 23 odst. 2 směrnice 2019/1937 (vyloučení ochrany u vědomě nepravdivých oznámení).
-- *Judikatura:* k rozlišení dobré víry a vědomé nepravdivosti srov. standard „oprávněné důvody se domnívat" (reasonable belief) podle směrnice — nosný závěr: chráněn je omyl v dobré víře, nikoli vědomá lež.
+#### Výklad
 
-**4. Subsumpce.** Oznamovatel věděl, že tvrzení o úplatcích je nepravdivé (sám si je vymyslel) a neměl žádné oprávněné důvody domnívat se opak → jde o „vědomě nepravdivé oznámení" podle § 7 odst. 3 a § 23 odst. 1. Motivace (poškodit kolegu, získat výhodu v kariéře) potvrzuje vědomost. Tím je naplněna skutková podstata přestupku.
+[1] Pachatelem může být pouze fyzická osoba. Zákon totiž skutkovou podstatu váže na fyzickou osobu a oznamovatele v § 1 písm. b) rovněž vymezuje jako fyzickou osobu. Za přestupek lze uložit pokutu nejvýše 50 000 Kč.
 
-**5. Řešení.** Oznamovatel se dopustil přestupku podle § 23 odst. 1 (pokuta až 50 000 Kč), který projedná MSp (§ 28). Ochrana před odvetou mu nenáleží (§ 7 odst. 3). Vedle přestupku může jednání naplňovat i TČ pomluvy (§ 184 TZ), je-li způsobilé značnou měrou ohrozit vážnost kolegy. Klíčové pro postih je prokázat vědomost nepravdivosti, nikoli pouhý pozdější neúspěch oznámení.
+[2] „Vědomě nepravdivé oznámení“ je legislativní zkratka zavedená v § 7 odst. 3: jde o oznámení učiněné bez oprávněných důvodů domnívat se, že se zakládá na pravdivých informacích. Posouzení se proto vztahuje k důvodům dostupným při podání. Pozdější neprokázání skutku nebo jednotlivá nepřesnost samy o sobě nenaplňují definici.
 
-**6. Varianty.** (a) Pokud by oznamovatel měl reálné indicie (např. viděl předání obálky) a v dobré víře se domníval, že jde o úplatek, šlo by o bona fide oznámení — i kdyby se ukázalo nepravdivým, přestupek by nespáchal a ochrana by zůstala. (b) Pokud by nepravdivé tvrzení dosáhlo intenzity TČ pomluvy nebo křivého obvinění (§ 345 TZ), uplatnila by se trestní odpovědnost vedle přestupku (s ohledem na zásadu subsidiarity a zákaz dvojího postihu za týž skutek).
+[3] Vztah této definice k zavinění není v textu zákona jednoznačný. Důvodová zpráva požaduje nejméně vědomou nedbalost; naproti tomu § 15 odst. 1 zákona č. 250/2016 Sb. obecně připouští u fyzické osoby i nedbalost nevědomou, nestanoví-li zákon výslovně úmysl. Bez přímé judikatury nelze jednu variantu vydávat za uzavřenou. V sankčním řízení je nutno samostatně zjistit naplnění definice i zavinění a respektovat presumpci neviny a rozhodování pochybností ve prospěch obviněného podle § 69 odst. 2 zákona č. 250/2016 Sb.
 
-#### G. Protiargumenty a rizika
+[4] Směrnice 2019/1937 podmiňuje ochranu oprávněnými důvody věřit v pravdivost informací v době oznámení a v čl. 23 odst. 2 vyžaduje sankce vůči osobám, u nichž bylo prokázáno, že vědomě oznámily či zveřejnily nepravdivé informace. Český § 23 však používá sloveso „podá“. Zahrnuje podání prostřednictvím vnitřního oznamovacího systému, ministerstvu a příslušnému orgánu veřejné moci; postih pouhého uveřejnění bez podání by byl jazykově sporný a skutkovou podstatu nelze rozšiřovat analogií v neprospěch obviněného.
 
-- *Protiargument:* „Oznámení se ukázalo nepravdivým, tedy jde o přestupek." — Neutralizace: § 23 vyžaduje **vědomou** nepravdivost; pouhá objektivní nepravdivost při dobré víře přestupek nezakládá (chrání honest mistake).
-- *Protiargument:* „Postih oznamovatelů odrazuje od oznamování." — Neutralizace: § 23 míří jen na vědomé zneužití systému; poctiví oznamovatelé jsou chráněni i při omylu — vyvážení je nutné k ochraně neoprávněně obviněných.
-- *Slabé místo:* dokazování vědomosti nepravdivosti (vnitřní stránka) je obtížné; rozhodují nepřímé důkazy (motivace, absence jakýchkoli indicií, způsob formulace).
+[5] Přestupek projednává ministerstvo, protože výjimka v § 28 míří na přestupky projednávané orgánem inspekce práce a § 23 mezi ně nepatří. Horní hranice 50 000 Kč není automatickou výměrou; při určení druhu a výměry správního trestu se použijí hlediska § 37 zákona č. 250/2016 Sb.
 
-#### H. Praktický závěr
+[6] § 23 nabyl účinnosti 1. 8. 2023 a v konsolidovaném znění účinném od 15. 2. 2025 zůstal beze změny. Odpovědnost za skutek se podle § 2 zákona č. 250/2016 Sb. posuzuje podle zákona účinného v době jeho spáchání; pozdější zákon se použije, je-li pro pachatele příznivější.
 
-§ 23 je pojistkou proti zneužití systému: vědomě nepravdivé oznámení (učiněné bez oprávněných důvodů domnívat se, že je pravdivé) je přestupkem fyzické osoby s pokutou až 50 000 Kč, projednávaným MSp. Rozhodující je vědomost nepravdivosti — bona fide omyl chráněn zůstává. Jednání může souběžně naplnit TČ (pomluva, křivé obvinění).
+[7] Pro dokazování jsou podstatné úplný obsah oznámení, zdroje a podklady známé oznamovateli při podání, jeho možnosti a kroky k ověření, komunikace a časová osa. Motiv nebo osobní konflikt mohou být důkazní indicií, nejsou však samostatným znakem přestupku. Výsledek následného prošetření je relevantní, avšak sám neprokazuje, jaké důvody a zavinění existovaly při podání.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Měl oznamovatel oprávněné důvody domnívat se, že informace jsou pravdivé (pak nejde o přestupek)?
-- [ ] Nebo věděl/musel vědět, že jsou nepravdivé (vědomá nepravdivost — přestupek § 23)?
-- [ ] Jaká byla motivace a existovaly vůbec nějaké indicie podporující tvrzení?
-- [ ] Nedosahuje jednání intenzity TČ (§ 184, § 345 TZ)?
+#### Judikatura
 
-**Typicky rozhodné důkazy / podklady:** obsah oznámení; výsledek prošetření; důkazy o vědomosti a motivaci (konkurence, absence indicií, komunikace); časová osa.
+Pro výklad § 23 nebylo použito žádné soudní rozhodnutí. Zejména otázka nejnižší potřebné formy zavinění zůstává bez ověřené přímé judikatury otevřená.
+
+#### Praktický checklist
+
+- [ ] Co přesně bylo podáno, kdy, komu a jakým kanálem?
+- [ ] Jaké informace a ověřovací možnosti měl oznamovatel v okamžiku podání?
+- [ ] Které důkazy prokazují zákonnou definici a které samostatně zavinění?
+- [ ] Nezaměňuje se pozdější nepotvrzení informace za stav při podání?
+- [ ] Byla respektována presumpce neviny a individualizace sankce?
 
 ---
 
