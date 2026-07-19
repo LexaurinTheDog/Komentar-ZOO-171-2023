@@ -124,156 +124,224 @@ Právo na přiměřené zadostiučinění podle § 5 je hmotněprávním soukrom
 
 ### § 2 — Oznámení
 
-> **§ 2**
->
+> Revize: 2026-07-18 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > *(1) Oznámení obsahuje informace o možném protiprávním jednání, k němuž došlo nebo má dojít u osoby, pro niž oznamovatel, byť zprostředkovaně, vykonával nebo vykonává práci nebo jinou obdobnou činnost, nebo u osoby, se kterou oznamovatel byl nebo je v kontaktu v souvislosti s výkonem práce nebo jiné obdobné činnosti, a které*
 >
-> *- a) má znaky trestného činu,*
+> *a) má znaky trestného činu,*
 >
-> *- b) má znaky přestupku, za který zákon stanoví sazbu pokuty, jejíž horní hranice je alespoň 100 000 Kč,*
+> *b) má znaky přestupku, za který zákon stanoví sazbu pokuty, jejíž horní hranice je alespoň 100 000 Kč,*
 >
-> *- c) porušuje tento zákon, nebo*
+> *c) porušuje tento zákon, nebo*
 >
-> *- d) porušuje jiný právní předpis nebo předpis Evropské unie v oblasti*
+> *d) porušuje jiný právní předpis nebo předpis Evropské unie v oblasti*
 >
-> *- 1. finančních služeb, povinného auditu a jiných ověřovacích služeb, finančních produktů a finančních trhů,*
+> *1. finančních služeb, povinného auditu a jiných ověřovacích služeb, finančních produktů a finančních trhů,*
 >
-> *- 2. daně z příjmů právnických osob,*
+> *2. daně z příjmů právnických osob,*
 >
-> *- 3. předcházení legalizaci výnosů z trestné činnosti a financování terorismu,*
+> *3. předcházení legalizaci výnosů z trestné činnosti a financování terorismu,*
 >
-> *- 4. ochrany spotřebitele,*
+> *4. ochrany spotřebitele,*
 >
-> *- 5. souladu s požadavky na výrobky včetně jejich bezpečnosti,*
+> *5. souladu s požadavky na výrobky včetně jejich bezpečnosti,*
 >
-> *- 6. bezpečnosti dopravy, přepravy a provozu na pozemních komunikacích,*
+> *6. bezpečnosti dopravy, přepravy a provozu na pozemních komunikacích,*
 >
-> *- 7. ochrany životního prostředí,*
+> *7. ochrany životního prostředí,*
 >
-> *- 8. bezpečnosti potravin a krmiv a ochrany zvířat a jejich zdraví,*
+> *8. bezpečnosti potravin a krmiv a ochrany zvířat a jejich zdraví,*
 >
-> *- 9. radiační ochrany a jaderné bezpečnosti,*
+> *9. radiační ochrany a jaderné bezpečnosti,*
 >
-> *- 10. hospodářské soutěže, veřejných dražeb a zadávání veřejných zakázek,*
+> *10. hospodářské soutěže, veřejných dražeb a zadávání veřejných zakázek,*
 >
-> *- 11. ochrany vnitřního pořádku a bezpečnosti, života a zdraví,*
+> *11. ochrany vnitřního pořádku a bezpečnosti, života a zdraví,*
 >
-> *- 12. ochrany osobních údajů, soukromí a bezpečnosti sítí elektronických komunikací a informačních systémů,*
+> *12. ochrany osobních údajů, soukromí a bezpečnosti sítí elektronických komunikací a informačních systémů,*
 >
-> *- 13. ochrany finančních zájmů Evropské unie, nebo*
+> *13. ochrany finančních zájmů Evropské unie2), nebo*
 >
-> *- 14. fungování vnitřního trhu včetně ochrany hospodářské soutěže a státní podpory podle práva Evropské unie.*
+> *14. fungování vnitřního trhu3) včetně ochrany hospodářské soutěže a státní podpory podle práva Evropské unie.*
 >
 > *(2) Oznámení obsahuje údaje o jménu, příjmení a datu narození, nebo jiné údaje, z nichž je možné dovodit totožnost oznamovatele; má se za to, že údaje o totožnosti oznamovatele jsou pravdivé. Oznámení nemusí obsahovat údaje podle věty první, pokud bylo podáno osobou, jejíž totožnost je příslušné osobě podle § 10 nebo státnímu zaměstnanci podle § 13 známa.*
 >
 > *(3) Prací nebo jinou obdobnou činností se pro účely tohoto zákona rozumí*
 >
-> *- a) závislá práce vykonávaná v základním pracovněprávním vztahu,*
+> *a) závislá práce vykonávaná v základním pracovněprávním vztahu,*
 >
-> *- b) služba,*
+> *b) služba4),*
 >
-> *- c) samostatná výdělečná činnost,*
+> *c) samostatná výdělečná činnost,*
 >
-> *- d) výkon práv spojených s účastí v právnické osobě,*
+> *d) výkon práv spojených s účastí v právnické osobě,*
 >
-> *- e) výkon funkce člena orgánu právnické osoby,*
+> *e) výkon funkce člena orgánu právnické osoby,*
 >
-> *- f) plnění úkolů v rámci činnosti právnické osoby, v jejím zájmu, jejím jménem nebo na její účet,*
+> *f) plnění úkolů v rámci činnosti právnické osoby, v jejím zájmu, jejím jménem nebo na její účet,*
 >
-> *- g) správa svěřenského fondu,*
+> *g) správa svěřenského fondu,*
 >
-> *- h) dobrovolnická činnost,*
+> *h) dobrovolnická činnost,*
 >
-> *- i) odborná praxe, stáž, nebo*
+> *i) odborná praxe, stáž, nebo*
 >
-> *- j) výkon práv a povinností vyplývajících ze smlouvy, jejímž předmětem je poskytování dodávek, služeb, stavebních prací nebo jiného obdobného plnění.*
+> *j) výkon práv a povinností vyplývajících ze smlouvy, jejímž předmětem je poskytování dodávek, služeb, stavebních prací nebo jiného obdobného plnění.*
 >
 > *(4) Prací nebo jinou obdobnou činností se pro účely tohoto zákona rozumí i ucházení se o práci nebo jinou obdobnou činnost.*
 
-**Výklad:**
+> 2) Článek 325 Smlouvy o fungování Evropské unie.
+>
+> 3) Článek 26 odst. 1 a 2 Smlouvy o fungování Evropské unie.
+>
+> 4) Zákon č. 221/1999 Sb., o vojácích z povolání, ve znění pozdějších předpisů.
+> Zákon č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, ve znění pozdějších předpisů.
+> Zákon č. 234/2014 Sb., o státní službě, ve znění pozdějších předpisů.
 
-**Judikatura (z místních zdrojů):**
+#### Přehled výkladu
 
-- *NSS* [8 Ad 14/2024 - 54](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/742169) — 16. 4. 2025
-  > „Pokud tedy dojde k tomu, že osoba ve služebním poměru podle zákona o státní službě učiní oznámení podle ust. § 2 zákona o ochraně oznamovatelů, bude se na ni plně vztahovat ochrana před odvetnými opatřeními podle tohoto zákona, a to i v případě, že se jedná o služební poměr uzavřený se zkušební dobou. Samotná skutečnost, že by takový její služební poměr byl následně zrušen ve zkušební době, i bez uvedení důvodu, tak neznamená, že by byla zbavena ochrany oznamovatelů"
+- pojmové znaky oznámení a vztah k osobě — marg. č. 1–6;
+- čtyři kategorie protiprávního jednání a sektorová mapa — marg. č. 7–19;
+- pravdivost, právní omyl, identifikace a anonymita — marg. č. 20–28;
+- práce a jiná obdobná činnost, uchazeči a přístup ke kanálům — marg. č. 29–35;
+- výluky, časová působnost, proces a praxe — marg. č. 36–42.
 
-#### Věcný záběr oznámení (odst. 1) — čtyři kategorie
+#### Souvisící ustanovení
 
-Oznámením v právním smyslu ZOO je pouze takové sdělení, které **kumulativně splňuje** dvě podmínky: (i) **pracovní kontext** — informace se týká protiprávního jednání u osoby, pro niž oznamovatel vykonává/vykonával práci nebo jinou obdobnou činnost (přímo nebo zprostředkovaně), nebo s níž je v kontaktu v souvislosti s takovou činností; a (ii) **kvalifikované protiprávní jednání** spadající do jedné ze čtyř kategorií:
+- § 1 — fyzická osoba jako oznamovatel a předmět zákonné ochrany;
+- § 3 — meze dovoleného získání a oznámení informací a části sdělení, které se za oznámení nepovažují;
+- § 4 až 7 — odvetné opatření, zadostiučinění a podmínky vzniku ochrany;
+- § 9 odst. 2 písm. a) — možnost omezit okruh osob přijímaných vnitřním systémem;
+- § 12 odst. 4 a 6 a § 17 odst. 3 — posouzení, zda jde o oznámení, a posouzení jeho důvodnosti;
+- § 15 písm. j) — informační seznam předpisů k oblastem podle § 2 odst. 1 písm. d);
+- § 20 a 21 — ochrana totožnosti, evidence a uchovávání oznámení;
+- § 23 — přestupek vědomě nepravdivého oznámení.
 
-- **Písm. a) — znaky trestného činu.** Postačí, že popisované jednání vykazuje **znaky** trestného činu podle TZ; není rozhodné, zda bude později kvalifikováno jako TČ, zda bude pachatel stíhán či odsouzen. Oznamovatel není povinen znát právní kvalifikaci — postačí, že popsané jednání objektivně typové znaky některého TČ naplňuje. ZOO zde výrazně překračuje minimum směrnice 2019/1937 — chráněna jsou oznámení o kterémkoli českém trestném činu, ne jen o porušení unijního práva.
-- **Písm. b) — závažný přestupek** s horní hranicí pokuty ≥ 100 000 Kč. Český zákonodárce tím rozšiřuje záběr nad rámec směrnice o přestupkovou oblast — typicky půjde o přestupky podle stavebního zákona, zákona o ochraně osobních údajů (GDPR — pokuty v řádech mil. Kč), zákona o silničním provozu, zákona o ochraně hospodářské soutěže, zákona o veřejných zakázkách, AML atd.
-- **Písm. c) — porušení samotného ZOO.** Typicky: nezavedení VOS povinným subjektem, vystavení oznamovatele odvetnému opatření, porušení mlčenlivosti příslušnou osobou, bránění v podání oznámení. Smyčka — oznamovatel může chráněně oznámit i porušení ZOO.
-- **Písm. d) — porušení jiného právního předpisu nebo předpisu EU** ve **čtrnácti** oblastech. Jde o oblasti vymezené přílohou směrnice 2019/1937 (čl. 2 a Příloha I směrnice): finanční služby a kapitálový trh, korporátní daň, AML, ochrana spotřebitele, bezpečnost produktů, doprava, životní prostředí, bezpečnost potravin a zdraví zvířat, radiační a jaderná bezpečnost, hospodářská soutěž a veřejné zakázky, vnitřní bezpečnost, GDPR a kybernetická bezpečnost, finanční zájmy EU (čl. 325 SFEU), vnitřní trh včetně státní podpory.
+#### Souvisící předpisy
 
-#### Pojmové vymezení „protiprávního jednání"
+- [směrnice (EU) 2019/1937](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:32019L1937), zejména čl. 2 až 6, čl. 21 a části I a II přílohy;
+- Smlouva o fungování Evropské unie, zejména čl. 26 odst. 1 a 2 a čl. 325;
+- zákon č. 40/2009 Sb., trestní zákoník, zejména § 13 odst. 1;
+- zákon č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich, zejména § 5;
+- zákon č. 262/2006 Sb., zákoník práce, zejména § 3;
+- zákon č. 99/1963 Sb., občanský soudní řád, § 133a odst. 2, ve spojení se zákonem č. 172/2023 Sb.;
+- zákon č. 89/2012 Sb., občanský zákoník, zejména § 1456, a zákon č. 198/2002 Sb., o dobrovolnické službě;
+- zákony č. 221/1999 Sb., č. 361/2003 Sb. a č. 234/2014 Sb. pro služební vztahy;
+- reprezentativně zákony č. 21/1992 Sb., č. 586/1992 Sb., č. 253/2008 Sb., č. 634/1992 Sb. a č. 90/2016 Sb. pro body 1 až 5;
+- reprezentativně zákony č. 266/1994 Sb., č. 361/2000 Sb., č. 541/2020 Sb., č. 110/1997 Sb. a č. 263/2016 Sb. pro body 6 až 9;
+- reprezentativně zákony č. 143/2001 Sb., č. 250/2023 Sb., č. 134/2016 Sb., č. 110/2019 Sb., č. 127/2005 Sb. a č. 264/2025 Sb. pro body 10 až 12;
+- Listina základních práv a svobod, zejména čl. 10, 17, 36 a 40 odst. 6.
 
-Pojem „protiprávní jednání" je v ZOO chápán **objektivně** — postačí, že popisované jednání může objektivně naplňovat znaky trestného činu, přestupku nebo porušení vymezeného předpisu. Není rozhodné zavinění, příčetnost pachatele, prokázání ani případné liberační důvody. Klíčové je, že oznamovatel měl **oprávněné důvody se domnívat** [terminologie srov. § 3 odst. 1, § 7 odst. 3], že jím sdělené informace odpovídají skutečnosti. Tento subjektivní standard (good-faith reporting, „reasonable belief") je převzat z čl. 6 směrnice 2019/1937 a chrání oznamovatele před tím, aby musel jednání právně přesně kvalifikovat — postačí důvodné podezření.
+#### Z důvodové zprávy
 
-Naopak **vědomě nepravdivé oznámení** [§ 7 odst. 3, § 23] ochranu nepožívá a je samostatným přestupkem oznamovatele (pokuta až 50 000 Kč). Mezi tím leží zóna **bona-fide nesprávných oznámení** — oznamovatel se v dobré víře mýlil, jednání se ukázalo jako legální; oznamovatel však zůstává chráněn.
+> Zvláštní část důvodové zprávy ke sněmovnímu tisku 352 vykládá „možné“ protiprávní jednání široce, počítá jen s předběžným posouzením jeho znaků, zdůrazňuje vazbu na pracovní kontext a podrobně vysvětluje identifikaci, anonymní podání i široký okruh pracovních činností. V jednom bodě však odpovídá původnímu, nikoli přijatému textu: výslovně předpokládá, že obecné přestupky mimo vyjmenované oblasti zahrnuty nebudou. Dnešní § 2 odst. 1 písm. b) s hranicí 100 000 Kč vložil pozměňovací návrh poslance Marka Bendy označený SD 2477; dostupná kompilace pozměňovacích návrhů jeho důvod neuvádí. Historický výklad proto musí tuto část původní důvodové zprávy korigovat konečným zněním zákona. Zákon č. 32/2025 Sb. změnil pouze § 8 odst. 1 písm. e), nikoli § 2.
 
-#### Pracovní kontext — širší než pracovní poměr
+#### Literatura
 
-Kategorie „práce nebo jiná obdobná činnost" v odst. 3 je **mnohem širší než pracovní poměr** podle ZP — zahrnuje:
+Odborná literatura je po rozhodnutí odpovědného editora odložena do 2. kola; v tomto kole nebyly převzaty žádné neověřené sekundární citace.
 
-| Písm. | Vztah | Typický rozsah |
-|---|---|---|
-| a) | Závislá práce v základním pracovněprávním vztahu | Pracovní poměr, DPP, DPČ |
-| b) | Služba | Vojáci z povolání (z. č. 221/1999 Sb.), příslušníci bezpečnostních sborů (z. č. 361/2003 Sb.), státní zaměstnanci (z. č. 234/2014 Sb.) |
-| c) | OSVČ | Samostatná výdělečná činnost |
-| d) | Účast v PO | Společníci, akcionáři |
-| e) | Členové orgánů PO | Jednatelé, členové představenstva, dozorčí rady, kontrolní komise |
-| f) | Plnění úkolů v rámci/v zájmu/za PO | Široká catch-all kategorie pro osoby působící „v zájmu" právnické osoby |
-| g) | Správa svěřenského fondu | Svěřenský správce, beneficienti aktivně spravující fond |
-| h) | Dobrovolnictví | Dobrovolníci dle z. č. 198/2002 Sb. |
-| i) | Odborná praxe, stáž | Studenti, stážisté, praktikanti |
-| j) | Smluvní dodavatelé | B2B vztahy: dodávky, služby, stavební práce, „jiné obdobné plnění" |
+#### Výklad
 
-Odst. 4 přidává i **uchazeče o práci nebo jinou obdobnou činnost** — chráněn je tedy i ten, kdo se teprve uchází o zaměstnání (typicky neúspěšný uchazeč, který oznámí korupci při výběrovém řízení) nebo o jinou činnost (např. uchazeč o veřejnou zakázku).
+[1] § 2 vymezuje oznámení třemi obsahovými a vztahovými předpoklady: musí jít o skutkové informace o možném protiprávním jednání, musí existovat vazba na osobu a pracovní kontext popsané v odstavci 1 a jednání musí spadat alespoň pod jedno z písmen a) až d). Odstavec 2 k tomu přidává standardní identifikační režim; nejde však o absolutní čtvrtý znak, protože § 4 odst. 3 i důvodová zpráva počítají s podáním učiněným anonymně. Ani naplnění § 2 samo nezakládá ochranu: je třeba splnit podmínky zvoleného způsobu oznámení podle § 7, ověřit, že obsah nevylučuje § 3 odst. 3, a u anonymního podání určit zvláštní okamžik ochrany. Odstavce 1 a 2 § 3 naproti tomu samostatně upravují mlčenlivost a odpovědnost za oznámení či získání podkladů; nejsou další podmínkou ochrany před odvetou.
 
-#### Princip identifikovatelnosti vs. anonymita oznamovatele (odst. 2)
+[2] Oznamovatelem může být podle § 1 pouze fyzická osoba. Zvláštní postavení oznamovatele proto nemůže nabýt právnická osoba, i když jejím jménem jedná člen orgánu nebo zaměstnanec. Právnické osoby výslovně vymezené v § 4 odst. 2 písm. e) a f), případně právnická osoba, pro kterou oznamovatel pracuje podle písmene g), však mohou být samy chráněny před odvetou a při splnění § 5 jim může vzniknout právo na zadostiučinění.
 
-ZOO **nepřipouští plně anonymní oznámení jako pravidlo** — věta první ukládá obsah identifikujících údajů (jméno, příjmení, datum narození, případně jiné identifikační údaje). Avšak věta druhá obsahuje **významnou výjimku**: oznámení **nemusí** obsahovat tyto údaje, pokud je totožnost oznamovatele již známa příslušné osobě nebo pověřenému zaměstnanci MSp (typicky při ústním oznámení, osobním podání).
+[3] Slova „možné“ a „došlo nebo má dojít“ zahrnují dokonané i očekávané jednání a důvodné podezření. Článek 5 bod 2 směrnice zahrnuje také informace o pokusu porušení zatajit; pro český § 2 však musí oznámení současně popsat zakrývané jednání spadající pod písmena a) až d), anebo musí tyto znaky naplnit samotné zatajení. Oznámení nemusí protiprávnost definitivně dokazovat, musí však sdělit natolik určité skutečnosti, aby mohly být předběžně posouzeny; holý hodnotící soud bez skutkového základu tuto funkci zpravidla nesplní.
 
-Současně § 4 odst. 3 výslovně rozšiřuje ochranu i na **anonymní oznamovatele** — v okamžiku, kdy jejich totožnost vyjde najevo někomu, kdo by je mohl vystavit odvetnému opatření, vzniká plná ochrana. Praxe povinných subjektů obvykle anonymní oznámení **přijímá a vyhodnocuje**, byť ZOO formálně klade vyšší nároky na identifikaci; tento přístup je v souladu s čl. 6 odst. 2 směrnice 2019/1937, který přijímání anonymních oznámení **dovoluje** (členské státy mohou v této věci rozhodnout odlišně).
+[4] Oznamovatel není povinen správně určit paragraf, právní odvětví ani osobu odpovědnou za delikt. Příslušná osoba nebo státní zaměstnanec podle § 13 posuzují úplný obsah a přílohy, nikoli nadpis či právní nálepku podání. Chybná kvalifikace proto sama není vědomou nepravdou; jiná je otázka, zda skutek objektivně nebo podle rozumného posouzení spadá do věcného rozsahu zákona, řešená v marg. č. 20 a 21.
 
-Klauzule **„má se za to, že údaje o totožnosti oznamovatele jsou pravdivé"** je vyvratitelnou domněnkou — příslušná osoba nemusí ověřovat totožnost (např. vyžadovat doklad), postačí přiměřená důvěra. Pokud by však vyšlo najevo, že identifikace je falešná a oznámení vědomě nepravdivé, padá ochrana podle § 7 odst. 3.
+[5] Jednání musí nastat „u osoby“, pro niž oznamovatel přímo nebo zprostředkovaně pracoval či pracuje, anebo u osoby, s níž byl nebo je v kontaktu v souvislosti s prací. Nevyžaduje se, aby čin spáchala sama smluvní strana oznamovatele; rozhodná je konkrétní vazba skutku na první osobu nebo na jinou osobu, do jejíž sféry se oznamovatel dostal pracovním kontaktem. Pouze soukromá, nahodilá nebo místní souvislost nestačí.
 
-#### F. Kazuistika
+[6] Minulý čas v odstavci 1 chrání informace získané v již skončeném vztahu. Výrazy „byť zprostředkovaně“ a „v kontaktu“ pokrývají zejména agenturní a dodavatelské řetězce, v nichž oznamovatel formálně pracuje pro jinou osobu než tu, u níž k jednání došlo. Skončení vztahu nebrání pozdějšímu oznámení, ochrana však může působit jen proti odvetě následující po skutečném oznamovacím úkonu.
 
-**1. Modelová situace.** Bývalý uchazeč o pracovní místo (neúspěšný kandidát) zjistí během výběrového řízení u krajské příspěvkové organizace, že vítězný uchazeč byl vybrán na základě zmanipulovaného hodnocení a že člen výběrové komise je s ním v příbuzenském vztahu. Uchazeč nikdy pro organizaci nepracoval. Chce věc oznámit a domáhat se ochrany. K obstarání: zápis z výběrového řízení, hodnoticí tabulky, doklad o příbuzenském vztahu, jeho vlastní přihláška.
+[7] Písmeno a) není omezeno na určité trestné činy ani na unijní oblasti. Formulace „má znaky“ vyžaduje předběžnou možnost podřadit popsané skutečnosti pod znaky trestného činu, nikoli pravomocné odsouzení nebo úplné dokazování trestní odpovědnosti. Pozdější odložení věci či zproštění proto samo neznamená, že původní podání nebylo oznámením.
 
-**2. Právní otázka.** Je neúspěšný uchazeč o zaměstnání „oznamovatelem" ve smyslu ZOO, ačkoli nikdy nevykonával práci ani jinou obdobnou činnost, a vztahuje se na něj věcný záběr § 2 odst. 1?
+[8] U písmene b) rozhoduje horní hranice sazby pokuty stanovená zákonem, nikoli pokuta očekávaná nebo skutečně uložená; přesně 100 000 Kč podmínku „alespoň“ splňuje. Má-li skutková podstata odlišné sazby podle postavení pachatele, kvalifikované varianty nebo okolností činu, podle mého názoru je nutné použít sazbu vztahující se k tvrzenému skutku a možnému pachateli, nikoli nejvyšší sazbu z varianty, jejíž znaky oznámení vůbec netvrdí.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 2 odst. 4 (ucházení se o práci je „prací nebo jinou obdobnou činností") ve spojení s odst. 3 a odst. 1.
-- *Související ustanovení téhož zákona:* § 4 odst. 1 a 2 (odvetná opatření, okruh chráněných osob), § 7 (vznik ochrany), § 4 (definice „práce nebo jiné obdobné činnosti" zde rozhodná i pro odvetu).
-- *Související předpisy:* čl. 4 odst. 2 směrnice 2019/1937 (ochrana uchazečů); § 209 TZ (podvod), § 256 TZ (zjednání výhody při zadání veřejné zakázky, při veřejné soutěži a veřejné dražbě) — možná kvalifikace manipulace.
-- *Judikatura:* obecně k ochraně osob mimo trvající pracovní poměr srov. účel směrnice 2019/1937 (ochrana má pokrýt celý životní cyklus pracovního vztahu, včetně fáze před vznikem i po skončení).
+[9] Označení „závažný přestupek“ je jen praktickou zkratkou, nikoli zákonným pojmem § 2. Hranice 100 000 Kč rozšiřuje ochranu i na přestupky mimo čtrnáct oblastí. Nedosáhne-li příslušná sazba této hranice, může jít přesto o oznámení, pokud stejné jednání porušuje ZOO podle písmene c) nebo právní předpis v některé oblasti podle písmene d).
 
-**4. Subsumpce.** Znak „pracovní kontext" je naplněn skrze § 2 odst. 4 — ucházení se o práci je výslovně postaveno na roveň výkonu práce. Znak „kvalifikované protiprávní jednání" je naplněn, vykazuje-li manipulace znaky TČ podle § 256 TZ (zjednání výhody) nebo jde-li o závažný přestupek podle ZZVZ. Identifikační údaje podle odst. 2 uchazeč uvede; domněnka pravdivosti údajů se uplatní.
+[10] Písmeno c) pokrývá porušení kterékoliv povinnosti uložené ZOO, nejen jednání výslovně označené za přestupek. Typicky může jít o bránění v podání oznámení, porušení zákazu odvety, nedodržení procesní povinnosti příslušné osoby nebo neoprávněné zpřístupnění totožnosti.
 
-**5. Řešení.** Uchazeč je oznamovatelem; jeho sdělení je oznámením podle § 2 odst. 1 písm. a) (znaky TČ) ve spojení s odst. 4. Měl by podat oznámení VOS organizace nebo MSp; získá ochranu podle § 7. Pokud by organizace na oznámení reagovala např. jeho zařazením na „černou listinu" uchazečů, šlo by o odvetné opatření.
+[11] Písmeno d) dopadá na porušení vnitrostátního i přímo použitelného unijního předpisu ve čtrnácti vyjmenovaných oblastech a neobsahuje vlastní sankční práh. Může zahrnout veřejnoprávní i soukromoprávní normu právního předpisu, patří-li skutečně do příslušné oblasti; pouhé porušení smlouvy bez současného porušení takové normy nestačí.
 
-**6. Varianty.** (a) Pokud by manipulace nedosahovala intenzity TČ ani závažného přestupku (horní hranice pokuty < 100 000 Kč), nešlo by o oznámení podle § 2 odst. 1 a ochrana by nevznikla. (b) Pokud by uchazeč podal sdělení vědomě nepravdivé (smyšlené příbuzenství), ztrácí ochranu podle § 7 odst. 3 a dopouští se přestupku podle § 23.
+[12] Body 1 až 4 pokrývají čtyři odlišné bloky. Bod 1 zahrnuje regulaci finančních služeb, produktů a trhů i povinného auditu a jiných ověřovacích služeb, typicky podle zákona o bankách, zákona o podnikání na kapitálovém trhu a zákona o auditorech; nejde však o každou finanční otázku obchodní korporace. Bod 2 míří na stanovení a správu daně z příjmů právnických osob, zejména podle zákona o daních z příjmů a daňového řádu. Bod 3 zahrnuje AML a financování terorismu, zejména povinnosti podle zákona č. 253/2008 Sb. Bod 4 chrání spotřebitele, typicky podle zákona č. 634/1992 Sb., a nelze jej bez spotřebitelského vztahu rozšířit na každý spor zákazníka.
 
-#### G. Protiargumenty a rizika
+[13] Body 5 až 9 sledují především bezpečnostní a veřejnozájmové standardy. Bod 5 zahrnuje soulad výrobků a jejich bezpečnost, například posuzování shody podle zákona č. 90/2016 Sb. Bod 6 zahrnuje bezpečnost všech uvedených druhů dopravy, přepravy a silničního provozu, nikoli každý obchodní spor dopravce. Bod 7 pokrývá ochranu životního prostředí, například odpadové a vodní právo. Bod 8 spojuje bezpečnost potravin a krmiv s ochranou zvířat a jejich zdraví. Bod 9 zahrnuje radiační ochranu, jadernou bezpečnost a související nakládání s radioaktivními materiály podle atomového práva.
 
-- *Protiargument:* „Uchazeč není v žádném vztahu k organizaci, nemůže být oznamovatelem." — Neutralizace: § 2 odst. 4 výslovně zahrnuje ucházení se o práci; odpovídá to čl. 4 směrnice 2019/1937, který chrání i osoby ve fázi náboru.
-- *Protiargument:* „Informace nezískal při výkonu práce, ale jako účastník řízení — chybí pracovní kontext." — Neutralizace: kontext je dán právě účastí ve výběrovém řízení, která je formou ucházení se; získání informací o protiprávnosti v této fázi je chráněno (srov. i § 3 odst. 2 o jednání při zjišťování informací).
-- *Slabé místo:* obtížné prokázání kauzality mezi oznámením a pozdější újmou (zařazení na neformální „blacklist"); presumpci kauzality podle čl. 21 odst. 5 směrnice je nutné dovozovat eurokonformně, ZOO ji výslovně nezakotvuje.
+[14] Bod 10 zahrnuje českou i unijně podmíněnou hospodářskou soutěž, veřejné dražby a zadávání veřejných zakázek; reprezentativními vnitrostátními předpisy jsou zákony č. 143/2001 Sb., č. 250/2023 Sb. a č. 134/2016 Sb. Bod 11 je formulován mimořádně široce, ale stále vyžaduje porušení normy, jejímž chráněným předmětem je vnitřní pořádek, bezpečnost, život nebo zdraví; pouhá nevhodnost, personální konflikt či běžná pracovní stížnost nestačí. Bod 12 obsahuje čtyři související, nikoli totožné okruhy: ochranu osobních údajů, ochranu soukromí včetně důvěrnosti elektronických komunikací, bezpečnost sítí elektronických komunikací a bezpečnost informačních systémů.
 
-#### H. Praktický závěr
+[15] Bod 13 je prostřednictvím čl. 325 SFEU omezen na podvod a jiná protiprávní jednání poškozující příjmy, výdaje nebo majetek Unie; nestačí, že je na věci obecně hospodářsky zainteresována. Bod 14 navazuje na vnitřní trh podle čl. 26 odst. 1 a 2 SFEU a výslovně zahrnuje unijní hospodářskou soutěž a státní podporu. Přímé porušení pravidel daně z příjmů právnických osob spadá pod bod 2 i bez přeshraničního prvku; pod bod 14 se daňová otázka dostává tehdy, má-li současně unijní rozměr fungování vnitřního trhu, zejména u mechanismu mařícího účel použitelných korporátních daňových pravidel. Body 10 a 14 se obdobně překrývají, ale bod 14 vyžaduje vazbu na právo Unie.
 
-§ 2 vymezuje, co je oznámení: kumulace pracovního kontextu (širšího než pracovní poměr, včetně uchazečů — odst. 3 a 4) a kvalifikovaného protiprávního jednání ze čtyř kategorií (odst. 1). Identifikace oznamovatele je pravidlem (odst. 2), s výjimkou případů, kdy je totožnost příslušné osobě již známa.
+[16] Zákon neobsahuje uzavřený seznam konkrétních předpisů. Ministerstvo jej podle § 15 písm. j) zveřejňuje jako informační pomůcku, nikoli jako pramen podmiňující ochranu; příklady v původní důvodové zprávě jsou navíc historické. Prakticky je nutné ověřit aktuální předpis: například původní zákon č. 26/2000 Sb. o veřejných dražbách byl zrušen § 73 bodem 1 zákona č. 250/2023 Sb. s účinností od 1. 1. 2025 a nahrazen úpravou veřejných dražeb v tomto zákoně a zákon č. 181/2014 Sb. o kybernetické bezpečnosti byl zrušen § 75 bodem 1 zákona č. 264/2025 Sb. s účinností od 1. 11. 2025 a nahrazen tímto zákonem. Výčet v marg. č. 12 až 15 je proto reprezentativní, nikoli vyčerpávající.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je dán pracovní kontext podle § 2 odst. 3 nebo 4 (včetně uchazečů, OSVČ, dodavatelů, dobrovolníků)?
-- [ ] Spadá jednání do některé ze čtyř kategorií odst. 1 (TČ / závažný přestupek / porušení ZOO / 14 oblastí)?
-- [ ] Obsahuje oznámení identifikační údaje, nebo je totožnost příslušné osobě již známa (odst. 2 věta druhá)?
-- [ ] Je vyloučeno, že jde o vědomě nepravdivé oznámení?
+[17] Materiální působnost není totožná s volbou oznamovacího kanálu. Podle čl. 3 odst. 1 směrnice mají přednost povinná zvláštní pravidla v odvětvových unijních aktech uvedených v části II její přílohy a obecná směrnice je doplňuje jen v neupraveném rozsahu. V českém právu proto vedle ZOO mohou trvat zvláštní oznamovací povinnosti a příslušné orgány; § 7 odst. 2 chrání při splnění ostatních podmínek také oznámení podané příslušnému orgánu. Aktuálním příkladem je AML zákon: jeho § 34a odst. 6 vylučuje podání Ministerstvu spravedlnosti a uveřejnění informací krytých AML mlčenlivostí, zatímco § 31d odst. 2 vylučuje použití ZOO na zvláštní vnitřní režim zaměstnanců Finančního analytického úřadu.
 
-**Typicky rozhodné důkazy / podklady:** doklady o pracovním/uchazečském vztahu; podklady prokazující znaky kvalifikovaného jednání; identifikační údaje oznamovatele; časová osa získání informací.
+[18] U rozsahu písmene d) lze hájit úzký názor, že rozhodující jsou jen akty uvedené v příloze směrnice a jejich transpozice. Pro širší názor mluví český text odkazující na jakýkoliv právní předpis „v oblasti“, vlastní rozšíření některých bodů i čl. 2 odst. 2 a čl. 25 směrnice. Přikláním se k širšímu výkladu v běžných významových mezích každé oblasti; příloha směrnice je transpoziční minimum a interpretační pomůcka, nikoli uzavřený katalog českého § 2 odst. 1 písm. d).
+
+[19] Široký sektorový výklad musí zůstat předvídatelný: vzdálená hospodářská nebo institucionální souvislost s některým bodem nestačí. § 2 zároveň neurčuje obecnou dovolenost projevu; sdělení mimo jeho rozsah může požívat ochrany podle čl. 17 Listiny nebo jiného předpisu, pouze z něj bez dalšího nevznikne zvláštní režim ZOO. Při posouzení je proto třeba vážit právní jistotu, svobodu projevu i soukromí a pověst dotčených osob.
+
+[20] Obsahové znaky § 2 je nutné oddělit od podmínky ochrany v § 7 odst. 3. Český text vyžaduje oprávněné důvody domnívat se, že oznámení stojí na pravdivých informacích; jde o objektivizovaný standard podkladů dostupných v okamžiku oznámení, nikoli o pouhé upřímné přesvědčení. Článek 6 odst. 1 písm. a) směrnice vedle pravdivosti výslovně vyžaduje rozumné důvody věřit také tomu, že informace spadaly do její věcné působnosti.
+
+[21] Dvě situace právního omylu je nutné odlišit. Pokud popsaný skutek objektivně naplňuje jiné písmeno nebo bod, než oznamovatel uvedl, chybná nálepka jeho postavení nemění. Jestliže skutek podle pozdější autoritativní kvalifikace nespadá pod žádnou kategorii, striktní výklad českého textu by ochranu nepřiznal; eurokonformní výklad opřený o slovo „možné“, čl. 6 odst. 1 písm. a) směrnice a rozsudek NSS sp. zn. 3 As 309/2023 naopak hodnotí rozumnou víru ve věcnou působnost ex ante. Druhý názor lze hájit eurokonformně: ochranu by neměl vyloučit pozdější právní závěr, měl-li oznamovatel v okamžiku podání konkrétní a objektivně rozumné důvody pro zahrnutí věci. Výsledek pro účinný § 2 a § 7 však dosud není přímou judikaturou ustálen. Pouhé subjektivní přesvědčení nebo zjevně nesouvisející stížnost však rozsah zákona nerozšíří.
+
+[22] Pozdější zjištění, že k porušení nedošlo, ochranu automaticky nevylučuje, měl-li oznamovatel tehdy dostatečný skutkový a právní základ. Naopak skutečně nepravdivý nosný skutkový obsah bez oprávněných důvodů ochranu podle § 7 odst. 3 vylučuje. Právní omyl, dílčí skutková nepřesnost a vědomě nepravdivé jádro jsou odlišné situace a nelze je zaměňovat.
+
+[23] Ztrátu ochrany podle § 7 odst. 3 a přestupkovou odpovědnost podle § 23 je nutné oddělit. Pro první závěr se posuzuje, zda oznamovatel měl při podání objektivně oprávněné důvody věřit v pravdivost nosných informací; zavinění podle § 15 zákona č. 250/2016 Sb. se tu nezkoumá. § 23 naproti tomu vyžaduje vedle materiálně nepravdivého skutkového jádra také zavinění. Čistě textový výklad spojení § 23 s § 15 odst. 1 a 3 připouští obě formy nedbalosti. Zvláštní důvodová zpráva však uvádí vědomou nedbalost a čl. 23 odst. 2 směrnice požaduje sankci, je-li prokázáno vědomé oznámení nepravdivých informací. Podle mého názoru proto restriktivní výklad sankční normy vyžaduje alespoň vědomou nedbalost podle § 15 odst. 3 písm. a); pouhá nevědomá nedbalost, poctivý omyl ani pozdější nepotvrzení oznámení nestačí.
+
+[24] Pravdivost se hodnotí komplexně podle nosného skutkového jádra. Dílčí nepřesnost v iniciálách, datu nebo vedlejším ději podle důvodové zprávy sama nečiní celé oznámení vědomě nepravdivým; rozhodné je, zda chybný údaj materiálně zakládá tvrzené možné protiprávní jednání. Úmyslně smyšlená podstatná okolnost může tento závěr založit, kdežto chybná právní kvalifikace pravdivě popsaného skutku není nepravdivou skutkovou informací.
+
+[25] Odstavec 2 připouští vedle jména, příjmení a data narození také jiné údaje, z nichž lze totožnost dovodit, a údaje není třeba v textu opakovat, zná-li příjemce osobu jinak. Domněnka pravdivosti identifikačních údajů je vyvratitelná; podle mého názoru vylučuje rutinní požadavek na průkaz totožnosti, nikoli prověření konkrétních rozporů nebo důvodných pochybností.
+
+[26] Nepravdivý identifikační údaj podle mého názoru sám o sobě zpravidla nenaplňuje § 23, který chrání před nepravdivým skutkovým obviněním z protiprávního jednání. Jiný závěr může vyžadovat případ, v němž je smyšlená identita součástí materiálně nepravdivého děje nebo nástrojem falešného obvinění; tím není dotčena případná odpovědnost podle jiných předpisů. Falešná identifikace současně může zabránit přičtení podání skutečné osobě a fakticky je ponechat v anonymním režimu.
+
+[27] U anonymního podání je prvním rozhodným okamžikem zjištění totožnosti příslušnou osobou podle § 10 nebo státním zaměstnancem podle § 13. Do té doby se podle důvodové zprávy neuplatní zákonné postupy pro posuzování, vyrozumění a navrhování nápravy; příjemce může podnět dobrovolně prověřit. Jakmile se oprávněný příjemce totožnost dozví, důvodová zpráva považuje podání od tohoto okamžiku za přijaté standardní oznámení a od něj odvíjí další postup a lhůty podle § 12 odst. 2 a 3, § 16 odst. 2 a § 17 odst. 1.
+
+[28] Druhým a odlišným okamžikem je vznik ochrany podle § 4 odst. 3: ta nastává pro každou chráněnou osobu, když její totožnost vyjde najevo tomu, kdo ji může vystavit odvetnému opatření. Oprávněný příjemce a možný původce odvety nemusí být tatáž osoba, takže procesní a ochranný účinek mohou nastat v jiném pořadí. Vždy musí být splněny ostatní podmínky ochrany.
+
+[29] Výčet v odstavci 3 považuji za taxativní vymezení druhů práce a obdobné činnosti, nikoli za seznam konkrétních smluvních typů. Písmena f) a j) jsou záměrně funkční a široká; vztah, který nelze podřadit žádnému písmenu ani ucházení podle odstavce 4, pracovní kontext ZOO nezaloží.
+
+[30] Písmeno a) zahrnuje pracovní poměr, DPP a DPČ jako základní pracovněprávní vztahy podle § 3 zákoníku práce. „Služba“ v písmenu b) odkazuje prostřednictvím poznámky č. 4 na služební režimy vojáků z povolání, příslušníků bezpečnostních sborů a státních zaměstnanců podle tří tam uvedených zákonů; nejde o synonymum jakékoli poskytované služby.
+
+[31] Písmena c) až e) pokrývají samostatnou výdělečnou činnost, výkon práv spojených s účastí v právnické osobě a funkci člena jejího orgánu. Písmeno f) dopadá na plnění úkolů v rámci činnosti právnické osoby, v jejím zájmu, jejím jménem nebo na její účet; každá z těchto textových alternativ musí být pro konkrétní osobu doložitelná a ustanovení samo nečiní oznamovatelem právnickou osobu.
+
+[32] Správou svěřenského fondu podle písmene g) je typicky činnost svěřenského správce; pouhé postavení zakladatele nebo obmyšleného ji bez další činnosti nezakládá. Dobrovolnictví podle písmene h) není omezeno na dobrovolnickou službu podle zákona č. 198/2002 Sb. a písmeno i) v návaznosti na směrnici chrání placené i neplacené odborné praxe a stáže.
+
+[33] Písmeno j) se typicky použije na fyzickou osobu, která sama vykonává práva a povinnosti ze smlouvy na dodávky, služby, stavební práce nebo obdobné plnění; není omezeno na pojmenovaný smluvní typ. Zaměstnanec dodavatele naproti tomu zpravidla spadá pod písmeno a) a pro odběratele pracuje zprostředkovaně ve smyslu odstavce 1. Podle mého názoru účel pracovního kontextu vylučuje, aby písmeno j) bez hospodářské nebo profesní souvislosti proměnilo běžnou soukromou či spotřebitelskou smlouvu v práci nebo obdobnou činnost.
+
+[34] Odstavec 4 rozšiřuje všechny druhy práce a obdobné činnosti i na fázi ucházení; nejde jen o nábor zaměstnance. V souladu s čl. 4 odst. 3 směrnice může být chráněn úspěšný i neúspěšný uchazeč, získal-li informace během náboru nebo jiného předsmluvního jednání a jsou-li splněny ostatní znaky oznámení.
+
+[35] Osobní působnost § 2 není totožná s povinným přístupem k vnitřnímu systému. Podle § 9 odst. 2 písm. a) může povinný subjekt vyloučit přijímání od osob, které pro něj nevykonávají činnost podle § 2 odst. 3 písm. a), b), h) nebo i); prakticky to může zasáhnout dodavatele, OSVČ, členy orgánů i uchazeče. Jejich postavení podle § 2 tím nezaniká a zůstává jim zejména oznámení ministerstvu nebo příslušnému orgánu podle § 7 odst. 2; před volbou vnitřního kanálu je třeba zkontrolovat zveřejněné nastavení podle § 9 odst. 2 písm. b) bodu 3.
+
+[36] Kvalifikovaný obsah může být přesto z režimu zcela nebo zčásti vyloučen § 3 odst. 3, například kvůli podstatnému bezpečnostnímu zájmu, činnosti zpravodajských služeb nebo zpovědnímu tajemství. § 3 odst. 1 a 2 dále řeší mlčenlivost a způsob získání informací; samy však nevytvářejí pracovní kontext ani nenahrazují znaky § 2.
+
+[37] § 2 se od účinnosti 1. 8. 2023 nezměnil. ZOO lze použít na oznámení učiněné po tomto dni i tehdy, týká-li se dřívějšího nebo trvajícího jednání; tvrzenou odvetu však nelze posuzovat bez časové posloupnosti oznámení. Pro období 18. 12. 2021 až 31. 7. 2023 může vůči státu přicházet v úvahu vertikální účinek dostatečně přesných ustanovení směrnice, nikoli zpětné použití § 2.
+
+[38] ZOO výslovně neurčuje, podle jaké časové verze sankční normy se u historického skutku posuzuje hranice 100 000 Kč. Je třeba oddělit odpovědnost pachatele, kterou řídí zejména § 2 zákona č. 250/2016 Sb. a čl. 40 odst. 6 Listiny, od ochranného statusu oznamovatele. Konečný závěr o rozhodné verzi sankční normy pro § 2 odst. 1 písm. b) zůstává bez přímé judikatury otevřený. Promlčení samo nemění znaky skutkové podstaty ani zákonnou sazbu.
+[39] Příslušná osoba podle § 12 odst. 4 a ministerstvo podle § 17 odst. 3 písm. b) oznamovatele vyrozumějí, dospějí-li k závěru, že o oznámení nejde. Toto posouzení samo nezahajuje trestní, přestupkové ani jiné řízení a nezavazuje orgán, jemuž ministerstvo informace předá, ani soud, který později řeší odvetu nebo navazující nárok. Oznamovatel nemá ze § 2 právo na zahájení takového řízení nebo na meritorní rozhodnutí o protiprávnosti.
+
+[40] § 2 sám nezakládá žalobní nárok, petit, příslušnost, lhůtu ani poplatek. Procesní fórum a prostředek se řídí podkladovým vztahem a napadeným opatřením: soukromoprávní nárok projedná civilní soud, zatímco ve služební věci může být rozhodná správní žaloba a její zvláštní lhůty. V každém řízení je třeba samostatně prokázat existenci a obsah skutečného oznamovacího úkonu; auditní zpráva nebo její pracovní prezentace jej bez dalšího nenahrazuje.
+
+[41] Podle § 133a odst. 2 OSŘ musí žalobce nejprve uvést skutečnosti, ze kterých lze dovodit, že byl odvetě vystaven proto, že je oznamovatelem; teprve poté žalovaný prokazuje objektivní legitimní cíl a přiměřenost a nezbytnost opatření. Zvláštní pravidlo nepřenáší důkaz existence oznámení, postavení oznamovatele ani újmy a jeho text se vztahuje na oznamovatele, nikoli automaticky na všechny osoby podle § 4 odst. 2.
+
+[42] Modelová situace: IT specialista jako OSVČ uzavře přímo s nemocnicí smlouvu o bezpečnostním auditu a zjistí nechráněný vzdálený přístup k databázi pacientů. Jde-li o možné porušení pravidel ochrany osobních údajů nebo bezpečnosti informačních systémů, může být splněno písmeno d) bod 12 a pracovní kontext podle odstavce 1 a odstavce 3 písm. c) a j). Před podáním je třeba uchovat smluvní a časovou vazbu, přesný skutkový popis, dostupné technické podklady, použitelnou časovou verzi předpisu, identitu či anonymní režim, zvolený kanál, potvrzení skutečného podání a okamžiku doručení a důvody, z nichž oznamovatel vycházel. Vyloučí-li nemocnice tuto kategorii z vnitřního systému, lze využít ministerstvo; pouhé odevzdání auditní zprávy nemocnici nemusí být oznámením podle § 7.
+
+#### Judikatura
+
+##### Oznámení versus pracovní výstup
+
+Ochrana se aktivuje až učiněním oznámení některým ze způsobů podle § 7; příprava oznámení ani sdělení výsledků auditu na pracovní poradě tento okamžik nenahrazují — [rozsudek Nejvyššího správního soudu ze dne 22. 10. 2025, č. j. 8 Ads 100/2025-81](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746301), body 43–54. Rozsudek zrušil opačný závěr Městského soudu v Praze č. j. 8 Ad 14/2024-54, který byl v původním komentáři nesprávně označen jako rozhodnutí NSS.
+
+Samotné vyhotovení auditní zprávy v rámci běžné pracovní náplně není oznámením; pro ochranu je třeba skutečně předat informace předvídaným způsobem — [rozsudek Nejvyššího správního soudu ze dne 31. 3. 2026, č. j. 6 Ads 191/2025-54](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/780845), body 49–53. Rozhodnutí se týká předzákonného období, ale rozlišení pracovního výstupu a oznamovacího úkonu je použitelné i dnes.
+
+##### Pracovní kontext a předzákonné období
+
+Osobní působnost čl. 4 směrnice zahrnuje státní zaměstnance a pracovní kontext je třeba chápat funkčně; po marném uplynutí transpoziční lhůty bylo možné dostatečně přesná ustanovení uplatnit vertikálně vůči státu — [rozsudek Nejvyššího správního soudu ze dne 5. 12. 2024, č. j. 3 As 309/2023-83](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/737188), body 54–64. Rozhodnutí neaplikuje § 2 zpětně, ale je relevantní pro jeho eurokonformní výklad.
+
+##### Skutkový základ a ústavní souvislosti
+
+Ústavní soud nepovažoval whistleblowerskou judikaturu za přenositelnou na případ, v němž obsah získané komunikace objektivně nenasvědčoval protiprávnímu jednání a stěžovatel jej vědomě dezinterpretoval — [nález Ústavního soudu ze dne 10. 12. 2024, sp. zn. IV. ÚS 2629/23](https://www.zakonyprolidi.cz/judikat/uscr/iv-us-2629-23-1), ECLI:CZ:US:2024:4.US.2629.23.1, body 35–37. Skutek pocházel z roku 2019 a nález nevykládá § 2 ani § 7 ZOO; podporuje pouze obecný požadavek reálného skutkového základu.
 
 ---
 
