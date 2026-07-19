@@ -2114,108 +2114,94 @@ Pro výklad § 25 nebylo použito žádné soudní rozhodnutí. Přímá judikat
 
 ### § 26 — Přestupky povinných subjektů
 
-> **§ 26**
->
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > *(1) Povinný subjekt se dopustí přestupku tím, že*
 >
-> *- a) v rozporu s § 4 odst. 4 umožní, aby oznamovatel nebo osoba podle § 4 odst. 2 písm. a) až h) byli vystaveni odvetnému opatření,*
+> *a) v rozporu s § 4 odst. 4 umožní, aby oznamovatel nebo osoba podle § 4 odst. 2 písm. a) až h) byli vystaveni odvetnému opatření,*
 >
-> *- b) neurčí příslušnou osobu podle § 9 odst. 1 nebo jinou příslušnou osobu podle § 10 odst. 7,*
+> *b) neurčí příslušnou osobu podle § 9 odst. 1 nebo jinou příslušnou osobu podle § 10 odst. 7,*
 >
-> *- c) nezajistí možnost oznamovatele podat oznámení podle § 9 odst. 2 písm. a),*
+> *c) nezajistí možnost oznamovatele podat oznámení podle § 9 odst. 2 písm. a),*
 >
-> *- d) nezajistí uveřejnění stanovených informací způsobem umožňujícím dálkový přístup podle § 9 odst. 2 písm. b),*
+> *d) nezajistí uveřejnění stanovených informací způsobem umožňujícím dálkový přístup podle § 9 odst. 2 písm. b),*
 >
-> *- e) v rozporu s § 9 odst. 2 písm. d) nezajistí, aby se s podanými oznámeními mohla seznamovat pouze příslušná osoba nebo aby byl dodržen zákaz poskytnout údaje podle § 20,*
+> *e) v rozporu s § 9 odst. 2 písm. d) nezajistí, aby se s podanými oznámeními mohla seznamovat pouze příslušná osoba nebo aby byl dodržen zákaz poskytnout údaje podle § 20,*
 >
-> *- f) nezajistí posouzení důvodnosti oznámení příslušnou osobou podle § 9 odst. 2 písm. e),*
+> *f) nezajistí posouzení důvodnosti oznámení příslušnou osobou podle § 9 odst. 2 písm. e),*
 >
-> *- g) v rozporu s § 9 odst. 2 písm. f) nezajistí, aby byl oznamovatel vyrozuměn o přijetí oznámení podle § 12 odst. 2 nebo o výsledcích posouzení důvodnosti oznámení podle § 12 odst. 3,*
+> *g) v rozporu s § 9 odst. 2 písm. f) nezajistí, aby byl oznamovatel vyrozuměn o přijetí oznámení podle § 12 odst. 2 nebo o výsledcích posouzení důvodnosti oznámení podle § 12 odst. 3,*
 >
-> *- h) nezajistí přijetí vhodných opatření k nápravě nebo předejití protiprávnímu stavu v návaznosti na podané oznámení podle § 9 odst. 2 písm. g),*
+> *h) nezajistí přijetí vhodných opatření k nápravě nebo předejití protiprávnímu stavu v návaznosti na podané oznámení podle § 9 odst. 2 písm. g),*
 >
-> *- i) v rozporu s § 11 odst. 2 postihne příslušnou osobu za řádný výkon její činnosti, nebo*
+> *i) v rozporu s § 11 odst. 2 postihne příslušnou osobu za řádný výkon její činnosti, nebo*
 >
-> *- j) nesplní opatření k nápravě podle § 22 odst. 2.*
+> *j) nesplní opatření k nápravě podle § 22 odst. 2.*
 >
 > *(2) Za přestupek podle odstavce 1 písm. d) a j) lze uložit pokutu do 400 000 Kč.*
 >
 > *(3) Za přestupek podle odstavce 1 písm. a) až c) a e) až i) lze uložit pokutu do 1 000 000 Kč.*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Deset skutkových podstat — katalogizace selhání povinného subjektu
+- [1] konkrétní kvalifikace místo souhrnného „nezavedení VOS“
+- [2] umožnění odvetného opatření
+- [3] organizační zajištění povinností podle písmen b) až h)
+- [4] výlučný přístup a ochrana údajů
+- [5] posouzení, vyrozumění a vhodné opatření
+- [6] postih příslušné osoby
+- [7] opatření ministerstva a obecná pravidla odpovědnosti
 
-§ 26 popisuje **deset způsobů**, jimiž povinný subjekt může pochybit:
+#### Souvisící ustanovení
 
-| Písm. | Skutková podstata | Maximální pokuta |
-|---|---|---|
-| a) | Umožnění odvetného opatření vůči oznamovateli/chráněné osobě | **1 000 000 Kč** |
-| b) | Neurčení (nebo neurčení nové) příslušné osoby | 1 000 000 Kč |
-| c) | Nezajištění možnosti podat oznámení | 1 000 000 Kč |
-| d) | Nezveřejnění informací dálkovým přístupem | 400 000 Kč |
-| e) | Nezajištění důvěrnosti (přístup k oznámením i mimo příslušnou osobu) | 1 000 000 Kč |
-| f) | Nezajištění posouzení důvodnosti | 1 000 000 Kč |
-| g) | Nezajištění vyrozumění oznamovatele | 1 000 000 Kč |
-| h) | Nezajištění přijetí vhodných opatření k nápravě | 1 000 000 Kč |
-| i) | Postih příslušné osoby za řádný výkon činnosti | 1 000 000 Kč |
-| j) | Nesplnění opatření k nápravě uloženého MSp | 400 000 Kč |
+§ 4 odst. 2 a 4; § 8 až 12; § 20; § 22; § 27; § 28 až 30.
 
-**Hierarchie závažnosti:**
+#### Souvisící předpisy
 
-- **Nižší sankce (do 400 000 Kč)** — pochybení **procesně-formální**: nezveřejnění informací [d)], nesplnění opatření MSp [j)]. Zde primárně chybí informační/spolupracovnická složka, ne podstatná ochrana.
-- **Vyšší sankce (do 1 000 000 Kč)** — pochybení **podstatná**, ohrožující smysl systému: umožnění retaliace, nezajištění příslušné osoby, nezajištění důvěrnosti, neposouzení důvodnosti, nepřijetí nápravných opatření, postih příslušné osoby. Zde subjekt podkopává samotnou ochranu oznamovatelů.
+- zákon č. 250/2016 Sb., zejména § 2, § 15, §§ 20 až 23, §§ 30 až 32, §§ 37, 40 a 41 a § 88,
+- zákon č. 251/2005 Sb., zejména § 3 odst. 1 písm. h), § 6 a § 34a,
+- směrnice Evropského parlamentu a Rady (EU) 2019/1937, zejména čl. 23.
 
-#### Souběh přestupků a obecná pravidla
+#### Z důvodové zprávy
 
-Při souběhu více přestupků se uplatní **§ 41 zák. č. 250/2016 Sb., o odpovědnosti za přestupky** (zásada absorpce — uloží se sankce za nejzávažnější přestupek, sazby ostatních se zohlední jako přitěžující okolnosti). Příklad: subjekt nezavedl VOS [písm. b)] a současně umožnil retaliaci [písm. a)] — uloží se pokuta podle písm. a) až 1 000 000 Kč, písm. b) přitěžuje.
+Důvodová zpráva rozděluje skutkové podstaty do dvou skupin podle typové závažnosti: písmena d) a j) s horní hranicí pokuty 400 000 Kč a ostatní písmena s horní hranicí 1 000 000 Kč. Jde o vysvětlení legislativního nastavení sazeb; povahu a závažnost konkrétního přestupku je nutno hodnotit individuálně podle zákona č. 250/2016 Sb.
 
-**Zánik odpovědnosti:** přestupky podle § 26 podléhají obecné promlčecí lhůtě podle § 30 zákona o přestupcích — 3 roky (u přestupků s pokutou nad 100 000 Kč).
+#### Literatura
 
-#### Kontrolní a sankční kompetence
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Nejde o výsledek negativní literární rešerše.
 
-Přestupky podle § 26 projednává:
-- **MSp** — v rozsahu kontroly podle § 22 odst. 1 [písm. a), f), h), i), j)];
-- **Orgán inspekce práce** — pro zaměstnavatele v užším smyslu [§ 22 odst. 3];
-- **MSp jako obecný přestupkový orgán** — pro ostatní přestupky (§ 28).
+#### Výklad
 
-#### F. Kazuistika
+[1] § 26 nemá samostatnou skutkovou podstatu označenou „nezavedení VOS“. Neexistující nebo nefunkční systém se právně rozpadá do konkrétních porušení písmen b) až h). Výrok o vině musí přesně určit skutek, porušenou povinnost, čas a příslušné písmeno.
 
-**1. Modelová situace.** Povinný subjekt (zaměstnavatel s 300 zaměstnanci) vůbec nezavedl VOS, neurčil příslušnou osobu a nezveřejnil žádné informace. Když mu jeden zaměstnanec přesto oznámí daňové úniky, vedení mu umožní, aby jej přímý nadřízený postihl převedením a snížením mzdy. MSp zahájí přestupkové řízení. K obstarání: doklad o (ne)zavedení VOS, webové stránky, oznámení, doklady o odvetě.
+[2] Písm. a) zrcadlí preventivní povinnost § 4 odst. 4. Nestačí samotný vznik odvety třetí osobou; správní orgán musí prokázat, že povinný subjekt odvetu „umožnil“ a měl reálnou možnost jí zabránit nebo ji zastavit. Přímé vystavení odvetě se posuzuje též podle § 27 odst. 2.
 
-**2. Právní otázka.** Kolika přestupků podle § 26 se subjekt dopustil (nezavedení VOS, nezveřejnění informací, umožnění odvety) a jak se při jejich souběhu stanoví sankce?
+[3] Písmena b) až h) ukládají povinnému subjektu povinnost výsledek organizačně zajistit. Outsourcing ani sdílení podle § 8 nepřenášejí tuto veřejnoprávní odpovědnost. Selhání konkrétní příslušné osoby však automaticky neznamená odpovědnost subjektu bez zjištění znaků příslušného písmene; oba delikty se posuzují samostatně.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 26 odst. 1 písm. b) (neurčení příslušné osoby), písm. c) (nezajištění možnosti podat oznámení), písm. d) (nezveřejnění informací), písm. a) (umožnění odvety), odst. 2 a 3 (sazby 400 000 Kč a 1 000 000 Kč).
-- *Související ustanovení téhož zákona:* § 9 (povinnosti subjektu), § 4 odst. 4 (zákaz umožnit odvetu), § 22 (kontrola), § 28 (projednávání), § 27 odst. 2 (odpovědnost konkrétního pachatele odvety).
-- *Související předpisy:* § 41 zák. č. 250/2016 Sb. (souběh — absorpce); § 30 téhož zákona (promlčení); čl. 23 směrnice 2019/1937 (účinné, přiměřené a odrazující sankce).
-- *Judikatura:* k zásadě absorpce při souběhu správních deliktů srov. ustálenou judikaturu NSS — nosný závěr: za sbíhající se přestupky se uloží sankce podle nejpřísněji postižitelného, ostatní se zohlední jako přitěžující.
+[4] Písm. e) chrání výlučný přístup i zákaz poskytnutí údajů podle § 20. Provozní administrátor, vedení společnosti či skupinové compliance nemají přístup jen z titulu funkce; rozhoduje řádné určení fyzické příslušné osoby a zákonný důvod.
 
-**4. Subsumpce.** Nezavedení VOS a neurčení příslušné osoby naplňuje § 26 odst. 1 písm. b); nezajištění možnosti podat oznámení písm. c); nezveřejnění informací písm. d) (sazba 400 000 Kč); umožnění odvety písm. a) (sazba 1 000 000 Kč). Jde o souběh více přestupků. Nejpřísněji postižitelný je přestupek podle písm. a).
+[5] Písmena f) až h) rozlišují posouzení, informační povinnost a přijetí vhodného opatření. Negativní závěr po řádném posouzení není neposouzením a při nedůvodném oznámení § 12 odst. 5 přijetí opatření neukládá. Je-li však oznámení důvodné a návrh příslušné osoby nevhodný, povinný subjekt musí přijmout jiné vhodné opatření k předejití nebo nápravě protiprávního stavu; pouhá nečinnost dovolenou alternativou není.
 
-**5. Řešení.** Subjekt spáchal několik přestupků podle § 26 odst. 1. Při souběhu se uloží sankce podle nejpřísněji postižitelného [písm. a) — až 1 000 000 Kč], ostatní (písm. b), c), d) přitěžují (§ 41 zák. o přestupcích). Souběžně lze postihnout konkrétního pachatele odvety (nadřízeného) podle § 27 odst. 2 (až 1 000 000 Kč) — individualizace odpovědnosti. Odvetná opatření jsou navíc neplatná (§ 580 OZ) a zakládají nárok oznamovatele (§ 5).
+[6] Písm. i) chrání příslušnou osobu za řádný výkon. Nechrání porušování jejích vlastních povinností ani ji nezbavuje pracovněprávní odpovědnosti za jiné jednání; kauzální souvislost s řádným výkonem musí být prokázána.
 
-**6. Varianty.** (a) Pokud by subjekt VOS zavedl a jediným pochybením by bylo nezveřejnění informací [písm. d)], sankce by nepřesáhla 400 000 Kč. (b) Pokud by od oznámení do zahájení řízení uplynula promlčecí doba podle § 30 zák. o přestupcích, odpovědnost za přestupek by zanikla (u přestupků s pokutou nad 100 000 Kč činí 3 roky).
+[7] Písm. j) předpokládá konkrétní opatření ministerstva podle § 22 odst. 2. U všech skutkových podstat se uplatní obecná pravidla podle povahy pachatele; u fyzické osoby včetně zavinění podle § 15 zákona č. 250/2016 Sb. a u právnické či podnikající fyzické osoby též pravidla přičitatelnosti a liberace. Vždy se samostatně posoudí promlčení a individualizace sankce.
 
-#### G. Protiargumenty a rizika
+§ 26 je účinný od 1. srpna 2023 a novela č. 32/2025 Sb. jej nezměnila. Odpovědnost za historický skutek se přesto posuzuje podle časových pravidel § 2 zákona č. 250/2016 Sb. Věcnou příslušnost je třeba určit podle § 28 ZOO společně se zákonem č. 251/2005 Sb.; u skutků odpovídajících § 34a tohoto zákona je nutno ověřit také jeho působnost a výluky, nikoli jen označení pachatele jako povinného subjektu.
 
-- *Protiargument:* „Za více pochybení nelze ukládat součet pokut do milionů." — Neutralizace: ZOO ani nesměřuje k součtu; uplatní se absorpce (§ 41 zák. o přestupcích) — jedna sankce podle nejzávažnějšího přestupku, ostatní přitěžují.
-- *Protiargument:* „Odpovědný je jen subjekt, ne konkrétní nadřízený." — Neutralizace: § 27 odst. 2 zakládá samostatnou odpovědnost konkrétní osoby, která odvetu vystavila; souběh s odpovědností subjektu podle § 26 odst. 1 písm. a) je přípustný.
-- *Slabé místo:* běh promlčecí doby a okamžik spáchání (zejména u trvajících/pokračujících deliktů, jako je dlouhodobé nezavedení VOS) může být sporný a ovlivnit postižitelnost.
+#### Judikatura
 
-#### H. Praktický závěr
+V této revizi není pro výklad § 26 použito žádné soudní rozhodnutí. Výklad je omezen na zákonné texty, důvodovou zprávu a unijní implementační rámec; nejde o tvrzení, že relevantní judikatura neexistuje.
 
-§ 26 katalogizuje deset přestupků povinného subjektu se dvěma sazbami: nižší (400 000 Kč) za procesně-formální pochybení [písm. d), j)] a vyšší (1 000 000 Kč) za podstatná pochybení ohrožující smysl systému [umožnění odvety, neurčení příslušné osoby, nezajištění důvěrnosti, neposouzení, nepřijetí nápravy, postih příslušné osoby]. Při souběhu platí absorpce (§ 41 zák. o přestupcích); kompetence je rozdělena mezi MSp a inspekci práce (§ 22, § 28).
+#### Praktický checklist
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Které skutkové podstaty § 26 odst. 1 byly naplněny (a, b, c, d, e, f, g, h, i, j)?
-- [ ] Jde o nižší (400 000 Kč), nebo vyšší (1 000 000 Kč) sazbu?
-- [ ] Uplatní se při souběhu zásada absorpce (§ 41 zák. o přestupcích)?
-- [ ] Lze souběžně postihnout konkrétního pachatele odvety podle § 27 odst. 2?
-
-**Typicky rozhodné důkazy / podklady:** doklad o (ne)zavedení VOS a určení příslušné osoby; webové stránky; oznámení a doklady o odvetě; identifikace konkrétního pachatele odvety; časová osa pro promlčení.
-
----
+- [ ] Je skutek podřazen konkrétnímu písmenu § 26 odst. 1, nikoli jen označen jako „nezavedení VOS“?
+- [ ] Je u písmen f) až h) přesně určena nesplněná výsledková povinnost a její zákonné předpoklady?
+- [ ] Je u písmene i) prokázána vazba postihu na řádný výkon činnosti příslušné osoby?
+- [ ] Vychází písmeno j) skutečně z opatření ministerstva podle § 22 odst. 2?
+- [ ] Byla podle druhu pachatele prověřena pravidla zavinění, přičitatelnosti nebo liberace?
+- [ ] Byly samostatně ověřeny časová působnost, promlčení a věcná příslušnost?
 
 ### § 27 — Přestupky dalších osob
 
