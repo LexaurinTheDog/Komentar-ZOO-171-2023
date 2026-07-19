@@ -1695,6 +1695,10 @@ V pramenech skutečně použitých pro tuto jednotku není soudní rozhodnutí v
 
 ### § 20 — Zákaz poskytnutí údajů
 
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > **§ 20**
 >
 > *(1) Příslušná osoba nebo pověřený zaměstnanec neposkytnou informace, které by mohly zmařit nebo ohrozit účel podávání oznámení. Tuto povinnost má i třetí osoba, která získá přístup k oznámením nebo do evidence údajů o přijatých oznámeních v rozporu s § 21 odst. 3.*
@@ -1703,80 +1707,57 @@ V pramenech skutečně použitých pro tuto jednotku není soudní rozhodnutí v
 >
 > *(3) Poskytují-li příslušná osoba nebo pověřený zaměstnanec informaci o totožnosti oznamovatele orgánu veřejné moci podle odstavce 2, jsou povinni o tom předem oznamovatele vyrozumět společně s důvody, pro které jsou povinni informaci o totožnosti poskytnout, a umožnit oznamovateli, aby se k poskytnutí informace vyjádřil.*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Obecný zákaz ohrozit účel systému (odst. 1)
+Odstavec 1 chrání účel podávání oznámení i mimo samotnou identitu oznamovatele. Odstavec 2 stanoví zvláštní režim totožnosti oznamovatele a osob podle § 4 odst. 2 písm. a) až h), v postupu ministerstva také osoby uvedené v oznámení. Odstavec 3 přidává před zákonné poskytnutí totožnosti oznamovatele orgánu veřejné moci povinnost předchozího vyrozumění, odůvodnění a umožnění vyjádření.
 
-Příslušná osoba i pověřený zaměstnanec jsou vázáni **obecnou povinností nezveřejnit informace** , které by **zmařily nebo ohrozily účel podávání oznámení**. Tento účel je dvojí: (i) odhalit protiprávní jednání, (ii) chránit oznamovatele. Zákaz tedy pokrývá vše, co by:
+#### Souvisící ustanovení
 
-- usnadnilo identifikaci oznamovatele (i nepřímo, např. okruhem detailů zjevně poukazujících na konkrétní osobu);
-- usnadnilo skartaci důkazů nebo varování pachatele;
-- bránilo dalšímu prošetření.
+§ 4 odst. 2 písm. a) až h), § 9 odst. 2 písm. d), § 11 odst. 1 písm. b), § 15 písm. d), § 16 odst. 2, § 18, § 21 odst. 3, § 24 odst. 1 písm. d) a e), § 25 odst. 1 písm. d) a e) a § 27 odst. 3 ZOO.
 
-Stejná povinnost se vztahuje na **třetí osoby**, které získají přístup k oznámením v rozporu s § 21 odst. 3 (oprávněn je jen příslušná osoba / pověřený zaměstnanec) — typicky IT administrátor, který „omylem" otevřel schránku VOS, hodnotí se podle této normy a může být postižen.
+#### Souvisící předpisy
 
-#### Ochrana totožnosti — písemný souhlas (odst. 2)
+Čl. 16 a 17 směrnice Evropského parlamentu a Rady (EU) 2019/1937. Konkrétní průlom podle § 20 odst. 2 musí založit zvláštní právní předpis upravující pravomoc a postup příslušného orgánu veřejné moci; obecnou žádost orgánu nelze bez dalšího zaměnit za zákonnou povinnost poskytnout chráněnou totožnost.
 
-Informace o totožnosti **oznamovatele** a **chráněných osob** (§ 4 odst. 2 písm. a)–h) lze poskytnout třetím osobám **jen s jejich písemným souhlasem**. Výjimka: **povinnost poskytnout** tyto informace **orgánům veřejné moci podle jiných právních předpisů**.
+#### Z důvodové zprávy
 
-Typické případy povinnosti poskytnout informace orgánům veřejné moci:
-- soudní obsílka, předvolání k podání svědecké výpovědi (§ 97, § 126 OSŘ; § 100 a násl. TrŘ);
-- vyžádání spisu OČTŘ podle § 79b TrŘ;
-- vyžádání informací finančním úřadem (§ 57 DŘ);
-- dohledové vyžadování ze strany regulátora.
+Důvodová zpráva označuje důvěrnost kanálů za základní prvek ochrany, vztahuje odstavec 1 také na anonymní oznámení a dotazy potenciálních oznamovatelů a zdůrazňuje předchozí vyrozumění při zákonném poskytnutí totožnosti. Její procesní příklady jsou ilustrací záměru předkladatele; existenci a rozsah povinnosti předat totožnost je vždy nutné ověřit v účinném zvláštním předpisu.
 
-Ochrana se vztahuje **i na osoby, proti nimž oznámení směřuje**, ale pouze v rámci postupu MSp (hlava III) — tj. v procesu vyhodnocení oznámení; toto rozšíření chrání **prozatím nevinně podezírané osoby** před stigmatizací, dokud věc neprokáže nezávislé řízení.
+#### Literatura
 
-#### Procesní záruka — předchozí vyrozumění (odst. 3)
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o výsledek negativní rešerše.
 
-I když existuje zákonná povinnost poskytnout informace orgánu veřejné moci, příslušná osoba nebo pověřený zaměstnanec jsou povinni **předem vyrozumět oznamovatele** o:
+#### Výklad
 
-- skutečnosti, že informace bude poskytnuta;
-- důvodech, pro něž je nutné ji poskytnout;
-- a **umožnit oznamovateli, aby se vyjádřil**.
+[1] Odstavec 1 dopadá na příslušnou osobu, pověřeného zaměstnance a také na třetí osobu, která získala přístup v rozporu s § 21 odst. 3. Předmětem zákazu jsou všechny informace objektivně způsobilé zmařit nebo ohrozit účel podávání oznámení, nejen jméno: podle důvodové zprávy mohou být chráněny i nepřímé identifikátory, obsah anonymního oznámení nebo údaj o dotazu potenciálního oznamovatele.
 
-Vyjádření oznamovatele nemůže poskytnutí zabránit (pokud existuje zákonná povinnost), ale může:
-- vést k upřesnění rozsahu informací (např. minimalizace zveřejněných údajů);
-- dát oznamovateli šanci preventivně připravit se na možnou retaliaci;
-- zakládat jeho argumentaci v případném sporu o nezákonnost postoupení.
+[2] Odstavce 1 a 2 mají samostatný předmět. Písemný souhlas s poskytnutím totožnosti podle odstavce 2 proto sám neodstraňuje zákaz poskytnout jinou informaci, která by mohla ohrozit účel podávání oznámení. Stejně tak § 11 odst. 1 písm. b) obsahuje vlastní zákaz navrhnout opatření, jímž by mohla být prozrazena totožnost oznamovatele; § 20 výslovně neřeší, zda jej souhlas prolomí, a bez přímé judikatury nelze takový účinek předpokládat.
 
-Porušení této povinnosti je samostatným přestupkem podle § 24 odst. 1 písm. d), e) (příslušná osoba) a § 25 odst. 1 písm. d), e) (pověřený zaměstnanec) — pokuta až 100 000 Kč při úmyslu.
+[3] U totožnosti oznamovatele a každé osoby podle § 4 odst. 2 písm. a) až h) vyžaduje odstavec 2 písemný souhlas právě osoby, o jejíž totožnost jde. Souhlas jedné chráněné osoby nenahrazuje souhlas jiné.
 
-#### F. Kazuistika
+[4] Bez souhlasu lze chráněnou totožnost poskytnout jen tehdy, ukládá-li jiný právní předpis příslušné osobě nebo pověřenému zaměstnanci povinnost poskytnout ji příslušnému orgánu veřejné moci. V konkrétním případě se ověřuje právní titul, příslušnost orgánu, nezbytný rozsah a případné podmínky zvláštního řízení. Interní zájem vedení, auditu či jiné soukromé osoby tuto výjimku nezakládá.
 
-**1. Modelová situace.** Příslušná osoba obdrží od soudu výzvu k poskytnutí informací o totožnosti oznamovatele v souvislosti s trestním řízením proti osobě, na niž oznámení směřovalo. Příslušná osoba chce výzvě vyhovět, ale neví, zda smí totožnost prozradit a zda musí oznamovatele předem informovat. Současně zvažuje, zda smí totožnost sdělit nadřízenému oznamovatele, který se jí na ni dotazuje. K obstarání: soudní výzva, oznámení, doklad o vyrozumění oznamovatele.
+[5] Druhá věta odstavce 2 vztahuje stejný režim na totožnost osoby uvedené v oznámení jen při postupu podle hlavy III, tedy v systému ministerstva. Ve vnitřním oznamovacím systému ji tato věta výslovně nezahrnuje; nadále však může podle okolností působit obecný zákaz odstavce 1 a jiné předpisy o ochraně údajů a procesních právech.
 
-**2. Právní otázka.** Smí příslušná osoba poskytnout informaci o totožnosti oznamovatele orgánu veřejné moci, za jakých podmínek, a musí o tom oznamovatele předem vyrozumět?
+[6] Při zákonném poskytnutí vlastní totožnosti oznamovatele orgánu veřejné moci musí příslušná osoba nebo pověřený zaměstnanec oznamovatele předem vyrozumět, sdělit mu důvody povinného poskytnutí a umožnit mu vyjádřit se. Text nedává oznamovateli právo zákonné předání vetovat; jeho vyjádření však může poukázat na nedostatek pravomoci, nepotřebnost nebo nepřiměřený rozsah požadavku.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 20 odst. 1 (zákaz informací ohrožujících účel), odst. 2 (totožnost jen s písemným souhlasem, ledaže existuje zákonná povinnost vůči orgánu veřejné moci), odst. 3 (předchozí vyrozumění oznamovatele a možnost vyjádření).
-- *Související ustanovení téhož zákona:* § 21 odst. 3 (přístup jen příslušná osoba), § 24 odst. 1 písm. d), e) (přestupky), § 4 (ochrana před odvetou).
-- *Související předpisy:* § 126 OSŘ, § 100 a násl., § 79b TrŘ (povinnost poskytnout informace/svědčit); čl. 16 směrnice 2019/1937 (důvěrnost totožnosti a výjimky).
-- *Judikatura:* k prolomení důvěrnosti totožnosti na základě zákonné povinnosti srov. čl. 16 odst. 2 a 3 směrnice — nosný závěr: totožnost lze prozradit jen na základě zákonné povinnosti, s nezbytnými zárukami pro dotčenou osobu.
+[7] Článek 16 odst. 3 směrnice připouští neinformovat předem, pokud by informace ohrozila související vyšetřování nebo soudní řízení. Český § 20 odst. 3 takovou výjimku neobsahuje. Nelze ji proto bez opory v konkrétním zvláštním předpisu doplnit výkladem v neprospěch osoby; případný střet povinností musí být řešen podle použitelných předpisů v konkrétní věci.
 
-**4. Subsumpce.** Vůči nadřízenému oznamovatele (soukromá osoba bez zákonné povinnosti) nesmí příslušná osoba totožnost sdělit bez písemného souhlasu (§ 20 odst. 2) — sdělení by bylo přestupkem podle § 24 odst. 1 písm. e). Vůči soudu existuje zákonná povinnost poskytnout informace (§ 126 OSŘ / TrŘ) → výjimka podle § 20 odst. 2 se uplatní; příslušná osoba však musí oznamovatele předem vyrozumět a umožnit mu vyjádření (odst. 3).
+[8] Skutkové podstaty v § 24 odst. 1 písm. d) a e), § 25 odst. 1 písm. d) a e) a § 27 odst. 3 výslovně sankcionují porušení § 20 odst. 1 nebo 2. Samotné opomenutí postupu podle odstavce 3 nemá v ZOO výslovnou samostatnou skutkovou podstatu; nelze ji vytvořit analogií v neprospěch obviněného. Tím nejsou dotčeny jiné možné právní následky podle okolností případu.
 
-**5. Řešení.** Nadřízenému oznamovatele příslušná osoba totožnost nesdělí (chybí zákonná povinnost i souhlas). Soudu informaci poskytnout musí (zákonná povinnost), ale teprve poté, co oznamovatele předem vyrozumí o poskytnutí, o jeho důvodech a umožní mu vyjádřit se (odst. 3); vyjádření poskytnutí nezabrání, ale může zúžit rozsah a připravit oznamovatele na riziko retaliace. Porušení povinnosti předchozího vyrozumění je přestupkem podle § 24 odst. 1 písm. d), e).
+[9] § 20 je účinný od 1. 8. 2023 a od vyhlášení nebyl změněn; novela č. 32/2025 Sb., účinná od 15. 2. 2025, zasáhla jiné ustanovení. ZOO pro § 20 nestanoví zvláštní přechodné pravidlo. Při předání se proto vychází z práva účinného v době tohoto úkonu; případná sankční odpovědnost se posuzuje samostatně podle pravidel správního trestání.
 
-**6. Varianty.** (a) Pokud by oznamovatel udělil písemný souhlas s poskytnutím totožnosti, výjimka by se opírala o souhlas a předchozí vyrozumění podle odst. 3 by se týkalo jen poskytnutí orgánu veřejné moci na základě zákonné povinnosti. (b) Pokud by šlo o postup MSp (hlava III), ochrana podle odst. 2 by se obdobně vztahovala i na totožnost osoby uvedené v oznámení (nevinně podezírané).
+#### Judikatura
 
-#### G. Protiargumenty a rizika
+V této jednotce není použito žádné soudní rozhodnutí jako pramen přímého výkladu § 20. Jde o vymezení použitého pramenného souboru, nikoli o tvrzení, že relevantní rozhodnutí neexistuje, ani o dokončenou negativní judikatorní rešerši.
 
-- *Protiargument:* „Soudní výzva má přednost, oznamovatele není třeba předem informovat." — Neutralizace: § 20 odst. 3 výslovně ukládá předchozí vyrozumění a možnost vyjádření; povinnost poskytnout informaci nezbavuje povinnosti tuto procesní záruku dodržet.
-- *Protiargument:* „Nadřízený má právo vědět, kdo jej obvinil." — Neutralizace: § 20 odst. 2 chrání totožnost oznamovatele; bez zákonné povinnosti nebo souhlasu ji nelze sdělit — opačný postup by umožnil retaliaci a byl by přestupkem.
-- *Slabé místo:* hranice „zákonné povinnosti poskytnout informace orgánu veřejné moci" může být v konkrétním případě sporná; doporučuje se posoudit konkrétní procesní titul (svědecká povinnost, vyžádání spisu).
+#### Praktický checklist
 
-#### H. Praktický závěr
-
-§ 20 chrání důvěrnost: zakazuje poskytnout informace ohrožující účel systému (odst. 1) a totožnost oznamovatele/chráněných osob bez písemného souhlasu (odst. 2), s výjimkou zákonné povinnosti vůči orgánu veřejné moci. I při této výjimce platí procesní záruka — předchozí vyrozumění oznamovatele a možnost vyjádření (odst. 3). Ochrana totožnosti se v režimu MSp vztahuje i na osobu uvedenou v oznámení.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Existuje pro poskytnutí totožnosti zákonná povinnost vůči orgánu veřejné moci, nebo písemný souhlas (odst. 2)?
-- [ ] Byl oznamovatel předem vyrozuměn o poskytnutí, jeho důvodech a měl možnost se vyjádřit (odst. 3)?
-- [ ] Není informace poskytována soukromé osobě bez souhlasu (zákaz, přestupek)?
-- [ ] Je minimalizován rozsah poskytnutých údajů?
-
-**Typicky rozhodné důkazy / podklady:** procesní titul povinnosti (soudní výzva, vyžádání spisu); písemný souhlas oznamovatele (existuje-li); doklad o předchozím vyrozumění a vyjádření oznamovatele.
+- [ ] Je přesně určeno, zda jde o informaci ohrožující účel podle odstavce 1, o chráněnou totožnost podle odstavce 2, nebo o obojí?
+- [ ] Je písemný souhlas udělen každou osobou, jejíž totožnost má být poskytnuta?
+- [ ] Bez souhlasu: ukládá účinný zvláštní předpis konkrétní povinnost předat totožnost příslušnému orgánu veřejné moci a jen v požadovaném rozsahu?
+- [ ] Při předání totožnosti oznamovatele byl předem doložitelně splněn postup podle odstavce 3?
+- [ ] Je zachován doklad o právním titulu, rozsahu předání, vyrozumění, důvodech a vyjádření oznamovatele?
 
 ---
 
