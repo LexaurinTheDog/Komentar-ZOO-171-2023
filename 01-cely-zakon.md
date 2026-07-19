@@ -544,73 +544,62 @@ Ověřená česká judikatura se týká zejména časové podmínky a individual
 
 ### § 5 — Právo na přiměřené zadostiučinění
 
+> Revize: 18. 7. 2026 | Editor: JUDr. Vojtěch Říha, Ph.D. | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > **§ 5**
 >
-> *Ten, kdo nesmí být vystaven odvetnému opatření, má právo na přiměřené zadostiučinění, byla-li mu odvetným opatřením způsobena nemajetková újma. Ustanovení jiných právních předpisů o zvláštních podmínkách pro uplatnění práva na přiměřené zadostiučinění tím nejsou dotčena.*
+> Ten, kdo nesmí být vystaven odvetnému opatření, má právo na přiměřené zadostiučinění, byla-li mu odvetným opatřením způsobena nemajetková újma. Ustanovení jiných právních předpisů o zvláštních podmínkách pro uplatnění práva na přiměřené zadostiučinění tím nejsou dotčena.[^14]
 
-**Výklad:**
+[^14]: Čl. 23 odst. 1 písm. b) směrnice Evropského parlamentu a Rady (EU) 2019/1937.
 
-**Judikatura (z místních zdrojů):**
+#### Přehled výkladu
 
-- *NSS* [22 As 19/2025 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744427) — 21. 8. 2025
-  > „§ 5 zákona o ochraně oznamovatelů představuje hmotněprávní základ práva oznamovatele na přiměřené zadostiučinění, pokud mu byla odvetným opatřeným opatřením způsobena nemajetková újma na osobnostních právech. Za této situace z ničeho podle Nejvyššího správního soudu nevyplývá, že by se mělo jednat o veřejnoprávní nárok, kterému by měla být poskytnuta ochrana ve správním soudnictví"
+1. Předpoklady a povaha práva [1]–[3].
+2. Osobní rozsah a osoba povinná [4]–[5].
+3. Zvláštní podmínky, výše a časová působnost [6]–[8].
+4. Praktická kontrola uplatnění [9].
 
-#### Občanskoprávní satisfakce za retaliaci
+#### Souvisící ustanovení
 
-§ 5 zakotvuje **samostatný občanskoprávní nárok** oznamovatele (a všech osob podle § 4 odst. 2) na **přiměřené zadostiučinění za nemajetkovou újmu** způsobenou odvetným opatřením. Jde o průlom — bez tohoto výslovného ustanovení by bylo nutné dovozovat nárok podle obecných ustanovení o náhradě újmy (§ 2956 OZ — náhrada nemajetkové újmy je možná, jen byla-li škůdcem výslovně poskytnuta a pokud zákon výslovně přikazuje její odčinění). § 5 tedy plní **funkci výslovné zákonné opory** pro přiznání satisfakce.
+§ 4 odst. 1 až 3 (odvetné opatření a chráněné osoby), § 6 (vzdání se ochrany), § 7 (podmínky ochrany oznamovatele), § 26 odst. 1 písm. a) a § 27 odst. 2 a 4 (přestupková odpovědnost za odvetu).
 
-#### Souběh s ostatními nároky
+#### Souvisící předpisy
 
-Větou druhou zákonodárce výslovně **nepřebíjí** zvláštní podmínky podle jiných předpisů — typicky:
+§ 7 zákona č. 99/1963 Sb., občanský soudní řád; § 2894 odst. 2 zákona č. 89/2012 Sb., občanský zákoník; čl. 21 odst. 8 a čl. 23 odst. 1 písm. b) směrnice (EU) 2019/1937.
 
-- **§ 31a zák. č. 82/1998 Sb.** — odpovědnost státu za nesprávný úřední postup (např. když je oznamovatel veřejný funkcionář a stát zasáhne do jeho práv);
-- **§ 269 ZP** — odpovědnost zaměstnavatele za škodu způsobenou zaměstnanci v pracovněprávním vztahu (mj. ztráta na výdělku, bolestné, ztížení společenského uplatnění);
-- **§ 2956 OZ** — obecná občanskoprávní úprava nemajetkové újmy.
+#### Z důvodové zprávy
 
-Klíčové: ZOO **nestanoví konkrétní výši** zadostiučinění ani vzorec pro výpočet — soud rozhoduje podle obecných kritérií přiměřenosti (intenzita újmy, doba trvání, společenský dopad, prevenční účinek vůči odpůrci). V praxi se očekává, že soudy budou inspirovány stejně jako u žalob na ochranu osobnosti (§ 81 OZ a násl.) — desetitisíce až statisíce Kč podle závažnosti.
+Důvodová zpráva označuje § 5 za soukromoprávní odpovědnost za nemajetkovou újmu způsobenou odvetným opatřením. Osobní rozsah spojuje s oznamovatelem a osobami podle § 4 odst. 2 písm. a) až h), včetně osob ve vztahu k anonymnímu oznamovateli; určení peněžité výše ponechává okolnostem konkrétního případu a soudu. Její dílčí závěr o osobě povinné je legislativním vodítkem, nikoli náhradou posouzení přičitatelnosti v jednotlivém sporu.
 
-Kromě satisfakce může oznamovatel uplatnit:
-- **náhradu skutečné majetkové škody** (ušlá mzda, ušlý zisk OSVČ);
-- **neplatnost právního jednání** (zejména odvetné výpovědi — žaloba podle § 72 ZP);
-- **veřejnoprávní sankci** podání podnětu k MSp / orgánu inspekce práce.
+#### Literatura
 
-#### F. Kazuistika
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
-**1. Modelová situace.** Oznamovatel (OSVČ — dodavatel IT služeb pro povinný subjekt) oznámil korupci při zadání veřejné zakázky. Objednatel s ním následně odstoupil od rámcové smlouvy a veřejně jej označil za „nespolehlivého partnera", čímž mu způsobil ztrátu dalších zakázek a poškodil pověst v oboru. Oznamovatel se domáhá nemajetkové satisfakce. K obstarání: smlouva a odstoupení, vyjádření objednatele vůči třetím osobám, doklady o ztrátě zakázek, reference.
+#### Výklad
 
-**2. Právní otázka.** Má oznamovatel — OSVČ právo na přiměřené zadostiučinění za nemajetkovou újmu (poškození profesní pověsti) způsobenou odvetným opatřením, a podle jakých kritérií se stanoví jeho výše?
+[1] § 5 je výslovným hmotněprávním základem práva na přiměřené zadostiučinění za nemajetkovou újmu způsobenou odvetným opatřením. NSS potvrdil, že jde o nárok soukromoprávní, nikoli o veřejné subjektivní právo chráněné ve správním soudnictví.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 5 (právo na přiměřené zadostiučinění za nemajetkovou újmu z odvetného opatření).
-- *Související ustanovení téhož zákona:* § 4 odst. 1 písm. l) (odstoupení od smlouvy), písm. m) (zásah do osobnostních práv), odst. 2 (okruh chráněných osob), § 6 (kogentnost).
-- *Související předpisy:* § 2956 OZ (nemajetková újma), § 81 a násl. OZ (ochrana osobnosti a dobré pověsti), § 2951 odst. 2 OZ (způsob odčinění); § 31a zák. č. 82/1998 Sb. (souběh u veřejné moci).
-- *Judikatura:* k výši satisfakce za zásah do pověsti srov. ustálenou judikaturu Nejvyššího soudu k § 81 a násl. OZ (kritéria: intenzita, dosah, trvání, satisfakční a preventivní funkce) — nosný závěr: výše se určuje individuálně podle závažnosti a dopadu zásahu.
+[2] Zákonné předpoklady jsou kumulativní: žalobce musí patřit mezi osoby, které nesmějí být vystaveny odvetnému opatření, musí jít o odvetné opatření ve smyslu § 4 a tímto opatřením mu musí být způsobena nemajetková újma. Samotné porušení zákazu odvety proto ještě bez způsobené nemajetkové újmy právo podle § 5 nezakládá.
 
-**4. Subsumpce.** Oznamovatel je osobou, která „nesmí být vystavena odvetnému opatření". Odstoupení od smlouvy [§ 4 odst. 1 písm. l)] a veřejné označení za nespolehlivého [písm. m)] jsou odvetná opatření. Vznikla mu nemajetková újma (poškození profesní cti a pověsti). Tím jsou naplněny podmínky § 5 — vzniká právo na přiměřené zadostiučinění.
+[3] Nárok na zadostiučinění je třeba odlišit od ochrany proti samotnému opatření a od náhrady majetkové újmy. Rozsudek NSS 22 As 19/2025-38 řešil pravomoc soudů; nerozhodoval, zda byly ve věci splněny hmotněprávní předpoklady § 5, ani neurčil výši plnění.
 
-**5. Řešení.** Oznamovatel se může domáhat přiměřeného zadostiučinění podle § 5; ZOO nestanoví výši ani vzorec — soud rozhodne podle kritérií přiměřenosti (intenzita zásahu, profesní dosah, trvání, prevenční účinek). Vedle satisfakce může uplatnit náhradu majetkové škody (ušlý zisk z ztracených zakázek) podle obecné úpravy. Satisfakce může mít peněžitou i nepeněžitou formu (omluva). Druhá věta § 5 zachovává souběh se zvláštními nároky.
+[4] Aktivně legitimován může být oznamovatel i osoba uvedená v § 4 odst. 2, pokud právě ona nesmí být vystavena odvetnému opatření a právě jí jím vznikla nemajetková újma. Samotné postavení příslušné osoby nebo jiná vazba na oznamovací systém nárok nezakládá. Textové spojení § 4 odst. 2 a § 5 zahrnuje také tam uvedené právnické osoby; přímé rozhodnutí o jejich nároku podle § 5 však v použitých pramenech není.
 
-**6. Varianty.** (a) Pokud by odstoupení mělo objektivní smluvní důvod (prokázané vady plnění před oznámením), nešlo by o odvetné opatření a nárok podle § 5 by nevznikl. (b) Pokud by újma byla pouze majetková (jen ušlý zisk, bez zásahu do pověsti), § 5 by se neuplatnil (týká se nemajetkové újmy) a oznamovatel by postupoval podle obecné úpravy náhrady škody.
+[5] Konkrétní žalovaný se neurčuje jen označením „původce odvety“. Je nutné posoudit, kdo opatření učinil nebo umožnil, v jakém právním vztahu a komu se jednání podle použitelných pravidel přičítá. NSS 22 As 19/2025-38 úplný okruh pasivně legitimovaných osob neřešil; tato otázka zůstává závislá na skutkovém a právním rámci jednotlivé věci.
 
-#### G. Protiargumenty a rizika
+[6] Druhá věta § 5 zachovává zvláštní podmínky jiných právních předpisů pro uplatnění zadostiučinění. Neznamená automatickou použitelnost každého zvláštního odpovědnostního režimu; jeho vlastní předpoklady musí být splněny samostatně.
 
-- *Protiargument:* „Bez § 5 by nárok na nemajetkovou újmu stejně plynul z § 2956 OZ, ustanovení je nadbytečné." — Neutralizace: § 2956 OZ váže odčinění nemajetkové újmy na zákonný příkaz; § 5 právě tuto výslovnou zákonnou oporu poskytuje a odstraňuje pochybnosti o přípustnosti satisfakce.
-- *Protiargument:* „Výše zadostiučinění je nepředvídatelná, ZOO neurčuje žádné rozpětí." — Neutralizace: nepředvídatelnost je vlastní všem satisfakčním nárokům; soudy postupují podle ustálených kritérií u ochrany osobnosti (řádově desetitisíce až statisíce Kč podle závažnosti).
-- *Slabé místo:* prokázání rozsahu nemajetkové újmy a její přiměřené vyčíslení; nutnost doložit dosah zásahu (kolik zakázek a referencí oznamovatel ztratil).
+[7] § 5 neurčuje sazbu ani výpočet zadostiučinění. Důvodová zpráva výslovně uvádí, že peněžitá výše závisí na okolnostech individuálního případu a s konečnou platností o ní rozhodne příslušný soud. Bez ověřené přímé civilní judikatury k § 5 nelze stanovit typické částkové rozpětí.
 
-#### H. Praktický závěr
+[8] Ustanovení je účinné od 1. 8. 2023 a od vyhlášení nebylo změněno; novela č. 32/2025 Sb. zasáhla jiné ustanovení zákona. Zákon nestanoví zvláštní přechodné pravidlo pro hmotněprávní nárok podle § 5, a komentář proto nepřiznává tomuto ustanovení zpětný účinek na odvetu a újmu dokončené před jeho účinností. Posouzení pokračujícího nebo opakovaného jednání vyžaduje oddělit jednotlivá opatření a jejich následky.
 
-§ 5 dává oznamovateli a všem chráněným osobám podle § 4 odst. 2 výslovný občanskoprávní nárok na přiměřené zadostiučinění za nemajetkovou újmu z odvetného opatření. Nárok se souběžně doplňuje s náhradou majetkové škody, neplatností odvetných úkonů a veřejnoprávní sankcí. Výši určuje soud podle kritérií přiměřenosti (analogie k ochraně osobnosti).
+[9] Praktický checklist: přesně označit chráněnou osobu a podkladové oznámení; popsat konkrétní odvetné opatření; doložit vznik a podobu nemajetkové újmy i příčinnou souvislost; samostatně určit právní základ přičitatelnosti žalovanému; oddělit požadované zadostiučinění od jiných petitů; prověřit zvláštní podmínky a lhůty každého souběžně uplatněného režimu.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Jde o osobu, která „nesmí být vystavena odvetnému opatření" (§ 4 odst. 2)?
-- [ ] Vznikla nemajetková újma (zásah do cti, pověsti, důstojnosti)?
-- [ ] Je dán souběh s majetkovou škodou nebo se zvláštními nároky (§ 31a zák. č. 82/1998 Sb., § 269 ZP)?
-- [ ] Je zvolena vhodná forma satisfakce (peněžitá / omluva) a doložen dosah zásahu?
+#### Judikatura
 
-**Typicky rozhodné důkazy / podklady:** doklady o odvetném opatření; důkazy o dosahu zásahu do pověsti (ztracené zakázky, reference); znalecké/listinné podklady k rozsahu majetkové škody; časová osa.
-
----
+**NSS, rozsudek ze dne 21. 8. 2025, č. j. [22 As 19/2025-38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744427), body 1–7 a 15–22.** Žalobce spojil napadení propuštění ze služebního poměru s ochranou osobnosti a náhradou nemajetkové újmy. NSS potvrdil odmítnutí soukromoprávní části správním soudem: § 5 je hmotněprávním základem soukromoprávního zadostiučinění. Rozhodnutí neřešilo věc samu, konkrétního civilního žalovaného ani výši zadostiučinění; proti rozsudku nejsou opravné prostředky přípustné.
 
 ### § 6 — Vzdání se ochrany před odvetným opatřením
 
