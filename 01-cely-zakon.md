@@ -1286,71 +1286,59 @@ V tomto kole není k výkladu § 13 použito žádné soudní rozhodnutí. Komen
 
 ### § 14 — Působnost ministerstva
 
-> **§ 14**
->
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > *Ministerstvo*
 >
-> *- a) přijímá a posuzuje oznámení podle tohoto zákona,*
+> *a) přijímá a posuzuje oznámení podle tohoto zákona,*
 >
-> *- b) poskytuje metodickou, poradenskou a jinou odbornou pomoc ve věcech ochrany oznamovatelů,*
+> *b) poskytuje metodickou, poradenskou a jinou odbornou pomoc ve věcech ochrany oznamovatelů,*
 >
-> *- c) plní další úkoly stanovené tímto zákonem.*
+> *c) plní další úkoly stanovené tímto zákonem.*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Trojí role MSp
+§ 14 vymezuje tři složky působnosti ministerstva: příjem a posouzení oznámení (marg. 1–3), odbornou pomoc (marg. 4) a další konkrétní úkoly podle ZOO (marg. 5–6). Časový dosah shrnuje marg. 7 a praktické rozlišení agend marg. 8.
 
-MSp působí v systému ZOO ve **třech rolích**:
+#### Souvisící ustanovení
 
-**Písm. a) Externí oznamovací kanál** — přijímá a posuzuje oznámení od kohokoli (oznamovatel není povinen prokazovat, že prošel VOS). Postup je upraven v § 16 (přijetí) a § 17 (posouzení) — paralelně k povinnostem příslušné osoby ve VOS.
+§§ 13 a 15–18, § 20, § 21 odst. 1–2, § 22 a § 28 až 30 ZOO.
 
-**Písm. b) Metodicko-poradenský orgán** — poskytuje pomoc:
-- povinným subjektům (jak zavést VOS, jak postupovat při posuzování oznámení);
-- oznamovatelům (jak postupovat, jaká mají práva, jak se chránit před odvetnými opatřeními);
-- příslušným osobám (výklad jejich povinností).
+#### Souvisící předpisy
 
-MSp publikuje metodiky, vzory dokumentů (interních směrnic VOS, záznamů, vyrozumění), často kladené otázky a stanoviska. Tato role je předpokladem efektivního fungování systému — bez metodické podpory by zejména menší povinné subjekty obtížně dostávaly své povinnosti.
+- směrnice Evropského parlamentu a Rady (EU) 2019/1937, zejména čl. 11–13.
 
-**Písm. c) Další úkoly podle ZOO** — zejména:
-- kontrola dodržování povinností povinnými subjekty (§ 22 odst. 1);
-- projednávání přestupků (§ 28);
-- výroční zpráva (§ 15 písm. i).
+#### Z důvodové zprávy
 
-#### F. Kazuistika
+Důvodová zpráva označuje přijímání a posuzování oznámení a metodickou, poradenskou a školící odbornou podporu za hlavní agendy ministerstva. Pomoc spojuje zejména se zaváděním vnitřních systémů a s poradenstvím oznamovatelům před podáním i po něm. Popisuje také zamýšlenou osvětovou a školící činnost; v rozsahu, v němž jde nad výslovné znění zákona, je to legislativní záměr, nikoli samostatná pravomoc.
 
-**1. Modelová situace.** Oznamovatel se obrátí na MSp s dotazem, jak má postupovat, podá-li mu zaměstnavatel po oznámení výpověď, a žádá metodickou pomoc. Současně podá MSp oznámení o porušení pravidel veřejných zakázek. MSp poskytne poradenství, ale oznamovatel namítá, že MSp mělo věc samo prošetřit a uložit sankci. K obstarání: obsah dotazu a oznámení, odpověď MSp, evidence podání.
+#### Literatura
 
-**2. Právní otázka.** Je MSp oprávněno samo prošetřovat a sankcionovat oznámené protiprávní jednání, nebo je jeho rolí podle § 14 přijetí, posouzení a postoupení oznámení a poskytování metodické pomoci?
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 14 písm. a) (přijímá a posuzuje oznámení), písm. b) (metodická a poradenská pomoc), písm. c) (další úkoly podle ZOO).
-- *Související ustanovení téhož zákona:* § 16, § 17 (přijetí a posouzení oznámení MSp), § 17 odst. 3 písm. a) (postoupení příslušnému orgánu), § 18 (zpětná vazba), § 22 (kontrola), § 28 (projednávání přestupků).
-- *Související předpisy:* zák. č. 134/2016 Sb. (ZZVZ — věcná příslušnost ÚOHS); čl. 11–13 směrnice 2019/1937 (úkoly příslušného orgánu externího kanálu).
-- *Judikatura:* k rozsahu působnosti správního orgánu srov. zásadu enumerativnosti veřejnoprávních pretenzí (čl. 2 odst. 3 Ústavy, čl. 2 odst. 2 Listiny) — nosný závěr: orgán koná jen v mezích zákonem svěřené působnosti.
+#### Výklad
 
-**4. Subsumpce.** § 14 svěřuje MSp tři role: externí kanál [písm. a)], metodicko-poradenský orgán [písm. b)] a další úkoly podle ZOO [písm. c)]. Vlastní vyšetřovací a sankční pravomoc k oznámenému protiprávnímu jednání (např. porušení ZZVZ) MSp nemá — to je věcí specializovaného orgánu (ÚOHS), jemuž MSp věc postoupí podle § 17 odst. 3 písm. a). MSp však projednává přestupky podle ZOO (§ 28) a kontroluje plnění povinností subjektů (§ 22).
+[1] Písmeno a) je základním vymezením ministerského externího kanálu. Konkrétní postup provádějí pověření zaměstnanci podle § 13; formy přijetí, potvrzení, posouzení a vyrozumění upravují §§ 16–18. § 14 sám nestanoví procesní lhůty ani způsob podání.
 
-**5. Řešení.** MSp poskytlo metodickou pomoc v souladu s § 14 písm. b). Oznámení o porušení veřejných zakázek MSp posoudí [§ 14 písm. a)] a při podezření postoupí ÚOHS [§ 17 odst. 3 písm. a)]; samo věcně neprošetřuje ani nesankcionuje porušení ZZVZ. Výpověď daná oznamovateli je řešena přes ochranu před odvetou (§ 4 a násl.), případně přestupkové/kontrolní řízení (§ 22, § 26–28).
+[2] „Posouzení“ má obsah daný § 17. Pověřený zaměstnanec vyhodnotí oznámení a podle výsledku informuje příslušný orgán veřejné moci, vyrozumí oznamovatele, že nejde o oznámení podle ZOO, nebo jej vyrozumí, že neshledal podezření či že oznámení stojí na nepravdivých informacích. U opakovaného oznámení bez nových skutečností se jím dále nezabývá.
 
-**6. Varianty.** (a) Pokud by oznámení směřovalo na porušení samotného ZOO (např. nezavedení VOS), MSp by jednalo jako kontrolní a přestupkový orgán (§ 22, § 26, § 28). (b) Pokud by pro oznámené jednání neexistoval žádný příslušný orgán, MSp by se jím podle § 17 odst. 3 písm. a) dále nezabývalo (ochrana oznamovatele by však zůstala).
+[3] Při podezření ze spáchání protiprávního jednání ministerstvo podle § 17 odst. 3 písm. a) neprodleně informuje orgán příslušný podle jiného právního předpisu nebo přímo použitelného předpisu Unie; není-li takového orgánu, oznámením se dále nezabývá. Tím ministerstvo nerozhoduje o vině za oznámené jednání. Současně podle § 18 žádá příslušný orgán o informaci o dalším postupu a obdrženou informaci předává oznamovateli.
 
-#### G. Protiargumenty a rizika
+[4] Pomoc podle písmene b) je samostatnou zákonnou agendou „ve věcech ochrany oznamovatelů“. § 15 písm. h) počítá se zveřejněním způsobu a podmínek jejího poskytování. Zákon z této pomoci nečiní rozhodnutí o právech v konkrétním řízení; důvodová zpráva ji zaměřuje zejména na zavádění vnitřních systémů a poradenství oznamovatelům.
 
-- *Protiargument:* „MSp je ústřední orgán ochrany oznamovatelů, musí umět věc i vyšetřit." — Neutralizace: ZOO svěřuje MSp roli kanálu a metodika, nikoli univerzálního vyšetřovatele; věcné prošetření přísluší specializovaným orgánům (zásada enumerativnosti).
-- *Protiargument:* „Postoupení znamená, že MSp se zbavuje odpovědnosti." — Neutralizace: postoupení je zákonný mechanismus (§ 17 odst. 3 písm. a); MSp navíc sleduje další postup (§ 18) a informuje oznamovatele.
-- *Slabé místo:* hranice mezi „posouzením" MSp a „vyšetřením" specializovaného orgánu může být v praxi nejasná; MSp posuzuje jen, zda jde o oznámení a zda je dáno podezření.
+[5] Písmeno c) odkazuje na úkoly stanovené přímo ZOO. Patří mezi ně zejména zveřejňování informací a výroční zprávy podle § 15, vedení evidence a uchovávání ministerských oznámení podle § 21, kontrola v zákonem vymezeném rozsahu podle § 22 a projednávání přestupků v rozsahu příslušnosti podle § 28.
 
-#### H. Praktický závěr
+[6] Písmeno c) není samo o sobě generálním zmocněním. Rozsah každého „dalšího úkolu“ je nutné odvodit z konkrétního ustanovení ZOO. Zejména kontrolní působnost podle § 22 a přestupková příslušnost podle § 28 mají vlastní věcné a osobní meze.
 
-§ 14 vymezuje tři role MSp: externí oznamovací kanál (přijetí a posouzení oznámení), metodicko-poradenský orgán (pomoc subjektům, oznamovatelům i příslušným osobám) a plnění dalších úkolů podle ZOO (kontrola podle § 22, přestupky podle § 28, výroční zpráva podle § 15). Vlastní věcné vyšetření a sankci za oznámené jednání MSp neprovádí — postupuje je příslušnému orgánu.
+[7] § 14 nabyl účinnosti 1. srpna 2023. Znění účinné k 18. červenci 2026 je shodné s vyhlášeným zněním; zákon č. 32/2025 Sb., po němž je ZOO v aktuálním znění od 15. února 2025, § 14 nezměnil. Přechodný § 29 upravil pouze lhůtu k zavedení vnitřního oznamovacího systému pro vymezené povinné subjekty, nikoli působnost ministerstva.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Spadá podání pod roli MSp jako kanálu [písm. a)], nebo jde o žádost o metodickou pomoc [písm. b)]?
-- [ ] Je oznámené jednání v působnosti specializovaného orgánu, jemuž MSp věc postoupí (§ 17 odst. 3)?
-- [ ] Jde naopak o porušení ZOO, které MSp kontroluje a sankcionuje (§ 22, § 26, § 28)?
-- [ ] Byla oznamovateli poskytnuta odpovídající metodická/poradenská podpora?
+[8] Pro praxi je třeba nejprve určit, zda jde o oznámení k přijetí a posouzení, žádost o odbornou pomoc, nebo výkon některé konkrétní navazující působnosti. U oznámení je dále rozhodné, zda existuje příslušný orgán podle § 17 odst. 3 písm. a); u kontroly a přestupku se příslušnost neposuzuje podle obecného písmene c), ale přímo podle §§ 22 a 28.
 
-**Typicky rozhodné důkazy / podklady:** obsah oznámení a jeho posouzení MSp; doklad o postoupení příslušnému orgánu; korespondence o metodické pomoci; evidence podle § 21.
+#### Judikatura
+
+Žádné soudní rozhodnutí není pro výklad § 14 v této revizi použito. Povinné oponentury neidentifikovaly rozhodnutí s přímým nosným výkladem tohoto ustanovení; nejde o tvrzení o úplné negativní judikatorní rešerši všech soudních databází.
 
 ---
 
