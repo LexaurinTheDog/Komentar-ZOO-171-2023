@@ -1342,79 +1342,85 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento ú
 
 ---
 
-### § 15 — Informace poskytované na internetových stránkách
+##### § 15 — Informace poskytované na internetových stránkách
 
-> **§ 15**
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 >
+###### Znění ustanovení
+
 > *Ministerstvo uveřejní na svých internetových stránkách*
 >
-> *- a) způsoby, jakými je možné učinit oznámení podle tohoto zákona včetně uvedení kontaktních údajů pověřeného zaměstnance, zejména adresy elektronické pošty nebo jiné adresy pro doručování a telefonního čísla,*
+> *a) způsoby, jakými je možné učinit oznámení podle tohoto zákona včetně uvedení kontaktních údajů pověřeného zaměstnance, zejména adresy elektronické pošty nebo jiné adresy pro doručování a telefonního čísla,*
 >
-> *- b) informace o podmínkách, za kterých je možné pořídit zvukovou nahrávku ústního oznámení,*
+> *b) informace o podmínkách, za kterých je možné pořídit zvukovou nahrávku ústního oznámení,*
 >
-> *- c) informace o postupu ministerstva v případě, že oznámení je podáno ministerstvu, včetně informace o tom, v jakých lhůtách je ministerstvo povinno postupovat,*
+> *c) informace o postupu ministerstva v případě, že oznámení je podáno ministerstvu, včetně informace o tom, v jakých lhůtách je ministerstvo povinno postupovat,*
 >
-> *- d) informace o zákazu poskytnout údaje třetí osobě podle § 20,*
+> *d) informace o zákazu poskytnout údaje třetí osobě podle § 20,*
 >
-> *- e) informace o způsobu posuzování oznámení,*
+> *e) informace o způsobu posuzování oznámení,*
 >
-> *- f) informace o právech a povinnostech oznamovatele,*
+> *f) informace o právech a povinnostech oznamovatele,*
 >
-> *- g) informace, jak mohou oznamovatel nebo osoba podle § 4 odst. 2 písm. a) až h) postupovat v případě odvetných opatření,*
+> *g) informace, jak mohou oznamovatel nebo osoba podle § 4 odst. 2 písm. a) až h) postupovat v případě odvetných opatření,*
 >
-> *- h) informace o způsobu a podmínkách poskytování metodické, poradenské a odborné pomoci,*
+> *h) informace o způsobu a podmínkách poskytování metodické, poradenské a odborné pomoci,*
 >
-> *- i) výroční zprávu o své činnosti podle tohoto zákona, a to nejpozději do 31. března kalendářního roku následujícího po roce, za který je zpracována, a*
+> *i) výroční zprávu o své činnosti podle tohoto zákona, a to nejpozději do 31. března kalendářního roku následujícího po roce, za který je zpracována, a*
 >
-> *- j) výčet právních předpisů a předpisů Evropské unie upravujících oblasti podle § 2 odst. 1 písm. d).*
+> *j) výčet právních předpisů a předpisů Evropské unie upravujících oblasti podle § 2 odst. 1 písm. d).*
 
-**Výklad:**
+###### Přehled výkladu
 
-#### Informační povinnost MSp jako základ veřejnosti systému
+- závazné minimum zveřejňovaných informací — marg. č. 1–2;
+- návaznost na ministerský postup, nahrávání a ochranu údajů — marg. č. 3–4;
+- výroční zpráva, sankční a časové souvislosti — marg. č. 5–7;
+- praktická kontrola úplnosti — marg. č. 8.
 
-§ 15 vyjmenovává **deset okruhů informací**, které musí MSp povinně zveřejňovat na svých internetových stránkách. Jde o **klíčovou transparentnostní povinnost** — bez veřejně dostupných informací by oznamovatelé nevěděli, jak postupovat a jaká mají práva. Strukturně lze rozdělit:
+###### Souvisící ustanovení
 
-- **Procesní informace** [písm. a)–c), e)] — způsoby podání, podmínky audio nahrávky, postup MSp, lhůty, posuzování. Oznamovatel musí mít před učiněním oznámení jasnou představu o tom, co se s jeho oznámením stane.
-- **Ochranné informace** [písm. d), f), g)] — zákaz poskytnutí údajů (§ 20), práva a povinnosti oznamovatele, postup při retaliaci. Klíčové pro **rozhodnutí oznamovatele** o tom, zda oznámit.
-- **Podporné informace** [písm. h)] — poradenství a pomoc.
-- **Transparentnost a evaluace** [písm. i)] — **výroční zpráva** o činnosti MSp podle ZOO, **do 31. března** následujícího kalendářního roku. Výroční zpráva je veřejným nástrojem kontroly — kolik oznámení MSp obdrželo, kolik vyřídilo, jaký byl výsledek, jaká byla doba vyřízení.
-- **Katalog právních předpisů** [písm. j)] — výčet zákonů a unijních předpisů, jejichž porušení může být obsahem oznámení podle § 2 odst. 1 písm. d) (čtrnáct oblastí). Pro oznamovatele i povinné subjekty jde o praktický rejstřík věcného záběru.
+- § 2 odst. 1 písm. d), § 4 odst. 2 písm. a) až h), §§ 14, 16–20 a §§ 25–30 ZOO.
 
-#### F. Kazuistika
+###### Souvisící předpisy
 
-**1. Modelová situace.** Oznamovatel chce podat oznámení MSp ústně po telefonu a žádá informaci, za jakých podmínek bude hovor nahráván a jaké má lhůty MSp pro vyřízení. Na webových stránkách MSp však chybí informace o podmínkách audio nahrávky [písm. b)] i o lhůtách postupu MSp [písm. c)]. Oznamovatel se cítí znevýhodněn, neboť neví, co se s jeho oznámením stane. K obstarání: archiv webových stránek MSp k rozhodnému dni, obsah dotazu oznamovatele.
+- čl. 13 a 27 směrnice Evropského parlamentu a Rady (EU) 2019/1937.
 
-**2. Právní otázka.** Je MSp povinno na svých internetových stránkách zveřejnit informace o podmínkách audio nahrávky a o lhůtách postupu, a jaké jsou důsledky jejich absence?
+###### Z důvodové zprávy
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 15 písm. b) (podmínky audio nahrávky), písm. c) (postup a lhůty MSp), a další body (zejména a) způsoby oznámení, i) výroční zpráva do 31. března).
-- *Související ustanovení téhož zákona:* § 16, § 17 (postup a lhůty MSp), § 19 (audio nahrávka jen se souhlasem), § 20 (zákaz poskytnutí údajů), § 14 písm. b) (metodická pomoc).
-- *Související předpisy:* nař. 2016/679 (GDPR — nahrávka jako zpracování); zák. č. 106/1999 Sb. (svobodný přístup k informacím — obecně); čl. 13 směrnice 2019/1937 (informace o externím kanálu zveřejňované příslušným orgánem).
-- *Judikatura:* k transparentnostním povinnostem veřejné správy srov. obecné principy dobré správy (§ 4 a násl. SŘ) — nosný závěr: orgán má poskytovat srozumitelné a úplné informace nezbytné k uplatnění práv.
+Důvodová zpráva odvozuje úpravu z čl. 13 směrnice a označuje zákonný seznam za demonstrativní. Toto označení je třeba chápat pouze tak, že ministerstvo může nad rámec zákonného minima zveřejnit další užitečné informace; nemůže vypustit žádný z okruhů v písmenech a) až j). Ke zvukové nahrávce zpráva odkazuje na souhlas oznamovatele a popisuje výroční zprávu jako souhrn informací o fungování systému.
 
-**4. Subsumpce.** § 15 ukládá MSp zveřejnit deset okruhů informací; mj. písm. b) (podmínky audio nahrávky) a písm. c) (postup a lhůty). Jejich absence je porušením informační (transparentnostní) povinnosti MSp. Pro oznamovatele to znamená informační deficit; pro MSp jde o nesplnění zákonné povinnosti, byť ZOO pro ni nestanoví zvláštní sankci (na rozdíl od povinných subjektů podle § 26).
+###### Literatura
 
-**5. Řešení.** MSp musí informace podle § 15 zveřejnit; jejich absence je porušením § 15, jehož nápravy se lze domáhat cestou dozoru/dobré správy (podnět, stížnost), případně v rámci kontroly činnosti MSp. Oznamovateli, který je informačně znevýhodněn, MSp poskytne pomoc podle § 14 písm. b). Audio nahrávka je možná jen se souhlasem oznamovatele (§ 19), o čemž má MSp informovat právě podle § 15 písm. b).
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o negativní rešerši.
 
-**6. Varianty.** (a) Pokud by MSp informace řádně zveřejnilo, oznamovatel by předem znal lhůty a podmínky nahrávky a informační deficit by nevznikl. (b) Pokud by MSp nezveřejnilo výroční zprávu do 31. března [písm. i)], šlo by o porušení evaluační a transparentnostní povinnosti s dopadem na veřejnou kontrolu systému.
+###### Výklad
 
-#### G. Protiargumenty a rizika
+[1] Písmena a) až j) tvoří závazné minimum webu ministerstva. Jde o deset okruhů: způsob podání a kontakty, nahrávání, postup a lhůty, důvěrnost, posuzování, práva a povinnosti, postup při odvetě, pomoc, výroční zprávu a předpisový výčet. Nad tento rámec lze zveřejnit další informace, zachová-li ministerstvo zákonné meze ochrany údajů a důvěrnosti.
 
-- *Protiargument:* „§ 15 je jen pořádková povinnost bez sankce, na její porušení nelze nic vyvodit." — Neutralizace: jde o zákonnou povinnost MSp; její porušení lze řešit nástroji dozoru nad veřejnou správou a v rámci dobré správy; navíc oslabuje účinnost celého systému.
-- *Protiargument:* „Oznamovatel si informace může vyžádat individuálně." — Neutralizace: § 15 vyžaduje proaktivní zveřejnění předem; spoléhání na individuální dotazy neodpovídá smyslu transparentnosti (oznamovatel se má rozhodnout informovaně před podáním).
-- *Slabé místo:* ZOO nestanoví pro MSp přestupkovou sankci za nezveřejnění (na rozdíl od § 26 pro subjekty) — vynucení je proto „měkčí".
+[2] Článek 13 směrnice požaduje, aby údaje o externím oznamování byly na webu příslušného orgánu v samostatné, snadno identifikovatelné a přístupné části. Český § 15 určuje obsahové minimum; pouhé rozptýlení údajů bez zřetelného vztahu k externímu oznamovacímu kanálu by účelu této úpravy neodpovídalo.
 
-#### H. Praktický závěr
+[3] Písmena a), c) a e) se vykládají spolu s §§ 16–18. Web má proto popsat skutečné formy přijetí, zákonné lhůty a možné výsledky posouzení ministerstvem. Kontaktní údaj podle písmene a) není náhradou za popis ostatních zákonných způsobů podání.
 
-§ 15 ukládá MSp proaktivně zveřejnit na webu deset okruhů informací — procesní (způsoby podání, podmínky nahrávky, postup a lhůty, posuzování), ochranné (zákaz podle § 20, práva oznamovatele, postup při retaliaci), podpůrné (metodická pomoc), evaluační (výroční zpráva do 31. března) a katalog předpisů podle § 2 odst. 1 písm. d). Jde o základ veřejnosti a srozumitelnosti systému.
+[4] Informace podle písmene b) musí odpovídat § 19: zvukovou nahrávku lze pořídit pouze se souhlasem oznamovatele; jinak se pořídí záznam věrně zachycující podstatu ústního oznámení. Informace podle písmene d) musí vystihnout zákaz a výjimky § 20. § 15 sám neupravuje všechny povinnosti při zpracování osobních údajů a jeho splněním se proto jejich samostatné posouzení nenahrazuje.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Jsou na webu MSp zveřejněny způsoby podání a kontaktní údaje pověřeného zaměstnance [písm. a)]?
-- [ ] Jsou uvedeny podmínky audio nahrávky [písm. b)] a lhůty postupu MSp [písm. c)]?
-- [ ] Jsou zveřejněny informace o zákazu podle § 20, o právech oznamovatele a o postupu při retaliaci [písm. d), f), g)]?
-- [ ] Je zveřejněna výroční zpráva do 31. března [písm. i)] a katalog předpisů podle § 2 odst. 1 písm. d) [písm. j)]?
+[5] Výroční zpráva se zveřejňuje nejpozději 31. března roku následujícího po roce, za který je zpracována. ZOO její položkovou strukturu nestanoví. Článek 27 směrnice upravuje každoroční statistiky členských států pro Komisi; spolu s důvodovou zprávou je vodítkem pro užitečný obsah zprávy, nikoli samostatným rozšířením textu písmene i).
 
-**Typicky rozhodné důkazy / podklady:** stav internetových stránek MSp k rozhodnému datu (archiv/screenshot); obsah dotazu oznamovatele; doklad o poskytnuté metodické pomoci.
+[6] ZOO nestanoví zvláštní přestupek ministerstva za porušení § 15. Skutkové podstaty v §§ 25 a 26 nelze na neúplný ministerský web rozšiřovat analogií. Z toho však neplyne, že jsou jednotlivé informační okruhy volitelné: § 15 je formuluje příkazem „uveřejní“.
+
+[7] § 15 nabyl účinnosti 1. srpna 2023. Znění účinné k 18. červenci 2026 je shodné s vyhlášeným zněním; zákon č. 32/2025 Sb., po němž je ZOO v aktuálním znění od 15. února 2025, § 15 nezměnil. Přechodný § 29 upravil jen termín zavedení některých vnitřních oznamovacích systémů, nikoli informační povinnost ministerstva.
+
+[8] Při praktické kontrole se ověří všech deset písmen samostatně, funkčnost zveřejněných kontaktů, soulad popisu nahrávání s § 19, soulad popisu důvěrnosti s § 20, aktuálnost postupu a lhůt podle §§ 16–18, zveřejnění poslední výroční zprávy včas a aktuálnost předpisového výčtu podle § 2 odst. 1 písm. d).
+
+###### Judikatura
+
+Žádné soudní rozhodnutí není pro výklad § 15 v této revizi použito. Povinné oponentury neidentifikovaly rozhodnutí s přímým nosným výkladem tohoto ustanovení; nejde o tvrzení o úplné negativní judikatorní rešerši všech soudních databází.
+
+###### Praktický checklist
+
+- [ ] Je každé z písmen a) až j) na webu dohledatelné a obsahově aktuální?
+- [ ] Odpovídají nahrávání, postup, lhůty a důvěrnost §§ 16–20?
+- [ ] Byla výroční zpráva zveřejněna nejpozději 31. března?
+- [ ] Je předpisový výčet podle § 2 odst. 1 písm. d) aktuální?
 
 ---
 
