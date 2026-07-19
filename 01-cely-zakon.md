@@ -347,130 +347,245 @@ Osobní působnost čl. 4 směrnice zahrnuje státní zaměstnance a pracovní k
 
 ### § 3 — Výjimky z porušení smluvní nebo zákonné povinnosti a informace, jejichž oznámení se za oznámení nepovažuje
 
-> **§ 3**
+> Revize: 2026-07-18 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 >
 > *(1) Měl-li oznamovatel oprávněné důvody se domnívat, že oznámení bylo nezbytné pro odhalení protiprávního jednání podle § 2 odst. 1, oznámení není porušením bankovního tajemství, smluvní povinnosti zachovávat mlčenlivost, povinnosti zachovávat mlčenlivost podle daňového řádu ani povinnosti zachovávat mlčenlivost podle jiných právních předpisů upravujících práci nebo jinou obdobnou činnost, s výjimkou povinnosti*
 >
-> *- a) zajistit ochranu utajovaných informací a informací, jejichž vyzrazení by zjevně mohlo ohrozit probíhající trestní řízení, nebo ochranu zvláštních skutečností podle zákona upravujícího krizové řízení,*
+> *a) zajistit ochranu utajovaných informací5) a informací, jejichž vyzrazení by zjevně mohlo ohrozit probíhající trestní řízení, nebo ochranu zvláštních skutečností podle zákona upravujícího krizové řízení,*
 >
-> *- b) zachovávat mlčenlivost při výkonu činnosti*
+> *b) zachovávat mlčenlivost při výkonu činnosti*
 >
-> *- 1. notáře, notářského kandidáta a notářského koncipienta,*
+> *1. notáře, notářského kandidáta a notářského koncipienta6),*
 >
-> *- 2. státního zástupce, asistenta státního zástupce a právního čekatele,*
+> *2. státního zástupce, asistenta státního zástupce a právního čekatele7),*
 >
-> *- 3. advokáta a advokátního koncipienta,*
+> *3. advokáta a advokátního koncipienta8),*
 >
-> *- 4. soudního exekutora, exekutorského kandidáta a exekutorského koncipienta,*
+> *4. soudního exekutora, exekutorského kandidáta a exekutorského koncipienta9),*
 >
-> *- 5. soudce, soudce Ústavního soudu, asistenta soudce a justičního kandidáta,*
+> *5. soudce, soudce Ústavního soudu, asistenta soudce a justičního kandidáta10),*
 >
-> *- 6. zaměstnance notáře, soudního exekutora, advokáta a zaměstnance společnosti, prostřednictvím které advokát vykonává advokacii jako společník podle zákona upravujícího výkon advokacie, nebo obdobné zahraniční společnosti, nebo další osoby, která se v rámci takové společnosti podílí na poskytování právních služeb,*
+> *6. zaměstnance notáře, soudního exekutora, advokáta a zaměstnance společnosti, prostřednictvím které advokát vykonává advokacii jako společník podle zákona upravujícího výkon advokacie, nebo obdobné zahraniční společnosti, nebo další osoby, která se v rámci takové společnosti podílí na poskytování právních služeb,*
 >
-> *- c) zachovávat mlčenlivost při poskytování právní pomoci v řízení před soudem nebo jiným orgánem veřejné moci, nebo*
+> *c) zachovávat mlčenlivost při poskytování právní pomoci v řízení před soudem nebo jiným orgánem veřejné moci, nebo*
 >
-> *- d) zachovávat mlčenlivost při poskytování zdravotních služeb.*
+> *d) zachovávat mlčenlivost při poskytování zdravotních služeb11).*
 >
 > *(2) Oznámení a jednání oznamovatele nebo osoby podle § 4 odst. 2 písm. a) až h) v souvislosti se zjišťováním informací, které se později staly obsahem oznámení, není porušením smluvní nebo zákonné povinnosti, s výjimkou případů, kdy je jednáním v souvislosti se zjišťováním takových informací spáchán trestný čin nebo pokud oznamovatel nebo osoba podle § 4 odst. 2 písm. a) až h) neměli oprávněný důvod se domnívat, že oznámení bylo nezbytné pro odhalení možného protiprávního jednání. Ustanovení odstavce 1 tím není dotčeno.*
 >
 > *(3) Oznámením podle tohoto zákona není část oznámení, která obsahuje informace*
 >
-> *- a) jejichž oznámení by mohlo bezprostředně ohrozit podstatný bezpečnostní zájem České republiky; podstatným bezpečnostním zájmem České republiky se pro účely tohoto zákona rozumí*
+> *a) jejichž oznámení by mohlo bezprostředně ohrozit podstatný bezpečnostní zájem České republiky; podstatným bezpečnostním zájmem České republiky se pro účely tohoto zákona rozumí*
 >
-> *- 1. svrchovanost, územní celistvost a demokratické základy České republiky,*
+> *1. svrchovanost, územní celistvost a demokratické základy České republiky,*
 >
-> *- 2. vnitřní pořádek a bezpečnost, včetně kritické infrastruktury a informačních systémů veřejné správy,*
+> *2. vnitřní pořádek a bezpečnost, včetně kritické infrastruktury a informačních systémů veřejné správy,*
 >
-> *- 3. ve větším rozsahu životy a zdraví osob,*
+> *3. ve větším rozsahu životy a zdraví osob,*
 >
-> *- 4. ochrana informací o veřejných zakázkách v oblasti obrany nebo bezpečnosti, ledaže je zadávání těchto zakázek upraveno předpisem Evropské unie,*
+> *4. ochrana informací o veřejných zakázkách v oblasti obrany nebo bezpečnosti, ledaže je zadávání těchto zakázek upraveno předpisem Evropské unie12),*
 >
-> *- 5. plnění mezinárodních závazků v oblasti obrany,*
+> *5. plnění mezinárodních závazků v oblasti obrany,*
 >
-> *- 6. významné bezpečnostní operace, nebo*
+> *6. významné bezpečnostní operace, nebo*
 >
-> *- 7. bojeschopnost ozbrojených sil České republiky,*
+> *7. bojeschopnost ozbrojených sil České republiky,*
 >
-> *- b) o činnosti zpravodajských služeb České republiky, nebo*
+> *b) o činnosti zpravodajských služeb České republiky, nebo*
 >
-> *- c) jejichž oznámení by představovalo porušení povinnosti zachovávat mlčenlivost duchovních v souvislosti s výkonem zpovědního tajemství nebo práva obdobného zpovědnímu tajemství.*
+> *c) jejichž oznámení by představovalo porušení povinnosti zachovávat mlčenlivost duchovních v souvislosti s výkonem zpovědního tajemství nebo práva obdobného zpovědnímu tajemství13).*
 
-**Výklad:**
+> 5) Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, ve znění pozdějších předpisů.
+>
+> 6) Zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů.
+>
+> 7) Zákon č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů.
+>
+> 8) Zákon č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů.
+>
+> 9) Zákon č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů.
+>
+> 10) Zákon č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů.
+>
+> 11) Zákon č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), ve znění pozdějších předpisů.
+>
+> 12) Například směrnice Evropského parlamentu a Rady 2009/81/ES ze dne 13. července 2009 o koordinaci postupů při zadávání některých zakázek na stavební práce, dodávky a služby zadávajícími orgány nebo zadavateli v oblasti obrany a bezpečnosti a o změně směrnic 2004/17/ES a 2004/18/ES.
+>
+> 13) § 7 odst. 1 písm. e) zákona č. 3/2002 Sb., o svobodě náboženského vyznání a postavení církví a náboženských společností a o změně některých zákonů (zákon o církvích a náboženských společnostech), ve znění pozdějších předpisů.
 
-#### Průlom do povinnosti mlčenlivosti (odst. 1)
+#### Přehled výkladu
 
-ZOO řeší kolizi mezi **oznamovací aktivitou oznamovatele** a **standardními povinnostmi mlčenlivosti**, které zatěžují řadu profesí a smluvních vztahů. Pravidlo je následující: pokud měl oznamovatel **„oprávněné důvody se domnívat", že oznámení bylo nezbytné pro odhalení protiprávního jednání**, jeho oznámení **není porušením**:
+- funkce ustanovení, standard rozumného přesvědčení a nezbytnost — marg. č. 1–6;
+- průlom do mlčenlivosti a jeho zachované meze — marg. č. 7–18;
+- získávání podkladů a odpovědnostní štít — marg. č. 19–29;
+- negativní vymezení oznámení a bezpečnostní výluky — marg. č. 30–38;
+- intertemporalita, anonymita, proces a praxe — marg. č. 39–46.
 
-- **bankovního tajemství** (§ 38 zákona č. 21/1992 Sb., o bankách),
-- **smluvní povinnosti mlčenlivosti** (typicky NDA, doložky o důvěrnosti),
-- **mlčenlivosti podle daňového řádu** (§ 52 a násl. DŘ),
-- **mlčenlivosti podle jiných právních předpisů** upravujících práci nebo jinou obdobnou činnost (např. § 303 ZP — povinnost zaměstnance zachovávat mlčenlivost o věcech, o nichž se dozvěděl v souvislosti s prací).
+#### Souvisící ustanovení
 
-Standard **„oprávněné důvody se domnívat"** (čl. 6 odst. 1 písm. a) směrnice 2019/1937) odpovídá objektivně-subjektivnímu kritériu reasonable belief: nestačí pouhá subjektivní víra, musí být objektivně rozumně podložená. Oznamovatel však nemusí poskytovat důkazy v procesním slova smyslu — postačí, že popisované jednání by průměrně rozumný člověk v jeho postavení mohl považovat za protiprávní.
+- § 2 — obsahové, vztahové a věcné znaky oznámení;
+- § 4 odst. 1 až 3 — odvetná opatření, chráněné osoby a okamžik ochrany anonymního oznamovatele;
+- § 5 — právo na přiměřené zadostiučinění za nemajetkovou újmu způsobenou odvetou;
+- § 6 — nepřihlížení ke vzdání se práva na ochranu před odvetným opatřením;
+- § 7 — chráněné způsoby oznámení, podmínky uveřejnění a rozumné důvody věřit v pravdivost informací;
+- § 12 odst. 4 až 6 a § 17 odst. 3 — posouzení, zda podání je oznámením, a jeho důvodnosti;
+- § 20 a 21 — ochrana totožnosti, zabezpečení oznámení, evidence a uchovávání;
+- § 23 — přestupek vědomě nepravdivého oznámení.
 
-#### Absolutní výjimky — informace, na něž průlom nedopadá [písm. a)–d)]
+#### Souvisící předpisy
 
-ZOO ponechává **nedotčenými** některé absolutní povinnosti mlčenlivosti:
+- [směrnice (EU) 2019/1937](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:32019L1937), zejména čl. 3, 6 a 21 a body 24–28, 32, 91–92 a 97–98 odůvodnění;
+- směrnice 2016/943/EU, zejména čl. 3 odst. 2 a čl. 5, a směrnice 2009/81/ES, zejména čl. 2;
+- čl. 346 SFEU a § 29 odst. 1 písm. s) a § 187 zákona č. 134/2016 Sb., o zadávání veřejných zakázek;
+- zákony č. 21/1992 Sb., o bankách, č. 87/1995 Sb., o spořitelních a úvěrních družstvech, a č. 280/2009 Sb., daňový řád;
+- zákony č. 262/2006 Sb., zákoník práce, a č. 500/2004 Sb., správní řád, pro pracovní a služební povinnosti;
+- zákony č. 412/2005 Sb. a č. 240/2000 Sb. pro utajované informace a zvláštní skutečnosti;
+- ústavní zákon č. 110/1998 Sb., o bezpečnosti České republiky, pro ústavní rámec podstatných bezpečnostních zájmů;
+- zákony č. 358/1992 Sb., č. 283/1993 Sb., č. 85/1996 Sb., č. 120/2001 Sb., č. 6/2002 Sb. a č. 182/1993 Sb. pro profesní mlčenlivosti;
+- zákony č. 523/1992 Sb., č. 417/2004 Sb. a č. 372/2011 Sb. pro právní pomoc v řízení a zdravotní služby;
+- zákon č. 89/2012 Sb., zejména § 504, zákon č. 121/2000 Sb. a směrnice 2016/943/EU pro obchodní tajemství a autorská díla;
+- zákon č. 40/2009 Sb., trestní zákoník, zejména §§ 178, 180, 182–183, 230, 316–318 a 367–368;
+- zákon č. 141/1961 Sb., trestní řád, pro probíhající trestní řízení a dokazování trestní odpovědnosti;
+- zákony č. 266/2025 Sb. a č. 365/2000 Sb. pro kritickou infrastrukturu a informační systémy veřejné správy;
+- §§ 48–49 zákona č. 273/2008 Sb., o Policii České republiky, pro ochranu objektů, prostorů a osob;
+- zákony č. 153/1994 Sb., č. 154/1994 Sb. a č. 289/2005 Sb. pro zpravodajské služby a jejich kontrolu;
+- § 7 odst. 1 písm. e) zákona č. 3/2002 Sb. a čl. 16 Listiny pro zpovědní tajemství;
+- GDPR a zákon č. 110/2019 Sb., o zpracování osobních údajů, pro ochranu údajů a navazující vnitrostátní pravidla;
+- Listina základních práv a svobod, zejména čl. 10, 13, 16, 17 a čl. 37 odst. 2;
+- § 75b odst. 3 písm. b) a § 133a odst. 2 občanského soudního řádu pro předběžnou a důkazní ochranu.
 
-- **Písm. a) — utajované informace** (zák. č. 412/2005 Sb.), **informace ohrožující trestní řízení** (např. operativní informace OČTŘ) a **zvláštní skutečnosti podle krizového zákona** (zák. č. 240/2000 Sb.). Tyto informace mají speciální režim ochrany s vlastními kanály oznamování (interní kontroly bezpečnostních složek, NÚKIB pro určité kybernetické incidenty).
-- **Písm. b) — profesní mlčenlivost právnických a soudních profesí**: notáři, státní zástupci, advokáti, exekutoři, soudci včetně soudců ÚS, jejich kandidáti a koncipienti, a zaměstnanci výkonných subjektů (notářské, exekutorské, advokátní kanceláře). Mlčenlivost advokáta (§ 21 zák. č. 85/1996 Sb., o advokacii) zde stojí proti zájmu na ochraně oznamovatelů — zvolen je princip absolutní ochrany důvěry klient-advokát. Advokátní koncipient tedy nemůže s ochranou ZOO oznámit, co se v rámci výkonu právní pomoci dozvěděl od klienta.
-- **Písm. c) — mlčenlivost při poskytování právní pomoci v řízení** — širší než písm. b), zahrnuje i tlumočníky, znalce a další osoby asistující při právní pomoci.
-- **Písm. d) — mlčenlivost zdravotnických pracovníků** (§ 51 zák. č. 372/2011 Sb., o zdravotních službách) — povinnost zachovávat informace o zdravotním stavu pacienta.
+#### Z důvodové zprávy
 
-V jádru jde o **dvojí váhu zájmů**: ZOO obecně preferuje ochranu oznamovatele a zájem na odhalení protiprávního jednání před soukromoprávní mlčenlivostí (NDA, bankovní tajemství), avšak **profesní mlčenlivosti chránící důvěru ve výkonu klíčových služeb** (právní, zdravotní, církevní zpověď, utajované informace) zůstávají nedotčeny.
+> Zvláštní část důvodové zprávy ke sněmovnímu tisku 352 rozlišuje průlom do vybraných mlčenlivostí, ochranu získávání podkladů a tři skupiny informací vyňatých z pojmu oznámení. Výluky odstavce 1 váže na chráněnou profesní činnost, nikoli jen na stav osoby; u odstavce 2 výslovně počítá s ochranou kopírování či fotografování podkladů, nikoli však samostatného trestného činu; sedm bezpečnostních zájmů v odstavci 3 označuje za taxativních. Její tvrzení, že daňová mlčenlivost je prolomena jen u daně z příjmů právnických osob, odpovídá užšímu vládnímu návrhu § 2 a po přijetí širšího konečného znění je nelze následovat. Zákon č. 32/2025 Sb. změnil pouze § 8 odst. 1 písm. e), nikoli § 3.
 
-#### Ochrana přípravného jednání (odst. 2)
+#### Literatura
 
-ZOO chrání nejen samotné oznámení, ale i **jednání směřující ke zjištění informací**, které se později stanou obsahem oznámení. Typický případ: zaměstnanec kopíruje účetní doklady nebo e-maily, aby podepřel svá podezření; přístup k firemním systémům za účelem získání důkazů; pořízení audio nahrávky jednání nadřízeného. Taková jednání **nejsou porušením** smluvní ani zákonné povinnosti, **pokud**:
+Odborná literatura je po rozhodnutí odpovědného editora odložena do 2. kola; v tomto kole nebyly převzaty žádné neověřené sekundární citace.
 
-1. jednání nebylo spácháno **trestným činem** (typicky § 178 TZ — porušení tajemství dopravovaných zpráv, § 230 TZ — neoprávněný přístup k počítačovému systému, § 232a TZ — kybernetická sabotáž; v praxi je hranice mezi legitimním shromažďováním důkazů a počítačovou kriminalitou velmi tenká);
-2. oznamovatel měl **oprávněné důvody** se domnívat, že oznámení bylo nezbytné — tj. shromažďování důkazů bylo proporcionální podezření.
+#### Výklad
 
-V praxi jde o velmi citlivou oblast — judikatura SDEU i českých soudů teprve postupně vymezuje hranice. Doporučuje se, aby oznamovatel **shromažďoval jen takové informace, k nimž má legitimní přístup v rámci svých pracovních úkolů**, a vyhýbal se aktivnímu pronikání do systémů, k nimž oprávnění nemá.
+[1] § 3 obsahuje tři rozdílné mechanismy. Odstavec 1 stanoví zvláštní výjimku pro samotné oznámení z vyjmenovaných povinností mlčenlivosti. Odstavec 2 vytváří obecnější hmotněprávní štít proti smluvní a zákonné odpovědnosti za oznámení a za nezbytné získávání jeho podkladů. Odstavec 3 naproti tomu část sdělení vůbec nepovažuje za oznámení podle ZOO. Označovat všechny tři následky za „absolutní výjimky“ zastírá jejich odlišný rozsah.
 
-#### Negativní vymezení oznámení (odst. 3)
+[2] Vznik ochrany před odvetou vyžaduje obsahové a osobní podmínky § 2, podmínky zvoleného způsobu oznámení podle § 7 a absenci obsahové výluky § 3 odst. 3. Odstavce 1 a 2 § 3 nezakládají ani nepodmiňují tento status; samostatně určují, zda oznámení nebo získávání podkladů požívá odpovědnostní štít. Rozumné důvody věřit v pravdivost informací podle § 7 odst. 3 proto nejsou totožné s rozumnými důvody věřit v nezbytnost jejich oznámení nebo získání podle § 3. Komentované ustanovení nelegalizuje vědomě nepravdivé oznámení a samo nezakládá ochranu před odvetou.
 
-Některé informace jsou z věcného záběru ZOO **vyloučeny** — i kdyby je oznamovatel formálně podal, **nejde o oznámení** ve smyslu zákona a ochrana se nepřiznává. Tři kategorie:
+[3] „Oprávněné důvody se domnívat“ vyžadují objektivizované posouzení z pohledu oznamovatele v době oznámení nebo získávání podkladů. Rozhodují tehdy dostupné informace, pracovní role a odbornost, rozsah přístupových oprávnění i naléhavost věci. Pozdější nepotvrzení podezření samo ochranu nevylučuje; čistě subjektivní přesvědčení bez rozumného skutkového základu však nestačí.
 
-- **Písm. a) — podstatný bezpečnostní zájem ČR** — sedm taxativních složek: svrchovanost a územní celistvost, vnitřní pořádek a kritická infrastruktura, ohrožení životů „ve větším rozsahu", obranné a bezpečnostní zakázky (kromě případů upravených EU právem — typicky směrnice 2009/81/ES o obranných zakázkách), mezinárodní závazky v obraně, významné bezpečnostní operace, bojeschopnost AČR. Tyto informace mají oznamovat povolané orgány vnitřně (vojenská bezpečnostní inspekce, GIBS atd.).
-- **Písm. b) — činnost zpravodajských služeb** ČR (BIS, Úřad pro zahraniční styky a informace, Vojenské zpravodajství). Pro tyto služby platí přísný režim utajení (zák. č. 153/1994 Sb., zák. č. 154/1994 Sb., zák. č. 289/2005 Sb.) a vlastní kanály oznamování (interní kontrola, parlamentní stálé komise, NKÚ).
-- **Písm. c) — zpovědní tajemství duchovních** (§ 7 odst. 1 písm. e) zák. č. 3/2002 Sb.) — absolutní mlčenlivost spojená s výkonem zpovědi nebo obdobného úkonu. Toto vyloučení je svou povahou ústavněprávní (svoboda náboženského vyznání a autonomie církví podle čl. 16 LZPS).
+[4] „Nezbytné“ lze vykládat jako striktní nepostradatelnost každého údaje, anebo jako ex ante rozumnou a přiměřenou potřebnost pro odhalení jednání. První názor příliš přesouvá riziko pozdějšího výsledku na oznamovatele, druhý zase nesmí krýt zvědavost nebo plošný sběr dat. Podle mého názoru jde o funkční test proporcionality: informace či úkon musí být způsobilé podstatně přispět k odhalení, ověření nebo srozumitelnému popsání podezření a nesmí existovat zjevně stejně účinný, citelně méně invazivní postup. Pro samotný test § 3 se nevyžaduje předchozí vyčerpání jiného oznamovacího kanálu; samostatné podmínky uveřejnění podle § 7 odst. 1 písm. c), včetně případného předchozího vnitřního či externího oznámení, tím nejsou dotčeny.
 
-#### F. Kazuistika
+[5] Pro tento test jsou rozhodné zejména časová osa, pracovní náplň, technická oprávnění, seznam otevřených nebo kopírovaných souborů, důvod výběru každého údaje, přístupové logy a konečný obsah oznámení. Posuzovat je třeba jednotlivé úkony a dokumenty, nikoli paušálně celý datový soubor. Soud nebo správní orgán musí navíc oddělit právní otázku nezbytnosti od důkazní otázky, co oznamovatel v rozhodné době skutečně věděl.
 
-**1. Modelová situace.** Zaměstnanec banky (interní auditor) nabude podezření, že vedení obchází limity AML a umožňuje podezřelé transakce klientovi. Aby podezření doložil, zkopíruje na služební USB výpisy z bankovního systému obsahující údaje klientů a předá je příslušné osobě VOS. Banka následně argumentuje, že porušil bankovní tajemství (§ 38 zák. č. 21/1992 Sb.) a neoprávněně nakládal s daty (§ 230 TZ). K obstarání: log přístupů zaměstnance, rozsah zkopírovaných dat, jeho pracovní náplň, obsah oznámení.
+[6] § 3 nepřiznává obecné oprávnění vstupovat do cizích prostor, systémů nebo databází ani neodnímá vlastníkovi dispozici s věcí či daty. Za splnění zákonných podmínek pouze vylučuje porušení určité smluvní nebo zákonné povinnosti. Příjemce oznámení nadále musí chránit totožnost, data a práva dotčených osob podle §§ 20–21 ZOO a použitelných zvláštních předpisů. Ústavně jde o poměřování svobody projevu podle čl. 17 Listiny se soukromím podle čl. 10, tajemstvím písemností a komunikace podle čl. 13, náboženskou autonomií podle čl. 16, právem na právní pomoc podle čl. 37 odst. 2 a bezpečnostními důvody, pro něž čl. 17 odst. 4 dovoluje zákonné a nezbytné omezení projevu.
 
-**2. Právní otázka.** Je oznámení a předchozí zkopírování bankovních dat porušením bankovního tajemství a zakládá trestní odpovědnost, nebo jsou kryta výjimkou podle § 3 odst. 1 a 2 ZOO?
+[7] Odstavec 1 výslovně prolamuje bankovní tajemství, smluvní mlčenlivost, mlčenlivost podle daňového řádu a mlčenlivost podle jiných právních předpisů upravujících práci nebo obdobnou činnost. Jde o pravidlo pro sdělení informace v oznámení; způsob jejího získání se posuzuje zejména podle odstavce 2. Výčet prolomených povinností nelze zaměnit s obecnou imunitou ze všech soukromoprávních či veřejnoprávních povinností.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 3 odst. 1 (průlom do bankovního tajemství při „oprávněných důvodech se domnívat") a odst. 2 (ochrana jednání při zjišťování informací, s výjimkou spáchání TČ).
-- *Související ustanovení téhož zákona:* § 2 odst. 1 (věcný záběr — AML je oblast podle písm. d) bodu 3), § 7 odst. 3 (vědomě nepravdivé oznámení), § 4 (ochrana před retaliací).
-- *Související předpisy:* § 38 zák. č. 21/1992 Sb. (bankovní tajemství); § 230 TZ (neoprávněný přístup k počítačovému systému), § 178 TZ; čl. 21 odst. 7 směrnice 2019/1937 (vyloučení odpovědnosti za získání informací); § 18 zák. č. 253/2008 Sb. (AML).
-- *Judikatura:* k mezím legitimního shromažďování důkazů zaměstnancem srov. judikaturu ESLP (Heinisch v. Německo — ochrana whistleblowera při proporcionálním postupu) a SDEU k čl. 21 směrnice; nosný závěr: ochrana platí, je-li získání informací proporcionální a oznamovatel jednal v dobré víře.
+[8] Bankovní tajemství podle § 38 zákona o bankách zahrnuje všechny bankovní obchody a peněžní služby včetně stavů na účtech a depozit. Nezbytné sdělení klientských údajů v oznámení může být kryto § 3 odst. 1, aniž by zanikla povinnost banky a jejích pracovníků chránit tytéž údaje mimo oznamovací proces. U družstevní záložny § 25b zákona č. 87/1995 Sb. ukládá záložně vlastní povinnost chránit údaje člena a jeho obchody; pracovníci a členové orgánů mají samostatnou mlčenlivost podle § 25c. Důvodová zpráva tento funkčně obdobný režim zahrnuje, zákon jej však nenazývá bankovním tajemstvím podle zákona o bankách.
 
-**4. Subsumpce.** Odst. 1: auditor měl „oprávněné důvody se domnívat", že oznámení je nezbytné pro odhalení porušení AML → oznámení není porušením bankovního tajemství. Odst. 2: zkopírování dat je „jednání v souvislosti se zjišťováním informací" → není porušením povinnosti, **ledaže** jím byl spáchán TČ. Sporné je, zda přístup k datům, k nimž měl auditor v rámci své funkce legitimní přístup, naplňuje § 230 TZ (neoprávněnost) — pokud k nim měl oprávnění, znak „neoprávněně" chybí.
+[9] Daňová mlčenlivost chrání poměry jiných osob zjištěné při správě daní a její porušení jinak může naplnit § 246 daňového řádu. Důvodová zpráva omezuje průlom na daň z příjmů právnických osob podle tehdejšího návrhu § 2. Konečný § 3 však odkazuje na celý § 2 odst. 1, tedy také na trestné činy, kvalifikované přestupky a ostatní věcné oblasti. Jazykový a systematický výklad proto podle mého názoru nepřipouští historické omezení; nezbytnost každého daňového údaje se však posoudí samostatně.
 
-**5. Řešení.** Pokud auditor přistupoval jen k datům v rozsahu své pracovní náplně a kopíroval je výhradně za účelem doložení oznámení, jednání není porušením bankovního tajemství (odst. 1) ani porušením smluvní/zákonné povinnosti (odst. 2) a není TČ (chybí neoprávněnost). Banka nesmí na oznámení reagovat retaliací. Doporučení: shromáždit jen nezbytný rozsah dat, vyhnout se přístupu do systémů mimo vlastní oprávnění.
+[10] Smluvní NDA ani doložka loajality nemohou založit odpovědnost za nezbytné oznámení. Mezi jiné pracovní či služební mlčenlivosti řadí důvodová zpráva například § 15 odst. 3 správního řádu. Naproti tomu § 303 zákoníku práce dopadá jen na tam vymezené zaměstnance ve veřejné správě a není obecnou mlčenlivostí každého zaměstnance. Obchodní, osobní nebo provozní informace bez potřebné vazby na oznámení zůstávají chráněny.
 
-**6. Varianty.** (a) Pokud by auditor prolomil heslo kolegy nebo přistoupil k systémům, k nimž oprávnění neměl, naplnil by § 230 TZ — výjimka podle odst. 2 by se neuplatnila (spáchání TČ) a ochrana by padla v rozsahu tohoto jednání. (b) Pokud by šlo o informace chráněné advokátní mlčenlivostí [§ 3 odst. 1 písm. b)] nebo o utajované informace [písm. a)], průlom by se neuplatnil vůbec — informace jsou z výjimky vyňaty.
+[11] Výjimky v odstavci 1 písm. a) až d) nejsou částmi negativní definice odstavce 3. Znamenají, že § 3 odst. 1 dotčenou mlčenlivost neprolomí; další právní následky se určují podle povahy povinnosti, § 3 odst. 2, zvláštních předpisů a případně § 3 odst. 3. Výraz „absolutní“ není přesný ani proto, že zvláštní předpis může znát zproštění nebo vlastní zákonnou výjimku.
 
-#### G. Protiargumenty a rizika
+[12] Písmeno a) vedle sebe staví tři samostatné režimy: ochranu utajovaných informací podle zákona č. 412/2005 Sb., informace, jejichž vyzrazení by zjevně mohlo ohrozit probíhající trestní řízení, a zvláštní skutečnosti podle § 27 krizového zákona. Zvláštní skutečnost není stupněm utajení. U utajované informace se její právní režim nemění pouhým názorem držitele, že obsah nemá být utajen; formální změnu nebo zrušení klasifikace provádí původce zákonem předepsaným postupem.
 
-- *Protiargument:* „Zkopírování klientských dat je vždy porušením bankovního tajemství a GDPR." — Neutralizace: § 3 odst. 1 výslovně stanoví, že oznámení při oprávněných důvodech není porušením bankovního tajemství; zpracování dat za účelem oznámení má právní titul (plnění právní povinnosti / oprávněný zájem podle čl. 6 GDPR).
-- *Protiargument:* „Hranice mezi shromažďováním důkazů a počítačovou kriminalitou je nejasná, zaměstnanec riskuje trestní stíhání." — Neutralizace: ano, riziko existuje; rozhodující je, zda zaměstnanec jednal v mezích svého legitimního přístupu a proporcionálně; aktivní pronikání do cizích systémů ochranu vylučuje (odst. 2 in fine).
-- *Slabé místo:* standard „oprávněné důvody se domnívat" je objektivně-subjektivní a v konkrétním sporu se hodnotí ex post; oznamovatel nese riziko, že soud shledá rozsah získaných dat za nepřiměřený.
+[13] U trestního řízení musí být řízení probíhající a možnost ohrožení „zjevná“. Nestačí, že oznamovaný skutek může mít trestněprávní význam. Rozhodná je konkrétní hrozba pro účel řízení, například pro utajení zamýšleného úkonu, ochranu zdroje nebo nezmaření důkazu. Výluka se proto nemůže používat jako paušální zákaz každého oznámení, které se překrývá s trestní věcí.
 
-#### H. Praktický závěr
+[14] Písmeno b) taxativně zachovává zákonné mlčenlivosti notářských, státnězastupitelských, advokátních, exekutorských a soudcovských profesí a přesně vyjmenovaných spolupracujících osob. Bod 6 zahrnuje zejména zaměstnance notáře, exekutora a advokáta a osoby podílející se v advokátní společnosti na poskytování právních služeb. Analogické rozšiřování na jiné osoby jen podle podobnosti jejich práce by odporovalo výjimečné povaze pravidla.
 
-§ 3 prolamuje běžné povinnosti mlčenlivosti (bankovní tajemství, NDA, daňová mlčenlivost, § 303 ZP) ve prospěch oznamovatele, jednal-li z „oprávněných důvodů". Chrání i přípravné jednání (sběr důkazů), avšak nikoli tam, kde je spáchán TČ. Absolutní výjimky (advokátní/notářská/zdravotnická/soudcovská mlčenlivost, utajované informace, zpovědní tajemství, zpravodajské služby, podstatný bezpečnostní zájem) zůstávají nedotčeny — informace z nich nejsou oznámením vůbec (odst. 3).
+[15] Profesní výluka je funkční, nikoli osobní. Musí jít o skutečnost chráněnou mlčenlivostí právě proto, že byla získána při dotčené profesní činnosti. Důvodová zpráva proto připouští oznámení pochybení soudce při zadávání zakázky soudu nebo vlastního deliktu advokáta, nejsou-li údaje odvozeny z právní služby klientovi. Zaměstnání v advokátní kanceláři samo nevylučuje oznámení provozní nebo personální věci.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Měl oznamovatel „oprávněné důvody se domnívat", že oznámení je nezbytné (odst. 1)?
-- [ ] Spadá informace do některé z absolutních výjimek [odst. 1 písm. a)–d), odst. 3]?
-- [ ] Bylo přípravné jednání proporcionální a nedošlo jím ke spáchání TČ (odst. 2)?
-- [ ] Přistupoval oznamovatel jen k datům v rozsahu svého legitimního oprávnění?
+[16] Písmeno c) chrání mlčenlivost při poskytování právní pomoci v konkrétním řízení před soudem nebo jiným orgánem veřejné moci. Důvodová zpráva uvádí daňové poradce a patentové zástupce; u nich je třeba odlišit zastupování či právní pomoc v řízení od poradenství mimo řízení. Bez textové opory sem nelze paušálně zařadit znalce nebo tlumočníka, kteří zpravidla právní pomoc neposkytují. Nejprve se vždy prověří případné zákonné zproštění nebo zvláštní výjimka.
 
-**Typicky rozhodné důkazy / podklady:** pracovní náplň a rozsah oprávnění oznamovatele; logy přístupů; rozsah a způsob získání informací; obsah oznámení prokazující dobrou víru.
+[17] Písmeno d) zachovává mlčenlivost při poskytování zdravotních služeb. Rozhodný je původ údaje ve zdravotní službě a okruh povinných osob podle § 51 zákona č. 372/2011 Sb., nikoli samotné zdravotnické povolání nebo pracoviště. Účetní, personální či zakázková informace poskytovatele proto není automaticky vyňata; pacientský údaj obsažený v témže dokumentu může být chráněn a musí být oddělen nebo redigován.
+
+[18] Odstavce 1 a 2 se musejí vykládat společně. Obecná formulace odstavce 2 může pokrýt obchodní tajemství, duševní vlastnictví, ochranu osobních údajů i další povinnosti, poslední věta však výslovně zachovává odstavec 1. Konkurenční doslovný výklad, podle něhož by odstavec 2 znovu a bez omezení legalizoval sdělení chráněné profesní informace, by odstavec 1 vyprázdnil a odporoval čl. 3 odst. 3 směrnice. Podle mého názoru je odstavec 1 pro zachované mlčenlivosti lex specialis.
+
+[19] Odstavec 2 chrání oznámení a získávání podkladů oznamovatelem i osobou podle § 4 odst. 2 písm. a) až h), například pomocníkem při zjišťování informací. Každá jednající osoba musí mít vlastní oprávněný důvod věřit v nezbytnost oznámení; slepé provedení pokynu bez znalosti okolností nemusí stačit. Pomocník nemůže obcházet výluky odstavce 1.
+
+[20] Informace se musejí „později stát obsahem oznámení“. Nestačí neurčitý plán někdy něco oznámit; musí následovat skutečné oznámení, v němž se získaný údaj materiálně projeví. Není třeba přiložit celý dokument, postačí rozhodná informace nebo věrné shrnutí. Podklady shromážděné pro jiný účel a v oznámení vůbec nepoužité tato část věty zpravidla nekryje.
+
+[21] Bod 92 odůvodnění směrnice zahrnuje také kopírování dokumentů, přístup k souborům běžně nepoužívaným při práci, fotografování pracoviště nebo vstup do prostor, do nichž osoba běžně nevstupuje, pokud nejde o trestný čin a postup je nezbytný a přiměřený. Přístup mimo obvyklou pracovní náplň proto není automaticky nechráněný. Je však významným důkazem při hodnocení proporcionality a může naplnit znaky konkrétního deliktu.
+
+[22] Jazykově lze namítat, že druhá výjimka v odstavci 2 váže nezbytnost k oznámení, nikoli výslovně ke každému úkonu získání; ryze doslovný výklad by tak u netrestného jednání vystačil se souvislostí s informací později obsaženou v oznámení. Systematika věty, důvodová zpráva, čl. 21 odst. 3–4 a bod 92 odůvodnění směrnice však ponechávají odpovědnost za úkony nesouvisející nebo nepotřebné. Přikláním se proto k oddělenému testu nezbytnosti způsobu získání a konečného sdělení. Úzká a cílená kopie může být přiměřená, zatímco plošné stažení databáze neospravedlní význam několika záznamů; nezbytná část souboru úkonů může být kryta, exces nikoli.
+
+[23] Je-li při zjišťování podkladů spáchán trestný čin, odstavec 2 nevylučuje trestní odpovědnost za tento samostatný čin. Odpovědnostní štít pak nekryje ani případnou souběžnou civilní, pracovněprávní či jinou odpovědnost z téhož získávacího jednání; její předpoklady se posoudí podle příslušné normy. Musejí být však prokázány všechny znaky konkrétní skutkové podstaty včetně zavinění; porušení interního předpisu samo není „hacking“ a skutečnost, že jednání porušilo smlouvu nebo interní oprávnění, sama trestný čin neprokazuje.
+
+[24] Podle okolností mohou být relevantní zejména porušování domovní svobody podle § 178 trestního zákoníku, neoprávněné nakládání s osobními údaji podle § 180, porušení tajemství dopravovaných zpráv podle § 182, porušení tajemství soukromých dokumentů podle § 183, neoprávněný přístup nebo zásah podle § 230 a trestné činy proti utajovaným informacím podle §§ 316–318. Původní komentář nesprávně připsal § 178 tajemství zpráv a odkazoval na neexistující § 232a; typový výčet nenahrazuje subsumpci.
+
+[25] Ani oprávněný přístup do počítačového systému automaticky neopravňuje ke každému dalšímu užití, kopírování či zásahu; současně pouhá kopie z oprávněně přístupného systému nenaplňuje bez dalšího § 230. Rozhodují přesná přístupová pravidla, povaha operace a skutková podstata účinná v době činu. Trestní soud musí vyložit „neoprávněně“ samostatně, nikoli jen podle pracovního pokynu.
+
+[26] Trestný způsob získání podkladů automaticky neodnímá povahu následnému řádnému oznámení. Oznamovatel může odpovídat za neoprávněný vstup nebo zásah a současně být chráněn před odvetou vyvolanou platným oznámením. To neznamená bezbřehou imunitu samotného sdělení: nadále platí odstavec 1, odstavec 3, § 7 a například skutkové podstaty křivého obvinění nebo vyzrazení utajované informace.
+
+[27] Obchodní tajemství musí nejprve naplnit všech šest kumulativních znaků § 504 občanského zákoníku; podnikové označení nebo smluvní nálepka nestačí. Je-li získání či sdělení skutečného tajemství nezbytné pro oznámení, odstavec 2 ve spojení s čl. 21 odst. 7 směrnice a čl. 3 odst. 2 a čl. 5 směrnice 2016/943/EU může vyloučit neoprávněnost. Ochrana nekryje komerční využití ani další šíření mimo oznamovací a vyšetřovací účel.
+
+[28] Obdobně může odstavec 2 působit jako obrana proti autorskoprávnímu nároku při nezbytném zkopírování chráněného dokumentu. Nejde o obecnou licenci k rozmnožování nebo zveřejňování celého díla: části bez důkazního významu, komerční použití a zbytečné zásahy do osobnostních práv autora se posoudí podle obecných pravidel.
+
+[29] § 3 nevylučuje GDPR, nepředstavuje výjimku z jeho čl. 6 nebo 9 a není univerzálním právním titulem pro další zpracování osobních údajů. Každý správce musí podle své role a účelu určit použitelný titul a dodržet zejména minimalizaci, účelové omezení a zabezpečení. § 3 může za svých podmínek působit jako obrana proti tvrzenému porušení smluvní nebo zákonné povinnosti nezbytným sdělením, nemůže však nahradit požadavky přímo použitelného GDPR; příslušná osoba a ministerstvo nadále podléhají také §§ 20–21 ZOO a čl. 17 směrnice.
+
+[30] Odstavec 3 je negativní definicí: dotčená část sdělení není oznámením podle ZOO, takže se na ni neváže jeho zvláštní ochrana. Nejde jen o další výjimku z odpovědnosti. Mohou přesto platit jiné zákonné oznamovací povinnosti, zvláštní zabezpečené režimy a obecné prostředky ochrany; § 3 sám neurčuje jejich adresáta ani postup.
+
+[31] Slova „část oznámení“ vyžadují obsahovou oddělitelnost. Obsahuje-li podání vedle vyloučené informace samostatně srozumitelný popis korupce, účetního podvodu nebo jiného jednání podle § 2, zůstává zbývající část oznámením. Podle mého názoru má příjemce chráněný fragment oddělit nebo redigovat a zbytek posoudit; celé podání ztratí povahu oznámení jen tehdy, jestliže po oddělení nic samostatně použitelného nezůstane.
+
+[32] U smíšeného podání se ochrana před odvetou může opírat o platnou zbývající část, zatímco za protiprávní zpřístupnění vyloučeného fragmentu může vzniknout odpovědnost. Ve sporu je proto nutné zjistit, zda opatření vyvolalo platné oznámení, vyloučené sdělení, nebo obojí. Přítomnost jediného vyloučeného údaje sama nesmí zničit ochranu oddělitelného oznámení.
+
+[33] U písmene a) nestačí obecná tematická souvislost s bezpečností. Oznámení musí být způsobilé podstatný bezpečnostní zájem „bezprostředně“ ohrozit. Vznik újmy se nevyžaduje, ale konkrétní kauzální riziko musí být časově a věcně blízké a objektivně vysvětlitelné. Protože jde o omezení oznamování a svobody projevu, přikláním se k restriktivnímu výkladu; důvodová zpráva potvrzuje taxativnost sedmi zájmů.
+
+[34] Body 1–3 navazují na čl. 1–2 ústavního zákona č. 110/1998 Sb.; pod vnitřní pořádek a bezpečnost řadí důvodová zpráva také chráněné objekty, prostory a osoby podle §§ 48–49 zákona o Policii České republiky. „Ve větším rozsahu“ nemá číselný práh; podle mého názoru se hodnotí počet ohrožených osob, intenzita rizika a jeho územní, časový či kaskádový dopad. Bod 5 vyžaduje konkrétní mezinárodní obranný závazek, bod 6 významnou, nikoli rutinní bezpečnostní operaci a bod 7 konkrétní zásah do operační připravenosti ozbrojených sil; jejich terminologie navazuje také na § 3 zákona č. 412/2005 Sb. Obecné hospodářské nebo reputační zájmy státu nelze do taxativního seznamu doplnit a klasifikace informace není podmínkou odstavce 3. U všech sedmi bodů zůstává samostatně nutné bezprostřední ohrožení.
+
+[35] U obranné či bezpečnostní zakázky se nejprve zkoumá bezprostřední bezpečnostní riziko a potom výjimka z výluky: upravuje-li zadávání unijní předpis, zejména směrnice 2009/81/ES, bod 4 oznámení nevyloučí. Typickým opačným případem může být zakázka vyňatá podle čl. 346 SFEU a § 29 odst. 1 písm. s) zákona č. 134/2016 Sb. Ani tehdy označení „obranná“ samo nenahrazuje test bezprostřednosti. Soudní dvůr vykládá bezpečnostní odchylky v zadávání restriktivně a požaduje jejich konkrétní odůvodnění.
+
+[36] Písmeno b) vylučuje informace „o činnosti“ BIS, ÚZSI a Vojenského zpravodajství bez testu bezprostředního ohrožení a nezávisle na stupni utajení. Důvodová zpráva zastává široký výklad a odkazuje na interní a parlamentní kontrolu. Tyto kontrolní mechanismy nejsou oznamovacím kanálem ZOO a samotná důvodová zpráva jednotlivci nezakládá právo, aby jimi byl jeho podnět prošetřen. Proti širokému pojetí stojí jazykový výklad, podle něhož běžná personální či hospodářská okolnost nic nevypovídající o úkolech, metodách, organizaci nebo aktivech služby není informací o její činnosti. Přikláním se k funkčnímu výkladu: výluka má být široká u operací, schopností, zdrojů a aktiv, nikoli jen proto, že služba je zaměstnavatelem.
+
+[37] Písmeno c) dopadá jen na sdělení, které by skutečně porušilo státem uznanou mlčenlivost duchovního při zpovědním tajemství nebo obdobném právu. Podle § 7 odst. 1 písm. e) a § 11 zákona č. 3/2002 Sb. musí jít o duchovního registrované církve nebo náboženské společnosti, které bylo přiznáno oprávnění k výkonu tohoto zvláštního práva; podmínkou jeho získání je, že dotčená mlčenlivost je tradiční součástí jejího učení nejméně padesát let. Vyloučeno tedy není každé sdělení duchovního ani informace z běžné správy církve mimo takto chráněný vztah.
+
+[38] Odstavec 3 neruší povinnost překazit nebo oznámit vybrané trestné činy podle §§ 367–368 trestního zákoníku. Povinné oznámení se činí orgánu určenému trestním zákoníkem, nikoli automaticky běžným kanálem ZOO. Je třeba respektovat výjimky § 368 odst. 3 pro advokáta a jeho zaměstnance a pro duchovního ve zpovědním vztahu; zákon č. 3/2002 Sb. naproti tomu výslovně zachovává povinnost trestný čin překazit.
+
+[39] „Kritickou infrastrukturou“ se k rozhodnému dni rozumí kritická infrastruktura podle zákona č. 266/2025 Sb., účinného od 19. 8. 2025, nikoli již obecně prvek určený podle krizového zákona. Obecný přechod dosavadních subjektů skončil 17. 7. 2026; dosavadní subjekt, u něhož bylo rozhodnuto o zařazení na seznam subjektů kritické infrastruktury podle nového zákona, však plní staré povinnosti po dobu deseti měsíců ode dne doručení tohoto rozhodnutí. Informační systém veřejné správy se nadále vymezuje § 2 odst. 1 písm. b) zákona č. 365/2000 Sb. Tyto definice pomáhají určit chráněný zájem, ale samy nedokládají jeho bezprostřední ohrožení.
+
+[40] § 3 je účinný od 1. 8. 2023, od té doby nebyl novelizován a nemá vlastní přechodné pravidlo. U podkladů získaných před účinností a oznámených později lze hájit ochranu podle přítomného právního stavu, protože zákon pracuje s informacemi, které se „později staly“ obsahem. Proti tomu stojí zákaz pravé retroaktivity a ochrana již vzniklých soukromých nároků. Podle mého názoru § 3 zpětně nemaže dokončené civilní či pracovněprávní porušení před 1. 8. 2023; odvetné opatření učiněné po tomto dni se však posuzuje podle tehdy účinného ochranného režimu.
+
+[41] Transpoziční lhůta směrnice uplynula 17. 12. 2021. V období od 18. 12. 2021 do 31. 7. 2023 mohla směrnice podporovat eurokonformní výklad českého práva a při splnění podmínek vertikální přímý účinek vůči státu; sama však nemohla vytvořit horizontální povinnost soukromému zaměstnavateli. Ani unijní úprava nevytváří imunitu pro samostatný trestný čin spáchaný při získávání informací.
+
+[42] Anonymní forma podání sama nevylučuje použití § 3 odst. 1 a 2, jsou-li prokázány jejich vlastní podmínky a osoba, která se štítu dovolává. Okamžik podle § 4 odst. 3 se týká ochrany před odvetou, nikoli vzniku odpovědnostního štítu podle § 3.
+[43] § 3 nezakládá samostatný žalobní petit, příslušnost, promlčecí lhůtu ani soudní poplatek. Uplatní se jako hmotněprávní námitka proti výpovědi, kárnému postihu, náhradě škody, nároku z obchodního tajemství, autorského práva či ochrany dat a v trestním nebo přestupkovém řízení. Konkrétní petit a lhůta vycházejí z napadeného opatření a navazující hmotněprávní normy; nárok z odvety může založit zejména § 5, nikoli § 3.
+
+[44] Rozdělení důkazního břemene v soukromoprávním sporu o štít podle § 3 český zákon výslovně neupravuje; vychází se proto z obecných pravidel, zejména § 120 OSŘ. Bod 97 odůvodnění směrnice podporuje možný eurokonformní argument k rozložení břemen, nejde však o operativní pravidlo čl. 21 odst. 7 ani o ustálený český judikatorní závěr. Otázka zůstává otevřená a účastník má tvrdit a dokazovat skutečnosti rozhodné podle obecného procesního režimu.
+[45] Model bankovního auditora vyžaduje dvojí subsumpci. Cílené zobrazení a zkopírování několika podezřelých transakcí, které auditor předá příslušné osobě a které odpovídají jeho podloženému podezření, může být kryto odstavci 1 a 2, i kdyby kopírování nebylo jeho běžným úkolem. Prolomení cizího hesla může naopak naplnit § 230 trestního zákoníku a z ochrany vyjmout způsob získání; samo však nelegalizuje odvetu za oddělitelné řádné oznámení.
+
+[46] Praktický postup má šest kroků: vymezit platnou část oznámení podle § 2 a odstavce 3; určit konkrétní údajně porušenou povinnost; prověřit výluku odstavce 1; oddělit oznámení od způsobu získání podkladů; u každého údaje a úkonu posoudit ex ante rozumné důvody, nezbytnost a proporcionalitu; a samostatně prověřit znaky případného trestného činu. Spis by měl obsahovat pracovní náplň, oprávnění, logy, přesný inventář dat, časovou osu, konečné oznámení a dokumentaci motivu tvrzeného odvetného opatření.
+
+#### Judikatura
+
+Přímé rozhodnutí českého soudu vykládající § 3 ZOO nebylo při rešerši v povoleném korpusu nalezeno. Následující rozhodnutí jsou použitelná jen k uvedeným obecným nebo zvláštním otázkám; nenahrazují podmínky komentovaného ustanovení.
+
+##### Profesní a zdravotní mlčenlivost
+
+Advokátní mlčenlivost je ústavně významným prvkem práva na právní pomoc, není však bezvýjimečná; i zákonnou výjimku je nutné omezit na nezbytný rozsah. Nález se týkal použití informací advokátem k vlastní obhajobě, nikoli ZOO, a nemůže prolomit jeho § 3 odst. 1 písm. b) — nález Ústavního soudu ze dne 14. 10. 2020, sp. zn. II. ÚS 4071/19, ECLI:CZ:US:2020:2.US.4071.19.1, N 198/102 SbNU 251, body 24–29 a 45–48.
+
+Zákonné prolomení zdravotní mlčenlivosti se vykládá podle přesně určeného účelu, okruhu osob a nezbytného rozsahu; nelze je rozšiřovat na základě pouhé účelové podobnosti. Rozsudek neřešil ZOO, ale podporuje restriktivní práci s výjimkou podle § 3 odst. 1 písm. d) — rozsudek Nejvyššího správního soudu ze dne 3. 7. 2026, č. j. 8 As 212/2024-32, body 15–20 a 41–46.
+
+##### Bankovní tajemství, obchodní tajemství a data
+
+§ 38 odst. 1 zákona o bankách ukládá bankovní tajemství bance; postavení zaměstnanců je třeba opřít o konkrétní navazující titul, zejména § 39, nikoli bez dalšího odvodit z totožné skutkové informace. Rozsudek se netýkal oznamování ani § 3, ale brání paušální identifikaci nositele povinnosti — rozsudek Nejvyššího správního soudu ze dne 14. 5. 2025, č. j. 6 As 135/2024-48, bod 30.
+
+Všech šest znaků obchodního tajemství podle § 504 občanského zákoníku musí být naplněno kumulativně a jejich nositel nemůže vystačit s obecným označením celého dokumentu. Rozsudek neřešil odpovědnostní štít § 3, ale určuje předběžnou otázku, zda vůbec existuje chráněné tajemství — rozsudek Nejvyššího správního soudu ze dne 3. 6. 2025, č. j. 1 As 42/2025-84, body 27–30.
+
+Ani oprávnění k přístupu do systému samo o sobě nezahrnuje každou další operaci; neoprávněným užitím podle § 230 odst. 2 písm. a) trestního zákoníku může být podle okolností kopírování nebo tisk. Trestní věc se týkala skutku z roku 2016 a nikoli oznamovatele, takže rozhodnutí pouze ilustruje nutnost oddělit přístup, užití a konkrétní zavinění — usnesení Nejvyššího soudu ze dne 16. 12. 2021, sp. zn. 5 Tdo 4/2021, ECLI:CZ:NS:2021:5.TDO.4.2021.1, body 25–26.
+
+##### Časová působnost směrnice
+
+Po marném uplynutí transpoziční lhůty se jednotlivec může dovolávat dostatečně přesného a bezpodmínečného ustanovení směrnice proti státu, nikoli však uložit směrnicí samotnou povinnost jinému jednotlivci. Rozsudek neřešil whistleblowing, ale podává obecné východisko pro předzákonné období popsané v marg. č. 41 — rozsudek Soudního dvora ze dne 24. 1. 2012, Dominguez, C-282/10, ECLI:EU:C:2012:33, body 33 a 37–42.
+
+##### Utajení, bezpečnost a zpovědní tajemství
+
+Stupeň utajení trvá, dokud jej původce zákonným postupem nezmění nebo nezruší; rozhodnutí se netýkalo ZOO a nelze je zaměňovat s odlišným testem bezprostředního ohrožení podle § 3 odst. 3 — rozsudek Nejvyššího soudu ze dne 28. 4. 2026, sp. zn. 7 Tz 4/2026, ECLI:CZ:NS:2026:7.TZ.4.2026.1, body 13–17.
+
+Bezpečnostní odchylku z pravidel zadávání nelze založit abstraktním odkazem na obranu; stát musí konkretizovat chráněný zájem a nezbytnost odchylky. Rozsudek vykládal unijní zadávací právo, nikoli whistleblowing, a pro § 3 odst. 3 písm. a) bod 4 je použitelný jen jako systematický argument pro restriktivní výklad — rozsudek Soudního dvora ze dne 7. 6. 2012, InsTiimi Oy, C-615/10, ECLI:EU:C:2012:324, body 34–46 a výrok.
+
+Ne každá komunikace s duchovním je zpovědí ani každá interní církevní informace požívá zpovědního tajemství; chráněný vztah a obsah je nutné zjistit skutkově. Nález neřešil ZOO, ale přímo podporuje funkční vymezení § 3 odst. 3 písm. c) — nález Ústavního soudu ze dne 25. 3. 2026, sp. zn. Pl. ÚS 8/25, ECLI:CZ:US:2026:Pl.US.8.25.3, č. 58/2026 Sb., body 221–225.
 
 ---
 
