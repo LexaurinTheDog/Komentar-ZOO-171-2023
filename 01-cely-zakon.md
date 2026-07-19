@@ -1571,58 +1571,62 @@ K přímému výkladu § 17 není v tomto kole uváděno žádné rozhodnutí. N
 
 ### § 18 — Společné ustanovení
 
-> **§ 18**
->
-> *Současně s předáním informace podle § 17 odst. 3 písm. a) požádá pověřený zaměstnanec podle jiného právního předpisu orgán veřejné moci, aby ho informoval o svém dalším postupu. Tuto informaci pověřený zaměstnanec bez zbytečného odkladu písemně předá oznamovateli. Ustanovení § 16 odst. 2 se použije obdobně.*
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Výklad:**
+#### Znění ustanovení
 
-#### Zpětnovazební mechanismus
+> Současně s předáním informace podle § 17 odst. 3 písm. a) požádá pověřený zaměstnanec podle jiného právního předpisu orgán veřejné moci, aby ho informoval o svém dalším postupu. Tuto informaci pověřený zaměstnanec bez zbytečného odkladu písemně předá oznamovateli. Ustanovení § 16 odst. 2 se použije obdobně.
 
-§ 18 zavádí **zpětnovazební smyčku** mezi MSp a orgánem veřejné moci, jemuž bylo oznámení postoupeno [§ 17 odst. 3 písm. a)]. Pověřený zaměstnanec **současně s postoupením** požádá tento orgán, aby ho informoval o svém dalším postupu. Tuto informaci poté **bez zbytečného odkladu** předá oznamovateli.
+#### Přehled výkladu
 
-Praktický význam:
-- oznamovatel není po postoupení odstřižen od informací — ví, zda věc byla převzata, projednávána, jak probíhá řízení;
-- MSp si vede přehled o efektivitě svého postoupení (kolik podání reálně vede k řízení) — což ovlivňuje výroční zprávu podle § 15 písm. i);
-- důvěra v systém roste — oznamovatel vidí konkrétní výsledek své aktivity.
+Ustanovení navazuje na předání informace věcně příslušnému orgánu podle § 17 odst. 3 písm. a). Upravuje dva po sobě jdoucí úkony pověřeného zaměstnance: současnou žádost opřenou o jiný právní předpis a následné písemné předání obdržené informace oznamovateli. Nezakládá samo povinnost cílového orgánu odpovědět ani procesní postavení oznamovatele v řízení před tímto orgánem.
 
-Zákon přitom respektuje povinnost mlčenlivosti orgánu veřejné moci (např. orgány činné v trestním řízení mají omezenou možnost informovat o průběhu vyšetřování) — pověřený zaměstnanec předává jen takové informace, které mu byly poskytnuty.
+#### Souvisící ustanovení
 
-#### F. Kazuistika
+§ 14 písm. a) (působnost ministerstva), § 16 odst. 2 (výjimky z vyrozumění), § 17 odst. 3 písm. a) a odst. 4 (předání informace a vyrozumění o něm), § 20 (ochrana informací a totožnosti) a § 21 (evidence a uchovávání oznámení a souvisejících dokumentů).
 
-**1. Modelová situace.** MSp postoupilo oznámení o porušení pravidel hospodářské soutěže Úřadu pro ochranu hospodářské soutěže [§ 17 odst. 3 písm. a)]. Oznamovatel po několika měsících nemá žádnou informaci o tom, zda ÚOHS věc převzal a jak postupuje, a obrací se na MSp s dotazem. MSp tvrdí, že po postoupení už nemá s věcí nic společného. K obstarání: doklad o postoupení, žádost MSp adresovaná ÚOHS podle § 18, korespondence s oznamovatelem.
+#### Souvisící předpisy
 
-**2. Právní otázka.** Je MSp povinno požádat orgán, jemuž oznámení postoupilo, o informaci o dalším postupu a tuto informaci předat oznamovateli, nebo postoupením jeho úloha končí?
+Směrnice Evropského parlamentu a Rady (EU) 2019/1937, zejména čl. 5 body 12 a 13, čl. 11 odst. 1, odst. 2 písm. d) až f) a odst. 6 a bod 66 odůvodnění. Konkrétní právní základ žádosti a rozsah odpovědi přijímajícího orgánu určuje předpis upravující jeho postup; § 18 jej nenahrazuje.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 18 (žádost o informaci o dalším postupu a její předání oznamovateli; obdobné použití § 16 odst. 2).
-- *Související ustanovení téhož zákona:* § 17 odst. 3 písm. a) (postoupení), § 15 písm. i) (výroční zpráva — efektivita postoupení), § 20 (zákaz poskytnutí údajů).
-- *Související předpisy:* zák. č. 143/2001 Sb. (ochrana hospodářské soutěže — působnost ÚOHS); § 8 odst. 2 a 3 SŘ (součinnost správních orgánů); čl. 11 odst. 2 směrnice 2019/1937 (zpětná vazba oznamovateli).
-- *Judikatura:* k povinnosti součinnosti orgánů a zpětné vazby srov. principy dobré správy (§ 4 SŘ) — nosný závěr: orgán má udržovat oznamovatele informovaného v rozsahu, který mu byl sdělen.
+#### Z důvodové zprávy
 
-**4. Subsumpce.** § 18 ukládá pověřenému zaměstnanci, aby současně s postoupením podle § 17 odst. 3 písm. a) požádal příslušný orgán o informaci o dalším postupu a tuto informaci bez zbytečného odkladu předal oznamovateli. MSp tedy postoupením svou úlohu nekončí — má zpětnovazební povinnost. Tvrzení MSp, že „s věcí nemá nic společného", je v rozporu s § 18.
+Důvodová zpráva vysvětluje, že přijímající orgán zpravidla informuje osobu, která u něj podání formálně učinila, tedy v této konstrukci ministerstvo. § 18 proto zajišťuje přenos informace o učiněných opatřeních od orgánu přes ministerstvo k původnímu oznamovateli. Jako příklady právního základu žádosti uvádí § 74 odst. 4 zákona č. 250/2016 Sb. a § 158 odst. 2 trestního řádu; nejde o vyčerpávající výčet ani o rozšíření práv oznamovatele podle těchto předpisů.
 
-**5. Řešení.** MSp je povinno požádat ÚOHS o informaci o dalším postupu (§ 18) a tu předat oznamovateli. Respektuje přitom omezení daná mlčenlivostí ÚOHS — předá jen informace, které mu byly poskytnuty. Pokud žádost neučinilo, jde o pochybení; náprava spočívá v dodatečné žádosti a vyrozumění oznamovatele. Zpětná vazba zároveň slouží MSp pro výroční zprávu podle § 15 písm. i).
+#### Literatura
 
-**6. Varianty.** (a) Pokud ÚOHS z důvodu mlčenlivosti (probíhající řízení) sdělí jen omezené informace, MSp předá oznamovateli to, co obdrželo — povinnost je limitována rozsahem poskytnutých informací. (b) Pokud by oznámení nebylo postoupeno (neexistoval příslušný orgán), § 18 by se neuplatnil, neboť navazuje výhradně na postup podle § 17 odst. 3 písm. a).
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento údaj není výsledkem negativní rešerše.
 
-#### G. Protiargumenty a rizika
+#### Výklad
 
-- *Protiargument:* „Postoupením přechází věc na ÚOHS a MSp už nemá povinnosti." — Neutralizace: § 18 výslovně ukládá MSp požádat o informaci a předat ji oznamovateli; zpětnovazební smyčka je součástí zákonné úpravy.
-- *Protiargument:* „Mlčenlivost ÚOHS brání jakékoli zpětné vazbě." — Neutralizace: § 18 nepřekonává mlčenlivost přijímajícího orgánu; MSp předá jen to, co mu bylo sděleno — povinnost se tím nevyprazdňuje, jen omezuje.
-- *Slabé místo:* účinnost zpětné vazby závisí na ochotě a možnostech přijímajícího orgánu; MSp nemá nástroj, jak informace vynutit nad rámec součinnosti podle SŘ.
+[1] § 18 se použije pouze při postupu podle § 17 odst. 3 písm. a), tedy když pověřený zaměstnanec při podezření ze spáchání protiprávního jednání informuje orgán veřejné moci příslušný podle jiného právního předpisu nebo přímo použitelného předpisu Evropské unie. Samotné vyrozumění oznamovatele o tomto kroku upravuje § 17 odst. 4; § 18 se týká pozdější informace o dalším postupu cílového orgánu.
 
-#### H. Praktický závěr
+[2] Žádost o informaci musí být učiněna současně s předáním informace cílovému orgánu. Slovní spojení „podle jiného právního předpisu“ vyžaduje určit právní základ, z něhož v dané věci plyne oprávnění žádat, popřípadě povinnost orgánu vyrozumět. § 18 sám upravuje povinnost pověřeného zaměstnance požádat; nelze z něj bez dalšího dovodit samostatnou povinnost kteréhokoli cílového orgánu odpovědět.
 
-§ 18 zavádí zpětnovazební smyčku: pověřený zaměstnanec současně s postoupením oznámení (§ 17 odst. 3 písm. a) požádá příslušný orgán o informaci o dalším postupu a tuto informaci předá oznamovateli (v rozsahu, který mu byl sdělen, s respektem k mlčenlivosti přijímajícího orgánu). Mechanismus posiluje důvěru v systém a slouží evaluaci ve výroční zprávě.
+[3] Předmětem dalšího předání je „tato informace“, tedy informace o dalším postupu, kterou cílový orgán ministerstvu skutečně poskytl. Pověřený zaměstnanec nemá nahrazovat chybějící odpověď vlastní domněnkou ani slibovat výsledek řízení. Směrnice chápe zpětnou vazbu jako informaci o plánovaných či přijatých následných opatřeních a jejich důvodech; konkrétní rozsah zde však závisí na zákonné odpovědi cílového orgánu.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Byla současně s postoupením podána žádost příslušnému orgánu o informaci o dalším postupu (§ 18)?
-- [ ] Byla získaná informace bez zbytečného odkladu předána oznamovateli?
-- [ ] Byly respektovány limity mlčenlivosti přijímajícího orgánu (předání jen sdělených informací)?
-- [ ] Je zpětná vazba evidována pro účely výroční zprávy (§ 15 písm. i)?
+[4] Obdrženou informaci pověřený zaměstnanec předá bez zbytečného odkladu a písemně. Zákon pro tento druhý krok nestanoví pevnou číselnou lhůtu ani neukládá pověřenému zaměstnanci průběžně vytvářet zprávy, které od cílového orgánu neobdržel. Čl. 11 odst. 2 písm. d) směrnice ukládá příslušným orgánům zpětnou vazbu zpravidla do tří měsíců, v řádně odůvodněných případech do šesti měsíců; § 18 řeší navazující předání již získané informace.
 
-**Typicky rozhodné důkazy / podklady:** doklad o postoupení; žádost MSp podle § 18 a odpověď přijímajícího orgánu; vyrozumění oznamovatele; evidence podle § 21.
+[5] Obdobné použití § 16 odst. 2 znamená, že se písemná informace oznamovateli nepředá, jestliže výslovně požádal, aby vyrozumíván nebyl, nebo je zřejmé, že by vyrozuměním došlo k prozrazení jeho totožnosti jiné osobě. Není-li ministerstvu znám použitelný kontakt, nelze písemné předání fakticky uskutečnit; z § 18 neplyne povinnost zjišťovat totožnost anonymního oznamovatele.
+
+[6] § 18 se použije společně s § 20. Povinnost předat obdrženou informaci není obecným průlomem do ochrany totožnosti nebo jiných zákonných povinností důvěrnosti. Omezení předávaného obsahu však musí mít konkrétní právní základ; pouhá poznámka cílového orgánu, že zpráva není určena k dalšímu šíření, sama o sobě zákonný příkaz § 18 nemění.
+
+[7] Důvodová zpráva popisuje § 18 jako mechanismus, který nahrazuje chybějící přímý procesní nástroj původního oznamovatele vůči orgánu, u něhož podání formálně učinilo ministerstvo. Tento účel nelze obrátit v obecné přiznání postavení účastníka, práva nahlížet do spisu nebo nároku na určitý výsledek podle zvláštního procesního předpisu.
+
+[8] § 18 je účinný od 1. 8. 2023 a od vyhlášení nebyl změněn. Zákon č. 32/2025 Sb., podle něhož je celé konsolidované znění aktuální od 15. 2. 2025, zasáhl jiné ustanovení ZOO, nikoli § 18. Pro komentované ustanovení nebylo přijato zvláštní přechodné pravidlo; rozhodná je právní úprava účinná v době postupu ministerstva.
+
+#### Judikatura
+
+V pramenech použitých pro tuto jednotku není zařazeno soudní rozhodnutí přímo vykládající § 18. Jde o transparentní vymezení rozsahu této revize, nikoli o tvrzení, že takové rozhodnutí neexistuje, ani o dokončenou negativní judikatorní rešerši. Ověřený rozsudek NSS ze dne 22. 10. 2025, č. j. 8 Ads 100/2025-81, řeší časovou podmínku ochrany před odvetou podle §§ 4 a 7, nikoli zpětnou vazbu podle § 18, a proto zde není použit jako pramen výkladu.
+
+#### Praktický checklist
+
+- [ ] Navazuje postup skutečně na § 17 odst. 3 písm. a)?
+- [ ] Byla žádost o informaci odeslána současně s předáním a označuje použitelný jiný právní předpis?
+- [ ] Je odlišena povinnost ministerstva požádat od povinnosti cílového orgánu odpovědět?
+- [ ] Předává se písemně a bez zbytečného odkladu právě obdržená informace?
+- [ ] Byly prověřeny obě výjimky § 16 odst. 2 a konkrétní limity § 20?
+- [ ] Je doložena auditní stopa předání, žádosti, odpovědi a následného vyrozumění?
 
 ---
 
