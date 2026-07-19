@@ -959,15 +959,19 @@ V povinně přezkoumaném korpusu oficiálních plných textů a v předložený
 
 ### § 10 — Příslušná osoba
 
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > **§ 10**
 >
 > *(1) Příslušnou osobou může být jen fyzická osoba, která je bezúhonná, zletilá a plně svéprávná.*
 >
 > *(2) Za bezúhonnou osobu se pro účely tohoto zákona považuje osoba, která nebyla*
 >
-> *- a) pravomocně odsouzena pro úmyslný trestný čin, za který trestní zákoník stanoví trest odnětí svobody s horní hranicí trestní sazby více než 2 roky, nebo pro trestný čin spáchaný v souvislosti s výkonem práce nebo jiné obdobné činnosti, ledaže její odsouzení pro tyto trestné činy bylo zahlazeno nebo se na ni z jiného důvodu hledí, jako by nebyla odsouzena, nebo*
+> *a) pravomocně odsouzena pro úmyslný trestný čin, za který trestní zákoník stanoví trest odnětí svobody s horní hranicí trestní sazby více než 2 roky, nebo pro trestný čin spáchaný v souvislosti s výkonem práce nebo jiné obdobné činnosti, ledaže její odsouzení pro tyto trestné činy bylo zahlazeno nebo se na ni z jiného důvodu hledí, jako by nebyla odsouzena, nebo*
 >
-> *- b) v posledních 5 letech pravomocně uznána vinnou z přestupku podle § 24 odst. 1.*
+> *b) v posledních 5 letech pravomocně uznána vinnou z přestupku podle § 24 odst. 1.*
 >
 > *(3) Bezúhonnost podle odstavce 2 písm. a) se osvědčuje výpisem z Rejstříku trestů, který nesmí být starší než 3 měsíce. Osoba, která není státním občanem České republiky, osvědčuje bezúhonnost též obdobným dokladem, který nesmí být starší než 3 měsíce, osvědčujícím bezúhonnost, vydaným státem, jehož je státním občanem, případně státem, ve kterém osoba pobývala v posledních 3 letech nepřetržitě po dobu delší než 6 měsíců, a doloženým úředním překladem do českého jazyka; pokud takový doklad tento stát nevydává, doloží se bezúhonnost písemným čestným prohlášením. Osoba, která je nebo byla státním občanem jiného členského státu Evropské unie nebo má nebo měla adresu bydliště v jiném členském státě Evropské unie, může místo výpisu z evidence obdobné Rejstříku trestů doložit bezúhonnost výpisem z Rejstříku trestů s přílohou obsahující informace o jejích pravomocných odsouzeních za trestné činy a o navazujících údajích o těchto odsouzeních zapsaných v evidenci tohoto státu.*
 >
@@ -979,73 +983,72 @@ V povinně přezkoumaném korpusu oficiálních plných textů a v předložený
 >
 > *(7) Dozví-li se povinný subjekt, že příslušná osoba přestala splňovat podmínku bezúhonnosti podle odstavce 2, bez zbytečného odkladu zruší určení této osoby, a pokud by v důsledku toho neměl žádnou příslušnou osobu, současně určí jinou příslušnou osobu.*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Tři kvalifikační znaky příslušné osoby (odst. 1)
+§ 10 vymezuje osobní předpoklady příslušné osoby, autonomní zákonný pojem bezúhonnosti, doklady k jeho osvědčení a postup při pozdější ztrátě bezúhonnosti. Je nutné odlišit počáteční osvědčení kandidáta od desetidenní oznamovací povinnosti již určené osoby a od navazující povinnosti povinného subjektu zachovat kontinuitu funkce.
 
-Příslušnou osobou může být **jen fyzická osoba**, která splňuje:
+#### Souvisící ustanovení
 
-1. **Bezúhonnost** (specifikováno v odst. 2);
-2. **Zletilost** (18 let — § 30 OZ);
-3. **Plná svéprávnost** (§ 15 OZ — nedošlo k omezení svéprávnosti soudem).
+- § 8 odst. 2 a 3 — pověření vedením nebo sdílení vnitřního oznamovacího systému;
+- § 9 odst. 1 — určení jedné nebo více příslušných osob;
+- § 11 a § 12 — činnost a postup příslušné osoby;
+- § 24 odst. 1 písm. a) a odst. 2 — neoznámení ztráty bezúhonnosti a pokuta;
+- § 26 odst. 1 písm. b) a odst. 3 — neurčení příslušné nebo náhradní osoby a pokuta;
+- § 28 — příslušnost k projednávání přestupků;
+- §§ 29 a 30 — přechodné ustanovení a účinnost.
 
-Nemůže být příslušnou osobou **právnická osoba** (např. advokátní kancelář, compliance firma) — v takovém případě je nutné určit konkrétního zaměstnance/partnera této PO jako příslušnou osobu. To je zásadní pro výklad § 8 odst. 2: pověřit vedením VOS lze PO, ale konkrétní příslušnou osobou (s odpovědností podle § 11 a § 24) je vždy konkrétní FO.
+#### Souvisící předpisy
 
-#### Bezúhonnost — trestněprávní a přestupková (odst. 2)
+- zákon č. 40/2009 Sb., trestní zákoník — trestné činy, trestní sazby a účinky zahlazení nebo jiné fikce neodsouzení;
+- zákon č. 269/1994 Sb., o Rejstříku trestů — evidence a výpisy z Rejstříku trestů;
+- zákon č. 89/2012 Sb., občanský zákoník — zletilost a svéprávnost;
+- zákon č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich — obecné předpoklady přestupkové odpovědnosti.
 
-Bezúhonnost má **dvě dimenze**:
+#### Z důvodové zprávy
 
-**Písm. a) Trestněprávní bezúhonnost** — osoba nesmí být pravomocně odsouzena:
-- pro **úmyslný trestný čin** s horní hranicí trestní sazby **> 2 roky** — tj. řada středně závažných až závažných TČ (např. úmyslné krácení daně § 240 TZ, podvod § 209 TZ, zpronevěra § 206 TZ);
-- pro **TČ spáchaný v souvislosti s výkonem práce nebo jiné obdobné činnosti** (bez ohledu na typ a sazbu) — typicky korupce, porušení povinnosti při správě cizího majetku, neoprávněné nakládání s informacemi.
+Důvodová zpráva označuje bezúhonnost, zletilost a plnou svéprávnost za podmínky výkonu činnosti a bezúhonnost chápe jako netranspoziční prostředek k posílení důvěryhodnosti příslušné osoby a systému. Odborné a morální předpoklady uvádí jako okolnosti, které by povinný subjekt měl zkoumat, nikoli jako další výslovné zákonné kvalifikační znaky. Při výkladu odst. 7 je rozhodný užší text vyhlášeného zákona, který výslovně upravuje ztrátu bezúhonnosti.
 
-Výjimka: odsouzení **zahlazeno** (§ 105 TZ) nebo „hledí se, jako by nebyla odsouzena" (např. po fikci uplynutí doby). Bezúhonnost se osvědčuje **výpisem z Rejstříku trestů** ne starším než 3 měsíce. Pro zahraniční státní příslušníky platí speciální režim (odpovídající doklady ze státu původu).
+#### Literatura
 
-**Písm. b) Přestupková bezúhonnost podle ZOO** — osoba nesmí být v posledních 5 letech **pravomocně uznána vinnou z přestupku podle § 24 odst. 1** (přestupky příslušné osoby — neoznámení ztráty bezúhonnosti, odepření přijetí oznámení, neposouzení důvodnosti, porušení mlčenlivosti, nezákonné zveřejnění totožnosti). Bezúhonnost se zde osvědčuje **čestným prohlášením** (§ 10 odst. 5) — pětiletá rejstříková lhůta pro tento přestupek není v ČR centrálně evidována podobně jako TČ.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní literární rešerše.
 
-**Orgány veřejné moci** (povinné subjekty z písm. a) a c)–e) ZOO) mohou výpis z Rejstříku trestů vyžadovat **přímo elektronicky** (§ 10 odst. 4) — privilegovaný přístup orgánů veřejné moci k Rejstříku trestů.
+#### Výklad
 
-#### Trvalost bezúhonnosti — průběžné ověřování (odst. 6, 7)
+[1] Příslušnou osobou může být jen fyzická osoba splňující současně bezúhonnost, zletilost a plnou svéprávnost. Osoba pověřená podle § 8 odst. 2 může organizačně vést systém, ale určení podle § 9 odst. 1 musí směřovat ke konkrétní kvalifikované fyzické osobě. Zákon nestanoví další kvalifikační znak odborného vzdělání nebo praxe.
 
-Bezúhonnost není jednorázový stav, ale **trvalý požadavek**. Příslušná osoba je povinna **do 10 dnů** oznámit, že přestala splňovat podmínku (např. byla odsouzena nebo uznána vinnou z přestupku podle § 24). Toto je **její vlastní zákonná povinnost** — neoznámení je samostatným přestupkem podle § 24 odst. 1 písm. a) (pokuta až 20 000 Kč).
+[2] Bezúhonnost je pro účely tohoto zákona vymezena samostatně. Trestní překážka nastává při pravomocném odsouzení buď za úmyslný trestný čin s horní hranicí sazby více než dva roky, nebo za trestný čin spáchaný v souvislosti s výkonem práce či jiné obdobné činnosti. Zahlazení nebo jiný zákonný důvod, pro který se na osobu hledí, jako by nebyla odsouzena, překážku odstraňuje.
 
-Pokud se povinný subjekt dozví o ztrátě bezúhonnosti (z jakéhokoli zdroje), je povinen **bez zbytečného odkladu** zrušit určení této osoby. Pokud by tím přišel o jedinou příslušnou osobu, **současně určí jinou** — VOS nesmí zůstat bez příslušné osoby, jinak by byl ochromen.
+[3] Druhou, samostatnou překážkou je pravomocné uznání viny z kteréhokoli přestupku podle § 24 odst. 1 v posledních pěti letech. Rozhodné je pravomocné uznání viny a zákonem vymezené pětileté období; § 10 zde nezavádí posuzování závažnosti konkrétního přestupku.
 
-#### F. Kazuistika
+[4] Trestní složka se osvědčuje výpisem z Rejstříku trestů ne starším než tři měsíce. U osoby, která není českým občanem, se připojuje nejvýše tříměsíční obdobný doklad státu občanství, případně také státu, v němž v posledních třech letech pobývala nepřetržitě déle než šest měsíců, s úředním překladem; nevydává-li stát takový doklad, nastupuje písemné čestné prohlášení.
 
-**1. Modelová situace.** Povinný subjekt chce jako příslušnou osobu určit externí advokátní kancelář (s. r. o.). Současně uvažuje o stávajícím vedoucím compliance, který však byl před třemi lety pravomocně odsouzen pro úmyslný trestný čin podvodu (§ 209 TZ) s horní hranicí sazby přesahující 2 roky; odsouzení dosud nebylo zahlazeno. K obstarání: výpis z Rejstříku trestů kandidáta (ne starší 3 měsíců), zápis společnosti, čestné prohlášení podle § 10 odst. 5.
+[5] Od předchozího režimu je třeba odlišit unijní variantu: osoba, která je nebo byla občanem jiného členského státu Evropské unie nebo tam má či měla adresu bydliště, může místo evidence obdobné Rejstříku trestů předložit český výpis s přílohou obsahující údaje o odsouzeních a navazující údaje vedené tímto členským státem. Tato možnost sama neruší ostatní požadavky odst. 3, které na kandidáta dopadají.
 
-**2. Právní otázka.** Může být příslušnou osobou advokátní kancelář jako právnická osoba, a může jí být osoba odsouzená pro úmyslný TČ podvodu s nezahlazeným odsouzením?
+[6] Orgán veřejné moci může elektronicky a dálkově vyžádat výpis pro ověření českého občana, který má být určen. Odstavec 4 neopravňuje každého povinného subjektu ani neformuluje obecné průběžné prověřování již určených osob.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 10 odst. 1 (jen bezúhonná, zletilá, plně svéprávná fyzická osoba), odst. 2 písm. a) (trestněprávní bezúhonnost), odst. 3 (osvědčení výpisem z RT).
-- *Související ustanovení téhož zákona:* § 8 odst. 2 (pověřit vedením VOS lze i jinou osobu, ale příslušnou osobou je FO), § 11 (činnost), § 24 odst. 1 písm. a) (přestupek za neoznámení ztráty bezúhonnosti), § 10 odst. 6, 7.
-- *Související předpisy:* § 15, § 30 OZ (svéprávnost, zletilost); § 105 TZ (zahlazení); § 209 TZ (podvod); zák. č. 269/1994 Sb. (Rejstřík trestů).
-- *Judikatura:* k pojmu bezúhonnosti a účinkům zahlazení srov. ustálenou trestněprávní doktrínu — nosný závěr: po zahlazení se na pachatele hledí, jako by nebyl odsouzen, a bezúhonnost se obnovuje.
+[7] Přestupková složka se osvědčuje až na výzvu povinného subjektu nebo osoby pověřené vedením systému, a to čestným prohlášením kandidáta o posledních pěti letech. Text zákona nestanoví pravidelný interval obnovování výpisu ani čestného prohlášení. Podle mého názoru může nové vyžádání dokladů představovat přiměřenou kontrolní praxi, nesmí však být označeno za periodickou povinnost uloženou § 10.
 
-**4. Subsumpce.** § 10 odst. 1 výslovně vyžaduje **fyzickou osobu** → advokátní kancelář (PO) příslušnou osobou být nemůže; lze ji pověřit vedením VOS (§ 8 odst. 2), ale příslušnou osobou musí být konkrétní advokát/zaměstnanec. Kandidát z compliance je odsouzen pro úmyslný TČ podvodu (horní hranice > 2 roky), odsouzení nezahlazeno → nesplňuje bezúhonnost podle odst. 2 písm. a) a nemůže být příslušnou osobou.
+[8] Přestane-li již určená osoba splňovat bezúhonnost, musí tuto skutečnost do deseti dnů oznámit povinnému subjektu nebo pověřené osobě. Povinný subjekt po zjištění bez zbytečného odkladu zruší její určení; jestliže by jinak nezůstala žádná příslušná osoba, musí současně určit jinou. Zákon tedy spojuje náhradu s reálným výpadkem poslední příslušné osoby, nikoli s každým zrušením jednoho z více určení.
 
-**5. Řešení.** Subjekt může pověřit vedením VOS advokátní kancelář, ale musí jako příslušnou osobu určit konkrétní fyzickou osobu z této kanceláře, která splní podmínky § 10 (bezúhonnost doložená výpisem z RT ne starším 3 měsíců + čestné prohlášení podle odst. 5). Odsouzeného vedoucího compliance určit nelze, dokud nedojde k zahlazení odsouzení. Při ztrátě bezúhonnosti v průběhu výkonu funkce platí oznamovací povinnost do 10 dnů (odst. 6) a povinnost subjektu zrušit určení (odst. 7).
+[9] Odstavec 7 výslovně řeší jen ztrátu bezúhonnosti. Pozdější nesplnění zletilosti nebo plné svéprávnosti nelze pod tento odstavec podřadit analogií. Z § 10 odst. 1 ve spojení s § 9 odst. 1 však plyne, že povinný subjekt musí mít určenou osobu, která kvalifikační předpoklady splňuje; po zjištění nesplnění některého z nich proto nemůže na takové osobě dál stavět plnění povinnosti podle § 9 odst. 1.
 
-**6. Varianty.** (a) Pokud by odsouzení kandidáta bylo zahlazeno (§ 105 TZ), bezúhonnost by se obnovila a kandidát by mohl být určen. (b) Pokud by šlo o nedbalostní trestný čin nebo o úmyslný TČ s horní hranicí ≤ 2 roky nesouvisející s prací, bezúhonnost podle odst. 2 písm. a) by zachována zůstala.
+[10] Neoznámení ztráty bezúhonnosti je skutkem podle § 24 odst. 1 písm. a), za který lze podle odst. 2 uložit pokutu do 20 000 Kč. Neurčení osoby podle § 9 odst. 1 nebo náhrady podle § 10 odst. 7 spadá pod § 26 odst. 1 písm. b), s pokutou do 1 000 000 Kč podle odst. 3. Samotná vazba na skutkovou podstatu nenahrazuje posouzení všech obecných předpokladů přestupkové odpovědnosti a příslušného správního orgánu podle § 28.
 
-#### G. Protiargumenty a rizika
+[11] § 10 je účinný od 1. srpna 2023 a v konsolidovaném znění účinném od 15. února 2025 zůstal textově shodný s vyhlášeným zněním. § 29 obsahoval pouze omezený odklad zavedení systému pro vymezené povinné subjekty; zvláštní přechodné pravidlo pro kvalifikační předpoklady nebo doklady příslušné osoby nestanovil. Určení a doklady pořizované po účinnosti se posuzují podle § 10; jeho dokumentační požadavky nelze zpětně vydávat za podmínky úkonu dokončeného před účinností.
 
-- *Protiargument:* „Advokátní kancelář může být příslušnou osobou, vždyť ji lze pověřit vedením VOS." — Neutralizace: pověření vedením (§ 8 odst. 2) a určení příslušnou osobou jsou dvě různé věci; příslušnou osobou je podle § 10 odst. 1 vždy konkrétní fyzická osoba.
-- *Protiargument:* „Odsouzení je staré, kandidát se osvědčil, lze ho určit." — Neutralizace: dokud není odsouzení zahlazeno nebo nenastane fikce neodsouzení, podmínka bezúhonnosti není splněna; subjektivní „osvědčení se" zákonnou podmínku nenahrazuje.
-- *Slabé místo:* bezúhonnost podle odst. 2 písm. b) (přestupky podle § 24) se osvědčuje jen čestným prohlášením, neboť není centrálně evidována — riziko nepravdivého prohlášení.
+[12] Zákon nepředepisuje písemnou formu určení, zvláštní listinu o rozsahu oprávnění ani pravidla zastupitelnosti. Podle mého názoru jsou písemné zachycení určení, kontrola dokladů, určení zastupitelnosti a postup předání agendy vhodnou důkazní a organizační praxí; nejde však o další formální podmínky platnosti určení podle § 10.
 
-#### H. Praktický závěr
+#### Judikatura
 
-§ 10 stanoví tři kvalifikační znaky příslušné osoby (bezúhonnost, zletilost, plná svéprávnost) a vyžaduje, aby šlo vždy o fyzickou osobu. Bezúhonnost má trestněprávní (výpis z RT) a přestupkovou (čestné prohlášení) dimenzi a je trvalým požadavkem — ztrátu je nutné oznámit do 10 dnů a subjekt musí určení zrušit a případně určit jinou osobu.
+V povinně přezkoumaných oponenturách a v dostupném korpusu oficiálních plných textů nebylo identifikováno rozhodnutí, jehož nosným důvodem by byl přímý výklad § 10. Komentář proto nepřebírá obecnou judikaturu k bezúhonnosti nebo svéprávnosti bez konkrétní vazby na toto ustanovení. Jde o omezený výsledek přezkumu určeného korpusu, nikoli o tvrzení absolutní neexistence rozhodovací praxe.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je příslušnou osobou konkrétní fyzická osoba (nikoli PO)?
-- [ ] Splňuje zletilost a plnou svéprávnost?
-- [ ] Je doložena trestněprávní bezúhonnost výpisem z RT ne starším 3 měsíců (odst. 3) a přestupková čestným prohlášením (odst. 5)?
-- [ ] Je zaveden mechanismus pro oznámení ztráty bezúhonnosti do 10 dnů a pro zrušení určení (odst. 6, 7)?
+#### Praktický checklist
 
-**Typicky rozhodné důkazy / podklady:** výpis z Rejstříku trestů kandidáta; čestné prohlášení podle § 10 odst. 5; doklad o zletilosti a svéprávnosti; u PO pověřené vedením VOS — určení konkrétní FO.
+- [ ] Je určena konkrétní fyzická osoba a splňuje všechny tři předpoklady odst. 1?
+- [ ] Je trestní bezúhonnost doložena nejvýše tříměsíčním výpisem a jsou u cizozemských vazeb správně rozlišeny doklady podle odst. 3?
+- [ ] Bylo na výzvu předloženo čestné prohlášení k přestupkům podle § 24 odst. 1?
+- [ ] Je prakticky zajištěno oznámení ztráty bezúhonnosti, rychlé zrušení určení a současná náhrada poslední příslušné osoby?
+- [ ] Jsou doporučené dokumentační a zastupovací postupy zřetelně odděleny od zákonných podmínek § 10?
 
 ---
 
