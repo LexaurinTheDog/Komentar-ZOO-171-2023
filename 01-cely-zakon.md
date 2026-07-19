@@ -603,61 +603,55 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento 
 
 ### § 6 — Vzdání se ochrany před odvetným opatřením
 
-> **§ 6**
->
-> *Ke vzdání se práva na ochranu před odvetným opatřením se nepřihlíží.*
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Výklad:**
+#### Znění ustanovení
 
-#### Kogentnost ochrany — nelze se jí vzdát
+> Ke vzdání se práva na ochranu před odvetným opatřením se nepřihlíží.
 
-§ 6 zakotvuje **kogentní (donucující) charakter** ochrany. Standardní formulace „ke vzdání se práva se nepřihlíží" znamená, že případná dohoda mezi oznamovatelem a zaměstnavatelem (či jiným potenciálním původcem retaliace), kterou by se oznamovatel vzdal ochrany před odvetnými opatřeními, je **právně bezúčinná** — k takovému vzdání se nepřihlíží.
+#### Přehled výkladu
 
-Toto ustanovení reaguje na typickou praxi NDA a settlement dohod, kdy zaměstnavatel po skončení sporu (např. po výpovědi) podmiňuje odstupné, doporučení nebo smírné ukončení tím, že zaměstnanec se vzdá nároků z titulu retaliace nebo se zaváže nezveřejňovat informace. Takové klauzule jsou **neúčinné**:
+1. Funkce, osobní a věcný rozsah — marg. č. 1–3.
+2. Smluvní doložky a meze přímého závěru z § 6 — marg. č. 4–6.
+3. Časová působnost a praktické posouzení — marg. č. 7–8.
 
-- Vzdání se práva na zadostiučinění podle § 5 — neúčinné.
-- Vzdání se práva žalovat neplatnost výpovědi z důvodu retaliace — neúčinné.
-- Vzdání se práva podat oznámení (NDA o nepoškozování pověsti zaměstnavatele) — neúčinné, jakmile by oznámení mělo charakter chráněného oznámení podle ZOO.
+#### Souvisící ustanovení
 
-Vzdání se práva je nutné odlišit od **standardního smíru** v konkrétním sporu — pokud oznamovatel již získal odškodnění a uzavře dohodu o jeho přijetí a uzavření konkrétního sporu, jde o platné nakládání s již existujícím individuálním nárokem, nikoli o vzdání se ochrany ex ante.
+§ 2 (oznámení a práce nebo jiná obdobná činnost), § 3 (výjimky z povinnosti mlčenlivosti), § 4 (odvetné opatření a chráněné osoby), § 5 (zadostiučinění), § 7 (podmínky ochrany), § 27 odst. 1, 2 a 4 (přestupky bránění v oznámení a odvety).
 
-§ 6 odpovídá čl. 24 směrnice 2019/1937, který výslovně zakazuje členským státům dovolit vzdání se práv a opravných prostředků poskytovaných směrnicí.
+#### Souvisící předpisy
 
-#### F. Kazuistika
+Čl. 24 směrnice Evropského parlamentu a Rady (EU) 2019/1937.
 
-**1. Modelová situace.** Zaměstnanec při sjednávání odstupného po výpovědi podepíše s zaměstnavatelem dohodu o narovnání, v níž je klauzule: „Zaměstnanec se vzdává veškerých nároků vůči zaměstnavateli, včetně nároků z titulu ochrany oznamovatelů, a zavazuje se nepodávat jakákoli oznámení o poměrech zaměstnavatele." Po čase zjistí pokračující daňové úniky a chce je oznámit; zaměstnavatel se brání podepsanou klauzulí. K obstarání: text dohody, okolnosti jejího uzavření, datum a obsah zamýšleného oznámení.
+#### Z důvodové zprávy
 
-**2. Právní otázka.** Je klauzule, jíž se zaměstnanec předem vzdal ochrany před odvetným opatřením a práva podat oznámení, právně účinná, nebo se k ní podle § 6 nepřihlíží?
+Důvodová zpráva uvádí, že § 6 vylučuje zejména smluvní doložky, jimiž by se oznamovatel nebo jiná osoba podle § 4 odst. 2 vzdali ochrany podle zákona. Výslovně navazuje na čl. 24 směrnice a chápe ochranu před odvetou jako základní nárok, od něhož jsou odvozena další práva. Toto širší vysvětlení je interpretačním vodítkem; český text § 6 výslovně mluví o právu na ochranu před odvetným opatřením.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 6 (ke vzdání se práva na ochranu před odvetným opatřením se nepřihlíží).
-- *Související ustanovení téhož zákona:* § 4 (odvetná opatření), § 5 (zadostiučinění), § 7 (vznik ochrany), § 2 (co je oznámení).
-- *Související předpisy:* § 1 odst. 2, § 580, § 588 OZ (zdánlivost/neplatnost právního jednání odporujícího kogentní normě); § 1916 OZ (vzdání se práva); čl. 24 směrnice 2019/1937 (zákaz vzdání se práv a opravných prostředků).
-- *Judikatura:* k nepřípustnosti předchozího vzdání se kogentně chráněných práv srov. obecnou doktrínu k § 580 OZ a k pracovněprávní ochraně — nosný závěr: ujednání odporující kogentnímu zákazu nemá právní účinky.
+#### Literatura
 
-**4. Subsumpce.** Klauzule směřuje k tomu, aby se zaměstnanec ex ante vzdal (i) ochrany před odvetným opatřením a (ii) práva podat oznámení. § 6 výslovně stanoví, že k takovému vzdání se nepřihlíží. Klauzule je tedy v této části bezúčinná; budoucí oznámení o daňových únicích je chráněným oznámením podle § 2 odst. 1 písm. a), d) bez ohledu na podpis dohody.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
-**5. Řešení.** K ujednání o vzdání se ochrany se nepřihlíží (§ 6) — zaměstnanec může oznámení podat a požívá ochrany podle § 7; případné odvetné opatření opřené o porušení „závazku mlčet" by bylo neplatné. Je však třeba odlišit tuto neúčinnou klauzuli od platného narovnání již existujícího individuálního nároku (např. dohoda o výši odstupného za již proběhlou výpověď je platná v rozsahu vypořádání konkrétního sporu).
+#### Výklad
 
-**6. Varianty.** (a) Pokud by dohoda pouze vypořádávala konkrétní, již vzniklý nárok na zadostiučinění (oznamovatel přijal odškodné a uzavřel konkrétní spor), šlo by o platné nakládání s existujícím nárokem, nikoli o zakázané vzdání se ochrany ex ante. (b) Pokud by NDA chránilo legitimní obchodní tajemství nesouvisející s protiprávním jednáním, bylo by v tomto rozsahu platné — neúčinné je jen v části bránící chráněnému oznámení.
+[1] § 6 stanoví závazný následek vzdání se práva na ochranu před odvetným opatřením: k takovému vzdání se nepřihlíží. Ujednání ani jednostranné prohlášení proto nemůže samo odstranit ochranu, která osobě náleží za podmínek zákona.
 
-#### G. Protiargumenty a rizika
+[2] Osobní rozsah není omezen na oznamovatele. Důvodová zpráva výslovně zahrnuje také jiné osoby uvedené v § 4 odst. 2. V každém případě je nejprve nutné ověřit, zda dotčená osoba a oznámení splňují podmínky §§ 2, 4 a 7; § 6 sám ochranu nezakládá ani nerozšiřuje.
 
-- *Protiargument:* „Smluvní svoboda umožňuje vzdát se i těchto práv, strany se dohodly." — Neutralizace: § 6 je kogentní; čl. 24 směrnice zakazuje členským státům dovolit vzdání se práv; smluvní svoboda je zde zákonem omezena ve prospěch veřejného zájmu na odhalování protiprávnosti.
-- *Protiargument:* „Zaměstnanec přijal odstupné, nemůže nyní porušovat dohodu." — Neutralizace: vypořádání konkrétního minulého nároku je platné, ale nemůže zahrnovat vzdání se práva na budoucí oznámení a budoucí ochranu — v této části se k dohodě nepřihlíží.
-- *Slabé místo:* hranice mezi (neúčinným) vzdáním se ochrany ex ante a (platným) narovnáním konkrétního nároku může být v praxi sporná a vyžaduje pečlivou formulaci dohod.
+[3] Přímým předmětem českého ustanovení je „právo na ochranu před odvetným opatřením“. Článek 24 směrnice je formulován šířeji: zakazuje vzdání se i omezení práv a prostředků nápravy stanovených směrnicí jakoukoli dohodou, politikou, formou nebo podmínkami pracovního či obdobného poměru, včetně předběžné rozhodčí dohody. Při výkladu § 6 je třeba oba texty rozlišovat a českou dikci bez další opory automaticky nezaměňovat za úplnou vnitrostátní úpravu každé procesní dispozice.
 
-#### H. Praktický závěr
+[4] Název nebo typ dokumentu nerozhoduje. § 6 může dopadat na část pracovní smlouvy, interní politiky, dohody o skončení vztahu, dohody o mlčenlivosti nebo jiného ujednání, pokud jeho skutečným obsahem je vzdání se práva na ochranu před odvetným opatřením. Z textu § 6 plyne nepřihlížení k tomuto vzdání, nikoli bez dalšího neúčinnost celého dokumentu.
 
-§ 6 činí ochranu před odvetným opatřením kogentní a nezadatelnou — k jejímu vzdání se nepřihlíží. Typické NDA a settlement klauzule bránící oznámení nebo vzdávající se nároků z retaliace jsou v této části bezúčinné. Platné zůstává jen narovnání již existujícího individuálního nároku.
+[5] Je nutné oddělit zákaz podat oznámení, vzdání se ochrany před odvetou, vzdání se konkrétního nároku a procesní úkon. § 6 výslovně řeší druhou z těchto situací. Zda a s jakým následkem dopadne na ostatní části konkrétního ujednání, vyžaduje posouzení jeho obsahu, podmínek ochrany podle zákona a použitelných zvláštních pravidel; přímá česká judikatura k § 6 nebyla v použitých oficiálních pramenech ověřena.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Směřuje ujednání ke vzdání se ochrany před odvetným opatřením ex ante (pak se k němu nepřihlíží)?
-- [ ] Nebo jde o platné vypořádání již vzniklého konkrétního nároku?
-- [ ] Brání klauzule podání budoucího chráněného oznámení (neúčinná v této části)?
-- [ ] Je NDA omezeno jen na legitimní obchodní tajemství nesouvisející s protiprávním jednáním?
+[6] Stejně opatrně je třeba posuzovat narovnání již vzniklého sporu a předběžnou rozhodčí doložku. Článek 24 výslovně zmiňuje předběžnou rozhodčí dohodu, ale český § 6 neurčuje její konkrétní procesní následek. Podle mého názoru proto nelze z § 6 samotného kategoricky dovodit ani obecnou platnost narovnání vzniklého nároku, ani obecnou nepoužitelnost rozhodčí doložky; rozhodující je přesný obsah dispozice a celý použitelný právní režim.
 
-**Typicky rozhodné důkazy / podklady:** text dohody/NDA; okolnosti a datum uzavření; obsah a datum zamýšleného/učiněného oznámení; doklad o tom, zda jde o minulý vypořádaný nárok, nebo o budoucí ochranu.
+[7] Zákon je účinný od 1. 8. 2023 a § 29 neobsahuje zvláštní přechodné pravidlo pro § 6. Bez přímé judikatorní opory nelze vytvořit obecné pravidlo pro všechny smlouvy uzavřené před tímto dnem. Podle mého názoru je nutné oddělit dobu sjednání klauzule, dobu tvrzeného vzdání se ochrany, vznik zákonné ochrany a dobu, kdy má klauzule vyvolat účinek; konkrétní intertemporální výsledek zůstává otevřený.
+
+[8] Praktický test má čtyři kroky: určit chráněnou osobu a vznik ochrany; vyložit skutečný obsah sporné klauzule nebo prohlášení; oddělit vzdání se ochrany od zákazu oznámení, majetkového vypořádání a procesního úkonu; a určit pouze ten následek, pro který existuje opora v § 6, čl. 24 a použitelných zvláštních pravidlech. Jde o redakční pomůcku, nikoli o zákonný test.
+
+#### Judikatura
+
+V použitých oficiálních pramenech nebylo ověřeno přímé meritorní rozhodnutí českého soudu k § 6 zákona č. 171/2023 Sb. Komentář proto nepřenáší obecnou judikaturu o kogentních normách na konkrétní otázky NDA, narovnání, procesních dispozic nebo rozhodčích doložek.
 
 ---
 
