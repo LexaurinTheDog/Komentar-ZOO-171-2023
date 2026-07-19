@@ -796,96 +796,70 @@ Rozsudek NSS ze dne 22. 10. 2025, č. j. 8 Ads 100/2025-81, zrušil rozsudek Mě
 >
 > *(4) Počet obyvatel obce podle odstavce 1 písm. a) bodu 1 se posuzuje k 1. květnu příslušného kalendářního roku na základě bilance počtu obyvatel v obcích zpracované Českým statistickým úřadem každoročně k 1. lednu toho kalendářního roku.*
 
-**Výklad:**
+> Revize: JUDr. Vojtěch Říha, Ph.D. | Rozhodný stav: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-#### Pět kategorií povinných subjektů (odst. 1)
+#### Znění ustanovení
 
-§ 8 odst. 1 vymezuje pět kategorií subjektů, na něž dopadá povinnost zavést **vnitřní oznamovací systém** (VOS):
+Citované znění odpovídá konsolidovanému znění účinnému od 15. 2. 2025.
 
-**Písm. a) Veřejní zadavatelé** podle § 4 zák. č. 134/2016 Sb. (ZZVZ) — Česká republika a její organizační složky, územní samosprávné celky a jejich příspěvkové organizace, právnické osoby zřízené za veřejným účelem, atd. **Dvě výjimky**:
-- obce s **méně než 10 000 obyvateli** (bod 1) — zákonodárce zde respektuje administrativní kapacity malých obcí; klíč je daný bilancí ČSÚ k 1. lednu;
-- malé veřejnoprávní PO (bod 2) — pod 50 zaměstnanců, neprůmyslová/neobchodní povaha, financované/ovládané krajem/obcí.
+#### Přehled výkladu
 
-**Písm. b) Zaměstnavatelé s 50+ zaměstnanci** — klíčové kritérium pro **soukromý sektor**. Rozhodný stav k **1. lednu** kalendářního roku, počítá se průměrný stav. Výjimka: tato kategorie se nepoužije, je-li zaměstnavatel již povinnou osobou podle AML zákona (č. 253/2008 Sb.) — typicky banky, pojišťovny, advokáti, notáři, realitní makléři, obchodníci s nemovitostmi atd. Pro ně platí přísnější režim podle AML, který ZOO nemá nahrazovat.
+Povinné subjekty a výjimky [1]–[5]; rozhodné počty [6]–[7]; pověření a sdílení [8]–[10]; intertemporalita [11]–[12]; praktické ověření [13].
 
-**Písm. c) Orgány veřejné moci v oblasti daní z příjmů PO** — finanční úřady, GFŘ, Ministerstvo financí pro účely správy DPPO a odvodů za porušení rozpočtové kázně. Cíleno na harmonizovanou oblast unijního práva (čl. 3 a Příloha I směrnice 2019/1937 — daňové podvody).
+#### Souvisící ustanovení
 
-**Písm. d) Specializovaná odvětví** — civilní letectví (zák. č. 49/1997 Sb.), námořní doprava (zák. č. 61/2000 Sb. — § 12i bezpečnostní inspekce, § 12o vyšetřování námořních nehod, § 13d ochrana před činy protiprávního zasahování), ropa a zemní plyn na moři (zák. č. 312/2015 Sb.). Tyto sektory mají vlastní bezpečnostní rizika a unijní harmonizaci.
+§§ 9–12 (povinnosti povinného subjektu, příslušná osoba a její postup); § 20 (důvěrnost); § 26 odst. 1 (přestupky povinného subjektu); § 28 (příslušnost); § 29 a § 30 (přechodné ustanovení a účinnost).
 
-**Písm. e) Specializované finanční subjekty** — kategorie navržená pro **subjekty regulované finančně, ale nepokryté AML zákonem**:
-1. Vybrané osoby z kapitálového trhu podle § 135 odst. 1 zák. č. 256/2004 Sb. — písm. i) organizátor regulovaného trhu, p) centrální depozitář, u) vypořádací systém, x) centrální depozitář dluhopisů, za) ratingová agentura, zc), zd) atd.
-2. Osoby podle § 534 písm. a)–d) zák. č. 240/2013 Sb. o ISIF — investiční společnosti, samosprávné investiční fondy atd.
-3. Ústřední protistrany a registry obchodních údajů (nař. EU č. 648/2012, EMIR).
-4. Vázaní zástupci pro zprostředkování spotřebitelského úvěru na bydlení (zák. č. 257/2016 Sb.).
-5. Pojišťovny a zajišťovny.
-6. Zprostředkovatelé pojištění (zák. č. 170/2018 Sb.).
-7. Instituce zaměstnaneckého penzijního pojištění (zák. č. 340/2006 Sb.).
-8. **Subjekty trhů kryptoaktiv** podle nař. EU 2023/1114 (MiCA) — emitenti tokenů vázaných na aktiva, osoby veřejně nabízející kryptoaktiva. Doplněno novelou č. 31/2024 Sb. v návaznosti na MiCA.
+#### Souvisící předpisy
 
-#### Možnost outsourcingu VOS (odst. 2)
+Zákon č. 134/2016 Sb., o zadávání veřejných zakázek; zákon č. 253/2008 Sb., AML zákon; směrnice (EU) 2019/1937, zejména čl. 8 a čl. 26 odst. 2; nařízení (EU) 2023/1114 o trzích kryptoaktiv; zákon č. 32/2025 Sb., čl. XIX a čl. XXII.
 
-Povinný subjekt **může pověřit vedením VOS jinou osobu** — typicky advokátní kancelář, specializovanou compliance firmu, externího auditora. Pověření má praktický význam pro:
+#### Z důvodové zprávy
 
-- malé subjekty bez vlastních HR/compliance kapacit;
-- subjekty se zájmem na nezávislosti VOS (typicky odstínění od interních konfliktů zájmů);
-- subjekty hledající úsporu nákladů.
+Důvodová zpráva vysvětluje volbu kategorií povinných subjektů, možnost externího vedení systému a zachování odpovědnosti povinného subjektu. U sdílení uvádí, že soukromoprávní zaměstnavatelé mohou sdílet celý systém včetně příslušné osoby; každý povinný subjekt však musí splnit zákonný požadavek jejího určení. K § 29 označuje odklad do 15. prosince 2023 za dodatečný prostor pro soukromoprávní subjekty s 50 až 249 zaměstnanci.
 
-**Klíčové: odpovědnost povinného subjektu zůstává nedotčena** — pověření je vnitřní obchodní vztah, vůči oznamovatelům a státu odpovídá nadále povinný subjekt. To znamená, že případné porušení povinností (např. porušení mlčenlivosti externím provider­em) zatíží subjekt sankčně i občanskoprávně, byť mu vůči externímu provideru přísluší regresní nárok podle smlouvy.
+#### Literatura
 
-#### Sdílení VOS — malé a střední subjekty (odst. 3)
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
-**Povinné subjekty se 50–249 zaměstnanci** (s výjimkou veřejných zadavatelů) mohou:
+#### Výklad
 
-- **sdílet VOS** mezi sebou (jedno řešení slouží pro více subjektů);
-- **využít VOS zavedený jiným povinným subjektem** (např. mateřskou společností v koncernu).
+[1] § 8 odst. 1 obsahuje pět samostatných vstupních kategorií povinných subjektů. Zařazení je třeba ověřovat podle přesného textu příslušného písmene; obecná podobnost se jmenovaným subjektem nestačí.
 
-Podmínka: každý subjekt musí určit **vlastní příslušnou osobu** k plnění úkolů podle § 12 odst. 1 a 2 (přijetí oznámení a vyrozumění). To znamená, že sdílení technické infrastruktury nesmí znamenat sdílení osob — každý povinný subjekt potřebuje vlastní fyzickou osobu odpovědnou za vyhodnocení oznámení.
+[2] Písmeno a) vychází z postavení veřejného zadavatele. Z této kategorie vyjímá obec s méně než 10 000 obyvateli a vymezenou právnickou osobu s méně než 50 zaměstnanci, splní-li současně ostatní znaky bodu 2.
 
-**Obce** (jako povinné subjekty) mohou sdílet VOS **mezi sebou** — typicky v rámci mikroregionu, svazku obcí. I zde si však každá obec určí vlastní příslušnou osobu, ledaže jde o malou obec pod 10 000 obyvatel (která není povinným subjektem).
+[3] Písmeno b) dopadá na zaměstnavatele s nejméně 50 zaměstnanci k 1. lednu příslušného roku, není-li povinnou osobou podle AML zákona. AML výluka je součástí právě písmen b) a e); sama o sobě nevylučuje, že subjekt naplní jinou kategorii § 8 odst. 1.
 
-Odpovědnost subjektů, které VOS sdílejí, zůstává **nedotčená** — každý odpovídá za své povinnosti samostatně.
+[4] Písmena c) a d) nejsou vázána na obecný práh 50 zaměstnanců. Rozhoduje konkrétní působnost orgánu nebo konkrétní činnost ve vyjmenovaných oblastech.
 
-#### Stanovení počtu obyvatel (odst. 4)
+[5] Písmeno e) vyjmenovává finanční subjekty, jsou-li zaměstnavateli a nejsou-li povinnými osobami podle AML zákona. Bod 8 byl do § 8 odst. 1 písm. e) doplněn zákonem č. 32/2025 Sb. pro vyjmenované osoby na trzích kryptoaktiv; nejde o obecné zahrnutí všech poskytovatelů služeb souvisejících s kryptoaktivy.
 
-Pro účely obecní hranice 10 000 obyvatel se počet posuzuje **k 1. květnu** kalendářního roku na základě bilance ČSÚ zpracované k 1. lednu téhož roku. Pravidlo zajišťuje předvídatelnost — obec zná své postavení s několikaměsíčním předstihem.
+[6] U zaměstnanců pracuje účinné znění s údajem k 1. lednu příslušného kalendářního roku; u výjimky v písmenu a) bodu 2 a u písmene b) výslovně používá průměr. ZOO nestanoví vlastní úplnou metodiku započítávání jednotlivých forem práce. Důvodová zpráva zmiňuje pracovní poměr, dohody, částečné úvazky a agenturní zaměstnance, avšak zejména v sankční věci nelze tuto pasáž bez dalšího vydávat za samostatné zákonné pravidlo.
 
-#### F. Kazuistika
+[7] Počet obyvatel pro obecní výjimku se podle odstavce 4 posuzuje k 1. květnu z každoroční bilance ČSÚ zpracované k 1. lednu téhož roku. Zákon tedy odlišuje rozhodný den posouzení od referenčního dne bilance.
 
-**1. Modelová situace.** Výrobní firma zaměstnává k 1. lednu v průměru 60 zaměstnanců a není povinnou osobou podle AML zákona. Jednatel se domnívá, že VOS zavádět nemusí, protože „firma není veřejný zadavatel". Současně mateřská společnost koncernu (300 zaměstnanců) nabízí sdílení svého VOS. Firma zvažuje, zda může VOS sdílet a zda stačí, že posuzování bude provádět příslušná osoba mateřské společnosti. K obstarání: evidenční počet zaměstnanců k 1. lednu, struktura koncernu, smlouva o sdílení VOS.
+[8] Odstavec 2 dovoluje pověřit vedením systému jinou osobu, ale výslovně zachovává odpovědnost povinného subjektu za § 9. Pověření proto není převodem veřejnoprávní odpovědnosti.
 
-**2. Právní otázka.** Je zaměstnavatel s 60 zaměstnanci povinným subjektem, smí VOS sdílet s mateřskou společností, a postačí k tomu příslušná osoba mateřské společnosti, nebo musí určit vlastní?
+[9] Sdílet systém nebo využít systém jiného povinného subjektu mohou podle první věty odstavce 3 jiné povinné subjekty než veřejní zadavatelé, zaměstnávaly-li k 1. lednu nejvýše 249 zaměstnanců. Obce, které jsou povinnými subjekty, mají zvláštní oprávnění sdílet systém mezi sebou. Odpovědnost za § 9 zůstává každému zapojenému subjektu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 8 odst. 1 písm. b) (zaměstnavatel 50+ zaměstnanců), odst. 3 (sdílení VOS pro subjekty do 249 zaměstnanců s podmínkou vlastní příslušné osoby).
-- *Související ustanovení téhož zákona:* § 9 (povinnosti subjektu), § 10–12 (příslušná osoba a její postup), § 29 (přechodná lhůta do 15. 12. 2023), § 26 (přestupky za nezavedení VOS).
-- *Související předpisy:* zák. č. 253/2008 Sb. (AML — vylučovací podmínka); zák. č. 134/2016 Sb. (ZZVZ — veřejní zadavatelé); čl. 8 směrnice 2019/1937 (povinnost zřídit interní kanály) a čl. 8 odst. 6 (možnost sdílení u 50–249 zaměstnanců).
-- *Judikatura:* k povaze transpoziční povinnosti zřídit kanály srov. účel směrnice; přímá judikatura k § 8 ZOO je dosud nerozvinutá, rozhodný je gramatický a teleologický výklad.
+[10] Podmínkou sdílení je, aby povinný subjekt určil osobu příslušnou k úkolům podle § 12 odst. 1 a 2. Text neříká, že pro každý subjekt musí jít o odlišnou fyzickou osobu; důvodová zpráva naopak připouští sdílení příslušné osoby. Nelze však sdílením obejít individuální určení ani povinnosti důvěrnosti a následného postupu.
 
-**4. Subsumpce.** Firma má 60 zaměstnanců (≥ 50) a není povinnou osobou podle AML → je povinným subjektem podle § 8 odst. 1 písm. b). Má 60 zaměstnanců (≤ 249) a není veřejným zadavatelem → smí VOS sdílet s mateřskou společností podle odst. 3. Podmínkou je však, že **určí vlastní osobu příslušnou** k plnění úkolů podle § 12 odst. 1 a 2 — sdílení technické infrastruktury nezbavuje povinnosti mít vlastní příslušnou osobu.
+[11] Zákon nabyl účinnosti 1. 8. 2023. § 29 poskytl pouze povinným subjektům, které nebyly veřejnými zadavateli a k tomuto dni zaměstnávaly nejméně 50 a méně než 250 zaměstnanců, lhůtu k zavedení systému do 15. 12. 2023. Šlo o jednorázově vyčerpaný odklad, nikoli o obecnou čtyřapůlměsíční lhůtu pro subjekt, který se povinným stane později.
 
-**5. Řešení.** Firma je povinným subjektem a musí mít VOS; může využít sdílený VOS mateřské společnosti, ale musí určit vlastní příslušnou osobu (nestačí příslušná osoba mateřské společnosti). Odpovědnost za plnění povinností podle § 9 zůstává nedotčena i při sdílení. Nezavedení VOS nebo neurčení příslušné osoby je přestupkem podle § 26 odst. 1 písm. b) s pokutou až 1 000 000 Kč.
+[12] Zákon č. 32/2025 Sb. byl vyhlášen 14. 2. 2025 a jeho čl. XIX, na který nedopadá žádná z výjimek čl. XXII, nabyl účinnosti následující den. Pro doplněný bod 8 nestanovil zvláštní přechodnou lhůtu; § 29 se na nový stav zpětně nepřenáší.
 
-**6. Varianty.** (a) Pokud by firma byla povinnou osobou podle AML, nebyla by povinným subjektem podle písm. b) — platil by pro ni přísnější AML whistleblowing režim. (b) Pokud by šlo o veřejného zadavatele, možnost sdílení podle odst. 3 by se neuplatnila (odst. 3 veřejné zadavatele vylučuje) — musel by mít vlastní VOS i vlastní příslušnou osobu.
+[13] Praktické posouzení má zachytit právní důvod zařazení, rozhodný počet zaměstnanců nebo obyvatel, AML status, datum případné změny statusu, akt určení příslušné osoby a smluvní i faktické nastavení pověření či sdílení. U sdíleného systému se samostatně ověří, zda každý subjekt plní § 9 a zda přístup k oznámením odpovídá §§ 12 a 20.
 
-#### G. Protiargumenty a rizika
+#### Judikatura
 
-- *Protiargument:* „Sdílením VOS s mateřskou společností přechází i odpovědnost na ni." — Neutralizace: odst. 3 výslovně stanoví, že odpovědnost za porušení povinností podle § 9 sdílením není dotčena; každý subjekt odpovídá samostatně.
-- *Protiargument:* „Když posuzuje příslušná osoba mateřské společnosti, není třeba určovat vlastní." — Neutralizace: odst. 3 podmiňuje sdílení určením vlastní osoby příslušné k úkolům podle § 12 odst. 1 a 2; sdílí se infrastruktura, nikoli příslušná osoba.
-- *Slabé místo:* určení rozhodného počtu zaměstnanců (průměr k 1. lednu) může být sporné u firem kolísajících kolem hranice 50; chybné posouzení vede k riziku přestupku.
+V použitých oficiálních pramenech nebylo zjištěno rozhodnutí, které by přímo vykládalo § 8. Tento výsledek není absolutním tvrzením o neexistenci judikatury; komentář proto nestaví žádný závěr na pouhém keyword hitu ani na rozhodnutí k jinému ustanovení.
 
-#### H. Praktický závěr
+#### Praktický checklist
 
-§ 8 vymezuje pět kategorií povinných subjektů (veřejní zadavatelé s výjimkami; zaměstnavatelé 50+; daňové orgány; specializovaná odvětví; specializované finanční subjekty). Umožňuje outsourcing vedení VOS (odst. 2, odpovědnost zůstává) a sdílení VOS pro subjekty do 249 zaměstnanců (odst. 3, podmínka vlastní příslušné osoby). Klíčové vyloučení: zaměstnavatelé, kteří jsou povinnými osobami podle AML.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Spadá subjekt do některé z pěti kategorií § 8 odst. 1 (zejména 50+ zaměstnanců k 1. lednu)?
-- [ ] Není subjekt vyloučen jako povinná osoba podle AML zákona [písm. b)]?
-- [ ] Při sdílení/outsourcingu: je určena vlastní příslušná osoba (odst. 3) a je jasné, že odpovědnost zůstává nedotčena?
-- [ ] U obce: je správně zjištěn počet obyvatel k 1. květnu dle bilance ČSÚ (odst. 4)?
-
-**Typicky rozhodné důkazy / podklady:** evidence průměrného počtu zaměstnanců k 1. lednu; doklad o (ne)postavení jako povinná osoba AML; smlouva o sdílení/pověření VOS; doklad o určení příslušné osoby.
-
----
+- [ ] Určit konkrétní písmeno a případný bod § 8 odst. 1; ověřit všechny jeho znaky a výjimky.
+- [ ] Doložit rozhodný počet zaměstnanců, u obce údaj podle odstavce 4 a u písmen b) a e) AML status.
+- [ ] Při pověření nebo sdílení doložit určení příslušné osoby a zachování odpovědnosti každého povinného subjektu.
+- [ ] U časově hraniční věci oddělit účinnost zákona, jednorázový odklad podle § 29 a změnu účinnou 15. 2. 2025.
 
 ### § 9 — Povinnosti povinného subjektu
 
