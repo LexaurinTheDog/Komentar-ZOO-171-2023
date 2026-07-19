@@ -863,124 +863,97 @@ V použitých oficiálních pramenech nebylo zjištěno rozhodnutí, které by p
 
 ### § 9 — Povinnosti povinného subjektu
 
-> **§ 9**
->
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > *(1) Povinný subjekt určí příslušnou osobu nebo příslušné osoby k výkonu činnosti podle § 11.*
 >
 > *(2) Povinný subjekt dále zajistí*
 >
-> *- a) možnost oznamovatele podat oznámení prostřednictvím vnitřního oznamovacího systému písemně i ústně nebo na jeho žádost osobně; pro osobu, která pro povinný subjekt nevykonává práci nebo jinou obdobnou činnost podle § 2 odst. 3 písm. a), b), h) nebo i), to platí pouze, pokud povinný subjekt přijímání oznámení od této osoby nevyloučil,*
+> *a) možnost oznamovatele podat oznámení prostřednictvím vnitřního oznamovacího systému písemně i ústně nebo na jeho žádost osobně; pro osobu, která pro povinný subjekt nevykonává práci nebo jinou obdobnou činnost podle § 2 odst. 3 písm. a), b), h) nebo i), to platí pouze, pokud povinný subjekt přijímání oznámení od této osoby nevyloučil,*
 >
-> *- b) uveřejnění následujících informací způsobem umožňujícím dálkový přístup:*
+> *b) uveřejnění následujících informací způsobem umožňujícím dálkový přístup:*
 >
-> *- 1. o způsobech oznamování prostřednictvím vnitřního oznamovacího systému a ministerstvu,*
+> *1. o způsobech oznamování prostřednictvím vnitřního oznamovacího systému a ministerstvu,*
 >
-> *- 2. označení příslušné osoby, její telefonní číslo a adresu elektronické pošty nebo jinou adresu pro doručování a*
+> *2. označení příslušné osoby, její telefonní číslo a adresu elektronické pošty nebo jinou adresu pro doručování a*
 >
-> *- 3. zda povinný subjekt vylučuje přijímání oznámení od osoby, která pro povinný subjekt nevykonává práci nebo jinou obdobnou činnost podle § 2 odst. 3 písm. a), b), h) nebo i),*
+> *3. zda povinný subjekt vylučuje přijímání oznámení od osoby, která pro povinný subjekt nevykonává práci nebo jinou obdobnou činnost podle § 2 odst. 3 písm. a), b), h) nebo i),*
 >
-> *- c) poučení příslušné osoby o právech a povinnostech, které pro ni vyplývají z tohoto zákona; povinný subjekt s příslušnou osobou o poučení sepíšou záznam,*
+> *c) poučení příslušné osoby o právech a povinnostech, které pro ni vyplývají z tohoto zákona; povinný subjekt s příslušnou osobou o poučení sepíšou záznam,*
 >
-> *- d) aby se s podanými oznámeními mohla seznamovat pouze příslušná osoba a aby byl dodržen zákaz poskytnout údaje podle § 20,*
+> *d) aby se s podanými oznámeními mohla seznamovat pouze příslušná osoba a aby byl dodržen zákaz poskytnout údaje podle § 20,*
 >
-> *- e) posouzení důvodnosti oznámení příslušnou osobou,*
+> *e) posouzení důvodnosti oznámení příslušnou osobou,*
 >
-> *- f) vyrozumění oznamovatele o přijetí oznámení podle § 12 odst. 2 a o výsledcích posouzení důvodnosti oznámení podle § 12 odst. 3 a*
+> *f) vyrozumění oznamovatele o přijetí oznámení podle § 12 odst. 2 a o výsledcích posouzení důvodnosti oznámení podle § 12 odst. 3 a*
 >
-> *- g) přijetí vhodných opatření k nápravě nebo předejití protiprávního stavu v návaznosti na podané oznámení.*
+> *g) přijetí vhodných opatření k nápravě nebo předejití protiprávního stavu v návaznosti na podané oznámení.*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Sedmero povinností povinného subjektu
+- nositel odpovědnosti, určení příslušné osoby a zastupitelnost — marg. č. 1–2;
+- vstupní kanály, osobní podání a osobní rozsah — marg. č. 3–4;
+- uveřejnění, poučení a důvěrnost — marg. č. 5–7;
+- posouzení, vyrozumění, náprava a sankční vazby — marg. č. 8–9;
+- časová působnost a praktické ověření — marg. č. 10–11.
 
-§ 9 katalogizuje povinnosti povinného subjektu v souvislosti s VOS — strukturováno do **jedné základní povinnosti** (odst. 1: určit příslušnou osobu) a **sedmi zajišťovacích povinností** (odst. 2 písm. a–g):
+#### Souvisící ustanovení
 
-**Odst. 1 — Určení příslušné osoby**
+- § 2 odst. 3 — práce nebo jiná obdobná činnost;
+- § 8 odst. 2 a 3 — pověření vedením a sdílení VOS při zachování odpovědnosti za § 9;
+- §§ 10–12 — podmínky a činnost příslušné osoby a postup po podání oznámení;
+- §§ 19–21 — záznam ústního oznámení, zákaz poskytnutí údajů, evidence a uchovávání;
+- §§ 22, 26, 28 a 29 — kontrolní opatření, přestupky, příslušnost a přechodné ustanovení.
 
-Bez určení příslušné osoby nemůže VOS fungovat — jde o **nezbytný personální základ**. Subjekt může určit i více příslušných osob (např. v různých provozech, lokalitách, ve velkých organizacích). Každá příslušná osoba musí splňovat podmínky § 10. Porušení této povinnosti je přestupek podle § 26 odst. 1 písm. b) (pokuta až 1 000 000 Kč).
+#### Souvisící předpisy
 
-**Odst. 2 písm. a) — Způsoby podání oznámení**
+- směrnice Evropského parlamentu a Rady (EU) 2019/1937, zejména čl. 8 odst. 2, 5 a 6, čl. 9 a čl. 16.
 
-VOS musí umožnit:
-- **písemné** podání (typicky e-mail, online formulář, fyzická pošta);
-- **ústní** podání (telefonicky, případně audio záznam);
-- **osobní** podání **na žádost oznamovatele** (přiměřená lhůta, nejdéle 14 dnů — § 12 odst. 1).
+#### Z důvodové zprávy
 
-Vůči **externím osobám** (B2B dodavatelé, OSVČ, společníci atd. — osoby, které pro subjekt nevykonávají závislou práci, službu, dobrovolnictví ani stáž) může subjekt **přijímání oznámení vyloučit** — typicky pro snížení administrativní zátěže. Pokud tak učiní, musí to **zveřejnit** [písm. b) bod 3].
+Důvodová zpráva ke sněmovnímu tisku 352/0 označuje příslušnou osobu za základ VOS a ponechává počet příslušných osob na uvážení povinného subjektu. U písmene a) spojuje více způsobů podání s odstraněním překážek oznamování; u písmene b) zdůrazňuje veřejnou dostupnost informací a důvěru ve fungování systému; u písmene c) vysvětluje záznam o poučení jako kontrolní podklad; u písmene d) váže výlučný přístup na ochranu totožnosti a zákaz přístupu neoprávněných pracovníků. Písmena e) až g) popisuje jako navazující proces posouzení, vyrozumění a přijetí vhodného opatření, podrobněji upravený v §§ 11 a 12. Jde o výkladový pramen; sám nerozšiřuje zákonné povinnosti ani skutkové podstaty přestupků.
 
-**Odst. 2 písm. b) — Informační povinnost**
+#### Literatura
 
-Subjekt zveřejní **dálkovým přístupem** (typicky na webových stránkách) tři okruhy informací:
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o výsledek negativní literární rešerše.
 
-1. **Způsoby oznamování** prostřednictvím VOS a zároveň prostřednictvím MSp — povinné subjekty nesmí oznamovatelům zatajovat externí kanál.
-2. **Identifikaci příslušné osoby** — jméno (nebo jiné označení), telefon, e-mail nebo jiná adresa pro doručování. Vůči anonymitě oznamovatele ZOO směřuje k osobní identifikaci příslušné osoby — oznamovatel musí vědět, kdo konkrétně oznámení přijme.
-3. **Případné vyloučení** externích oznamovatelů.
+#### Výklad
 
-**Odst. 2 písm. c) — Poučení příslušné osoby**
+[1] § 9 rozděluje povinnosti povinného subjektu na určení jedné nebo více příslušných osob podle odstavce 1 a sedm zajišťovacích povinností podle odstavce 2 písm. a) až g). Pověření jiné osoby vedením VOS ani jeho přípustné sdílení nepřenáší odpovědnost za plnění § 9; § 8 odst. 2 a 3 ji výslovně ponechává povinnému subjektu.
 
-Povinný subjekt poučí příslušnou osobu o jejích právech a povinnostech podle ZOO a sepíše o tom **záznam** podepsaný oběma stranami. Cíl: jasná evidence toho, že příslušná osoba zná zákonný rámec a může se jím řídit.
+[2] Zákon nestanoví počet příslušných osob ani zvláštní formu aktu určení. Zvolený počet však musí umožnit plnění navazujících povinností, včetně lhůt podle § 12. Písemné určení, vymezení zastupitelnosti a předání agendy jsou proto vhodnou důkazní a organizační praxí, nikoli dalšími zákonnými podmínkami platnosti určení.
 
-**Odst. 2 písm. d) — Důvěrnost oznámení**
+[3] VOS musí umožnit písemné i ústní oznámení a na žádost oznamovatele také osobní přijetí. Pro osobní přijetí stanoví § 12 odst. 1 přiměřenou lhůtu, nejvýše 14 dnů od žádosti. Zákon neurčuje konkrétní technologii ani jedinou přípustnou kombinaci nástrojů; rozhodující je skutečná dostupnost všech předepsaných způsobů a splnění pravidel důvěrnosti a navazujícího postupu.
 
-Subjekt musí technicky a organizačně zajistit, aby k oznámením měla přístup **pouze příslušná osoba** a aby byl dodržen zákaz poskytnutí údajů podle § 20. To znamená:
+[4] Povinný subjekt nesmí z interního přijímání vyloučit osoby, které pro něj vykonávají činnost podle § 2 odst. 3 písm. a), b), h) nebo i), tedy závislou práci, službu, dobrovolnickou činnost, odbornou praxi nebo stáž. U ostatních kategorií může přijímání oznámení vyloučit; pak musí tuto skutečnost uveřejnit podle § 9 odst. 2 písm. b) bodu 3. Tato volba se týká jen VOS povinného subjektu, nikoli možnosti podat oznámení ministerstvu.
 
-- elektronická schránka VOS musí být chráněna proti přístupu jiných osob (IT správce nesmí mít přístup k obsahu);
-- fyzická pošta musí být doručována přímo příslušné osobě, nikoli HR či sekretariátu;
-- audio nahrávky a záznamy musí být uloženy v zabezpečeném úložišti.
+[5] Způsobem umožňujícím dálkový přístup se uveřejní všechny tři zákonné okruhy: způsoby oznamování prostřednictvím VOS a ministerstvu; označení příslušné osoby spolu s telefonním číslem a elektronickou nebo jinou doručovací adresou; a informace o případném vyloučení přijímání od ostatních kategorií osob. Důvodová zpráva uvádí internetové stránky jen jako vhodný příklad, nikoli jako jediný zákonný způsob.
 
-**Odst. 2 písm. e) — Posouzení důvodnosti**
+[6] Povinný subjekt musí příslušnou osobu poučit o právech a povinnostech podle zákona a společně s ní o poučení sepsat záznam. Zákon neurčuje osnovu poučení ani nevyžaduje podpisy; doporučený obsah je třeba odlišit od zákonného minima. Samotné nepoučení nebo chybějící záznam nejsou v § 26 formulovány jako samostatná skutková podstata. Důvodová zpráva je spojuje s možností uložit při kontrole opatření k nápravě a teprve nesplnění opatření podle § 22 odst. 2 postihuje § 26 odst. 1 písm. j).
 
-Subjekt zajistí, aby důvodnost oznámení posoudila příslušná osoba (nikoli HR, právní oddělení nebo vedení). Posouzení musí být **nezávislé a nestranné** [§ 11 odst. 1 písm. d)].
+[7] Podle písmene d) musí být systém nastaven tak, aby se s podanými oznámeními mohla seznamovat pouze příslušná osoba a aby byl dodržen § 20. Obecná podatelna, běžná sdílená schránka nebo externě provozovaný nástroj proto vyhoví jen tehdy, jestliže organizační a technická opatření skutečně brání ostatním osobám seznámit se s obsahem. Šifrování, oddělení klíčů nebo konkrétní infrastruktura mohou být vhodnými prostředky, zákon však žádnou z těchto technologií jednotlivě nepředepisuje.
 
-**Odst. 2 písm. f) — Vyrozumění oznamovatele**
+[8] Povinný subjekt zajišťuje, aby důvodnost posuzovala příslušná osoba, aby byl oznamovatel vyrozuměn podle § 12 odst. 2 a 3 a aby byla přijata vhodná opatření podle písmene g). § 12 rozděluje konkrétní navazující úkony: příslušná osoba potvrzuje přijetí, posuzuje důvodnost, vyrozumívá a při důvodném oznámení zpravidla navrhuje opatření; povinný subjekt vhodné opatření přijímá a informuje o něm příslušnou osobu. Výjimky z vyrozumění a prodloužení lhůty je nutné posuzovat přímo podle § 12.
 
-Subjekt zajistí, aby oznamovatel byl písemně vyrozuměn:
-- o **přijetí oznámení** do 7 dnů (§ 12 odst. 2);
-- o **výsledcích posouzení důvodnosti** do 30 dnů (§ 12 odst. 3), případně s prodloužením o 30 dnů (max. dvakrát).
+[9] Sankční posouzení musí sledovat jednotlivé skutkové podstaty. § 26 odst. 1 písm. b) až h) postihuje neurčení příslušné osoby, nezajištění způsobů podání, uveřejnění, výlučného přístupu a § 20, posouzení, vyrozumění a vhodného opatření. Horní hranice pokuty je 400 000 Kč pouze u písmene d); u písmen b), c) a e) až h) činí 1 000 000 Kč. Toto hmotněprávní shrnutí samo neurčuje správní orgán příslušný v konkrétní věci; ten se zjišťuje podle § 28 a předpisu, na který odkazuje.
 
-**Odst. 2 písm. g) — Náprava**
+[10] § 9 je v nezměněném znění účinný od 1. 8. 2023. Přechodný § 29 uložil vymezeným povinným subjektům, které nebyly veřejnými zadavateli a při účinnosti zákona zaměstnávaly nejméně 50 a méně než 250 zaměstnanců, zavést VOS do 15. 12. 2023. U těchto subjektů je třeba časovou použitelnost povinností § 9 spojovat s okamžikem, kdy měly VOS zavést; § 29 není obecnou lhůtou pro pozdější vznik statusu povinného subjektu. Zákon č. 32/2025 Sb. § 9 nezměnil.
 
-Pokud je oznámení důvodné, povinný subjekt **přijme vhodná opatření** k nápravě nebo prevenci protiprávního stavu (§ 12 odst. 5). Subjekt může přijmout opatření navržené příslušnou osobou nebo jiné vhodné opatření. Klíčové: subjekt **musí jednat** — pasivita po důvodném oznámení je přestupkem podle § 26 odst. 1 písm. h).
+[11] Praktické ověření má zachytit: akt určení a reálnou zastupitelnost; funkčnost písemného, ústního a osobního kanálu; zveřejněné informace; záznam o poučení; skutečný okruh přístupových oprávnění; a doklady o potvrzení, posouzení, vyrozumění a přijatém opatření. Jde o doporučený důkazní checklist, nikoli o rozšíření zákonných skutkových podstat.
 
-#### Vztah k AML zákonu č. 253/2008 Sb.
+#### Judikatura
 
-Povinné subjekty, které jsou současně povinnými osobami podle AML zákona, **nejsou pokryty** § 8 odst. 1 písm. b) ZOO — ale to neznamená, že nemají oznamovací systém vůbec. AML zákon (§ 21a) zavedl **vlastní whistleblowing režim** pro nahlašování porušení AML pravidel, který se ZOO doplňuje. Tyto subjekty (banky, pojišťovny, advokáti, notáři, realitní zprostředkovatelé atd.) tedy mají AML-specifický systém; ZOO se na ně vztahuje pouze, pokud jsou povinné z jiných důvodů [např. písm. a), c), d), e)].
+V povinně přezkoumaném korpusu oficiálních plných textů a v předložených oponenturách nebylo identifikováno rozhodnutí, jehož nosným důvodem by byl přímý výklad § 9. Komentář proto k tomuto ustanovení nepřebírá obecnou judikaturu k ochraně osobních údajů ani neověřené rozhodovací praxe. Tento omezený výsledek není tvrzením o absolutní neexistenci judikatury.
 
-#### F. Kazuistika
+#### Praktický checklist
 
-**1. Modelová situace.** Povinný subjekt zavedl VOS, ale e-mailová schránka pro oznámení je technicky přístupná i IT administrátorovi a sekretariátu, kteří třídí poštu. Oznamovatel podá oznámení o korupci nadřízeného; sekretářka obsah přečte a informuje nadřízeného, který oznamovatele začne šikanovat. Subjekt navíc na webu nezveřejnil žádné informace o způsobu oznamování ani o externím kanálu MSp. K obstarání: nastavení přístupových oprávnění ke schránce, doklad o tom, kdo měl přístup, webové stránky subjektu, oznámení.
-
-**2. Právní otázka.** Porušil povinný subjekt povinnosti podle § 9 odst. 2 tím, že nezajistil přístup výhradně příslušné osobě a nezveřejnil informace dálkovým přístupem, a jaké to má následky?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 9 odst. 2 písm. d) (přístup výhradně příslušné osoby + zákaz podle § 20), písm. b) (uveřejnění informací dálkovým přístupem).
-- *Související ustanovení téhož zákona:* § 20 (zákaz poskytnutí údajů), § 21 odst. 3 (přístup k evidenci jen příslušná osoba), § 11 (činnost příslušné osoby), § 26 odst. 1 písm. d), e) (přestupky subjektu).
-- *Související předpisy:* nař. 2016/679 (GDPR — důvěrnost a integrita), zák. č. 110/2019 Sb.; čl. 9 a 16 směrnice 2019/1937 (důvěrnost totožnosti, postupy).
-- *Judikatura:* k povinnosti zajistit důvěrnost zpracování osobních údajů srov. zásady GDPR (čl. 5 odst. 1 písm. f) a rozhodovací praxi ÚOOÚ — nosný závěr: správce musí přijmout technická a organizační opatření znemožňující neoprávněný přístup.
-
-**4. Subsumpce.** § 9 odst. 2 písm. d) vyžaduje, aby se s oznámeními mohla seznamovat pouze příslušná osoba a aby byl dodržen zákaz podle § 20. Přístup IT administrátora a sekretariátu tuto povinnost porušuje. § 9 odst. 2 písm. b) vyžaduje zveřejnění informací o způsobech oznamování (včetně MSp) a o příslušné osobě — jejich absence porušuje informační povinnost.
-
-**5. Řešení.** Subjekt porušil § 9 odst. 2 písm. d) (nezajištění důvěrnosti) a písm. b) (nezveřejnění informací) — jde o přestupky podle § 26 odst. 1 písm. e) (pokuta až 1 000 000 Kč) a písm. d) (pokuta až 400 000 Kč). Šíření obsahu sekretářkou je navíc porušením § 20 (přestupek podle § 27 odst. 3). Náprava: technické oddělení schránky (šifrování, oprávnění jen příslušné osobě), doručování fyzické pošty přímo příslušné osobě, doplnění webových informací.
-
-**6. Varianty.** (a) Pokud by schránka byla přístupná výhradně příslušné osobě a fyzická pošta jí doručována přímo, povinnost důvěrnosti by byla splněna a k prozrazení by nedošlo. (b) Pokud by subjekt vyloučil přijímání oznámení od externích osob, musel by to zveřejnit podle písm. b) bodu 3; opomenutí tohoto údaje je samostatné porušení informační povinnosti.
-
-#### G. Protiargumenty a rizika
-
-- *Protiargument:* „IT administrátor má technicky přístup ke všem schránkám, to nelze vyloučit." — Neutralizace: ZOO i GDPR vyžadují organizačně-technické oddělení; lze nasadit šifrování end-to-end nebo specializované řešení VOS, kde správce nemá přístup k obsahu.
-- *Protiargument:* „Informace na webu nejsou podstatné, hlavní je funkční schránka." — Neutralizace: zveřejnění je samostatná povinnost [písm. b)] a samostatný přestupek [§ 26 odst. 1 písm. d)]; bez něj oznamovatelé nevědí o existenci kanálu a o externí cestě MSp.
-- *Slabé místo:* prokázání, kdo konkrétně se s obsahem seznámil a že tím došlo k prozrazení; logy přístupů a auditní stopa jsou rozhodující.
-
-#### H. Praktický závěr
-
-§ 9 ukládá povinnému subjektu jednu základní (určení příslušné osoby, odst. 1) a sedm zajišťovacích povinností (odst. 2): umožnit písemné/ústní/osobní podání, zveřejnit informace dálkovým přístupem, poučit příslušnou osobu a sepsat záznam, zajistit důvěrnost (přístup jen příslušné osoby), posouzení důvodnosti, vyrozumění oznamovatele a přijetí nápravných opatření. Většina porušení je přestupkem s pokutou až 1 000 000 Kč (§ 26).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je určena příslušná osoba splňující § 10 (odst. 1)?
-- [ ] Je technicky a organizačně zajištěn přístup k oznámením výhradně příslušné osobě [písm. d)]?
-- [ ] Jsou na webu zveřejněny informace o způsobech oznamování (VOS i MSp), o příslušné osobě a o případném vyloučení externích oznamovatelů [písm. b)]?
-- [ ] Je zajištěno vyrozumění oznamovatele (7 a 30 dnů) a přijetí nápravných opatření [písm. f), g)]?
-
-**Typicky rozhodné důkazy / podklady:** nastavení přístupových oprávnění a logy; obsah webových stránek; záznam o poučení příslušné osoby; doklady o vyrozuměních a přijatých opatřeních.
+- [ ] Je určena alespoň jedna příslušná osoba splňující § 10 a je fakticky zajištěna kontinuita plnění lhůt?
+- [ ] Umožňuje VOS písemné, ústní a na žádost osobní oznámení a odpovídá případné omezení osob přesně § 9 odst. 2 písm. a)?
+- [ ] Jsou dálkově přístupné všechny informace podle písmene b) bodů 1 až 3?
+- [ ] Existuje záznam o poučení a je skutečný přístup k obsahu omezen pouze na příslušnou osobu?
+- [ ] Lze doložit potvrzení přijetí, posouzení důvodnosti, výsledkové vyrozumění a přijetí vhodného opatření v příslušných případech?
 
 ---
 
