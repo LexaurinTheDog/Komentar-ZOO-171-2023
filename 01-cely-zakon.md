@@ -1054,92 +1054,87 @@ V povinně přezkoumaných oponenturách a v dostupném korpusu oficiálních pl
 
 ### § 11 — Činnost příslušné osoby
 
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > **§ 11**
 >
 > *(1) Příslušná osoba*
 >
-> *- a) přijímá a posuzuje důvodnost oznámení podaného prostřednictvím vnitřního oznamovacího systému,*
+> *a) přijímá a posuzuje důvodnost oznámení podaného prostřednictvím vnitřního oznamovacího systému,*
 >
-> *- b) navrhuje povinnému subjektu opatření k nápravě nebo předejití protiprávnímu stavu v návaznosti na podané oznámení, ledaže by tímto postupem mohlo dojít k prozrazení totožnosti oznamovatele nebo osoby podle § 4 odst. 2 písm. a) až h),*
+> *b) navrhuje povinnému subjektu opatření k nápravě nebo předejití protiprávnímu stavu v návaznosti na podané oznámení, ledaže by tímto postupem mohlo dojít k prozrazení totožnosti oznamovatele nebo osoby podle § 4 odst. 2 písm. a) až h),*
 >
-> *- c) plní pokyny povinného subjektu, ledaže ohrožují nebo maří výkon její činnosti podle tohoto zákona,*
+> *c) plní pokyny povinného subjektu, ledaže ohrožují nebo maří výkon její činnosti podle tohoto zákona,*
 >
-> *- d) postupuje při výkonu své činnosti podle tohoto zákona nestranně,*
+> *d) postupuje při výkonu své činnosti podle tohoto zákona nestranně,*
 >
-> *- e) zachovává mlčenlivost o skutečnostech, o kterých se dozvěděla při výkonu své činnosti podle tohoto zákona, a to i po ukončení výkonu této činnosti, pokud zákon nestanoví jinak.*
+> *e) zachovává mlčenlivost o skutečnostech, o kterých se dozvěděla při výkonu své činnosti podle tohoto zákona, a to i po ukončení výkonu této činnosti, pokud zákon nestanoví jinak.*
 >
 > *(2) Příslušná osoba nesmí být za řádný výkon své činnosti podle tohoto zákona postihována.*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Pětice úkolů příslušné osoby (odst. 1)
+- zákonné úkoly a návaznost na postup po oznámení — marg. č. 1–2;
+- ochrana totožnosti a vztah k § 20 — marg. č. 3;
+- pokyny, nestrannost a střet zájmů — marg. č. 4–5;
+- mlčenlivost a zákaz postihu — marg. č. 6–7;
+- sankce, časová působnost a důkazní praxe — marg. č. 8–10.
 
-§ 11 odst. 1 popisuje **funkční náplň** příslušné osoby v rámci VOS:
+#### Souvisící ustanovení
 
-**Písm. a) Přijetí a posouzení důvodnosti** — jádro činnosti. Přijetí oznámení (§ 12 odst. 1) následuje posouzení důvodnosti (§ 12 odst. 3) ve lhůtě 30 dnů (lze prodloužit). Posouzení zahrnuje:
-- věcné prověření tvrzení (rozhovory, dokumenty, audit);
-- právní kvalifikace — naplňuje jednání znaky TČ, přestupku, porušení regulace?;
-- rozhodnutí: důvodné / nedůvodné / není oznámením podle ZOO.
+- §§ 4 a 5 — chráněné osoby a zadostiučinění za odvetné opatření;
+- §§ 9, 10 a 12 — určení příslušné osoby, její předpoklady a postup po podání oznámení;
+- §§ 19–21 — záznam oznámení, zákaz poskytnutí údajů, evidence a uchovávání;
+- §§ 24, 26 a 28 — přestupky příslušné osoby, přestupek za její postih a příslušnost k projednání.
 
-**Písm. b) Návrh nápravných opatření** — pokud je oznámení důvodné, příslušná osoba **navrhne** povinnému subjektu opatření k nápravě nebo prevenci. Návrhy mohou zahrnovat:
-- vnitřní disciplinární řízení;
-- zrušení nezákonné praxe;
-- náhrada škody;
-- postoupení věci OČTŘ nebo regulátoru.
+#### Souvisící předpisy
 
-**Klíčová výjimka:** návrh se neučiní, **mohl-li by vést k prozrazení totožnosti oznamovatele** nebo chráněné osoby. V takovém případě příslušná osoba navrhne alternativní řešení, které identitu nerozkryje, nebo doporučí externí řešení (postoupení MSp či regulátoru).
+- směrnice Evropského parlamentu a Rady (EU) 2019/1937, zejména čl. 9 odst. 1 písm. a), c) a d) a body 56 a 57 odůvodnění;
+- zákon č. 32/2025 Sb., čl. XIX a XXII — novela ZOO bez změny § 11.
 
-**Písm. c) Plnění pokynů — s výhradou** — příslušná osoba je formálně podřízena povinnému subjektu (typicky zaměstnanec) a plní jeho pokyny, **ledaže by tyto pokyny ohrožovaly nebo mařily výkon její činnosti** podle ZOO. Jde o explicitně zakotvenou **funkční nezávislost** — povinný subjekt nesmí příslušné osobě nařídit, aby oznámení neprošetřila, aby pozměnila výsledek, aby identifikovala oznamovatele, atd.
+#### Z důvodové zprávy
 
-**Písm. d) Nestrannost** — příslušná osoba postupuje **nestranně** — bez ohledu na zájmy povinného subjektu, oznamovatele či třetích osob. Praktické důsledky:
-- vyloučení z případu při střetu zájmů (osobní vztah k oznamovateli nebo k osobě, proti níž oznámení směřuje);
-- objektivní hodnocení důkazů.
+Důvodová zpráva označuje písmena a) až e) za základní povinnosti příslušné osoby. Povinný subjekt jí má vytvořit podmínky pro řádný výkon; jako vhodný, nikoli zákonem přikázaný nástroj uvádí vnitřní předpis vymezující oprávnění, součinnost a případně spisovou službu. U návrhu opatření zdůrazňuje přednost ochrany totožnosti, u pokynů jejich přípustnost jen mimo zásah do řádného výkonu, u nestrannosti stejnou profesionalitu bez ohledu na osoby a okolnosti a u mlčenlivosti ochranu totožnosti i dalších informací. K odstavci 2 uvádí jako příklady postihu nepřiznání nenárokové složky mzdy, zbavení vedoucí pozice nebo neschválení dovolené.
 
-**Písm. e) Mlčenlivost — i po skončení** — příslušná osoba je vázána mlčenlivostí **i po ukončení své funkce**. Mlčenlivost se vztahuje na všechny skutečnosti zjištěné při výkonu činnosti — totožnost oznamovatele, obsah oznámení, prováděné šetření, identifikaci osob proti nimž oznámení směřovalo. Porušení je přestupkem podle § 24 odst. 1 písm. d) a e) (pokuta až 50 000 Kč, při úmyslu 100 000 Kč).
+#### Literatura
 
-#### Zákaz postihu příslušné osoby (odst. 2)
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní literární rešerše.
 
-§ 11 odst. 2 chrání samotnou **příslušnou osobu** před postihem **za řádný výkon činnosti** podle ZOO. Význam je obrovský — bez této ochrany by příslušná osoba mohla být snadno zastrašena, nebo přímo postižena, zaměstnavatelem za to, že důvodně shledá oznámení o nezákonném jednání samotného zaměstnavatele.
+#### Výklad
 
-Porušení tohoto zákazu je samostatným přestupkem povinného subjektu podle § 26 odst. 1 písm. i) — pokuta až 1 000 000 Kč. Příslušná osoba má rovněž k dispozici občanskoprávní nárok (analogicky § 5 ZOO — přiměřené zadostiučinění).
+[1] Odstavec 1 soustřeďuje pět základních povinností příslušné osoby: přijmout a posoudit důvodnost oznámení, navrhovat opatření, plnit přípustné pokyny povinného subjektu, jednat nestranně a zachovávat mlčenlivost. Příslušná osoba oznámení sama autoritativně nerozhoduje a § 11 jí nesvěřuje donucovací pravomoci vůči jiným osobám; výsledkem jejího kladného posouzení je návrh opatření podle písmene b) a § 12 odst. 5.
 
-V praxi je doporučováno upravit ochranu příslušné osoby ve **vnitřním předpise** subjektu — výslovně vyloučit, že kárná řízení, hodnocení a personální rozhodnutí mohou být ovlivněna výsledkem činnosti VOS.
+[2] Písmeno a) je třeba číst společně s § 12. Ten určuje formy přijetí, vyrozumění, lhůty i tři procesní výsledky: podání není oznámením podle zákona, oznámení je důvodné, nebo důvodné není. Rozsah zjišťování se odvíjí od dostupných podkladů a součinnosti; § 11 sám nedává příslušné osobě právo vynutit výpověď, listinu nebo vstup do prostor.
 
-#### F. Kazuistika
+[3] Podle písmene b) se návrh opatření nepodává, jestliže by tím mohlo dojít k prozrazení totožnosti oznamovatele nebo osoby podle § 4 odst. 2 písm. a) až h). Formulace míří již na možnost prozrazení, takže je namístě omezit identifikující podrobnosti nebo hledat opatření, které totožnost neodhalí. § 20 odst. 2 upravuje poskytnutí údajů o totožnosti a pracuje s písemným souhlasem; vztah tohoto souhlasu k samostatné výluce v § 11 odst. 1 písm. b) zákon výslovně neřeší. Bez přímé judikatury nelze souhlas vydávat za automatické prolomení této výluky.
 
-**1. Modelová situace.** Příslušná osoba (zaměstnankyně právního oddělení) posoudí oznámení o machinacích finančního ředitele jako důvodné a navrhne nápravná opatření. Jednatel jí však nařídí, aby výsledek šetření „přepsala" na nedůvodný a aby mu sdělila totožnost oznamovatele. Když odmítne, jednatel jí sníží osobní příplatek a pohrozí kárným postihem. K obstarání: oznámení a výsledek posouzení, pokyn jednatele, doklad o snížení příplatku, vnitřní předpis VOS.
+[4] Písmeno c) nezakládá absolutní nezávislost na povinném subjektu. Příslušná osoba plní jeho pokyny, dokud neohrožují nebo nemaří výkon činnosti podle ZOO. Pokyn změnit výsledek bez věcného podkladu, neposoudit přijaté oznámení nebo porušit zákonnou mlčenlivost by tuto mez překročil; běžný organizační pokyn, který zákonný výkon neohrožuje, nikoli.
 
-**2. Právní otázka.** Je příslušná osoba povinna splnit pokyn jednatele přepsat výsledek a prozradit totožnost oznamovatele, a je snížení jejího příplatku za odmítnutí pokynu přípustné?
+[5] Nestrannost podle písmene d) se vztahuje na celý výkon činnosti. ZOO neupravuje formální námitku podjatosti ani zvláštní řízení o vyloučení příslušné osoby. Podle mého názoru má povinný subjekt možný střet zájmů řešit předem určením více příslušných osob a pravidlem předání věci; jde o organizační doporučení opřené o povinnost zajistit nestranný výkon, nikoli o další zákonnou podmínku platnosti posouzení.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 11 odst. 1 písm. c) (plnění pokynů, ledaže ohrožují/maří výkon činnosti), písm. d) (nestrannost), písm. e) (mlčenlivost), odst. 2 (zákaz postihu za řádný výkon činnosti).
-- *Související ustanovení téhož zákona:* § 12 (postup po oznámení), § 20 (zákaz poskytnutí údajů o totožnosti), § 24 odst. 1 písm. d), e) (přestupky příslušné osoby při porušení mlčenlivosti), § 26 odst. 1 písm. i) (přestupek subjektu za postih příslušné osoby).
-- *Související předpisy:* § 81 a násl. OZ (ochrana osobnosti); čl. 9 odst. 1 a čl. 19 směrnice 2019/1937 (nezávislost a důvěrnost).
-- *Judikatura:* k funkční nezávislosti compliance/ochranných funkcí srov. obecné principy ochrany před retaliací (Heinisch v. Německo) — nosný závěr: osoba plnící zákonem chráněnou funkci nesmí být postižena za její řádný výkon.
+[6] Mlčenlivost podle písmene e) zahrnuje skutečnosti zjištěné při výkonu činnosti a trvá i po jeho skončení, nestanoví-li zákon jinak. Ochrana konkrétních údajů o totožnosti a přístupu k oznámením je dále zpřesněna v § 9 odst. 2 písm. d), § 20 a § 21 odst. 3. Nelze proto z obecné potřeby informovat vedení dovodit neomezené oprávnění předat obsah spisu; vždy je nutný zákonný titul a rozsah odpovídající účelu.
 
-**4. Subsumpce.** Pokyn přepsat výsledek a prozradit totožnost „ohrožuje nebo maří výkon činnosti" příslušné osoby podle ZOO → příslušná osoba není povinna jej splnit [§ 11 odst. 1 písm. c)]. Prozrazení totožnosti by navíc bylo porušením § 20 a přestupkem podle § 24 odst. 1 písm. e). Snížení příplatku za odmítnutí je postihem „za řádný výkon činnosti" → porušení § 11 odst. 2 a přestupek subjektu podle § 26 odst. 1 písm. i).
+[7] Odstavec 2 chrání příslušnou osobu jen před postihem za řádný výkon činnosti podle ZOO. Nekryje porušení jejích zákonných povinností. Samotné určení příslušnou osobou nezakládá nárok na zadostiučinění podle § 5; ten může vzniknout, jen pokud tato osoba zároveň patří mezi osoby, které podle § 4 odst. 1 až 3 nesmějí být vystaveny odvetnému opatření, například poskytla pomoc při podání nebo posouzení chráněného oznámení, a odvetným opatřením jí byla způsobena nemajetková újma.
 
-**5. Řešení.** Příslušná osoba pokyn nesplní (je v rozporu s § 11 a § 20). Snížení příplatku je nepřípustné — porušuje § 11 odst. 2; subjekt se dopouští přestupku podle § 26 odst. 1 písm. i) (pokuta až 1 000 000 Kč). Příslušná osoba má občanskoprávní nárok analogicky § 5 (přiměřené zadostiučinění) a může věc oznámit MSp / orgánu inspekce práce. Doporučení: zakotvit ochranu příslušné osoby ve vnitřním předpise (vyloučit vliv VOS na hodnocení a personální rozhodnutí).
+[8] Postih příslušné osoby za řádný výkon je přestupkem povinného subjektu podle § 26 odst. 1 písm. i), za který lze podle odst. 3 uložit pokutu do 1 000 000 Kč. Přestupky podle ZOO zásadně projednává Ministerstvo spravedlnosti; výjimku v § 28 je nutno ověřit podle druhu skutku a pachatele. Porušení mlčenlivosti nelze paušálně ztotožnit s jediným přestupkem: § 24 odst. 1 písm. d) a e) postihuje konkrétní porušení zákazů v § 20 odst. 1 a 2 a každý skutek vyžaduje naplnění vlastní skutkové podstaty.
 
-**6. Varianty.** (a) Pokud by pokyn jednatele byl běžným provozním pokynem neohrožujícím výkon činnosti podle ZOO (např. dodržet formát zprávy), příslušná osoba by jej splnit musela [§ 11 odst. 1 písm. c)]. (b) Pokud by příslušná osoba sama prozradila totožnost oznamovatele bez zákonné povinnosti, dopustila by se přestupku podle § 24 odst. 1 písm. e) — ochrana podle odst. 2 chrání jen řádný výkon.
+[9] § 11 je účinný od 1. srpna 2023. Zákon č. 32/2025 Sb., účinný v dotčené části od 15. února 2025, změnil § 8 odst. 1 písm. e) a související poznámku pod čarou, nikoli § 11. Pro § 11 nebylo přijato zvláštní přechodné pravidlo; plnění povinnosti a případný postih se proto posuzují podle právní úpravy účinné v době rozhodného jednání.
 
-#### G. Protiargumenty a rizika
+[10] Prakticky je třeba odděleně dokumentovat přijetí oznámení, podklady a důvody výsledku, návrh opatření, pokyny povinného subjektu, způsob ochrany totožnosti a případný personální či jiný zásah vůči příslušné osobě. Časová souvislost mezi výkonem činnosti a zásahem může být důkazně významná, sama však bez dalšího neprokazuje, že šlo o postih za řádný výkon.
 
-- *Protiargument:* „Příslušná osoba je zaměstnanec, musí plnit pokyny zaměstnavatele." — Neutralizace: § 11 odst. 1 písm. c) výslovně vylučuje povinnost splnit pokyny ohrožující/mařící výkon činnosti podle ZOO; jde o zákonem zakotvenou funkční nezávislost.
-- *Protiargument:* „Snížení příplatku bylo výkonnostní, nesouvisí s VOS." — Neutralizace: časová a věcná souvislost s odmítnutím protiprávního pokynu zakládá presumpci postihu; subjekt musí prokázat jinou legitimní příčinu.
-- *Slabé místo:* příslušná osoba je v praxi v závislém postavení; bez výslovné ochrany ve vnitřním předpise a bez auditní stopy je dokazování postihu obtížné.
+#### Judikatura
 
-#### H. Praktický závěr
+V povinně přezkoumaných oponenturách ani v dostupném korpusu oficiálních plných textů nebylo identifikováno rozhodnutí, jehož nosným důvodem by byl přímý výklad § 11. Komentář proto nepřebírá rozhodnutí o obecné ochraně oznamovatelů jako zdánlivou oporu pro zvláštní postavení příslušné osoby. Jde o omezený výsledek přezkumu určeného korpusu, nikoli o tvrzení absolutní neexistence rozhodovací praxe.
 
-§ 11 vymezuje pět úkolů příslušné osoby (přijetí a posouzení; návrh opatření s výhradou ochrany totožnosti; plnění pokynů s výjimkou těch, které maří výkon činnosti; nestrannost; mlčenlivost i po skončení funkce) a zakotvuje zákaz jejího postihu za řádný výkon (odst. 2). Porušení mlčenlivosti je přestupkem příslušné osoby (§ 24), postih příslušné osoby je přestupkem subjektu (§ 26).
+#### Praktický checklist
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Jedná příslušná osoba nestranně a nezávisle na zájmech subjektu [písm. c), d)]?
-- [ ] Je dodržena mlčenlivost, včetně doby po skončení funkce [písm. e)]?
-- [ ] Není příslušná osoba postihována za řádný výkon činnosti (odst. 2)?
-- [ ] Je ochrana příslušné osoby zakotvena ve vnitřním předpise (vyloučení vlivu VOS na hodnocení a personální rozhodnutí)?
-
-**Typicky rozhodné důkazy / podklady:** oznámení a výsledek posouzení; pokyny subjektu příslušné osobě; doklady o personálních krocích vůči příslušné osobě; vnitřní předpis VOS; časová osa.
+- [ ] Je z podkladů zjistitelné, co příslušná osoba přijala, posoudila a proč dospěla k výsledku podle § 12?
+- [ ] Lze navržené opatření provést bez možnosti prozrazení chráněné totožnosti?
+- [ ] Jsou organizační pokyny odděleny od pokynů, které by ohrozily nebo mařily zákonnou činnost?
+- [ ] Je pro možný střet zájmů určena jiná příslušná osoba a je zachována mlčenlivost i po skončení funkce?
+- [ ] Je doložen skutečný důvod případného zásahu vůči příslušné osobě a časová osa událostí?
 
 ---
 
