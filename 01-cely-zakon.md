@@ -2354,57 +2354,57 @@ Pro výklad § 28 nebylo v této jednotce použito žádné soudní rozhodnutí.
 
 ### § 29 — Přechodné ustanovení
 
-> **§ 29**
->
-> *Povinné subjekty, s výjimkou veřejných zadavatelů, zaměstnávající ke dni nabytí účinnosti tohoto zákona nejméně 50 a zároveň méně než 250 zaměstnanců jsou povinny zavést vnitřní oznamovací systém do 15. prosince 2023.*
+> Revize: JUDr. Vojtěch Říha, Ph.D. | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Výklad:**
+#### Znění ustanovení
 
-#### Odložená povinnost pro středně velké zaměstnavatele
+> Povinné subjekty, s výjimkou veřejných zadavatelů, zaměstnávající ke dni nabytí účinnosti tohoto zákona nejméně 50 a zároveň méně než 250 zaměstnanců jsou povinny zavést vnitřní oznamovací systém do 15. prosince 2023.
 
-§ 29 zavádí **přechodnou lhůtu** pro střední zaměstnavatele s **50–249 zaměstnanci** (s výjimkou veřejných zadavatelů, kteří se musí zařídit od účinnosti): povinnost zavést VOS až **do 15. prosince 2023**, tj. cca 4,5 měsíce po nabytí účinnosti zákona (1. 8. 2023).
+#### Přehled výkladu
 
-Toto pravidlo odpovídá čl. 26 odst. 2 směrnice 2019/1937, který povolil členským státům odsunout transpozici pro tyto subjekty až do 17. prosince 2023. ČR transpozici zaplnila k 15. prosinci 2023, tedy s malou rezervou.
+§ 29 stanovil jednorázovou lhůtu k zavedení vnitřního oznamovacího systému pro přesně vymezenou skupinu povinných subjektů. Rozhodný byl počet zaměstnanců ke dni účinnosti zákona, tedy k 1. srpnu 2023; veřejní zadavatelé byli z výjimky výslovně vyloučeni. Lhůta uplynula 15. prosince 2023, ustanovení však může být nadále rozhodné při posuzování historického vzniku povinnosti.
 
-**Subjekty nad 250 zaměstnanců** a **veřejní zadavatelé** museli zavést VOS bezprostředně k 1. 8. 2023 (žádná přechodná lhůta).
+#### Souvisící ustanovení
 
-Po 15. prosinci 2023 je přechodné ustanovení **vyčerpané** — všechny povinné subjekty mají povinnost VOS bez odkladu.
+§ 2 odst. 3 a 4, § 4 až 8, § 9 až 12, § 26 a § 30.
 
-#### F. Kazuistika
+#### Souvisící předpisy
 
-**1. Modelová situace.** Zaměstnavatel s 120 zaměstnanci (nikoli veřejný zadavatel) ke dni nabytí účinnosti zákona (1. 8. 2023) VOS nezavedl. V říjnu 2023 mu zaměstnanec oznámí korupci přímo MSp, neboť subjekt žádný interní kanál nemá. Subjekt namítá, že má čas až do 15. prosince 2023, a proto VOS mít nemusel. K obstarání: počet zaměstnanců ke dni účinnosti, datum oznámení, doklad o (ne)existenci VOS.
+Směrnice Evropského parlamentu a Rady (EU) 2019/1937, zejména čl. 8 odst. 3 a čl. 26 odst. 2; zákon č. 250/2016 Sb., zejména úprava promlčecí doby odpovědnosti za přestupek.
 
-**2. Právní otázka.** Měl středně velký zaměstnavatel (50–249 zaměstnanců) povinnost zavést VOS již k 1. 8. 2023, nebo až do 15. prosince 2023, a jaké to má důsledky pro období mezi účinností a koncem přechodné lhůty?
+#### Z důvodové zprávy
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 29 (přechodná lhůta — povinné subjekty mimo veřejné zadavatele s 50–249 zaměstnanci zavedou VOS do 15. prosince 2023).
-- *Související ustanovení téhož zákona:* § 8 (povinné subjekty), § 30 (účinnost — 1. 8. 2023), § 7 odst. 1 písm. b) (oznámení MSp), § 26 odst. 1 písm. b) (přestupek za nezavedení).
-- *Související předpisy:* čl. 26 odst. 2 směrnice 2019/1937 (možnost odložit transpozici pro subjekty 50–249 do 17. 12. 2023); zák. č. 250/2016 Sb. (přestupky).
-- *Judikatura:* k účinkům přechodných ustanovení srov. zásadu, že do uplynutí přechodné lhůty nelze sankcionovat za nesplnění povinnosti, jejíž lhůta dosud běží — nosný závěr: povinnost se vynucuje až po marném uplynutí přechodné lhůty.
+Důvodová zpráva uvádí, že soukromoprávním subjektům zaměstnávajícím „v průměru 50 až 249 zaměstnanců“ se poskytuje dodatečný prostor k zavedení systému do 15. prosince 2023. Přijaté znění je přesnější a rozhodný počet váže přímo ke dni nabytí účinnosti; výraz „v průměru“ v něm není.
 
-**4. Subsumpce.** Zaměstnavatel má 120 zaměstnanců (50–249) a není veřejným zadavatelem → vztahuje se na něj přechodná lhůta podle § 29: VOS musí zavést až **do 15. prosince 2023**. V říjnu 2023 tedy ještě neporušil povinnost zavést VOS (lhůta běžela). Zaměstnanec však mohl oznámit přímo MSp (§ 7 odst. 1 písm. b) — externí kanál je dostupný nezávisle na existenci VOS a ochrana mu náleží.
+#### Literatura
 
-**5. Řešení.** Subjekt v říjnu 2023 povinnost zavést VOS neporušil — přechodná lhůta podle § 29 běžela do 15. 12. 2023. Po tomto datu je nezavedení VOS přestupkem podle § 26 odst. 1 písm. b) (až 1 000 000 Kč). Absence VOS nebrání oznamovateli využít externí kanál MSp a požívat ochrany; subjekt nadto nesmí oznamovatele vystavit odvetě (§ 4 odst. 4) bez ohledu na přechodnou lhůtu — zákaz odvety platí od účinnosti.
+Odborná literatura nebyla v tomto kole hodnocena; je odložena do 2. kola revize.
 
-**6. Varianty.** (a) Pokud by zaměstnavatel měl 300 zaměstnanců nebo byl veřejným zadavatelem, přechodná lhůta podle § 29 by se neuplatnila a VOS musel mít již od 1. 8. 2023; jeho absence v říjnu by byla přestupkem. (b) Pokud by VOS nezavedl ani po 15. 12. 2023, šlo by o trvající přestupek postižitelný podle § 26 odst. 1 písm. b).
+#### Výklad
 
-#### G. Protiargumenty a rizika
+[1] Osobní rozsah přechodného pravidla určují tři kumulativní znaky: muselo jít o povinný subjekt, který nebyl veřejným zadavatelem a dne 1. srpna 2023 zaměstnával nejméně 50, avšak méně než 250 zaměstnanců. Text proto nepodporuje přepočet podle pozdějšího stavu ani průměru za jiné období.
 
-- *Protiargument:* „Do 15. 12. 2023 subjekt nemusel dělat nic, ani chránit oznamovatele." — Neutralizace: přechodná lhůta se týká jen zavedení VOS; zákaz odvety (§ 4 odst. 4) a ochrana oznamovatele platí od účinnosti zákona (1. 8. 2023) bez výjimky.
-- *Protiargument:* „Bez VOS nelze oznámení podat, oznamovatel je bez ochrany." — Neutralizace: externí kanál MSp (§ 7 odst. 1 písm. b) je dostupný nezávisle na VOS; ochrana oznamovatele tím není dotčena.
-- *Slabé místo:* přechodné ustanovení je dnes vyčerpané (po 15. 12. 2023); jeho význam je převážně historický a pro posouzení odpovědnosti za období do tohoto data.
+[2] U těchto subjektů nebylo samotné nezavedení vnitřního oznamovacího systému před uplynutím 15. prosince 2023 porušením lhůty podle § 29. Přechodné ustanovení se podle svého znění nevztahovalo na veřejné zadavatele ani na povinné subjekty mimo uvedené zaměstnanecké rozmezí.
 
-#### H. Praktický závěr
+[3] Odklad se týkal zavedení vnitřního oznamovacího systému. Neodkládal možnost podat oznámení ministerstvu podle § 2 odst. 3 ani obecný zákaz odvetných opatření podle § 4 odst. 4. Naproti tomu u jednotlivých povinností podle §§ 9 až 12 je třeba vždy posoudit jejich vazbu na povinnost systém zavést; § 29 nedává podklad pro paušální tvrzení, že všechny tyto dílčí povinnosti byly vůči dotčeným subjektům samostatně vymahatelné již od 1. srpna 2023.
 
-§ 29 poskytl středně velkým zaměstnavatelům (50–249 zaměstnanců, mimo veřejné zadavatele) přechodnou lhůtu k zavedení VOS do 15. prosince 2023 (v souladu s čl. 26 odst. 2 směrnice). Velcí zaměstnavatelé (250+) a veřejní zadavatelé museli mít VOS od účinnosti (1. 8. 2023). Po 15. 12. 2023 je ustanovení vyčerpané a povinnost VOS platí pro všechny bez odkladu. Zákaz odvety a externí kanál MSp platily od účinnosti bez ohledu na přechodnou lhůtu.
+[4] Článek 26 odst. 2 směrnice 2019/1937 dovolil členským státům uvést pravidla k povinnosti zavést interní kanál pro právní subjekty soukromého sektoru s 50 až 249 zaměstnanci v účinnost do 17. prosince 2023. Český zákon stanovil konec lhůty na 15. prosince 2023.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Spadá subjekt do kategorie 50–249 zaměstnanců mimo veřejné zadavatele (pak lhůta do 15. 12. 2023)?
-- [ ] Nebo jde o subjekt 250+ / veřejného zadatele / specializovaný subjekt (povinnost od 1. 8. 2023)?
-- [ ] Je posuzované období před, nebo po uplynutí přechodné lhůty (vliv na postižitelnost)?
-- [ ] Byl respektován zákaz odvety a dostupnost externího kanálu MSp již od účinnosti?
+[5] Po uplynutí této lhůty je § 29 časově vyčerpaný jako odklad, nikoli však bez právního významu. V pozdější kontrole nebo řízení může být nutné určit, kdy konkrétnímu subjektu povinnost vznikla a zda jednání nastalo před či po konci lhůty. Případnou odpovědnost nelze dovodit jen z § 29: je nutné určit konkrétní skutkovou podstatu, povahu jednání a promlčecí dobu.
 
-**Typicky rozhodné důkazy / podklady:** počet zaměstnanců ke dni účinnosti; doklad o (ne)zavedení VOS a jeho datu; datum oznámení; časová osa ve vztahu k 1. 8. a 15. 12. 2023.
+[6] Subjekt, který nesplňoval osobní a časové znaky § 29 — například vznikl až po 1. srpnu 2023 — nemůže z tohoto jednorázového ustanovení dovozovat novou individuální lhůtu do 15. prosince 2023. Vznik jeho povinnosti je třeba posoudit podle § 8 a ostatních použitelných ustanovení ve znění účinném v rozhodné době.
+
+#### Judikatura
+
+Přímá judikatura vykládající § 29 nebyla do komentáře zařazena. Obecná rozhodnutí k přechodným ustanovením nenahrazují rozbor přesného textu této jednorázové normy.
+
+#### Praktický checklist
+
+- [ ] Zjistit titul povinného subjektu a jeho status veřejného zadavatele.
+- [ ] Doložit počet zaměstnanců právě k 1. srpnu 2023.
+- [ ] Zjistit datum skutečného zavedení systému a datum posuzovaného jednání.
+- [ ] Oddělit povinnost systém zavést od ochranných pravidel a od dílčích povinností §§ 9 až 12.
+- [ ] U sankční otázky určit konkrétní skutkovou podstatu, povahu jednání a promlčení.
 
 ---
 
