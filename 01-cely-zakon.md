@@ -661,87 +661,88 @@ V použitých oficiálních pramenech nebylo ověřeno přímé meritorní rozho
 
 ### § 7 — Vznik ochrany
 
-> **§ 7**
->
+> Revize: JUDr. Vojtěch Říha, Ph.D. | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > *(1) Ochrana podle tohoto zákona náleží oznamovateli, který oznámení*
 >
-> *- a) podal prostřednictvím vnitřního oznamovacího systému,*
+> *a) podal prostřednictvím vnitřního oznamovacího systému,*
 >
-> *- b) podal ministerstvu, nebo*
+> *b) podal ministerstvu, nebo*
 >
-> *- c) uveřejnil, pokud*
+> *c) uveřejnil, pokud*
 >
-> *- 1. podal oznámení prostřednictvím vnitřního oznamovacího systému a ministerstvu nebo pouze ministerstvu a ve lhůtách stanovených tímto zákonem nebylo přijato vhodné opatření, zejména příslušná osoba neposoudila důvodnost oznámení podle § 12 odst. 3, povinný subjekt nepřijal k předejití nebo nápravě protiprávního stavu jiné vhodné opatření podle § 12 odst. 5, nebo státní zaměstnanec podle § 13 neposoudil oznámení podle § 17 odst. 1,*
+> *1. podal oznámení prostřednictvím vnitřního oznamovacího systému a ministerstvu nebo pouze ministerstvu a ve lhůtách stanovených tímto zákonem nebylo přijato vhodné opatření, zejména příslušná osoba neposoudila důvodnost oznámení podle § 12 odst. 3, povinný subjekt nepřijal k předejití nebo nápravě protiprávního stavu jiné vhodné opatření podle § 12 odst. 5, nebo státní zaměstnanec podle § 13 neposoudil oznámení podle § 17 odst. 1,*
 >
-> *- 2. má oprávněný důvod se domnívat, že protiprávní jednání uvedené v oznámení může vést k bezprostřednímu nebo zjevnému ohrožení vnitřního pořádku nebo bezpečnosti, života nebo zdraví, životního prostředí nebo jiného veřejného zájmu nebo ke vzniku nenapravitelné újmy, nebo*
+> *2. má oprávněný důvod se domnívat, že protiprávní jednání uvedené v oznámení může vést k bezprostřednímu nebo zjevnému ohrožení vnitřního pořádku nebo bezpečnosti, života nebo zdraví, životního prostředí nebo jiného veřejného zájmu nebo ke vzniku nenapravitelné újmy, nebo*
 >
-> *- 3. má oprávněný důvod se domnívat, že v případě podání oznámení ministerstvu existuje vzhledem k okolnostem případu zvýšené riziko, že budou on nebo osoba podle § 4 odst. 2 písm. a) až h) vystaveni odvetným opatřením nebo že je ohrožen postup podle hlavy III.*
+> *3. má oprávněný důvod se domnívat, že v případě podání oznámení ministerstvu existuje vzhledem k okolnostem případu zvýšené riziko, že budou on nebo osoba podle § 4 odst. 2 písm. a) až h) vystaveni odvetným opatřením nebo že je ohrožen postup podle hlavy III.*
 >
 > *(2) Ochrana před odvetným opatřením podle tohoto zákona náleží rovněž osobě, která oznámení podala orgánu veřejné moci příslušnému podle jiného právního předpisu nebo přímo použitelného předpisu Evropské unie.*
 >
-> *(3) Ochrana před odvetným opatřením nenáleží osobě, která učinila oznámení, aniž měla oprávněné důvody se domnívat, že se zakládá na pravdivých informacích (dále jen „vědomě nepravdivé oznámení").*
+> *(3) Ochrana před odvetným opatřením nenáleží osobě, která učinila oznámení, aniž měla oprávněné důvody se domnívat, že se zakládá na pravdivých informacích (dále jen „vědomě nepravdivé oznámení“).*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Trojkolejnost oznamovacích kanálů (odst. 1)
+- funkce § 7 a chráněné kanály — marg. č. 1–4;
+- podmínky chráněného uveřejnění — marg. č. 5–9;
+- podání jinému příslušnému orgánu a pravdivost informací — marg. č. 10–12;
+- anonymita, časové použití a důkazní kontrola — marg. č. 13–16.
 
-ZOO zakotvuje **tři rovnocenné cesty** pro získání ochrany — písm. a) vnitřní oznamovací systém, písm. b) ministerstvo (externí kanál), písm. c) zveřejnění (pouze za přísnějších podmínek). Klíčové: oznamovatel **není povinen vyčerpat nejprve VOS** před podáním ministerstvu — může se obrátit přímo na externí kanál (čl. 10 směrnice 2019/1937). Volba mezi VOS a MSp je tedy zcela na oznamovateli.
+#### Souvisící ustanovení
 
-#### Zveřejnění (písm. c) — pouze jako ultima ratio
+§ 2 (oznámení), § 3 (výjimky z povinnosti mlčenlivosti), § 4 (odvetné opatření a chráněné osoby), § 5 (zadostiučinění), §§ 9–12 (vnitřní oznamovací systém), §§ 13–18 (ministerstvo), § 20 (důvěrnost), § 23 (vědomě nepravdivé oznámení), § 29 a § 30 (přechodné ustanovení a účinnost).
 
-**Zveřejnění** oznámení (typicky v médiích, na sociálních sítích, prostřednictvím novinářů) ochranu poskytuje pouze ve **třech taxativně vymezených situacích**:
+#### Souvisící předpisy
 
-1. **Selhání obou interních/externích kanálů** [bod 1] — oznamovatel podal oznámení prostřednictvím VOS a/nebo MSp, ale ve stanovených lhůtách (30 dnů, příp. 60–90 dnů) nebylo přijato vhodné opatření. Konkrétně: příslušná osoba neposoudila důvodnost, povinný subjekt nepřijal nápravu, MSp neposoudil oznámení.
-2. **Bezprostřední nebo zjevné ohrožení veřejného zájmu** [bod 2] — vnitřní pořádek, bezpečnost, život, zdraví, životní prostředí nebo jiný veřejný zájem, případně hrozba **nenapravitelné újmy**. Klasický scénář: oznamovatel zjistil bezprostřední bezpečnostní riziko (kontaminace potravin, hrozící hromadná havárie) — může zveřejnit, aniž čekal na vyřízení interního/externího kanálu.
-3. **Zvýšené riziko retaliace nebo zmaření procesu** [bod 3] — má-li oznamovatel oprávněný důvod se domnívat, že podání MSp by jej (nebo chráněné osoby) vystavilo zvýšenému riziku odvety nebo by zmařilo postup MSp (typicky: oznamovatel pochybuje o integritě konkrétní instituce, hrozí únik informací z MSp).
+Čl. 6 odst. 1, 3 a 4, čl. 7 odst. 2, čl. 10 a čl. 15 směrnice Evropského parlamentu a Rady (EU) 2019/1937.
 
-Zveřejnění mimo tyto tři situace ochranu ZOO **neposkytuje** — to však neznamená, že je samo o sobě nezákonné; oznamovatel však bude jednat na vlastní riziko (porušení mlčenlivosti, ochrany osobnosti, ochrany dobrého jména apod.).
+#### Z důvodové zprávy
 
-#### Ochrana při podání jinému orgánu veřejné moci (odst. 2)
+Důvodová zpráva vychází z toho, že při splnění ostatních zákonných požadavků vzniká ochrana podáním oznámení. Vnitřní systém označuje za preferovaný, nikoli povinně předcházející kanál; ministerstvu lze oznámení podat přímo. Uveřejnění chápe jako pojistku v taxativně vymezených situacích. U bodu 1 zdůrazňuje posouzení vhodnosti následných kroků podle okolností věci, u odstavce 2 skutečnou příslušnost jiného orgánu a u odstavce 3 oprávněný skutkový základ oznámení, který nevylučují pouhé dílčí nepřesnosti.
 
-Pokud oznamovatel podá oznámení **jinému orgánu veřejné moci** příslušnému podle zvláštního předpisu (typicky: ČNB pro porušení regulace finančního trhu, ÚOHS pro kartely a veřejné zakázky, ÚOOÚ pro porušení GDPR, ÚZSI/BIS pro bezpečnostní záležitosti, FAÚ pro AML, ČIŽP pro životní prostředí, Policie/SZ pro trestní oznámení), náleží mu **ochrana před odvetnými opatřeními** ve stejném rozsahu jako při podání MSp. Tato klauzule je rozšiřujícím transpozičním ustanovením směrnice (čl. 6 odst. 1) a respektuje **specializovanou působnost regulátorů** — oznamovatel není nucen procházet obecným kanálem MSp, pokud má jeho věc povahu spadající do působnosti specializovaného úřadu.
+#### Literatura
 
-#### Vědomě nepravdivé oznámení (odst. 3)
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
-Pojistka proti zneužití systému. Ochrana **nenáleží** tomu, kdo učinil oznámení **bez oprávněných důvodů domnívat se**, že se zakládá na pravdivých informacích — tj. vědomě nepravdivému oznamovateli. Standard je opět objektivně-subjektivní: nestačí, že informace později ukáže nepravdivou; podmínkou je, že oznamovatel **věděl nebo musel vědět**, že nejsou pravdivé. Naopak honest mistake (omyl v dobré víře) ochranu nevylučuje.
+#### Výklad
 
-Vědomě nepravdivé oznámení je navíc samostatným přestupkem podle § 23 — pokuta až 50 000 Kč. Toto ustanovení slouží jako vyvážení: ochrana je široká a štědrá, ale zneužití se trestá.
+[1] § 7 určuje chráněný způsob oznámení a podmínku oprávněných důvodů ohledně pravdivosti informací. Musí být čten spolu s § 2, který vymezuje oznámení, oznamovatele a pracovní kontext, a s § 4, který upravuje odvetu a další chráněné osoby. Samotný § 7 proto nechrání libovolné upozornění na libovolný problém.
 
-#### F. Kazuistika
+[2] U podání prostřednictvím vnitřního oznamovacího systému nebo ministerstvu zákon nevyžaduje, aby oznamovatel nejprve vyčerpal interní kanál. Přímou volbu externího kanálu potvrzuje čl. 10 směrnice; čl. 7 odst. 2 pouze vybízí k internímu oznámení, lze-li porušení účinně řešit interně a oznamovatel se nedomnívá, že hrozí odveta.
 
-**1. Modelová situace.** Zaměstnanec chemičky zjistí, že podnik vypouští do řeky nebezpečné látky nad povolené limity, což představuje bezprostřední ohrožení životního prostředí a zdraví obyvatel. Podá oznámení VOS. Po 30 dnech příslušná osoba neposoudila důvodnost ani nepřijala žádné opatření a vypouštění pokračuje. Zaměstnanec poskytne podklady novináři, který věc zveřejní. Zaměstnavatel jej obviní z porušení mlčenlivosti a zveřejnění bez podmínek § 7. K obstarání: oznámení a jeho datum, doklad o nečinnosti VOS po 30 dnech, podklady o překročení limitů, obsah zveřejnění.
+[3] Ochrana je spojena s učiněným oznámením, nikoli jen s úmyslem je podat nebo s jeho přípravou. NSS v rozsudku ze dne 22. 10. 2025, č. j. 8 Ads 100/2025-81, body 40–47 a 53–54, odmítl zpětně považovat dříve dokončené skončení služebního poměru za odvetu vyvolanou pozdějším oznámením. Rozhodnutí neřeší podmínky chráněného uveřejnění.
 
-**2. Právní otázka.** Náleží zaměstnanci ochrana, zveřejnil-li oznámení poté, co VOS ve lhůtě nepřijal vhodné opatření a současně hrozilo zjevné ohrožení životního prostředí a zdraví?
+[4] Ne každé pracovní sdělení je oznámením podaným chráněným kanálem. NSS v rozsudku ze dne 31. 3. 2026, č. j. 6 Ads 191/2025-54, body 49–53, ve skutkovém rámci interní auditní činnosti odlišil auditní zprávu vypracovanou v rámci běžných pracovních úkolů od následného oznámení. Závěr nelze bez dalšího zobecnit na každé neformální upozornění; rozhoduje obsah, adresát a způsob podání.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 7 odst. 1 písm. c) bod 1 (selhání kanálu — nepřijetí vhodného opatření ve lhůtě) a bod 2 (bezprostřední/zjevné ohrožení veřejného zájmu, životního prostředí, zdraví).
-- *Související ustanovení téhož zákona:* § 12 odst. 3 (lhůta 30 dnů na posouzení), § 12 odst. 5 (nápravná opatření), § 2 odst. 1 písm. a), d) bod 7 (ŽP), § 4 (ochrana před retaliací).
-- *Související předpisy:* čl. 15 směrnice 2019/1937 (podmínky ochrany při zveřejnění); § 298 TZ (poškození a ohrožení životního prostředí); zák. č. 254/2001 Sb. (vodní zákon).
-- *Judikatura:* k ochraně whistleblowera při zveřejnění v médiích srov. judikaturu ESLP (Guja v. Moldavsko; Heinisch v. Německo) — nosný závěr: zveřejnění je chráněno, selžou-li interní/externí kanály nebo hrozí-li vážné a bezprostřední ohrožení veřejného zájmu a oznamovatel jednal v dobré víře a proporcionálně.
+[5] Uveřejnění je chráněno jen při splnění některé z alternativ § 7 odst. 1 písm. c) bodů 1 až 3. Důvodová zpráva jím rozumí zpřístupnění informací veřejnosti, například prostřednictvím médií, sociální sítě nebo internetové stránky; zda již šlo o zpřístupnění veřejnosti, závisí na konkrétních okolnostech.
 
-**4. Subsumpce.** Zveřejnění je chráněno jen ve třech taxativních situacích. Zde jsou naplněny dvě: (i) bod 1 — oznamovatel podal věc VOS a ve lhůtě 30 dnů nebylo přijato vhodné opatření (příslušná osoba neposoudila důvodnost podle § 12 odst. 3); (ii) bod 2 — protiprávní jednání vede ke zjevnému ohrožení životního prostředí a zdraví. Postačí naplnění jediné z těchto situací; zde jsou dány obě.
+[6] Bod 1 vždy vyžaduje podání ministerstvu: buď po podání prostřednictvím vnitřního oznamovacího systému, anebo bez něj. Samotná nečinnost vnitřního systému tuto alternativu nenaplňuje. Ve lhůtách stanovených zákonem zároveň nesmí být přijato vhodné opatření.
 
-**5. Řešení.** Zaměstnanci náleží ochrana podle § 7 odst. 1 písm. c) — zveřejnění bylo legitimní, neboť VOS selhal ve lhůtě a současně hrozilo zjevné ohrožení veřejného zájmu. Zaměstnavatel nesmí na zveřejnění reagovat retaliací; případné odvetné opatření by bylo neplatné (§ 580 OZ). Doporučení pro oznamovatele: zveřejnit jen rozsah nezbytný k odhalení rizika a uchovat doklady o předchozím podání VOS a o uplynutí lhůty.
+[7] Zákon jako příklady nepřijetí vhodného opatření přesně uvádí tři situace: příslušná osoba neposoudila důvodnost podle § 12 odst. 3; povinný subjekt nepřijal jiné vhodné opatření podle § 12 odst. 5; nebo státní zaměstnanec podle § 13 neposoudil oznámení podle § 17 odst. 1. Nápravné opatření podle § 12 odst. 5 přijímá povinný subjekt, nikoli ministerstvo. Výčet je uveden slovem „zejména“, takže vhodnost postupu se hodnotí podle okolností věci; neznamená nutně výsledek požadovaný oznamovatelem.
 
-**6. Varianty.** (a) Pokud by zaměstnanec zveřejnil věc rovnou, aniž využil VOS/MSp, a nehrozilo by bezprostřední/zjevné ohrožení (bod 2) ani zvýšené riziko retaliace (bod 3), ochrana podle ZOO by mu při zveřejnění nenáležela. (b) Pokud by oznámil pouze MSp (§ 7 odst. 1 písm. b) a vyčkal řádné lhůty, byl by chráněn i bez zveřejnění a bez nutnosti splnit přísnější podmínky písm. c).
+[8] Body 2 a 3 předchozí podání interním ani externím kanálem nevyžadují. Rozhodný je oprávněný důvod založený na okolnostech známých oznamovateli: v bodu 2 ohledně bezprostředního nebo zjevného ohrožení vyjmenovaných hodnot či nenapravitelné újmy, v bodu 3 ohledně zvýšeného rizika odvety nebo ohrožení postupu podle hlavy III.
 
-#### G. Protiargumenty a rizika
+[9] Alternativy bodů 1 až 3 se posuzují samostatně. Splnění podmínek uveřejnění podle § 7 však nenahrazuje požadavky na obsah oznámení podle § 2 ani nevylučuje samostatné posouzení odpovědnostního štítu podle § 3. Důvodová zpráva upozorňuje, že rozsah uveřejnění může být významný pro odpovědnost za informace přesahující chráněné jednání.
 
-- *Protiargument:* „Oznamovatel měl vyčkat externího kanálu (MSp), zveřejnění bylo předčasné." — Neutralizace: u bodu 2 (zjevné ohrožení ŽP a zdraví) zákon nevyžaduje předchozí vyčerpání kanálů; navíc VOS prokazatelně selhal ve lhůtě (bod 1).
-- *Protiargument:* „Zveřejnění porušilo mlčenlivost a poškodilo dobré jméno zaměstnavatele." — Neutralizace: je-li splněna některá ze tří situací § 7 odst. 1 písm. c), zveřejnění zakládá ochranu; § 3 odst. 1 navíc prolamuje smluvní mlčenlivost při oprávněných důvodech.
-- *Slabé místo:* prokázání „zjevného/bezprostředního" ohrožení a přiměřenosti rozsahu zveřejnění; nadměrné zveřejnění nesouvisejících informací může ochranu oslabit.
+[10] Odstavec 2 přiznává ochranu před odvetným opatřením také osobě, která podala oznámení orgánu veřejné moci příslušnému podle jiného českého předpisu nebo přímo použitelného předpisu EU. Nestačí obecné postavení adresáta jako orgánu veřejné moci; jeho příslušnost musí existovat pro dané podání. Další postup se řídí procesním předpisem tohoto orgánu, nikoli automaticky hlavou III ZOO.
 
-#### H. Praktický závěr
+[11] Odstavec 3 posuzuje, zda měla osoba v době oznámení oprávněné důvody domnívat se, že oznámení stojí na pravdivých informacích. Pozdější nepotvrzení tvrzeného jednání proto samo o sobě neprokazuje ztrátu ochrany. Podle důvodové zprávy je třeba informace hodnotit komplexně a dílčí nepřesnost sama nemusí znehodnotit pravdivé jádro podání.
 
-§ 7 zakotvuje trojkolejnost kanálů (VOS, MSp, zveřejnění) — oznamovatel není povinen vyčerpat nejprve VOS a může jít rovnou na MSp. Zveřejnění chrání jen jako ultima ratio ve třech taxativních situacích (selhání kanálu, zjevné ohrožení veřejného zájmu, zvýšené riziko retaliace). Ochrana náleží i při podání jinému příslušnému orgánu (odst. 2) a nenáleží u vědomě nepravdivého oznámení (odst. 3).
+[12] Český odstavec 3 výslovně upravuje oprávněné důvody ohledně pravdivosti informací. Článek 6 odst. 1 písm. a) směrnice vedle toho zmiňuje oprávněné důvody domnívat se, že informace spadají do její oblasti působnosti. Jaký význam má rozumný právní omyl o věcné působnosti pro ochranu podle účinného § 2 a § 7, nebylo použitými rozhodnutími přímo vyřešeno; tuto otázku je nutné ponechat otevřenou.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Jakým kanálem bylo oznámení podáno (VOS / MSp / jiný orgán / zveřejnění)?
-- [ ] Při zveřejnění: je naplněna některá ze tří situací § 7 odst. 1 písm. c) (selhání lhůty / zjevné ohrožení / riziko retaliace)?
-- [ ] Bylo zveřejnění proporcionální rozsahem informací?
-- [ ] Není vyloučena ochrana pro vědomě nepravdivé oznámení (odst. 3)?
+[13] Anonymita není samostatným oznamovacím kanálem. U ochrany před odvetným opatřením stanoví § 4 odst. 3 zvláštní okamžik: u původně anonymního podání vzniká ochrana, jakmile totožnost oznamovatele nebo osoby podle § 4 odst. 2 písm. a) až h) vyjde najevo tomu, kdo je může odvetě vystavit. Toto pravidlo nelze zobecnit na všechny účinky ZOO.
 
-**Typicky rozhodné důkazy / podklady:** doklad o podání a datu oznámení; důkaz o (ne)dodržení lhůt VOS/MSp; podklady prokazující povahu a bezprostřednost ohrožení; obsah a rozsah zveřejnění.
+[14] § 7 je od účinnosti zákona dne 1. 8. 2023 beze změny; novela č. 32/2025 Sb., účinná od 15. 2. 2025, změnila v ZOO § 8, nikoli § 7. § 29 neobsahuje zvláštní přechodné pravidlo pro vznik ochrany podle § 7. U konkrétní věci je proto nutné oddělit datum oznámení, datum tvrzeného odvetného opatření a použitelný právní režim.
+
+[15] Pro posouzení ochrany je třeba zjistit úplný obsah oznámení, jeho datum a způsob podání, totožnost a příslušnost adresáta, informace dostupné oznamovateli v okamžiku podání a časovou posloupnost tvrzené odvety. Při uveřejnění se navíc zjišťuje, která alternativa bodů 1 až 3 měla být splněna a v jakém rozsahu byly informace zpřístupněny.
+
+[16] Praktická kontrola má oddělit čtyři otázky: zda jde o oznámení podle § 2; zda byl použit kanál podle odstavce 1 nebo příslušný orgán podle odstavce 2; zda nejsou dány okolnosti odstavce 3; a teprve poté, zda konkrétní následek představuje odvetné opatření podle § 4. U bodu 1 je nutné doložit také podání ministerstvu a průběh příslušných zákonných lhůt.
+
+#### Judikatura
+
+Rozsudek NSS ze dne 22. 10. 2025, č. j. 8 Ads 100/2025-81, zrušil rozsudek Městského soudu v Praze a v bodech 40–47 a 53–54 vyložil časovou vazbu mezi oznámením a tvrzenou odvetou ve služebním poměru. Rozsudek NSS ze dne 31. 3. 2026, č. j. 6 Ads 191/2025-54, v bodech 49–53 odlišil v konkrétním služebním sporu auditní zprávu od oznámení. Ani jedno rozhodnutí neposuzovalo chráněné uveřejnění podle § 7 odst. 1 písm. c), rozsah jiného příslušného orgánu podle odstavce 2 ani právní omyl o věcné působnosti; v těchto otázkách zůstává výklad otevřený.
 
 ---
 
