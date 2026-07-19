@@ -2041,19 +2041,21 @@ Pro výklad § 24 nebylo použito žádné soudní rozhodnutí. Formulované zá
 
 ### § 25 — Přestupky pověřených zaměstnanců
 
-> **§ 25**
->
+> Revize: 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > *(1) Pověřený zaměstnanec se dopustí přestupku tím, že*
 >
-> *- a) v rozporu s § 16 odst. 1 odepře přijetí oznámení,*
+> *a) v rozporu s § 16 odst. 1 odepře přijetí oznámení,*
 >
-> *- b) v rozporu s § 17 odst. 1 neposoudí oznámení,*
+> *b) v rozporu s § 17 odst. 1 neposoudí oznámení,*
 >
-> *- c) nevyrozumí oznamovatele o výsledku posouzení oznámení podle § 17 odst. 1 ve stanovené lhůtě,*
+> *c) nevyrozumí oznamovatele o výsledku posouzení oznámení podle § 17 odst. 1 ve stanovené lhůtě,*
 >
-> *- d) v rozporu s § 20 odst. 1 poskytne informaci, která by mohla zmařit nebo ohrozit účel podávání oznámení, nebo*
+> *d) v rozporu s § 20 odst. 1 poskytne informaci, která by mohla zmařit nebo ohrozit účel podávání oznámení, nebo*
 >
-> *- e) v rozporu s § 20 odst. 2 poskytne informaci o totožnosti oznamovatele nebo osoby podle § 4 odst. 2 písm. a) až h) bez jejich písemného souhlasu.*
+> *e) v rozporu s § 20 odst. 2 poskytne informaci o totožnosti oznamovatele nebo osoby podle § 4 odst. 2 písm. a) až h) bez jejich písemného souhlasu.*
 >
 > *(2) Za přestupek podle odstavce 1 písm. c) lze uložit pokutu do 20 000 Kč.*
 >
@@ -2061,57 +2063,52 @@ Pro výklad § 24 nebylo použito žádné soudní rozhodnutí. Formulované zá
 >
 > *(4) Za přestupek podle odstavce 1 písm. d) a e) spáchaný úmyslně lze uložit pokutu do 100 000 Kč.*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Paralelní úprava pro pověřeného zaměstnance MSp
+Ustanovení chrání řádné fungování vnějšího oznamovacího systému ministerstva. Pachatelem může být pouze státní zaměstnanec určený ministerstvem jako pověřený zaměstnanec podle § 13. Skutkové podstaty navazují na přijetí oznámení (§ 16 odst. 1), jeho posouzení a včasné vyrozumění (§ 17 odst. 1) a ochranu účelu oznámení a totožnosti chráněných osob (§ 20 odst. 1 a 2). Základní horní hranice pokuty činí podle skutku 20 000 Kč nebo 50 000 Kč; u úmyslného jednání podle odst. 1 písm. d) nebo e) činí 100 000 Kč.
 
-§ 25 je **paralelou** § 24 pro pověřeného zaměstnance MSp — stejné základní skutkové podstaty, stejná sazba pokut, stejné zvýšení při úmyslu:
+#### Souvisící ustanovení
 
-- a) odepření přijetí oznámení (50 000 Kč);
-- b) neposouzení oznámení (50 000 Kč);
-- c) nedodržení lhůty pro vyrozumění (20 000 Kč);
-- d) ohrožení účelu systému (50 000 Kč, úmysl 100 000 Kč);
-- e) prozrazení totožnosti (50 000 Kč, úmysl 100 000 Kč).
+§ 4 odst. 2; § 13; § 16 odst. 1; § 17 odst. 1; § 20; § 21; § 24; § 28; § 30.
 
-Rozdíl oproti § 24 je v tom, že pověřený zaměstnanec nemá samostatnou skutkovou podstatu obdobnou § 24 odst. 1 písm. a) (neoznámení ztráty bezúhonnosti) — pověřený zaměstnanec MSp je státním zaměstnancem podle zák. č. 234/2014 Sb., kde se bezúhonnost ověřuje jinak. Avšak má dvě nové: a) odepření přijetí, b) neposouzení (které jsou u příslušné osoby spojeny v jednom písm. b)).
+#### Souvisící předpisy
 
-**Souběh sankcí:** Porušení povinností pověřeným zaměstnancem může být současně **služebním proviněním** podle § 87 a násl. zák. č. 234/2014 Sb. (kárná odpovědnost). ZOO sankce a služební disciplinární sankce jsou kumulativně přípustné — princip ne bis in idem se neuplatní, jde o různé právní povahy odpovědnosti.
+Zákon č. 250/2016 Sb., zejména § 15 (zavinění fyzické osoby); zákon č. 234/2014 Sb., zejména úprava povinností a kárné odpovědnosti státních zaměstnanců.
 
-#### F. Kazuistika
+#### Z důvodové zprávy
 
-**1. Modelová situace.** Pověřený zaměstnanec MSp úmyslně předá obsah oznámení a totožnost oznamovatele osobě, proti níž oznámení směřovalo (vysokému funkcionáři kontrolovaného úřadu), čímž zmaří účel oznámení a umožní varování pachatele. Současně v jiné věci neposoudí oznámení vůbec. K obstarání: doklad o předání informací, posouzení (resp. jeho absence), komunikace s funkcionářem, evidence MSp.
+Důvodová zpráva označuje povinnosti uvedené v § 25 odst. 1 za stěžejní. Nižší sazbu u opožděného vyrozumění vysvětluje nižší typovou závažností; vyšší sazby spojuje s možným zmařením nápravy protiprávního stavu, ohrožením chráněných osob a narušením důvěry v oznamovací systém. Úmyslné porušení ochrany účelu oznámení nebo totožnosti pokládá za nejzávažnější skupinu.
 
-**2. Právní otázka.** Jakých přestupků se pověřený zaměstnanec dopustil podle § 25 a jak se jeho odpovědnost vztahuje k případné kárné odpovědnosti podle zákona o státní službě?
+#### Literatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 25 odst. 1 písm. d) (poskytnutí informace ohrožující účel), písm. e) (totožnost bez souhlasu), písm. b) (neposouzení oznámení), odst. 3 a 4 (50 000 Kč, při úmyslu 100 000 Kč).
-- *Související ustanovení téhož zákona:* § 20 (zákaz poskytnutí údajů), § 17 odst. 1 (povinnost posoudit), § 28 (projednává MSp), § 13 (pověřený zaměstnanec).
-- *Související předpisy:* § 87 a násl. zák. č. 234/2014 Sb. (kárná odpovědnost státního zaměstnance); § 41 zák. č. 250/2016 Sb. (souběh); zásada ne bis in idem (čl. 40 odst. 5 Listiny).
-- *Judikatura:* k souběhu správní (přestupkové) a kárné (služební) odpovědnosti srov. doktrínu odlišné právní povahy obou odpovědností — nosný závěr: jde o různé druhy odpovědnosti, jejichž kumulace zásadu ne bis in idem neporušuje.
+Odborná literatura nebyla v tomto kole z rozhodnutí editora zpracována; bude předmětem 2. kola. Toto konstatování není výsledkem negativní rešerše.
 
-**4. Subsumpce.** Úmyslné předání informací a totožnosti osobě, proti níž oznámení směřovalo, naplňuje § 25 odst. 1 písm. d) a e); úmysl otevírá zvýšenou sazbu podle odst. 4 (100 000 Kč). Neposouzení oznámení v jiné věci naplňuje písm. b) (50 000 Kč). Současně jde o služební provinění podle § 87 zák. č. 234/2014 Sb.
+#### Výklad
 
-**5. Řešení.** Pověřený zaměstnanec spáchal přestupky podle § 25 odst. 1 písm. d), e) (úmysl — až 100 000 Kč) a písm. b) (až 50 000 Kč), projednávané MSp (§ 28). Souběžně může být postižen kárně podle zákona o státní službě — kumulace přestupkové a kárné odpovědnosti je přípustná (různá právní povaha, ne bis in idem se neuplatní). Při souběhu přestupků platí zásada absorpce (§ 41 zák. o přestupcích).
+[1] Zvláštní postavení pachatele je znakem všech skutkových podstat: musí jít o státního zaměstnance, kterého ministerstvo podle § 13 určilo k výkonu své působnosti podle zákona. § 25 nestanoví odpovědnost ministerstva ani každého zaměstnance ministerstva.
 
-**6. Varianty.** (a) Pokud by pověřený zaměstnanec poskytl informace orgánu veřejné moci na základě zákonné povinnosti a po vyrozumění oznamovatele (§ 20 odst. 3), o přestupek by nešlo. (b) Pokud by nedodržel jen lhůtu pro vyrozumění o výsledku [písm. c)], šlo by o mírnější přestupek se sazbou do 20 000 Kč.
+[2] Písmeno a) odkazuje výhradně na odepření osobního přijetí oznámení, o které oznamovatel požádal podle § 16 odst. 1. Písmena b) a c) je nutno rozlišit: první postihuje neposouzení oznámení, druhé nevyrozumění o výsledku posouzení v základní třicetidenní nebo řádně prodloužené lhůtě podle § 17 odst. 1.
 
-#### G. Protiargumenty a rizika
+[3] Písmena d) a e) chrání rozdílné, byť se překrývající zájmy. Podle písmene d) je rozhodná způsobilost poskytnuté informace zmařit nebo ohrozit účel podávání oznámení. Písmeno e) chrání totožnost oznamovatele a osob podle § 4 odst. 2 písm. a) až h); písemný souhlas není třeba, jestliže povinnost informaci poskytnout vyplývá ze zákona. Poskytuje-li se orgánu veřejné moci totožnost oznamovatele podle § 20 odst. 2, uplatní se také předchozí vyrozumění podle § 20 odst. 3 s tam uvedenou výjimkou.
 
-- *Protiargument:* „Kumulace přestupkové a kárné sankce porušuje zákaz dvojího trestání." — Neutralizace: jde o odpovědnosti různé právní povahy (správní vs. služební); ne bis in idem se neuplatní, kumulace je přípustná.
-- *Protiargument:* „Pověřený zaměstnanec předal informace v rámci úřední komunikace." — Neutralizace: předání osobě, proti níž oznámení směřuje, zmaří účel oznámení a není legitimní úřední komunikací; jde o úmyslné porušení § 20.
-- *Slabé místo:* prokázání úmyslu (vědomé zmaření účelu) je rozhodné pro zvýšenou sazbu; rozhodují okolnosti a adresát předání.
+[4] Protože pachatelem je fyzická osoba, k odpovědnosti se podle § 15 odst. 1 zákona č. 250/2016 Sb. vyžaduje zavinění. U skutků podle odst. 1 postačí nedbalost; zvláštní sazbu do 100 000 Kč lze použít jen tehdy, je-li u jednání podle písmene d) nebo e) prokázán úmysl ve smyslu § 15 odst. 2 téhož zákona.
 
-#### H. Praktický závěr
+[5] Přestupky podle § 25 projednává ministerstvo podle obecného pravidla § 28. Důvodová zpráva současně uvádí, že porušení pravidel důvěrnosti státním zaměstnancem může být kárným proviněním nebo přestupkem. **Autorský závěr:** bez posouzení konkrétního skutku a povahy obou řízení nelze dovozovat ani automatickou kumulaci, ani automatické vyloučení jednoho postihu; § 25 tuto otázku sám neřeší.
 
-§ 25 je paralelou § 24 pro pověřeného zaměstnance MSp: odepření přijetí [písm. a)], neposouzení [písm. b)], nedodržení lhůty [písm. c) — 20 000 Kč], ohrožení účelu [písm. d)] a prozrazení totožnosti [písm. e)] — písm. a), b), d), e) se sazbou 50 000 Kč, při úmyslu u písm. d), e) až 100 000 Kč. Odpovědnost se kumuluje s kárnou odpovědností podle zákona o státní službě. Přestupky projednává MSp (§ 28).
+[6] § 25 byl součástí původního znění zákona účinného od 1. 8. 2023 a pozdější novela č. 32/2025 Sb., účinná od 15. 2. 2025, jej nezměnila. Pro posuzování jednání je proto vedle data skutku třeba ověřit obecná intertemporální pravidla správního trestání; samotné znění § 25 zůstalo do rozhodného dne 18. 7. 2026 beze změny.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Jde o poskytnutí informace/totožnosti bez souhlasu a bez zákonné povinnosti [písm. d), e)]?
-- [ ] Bylo porušení úmyslné (až 100 000 Kč), nebo nedbalostní (50 000 Kč)?
-- [ ] Bylo oznámení přijato a posouzeno ve lhůtě [písm. a)–c)]?
-- [ ] Je dán souběh s kárnou odpovědností podle zák. č. 234/2014 Sb.?
+#### Judikatura
 
-**Typicky rozhodné důkazy / podklady:** doklad o poskytnutí informací a jeho adresát; posouzení (resp. jeho absence); komunikace prokazující úmysl; evidence MSp a kárný spis.
+Pro výklad § 25 nebylo použito žádné soudní rozhodnutí. Přímá judikatura k jednotlivým skutkovým podstatám nebyla v poskytnutém korpusu zjištěna; nejde však o tvrzení o úplné negativní rešerši ve všech databázích. Otázka souběhu přestupkové a služební odpovědnosti proto zůstává pro konkrétní případ otevřená.
+
+#### Praktický checklist
+
+- [ ] Měl pachatel v době skutku postavení pověřeného zaměstnance podle § 13?
+- [ ] Které konkrétní písmeno § 25 odst. 1 je naplněno a která navazující povinnost byla porušena?
+- [ ] U písmene c): kdy bylo oznámení přijato, zda a kdy byla lhůta prodloužena a kdy byl oznamovatel vyrozuměn?
+- [ ] U písmen d) a e): jaká informace byla komu poskytnuta, existoval písemný souhlas nebo zákonná povinnost a byl dodržen § 20 odst. 3?
+- [ ] Je prokázána alespoň nedbalost, a pro zvýšenou sazbu podle odstavce 4 úmysl?
+- [ ] Je-li vedeno také služební řízení, byla samostatně posouzena totožnost skutku a povaha obou řízení?
 
 ---
 
