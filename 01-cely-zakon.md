@@ -1496,7 +1496,11 @@ Pro výklad § 16 není v této revizi použito žádné soudní rozhodnutí. Po
 
 ### § 17 — Posouzení oznámení
 
-> **§ 17**
+> Revize: JUDr. Vojtěch Říha, Ph.D. | 2026-07-19 | Znění předpisu k: 18. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
+> **§ 17 — Posouzení oznámení**
 >
 > *(1) Pověřený zaměstnanec je povinen posoudit oznámení a písemně vyrozumět oznamovatele o výsledcích posouzení do 30 dnů ode dne přijetí oznámení. V případech skutkově nebo právně složitých lze tuto lhůtu prodloužit až o 30 dnů. Ustanovení § 16 odst. 2 se použije obdobně.*
 >
@@ -1512,77 +1516,56 @@ Pro výklad § 16 není v této revizi použito žádné soudní rozhodnutí. Po
 >
 > *(4) Postupuje-li pověřený zaměstnanec podle odstavce 3 písm. a), bez zbytečného odkladu o tom písemně vyrozumí oznamovatele. Ustanovení § 16 odst. 2 se použije obdobně.*
 
-**Výklad:**
+#### Přehled výkladu
 
-#### Lhůty posuzování MSp (odst. 1)
+Ustanovení upravuje časový rámec posouzení ministerstvem, postup u opakovaného oznámení bez nových skutečností a výsledky posouzení. Ministerstvo je podle důvodové zprávy filtrem a spojkou k věcně příslušnému orgánu; konečný závěr o spáchání protiprávního jednání mu § 17 nesvěřuje.
 
-Pověřený zaměstnanec má **30 dnů** na posouzení oznámení a vyrozumění oznamovatele o výsledku. Lhůtu lze prodloužit **o dalších 30 dnů** v skutkově/právně složitých případech — **maximum tedy 60 dnů**. Oproti VOS (kde je možné prodloužení dvakrát, max 90 dnů) má MSp **kratší celkovou lhůtu** — to je logické, MSp jako specializovaný orgán by měl postupovat efektivněji.
+#### Souvisící ustanovení
 
-#### Opakovaná oznámení bez nových skutečností (odst. 2)
+§ 2 (znaky oznámení), § 7 (podmínky ochrany), § 13 a § 14 písm. a) (pověřený zaměstnanec a působnost ministerstva), § 16 odst. 2 (výjimky z vyrozumění), § 18 (informace o dalším postupu příslušného orgánu), § 20 (zákaz poskytnutí údajů), § 21 (evidence a uchovávání), § 25 (přestupky pověřených zaměstnanců) a § 28 (příslušnost k projednání přestupků).
 
-ZOO chrání MSp před zahlcením opakovanými oznámeními téhož oznamovatele — pokud opakované oznámení **neobsahuje nové skutečnosti**, pověřený zaměstnanec se jím **dále nezabývá**. Vyrozumí oznamovatele bez zbytečného odkladu. Jde o procesní pojistku proti zneužití systému (lze ji analogizovat se § 12 odst. 4 SŘ — opakovaný podnět bez nových skutečností).
+#### Souvisící předpisy
 
-#### Tři výstupní cesty pověřeného zaměstnance (odst. 3)
+Směrnice Evropského parlamentu a Rady (EU) 2019/1937, zejména čl. 10, čl. 11 odst. 2 písm. c) až f) a odst. 4 a čl. 16. Konkrétní forma předání informace a další postup cílového orgánu se řídí předpisem zakládajícím jeho věcnou příslušnost.
 
-Po posouzení oznámení pověřený zaměstnanec postupuje jedním ze tří způsobů:
+#### Z důvodové zprávy
 
-**Písm. a) Podezření ze spáchání protiprávního jednání → postoupení**
+Důvodová zpráva charakterizuje ministerstvo jako „filtr a spojku“ mezi oznamovatelem a příslušným orgánem. Posouzení má vycházet z oznámení a veřejně dostupných informací; je-li znám bezpečný kontakt, může ministerstvo žádat upřesnění. U opakovaných oznámení zdůrazňuje hospodárnost a u postupu podle odst. 3 písm. a) ponechává konečné rozhodnutí o protiprávním jednání příslušnému orgánu.
 
-Pokud má pověřený zaměstnanec **podezření ze spáchání protiprávního jednání** (a nemá indicii, že oznámení je nepravdivé), **neprodleně informuje příslušný orgán veřejné moci** podle jiného předpisu nebo unijního aktu. Konkrétní cílový orgán:
+#### Literatura
 
-- Trestný čin → Policie ČR nebo státní zastupitelství (§ 158 TrŘ);
-- Přestupek → příslušný správní orgán (např. ÚOHS pro kartely, ÚOOÚ pro GDPR, ČIŽP pro ŽP, ČNB pro finanční trh);
-- Porušení regulace → specializovaný regulátor.
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento údaj není výsledkem negativní rešerše.
 
-Pokud takový orgán **neexistuje**, MSp se oznámením dále nezabývá (důsledek: ochrana oznamovatele zůstává, ale věc není dále řešena prostřednictvím MSp).
+#### Výklad
 
-**Písm. b) Není oznámením podle ZOO**
+[1] Třicetidenní lhůta běží ode dne přijetí oznámení a zahrnuje jak posouzení, tak písemné vyrozumění o výsledku. Ve skutkově nebo právně složité věci ji lze jednou prodloužit nejvýše o 30 dnů, takže zákonné maximum činí 60 dnů. § 17 na rozdíl od § 12 odst. 3 výslovně neupravuje samostatné předchozí vyrozumění o prodloužení.
 
-Pokud sdělení nesplňuje znaky oznámení (mimo věcný záběr § 2 odst. 1, mimo pracovní kontext, vědomě nepravdivé), MSp vyrozumí oznamovatele bez zbytečného odkladu.
+[2] Odkaz na obdobné použití § 16 odst. 2 znamená, že se příslušné písemné vyrozumění neposkytne, požádal-li oznamovatel výslovně, aby vyrozumíván nebyl, nebo je-li zřejmé, že by vyrozumění prozradilo jeho totožnost jiné osobě. Důvodová zpráva navíc prakticky předpokládá známou doručovací adresu.
 
-**Písm. c) Neshledáno podezření / nepravdivé informace**
+[3] Neobsahuje-li opakované oznámení nové skutečnosti, pověřený zaměstnanec se jím dále nezabývá, musí však oznamovatele bez zbytečného odkladu písemně vyrozumět, nebrání-li tomu obdobně použitý § 16 odst. 2. Český text pracuje s „novými skutečnostmi“; čl. 11 odst. 4 směrnice šířeji zmiňuje nové právní či skutkové okolnosti odůvodňující další následná opatření.
 
-Pokud pověřený zaměstnanec na základě posouzení **neshledal podezření** ze spáchání protiprávního jednání nebo shledal, že informace jsou nepravdivé, vyrozumí oznamovatele a **poučí ho o právu podat oznámení u orgánu veřejné moci** (analogicky § 12 odst. 6 u VOS).
+[4] Při podezření ze spáchání protiprávního jednání pověřený zaměstnanec neprodleně informuje věcně příslušný orgán veřejné moci, ledaže ze známých okolností plyne, že oznámení stojí na nepravdivých informacích. Zákon užívá sloveso „informuje“; procesní forma a účinky se proto neurčují automaticky jako postoupení podle jediného obecného předpisu. Není-li příslušného orgánu, ministerstvo se oznámením dále nezabývá.
 
-#### Vyrozumění o postoupení (odst. 4)
+[5] Není-li podání oznámením podle zákona, následuje bezodkladné písemné vyrozumění podle odst. 3 písm. b). Jde-li sice o oznámení, ale ministerstvo neshledá podezření nebo zjistí nepravdivost informací, postupuje podle písm. c), sdělí tento výsledek a poučí o právu podat oznámení orgánu veřejné moci. Samotný závěr podle písm. c) není rozhodnutím o přestupkové vině za vědomě nepravdivé oznámení podle § 23.
 
-Postupuje-li MSp podle písm. a) (postoupení orgánu veřejné moci), **bez zbytečného odkladu** o tom vyrozumí oznamovatele — ten ví, jakým orgánům byla věc předána, a může s těmito orgány případně dále komunikovat.
+[6] O informování příslušného orgánu podle odst. 3 písm. a) se oznamovatel bez zbytečného odkladu písemně vyrozumí. Současně § 18 ukládá požádat tento orgán o informaci o jeho dalším postupu a obdrženou informaci bez zbytečného odkladu písemně předat oznamovateli; i zde se obdobně použije § 16 odst. 2.
 
-#### F. Kazuistika
+[7] Při předávání informací je nutné samostatně použít § 20. Údaj o totožnosti oznamovatele nebo chráněné spojené osoby lze bez písemného souhlasu poskytnout jen tehdy, ukládá-li to pověřenému zaměstnanci zákon; oznamovatel musí být předem vyrozuměn o důvodu a musí dostat možnost se vyjádřit, neohrozí-li by vyrozumění účel předání.
 
-**1. Modelová situace.** Oznamovatel podá MSp oznámení o tom, že státní podnik manipuluje s výsledky kontrol radiační ochrany. Pověřený zaměstnanec po posouzení dospěje k podezření ze spáchání protiprávního jednání. Současně tentýž oznamovatel již dříve podal v téže věci oznámení bez nových skutečností. Pověřený zaměstnanec zvažuje, jak naložit s opakovaným oznámením a kam věc postoupit. K obstarání: obě oznámení a jejich obsah, posouzení, identifikace příslušného orgánu (SÚJB).
+[8] Neposouzení oznámení v rozporu s odst. 1 je přestupkem pověřeného zaměstnance s horní hranicí pokuty 50 000 Kč; nevyrozumění o výsledku ve stanovené lhůtě je přestupkem s horní hranicí 20 000 Kč. Ochranu nelze dovozovat jen z výsledku posouzení podle § 17: předpokládá oznámení ve smyslu § 2 a splnění příslušných podmínek § 7, včetně § 7 odst. 3 u informace, která se ukáže jako nepravdivá.
 
-**2. Právní otázka.** Jak má pověřený zaměstnanec naložit s opakovaným oznámením bez nových skutečností (odst. 2) a komu postoupit oznámení při podezření ze spáchání protiprávního jednání (odst. 3)?
+#### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 17 odst. 1 (lhůta 30 + 30 dnů), odst. 2 (opakované oznámení bez nových skutečností), odst. 3 písm. a)–c) (tři výstupní cesty), odst. 4 (vyrozumění o postoupení).
-- *Související ustanovení téhož zákona:* § 18 (žádost o informaci o dalším postupu), § 7 odst. 3 (vědomě nepravdivé oznámení), § 20 (zákaz poskytnutí údajů).
-- *Související předpisy:* zák. č. 263/2016 Sb. (atomový zákon — působnost SÚJB); § 158 TrŘ (oznámení TČ); čl. 11 odst. 2 směrnice 2019/1937 (postup příslušného orgánu).
-- *Judikatura:* k vyřízení opakovaných podání bez nových skutečností srov. analogicky § 12 SŘ (opakovaný podnět) — nosný závěr: orgán se opakovaným podáním bez nových skutečností nemusí věcně zabývat.
+K přímému výkladu § 17 není v tomto kole uváděno žádné rozhodnutí. Nejde o tvrzení, že relevantní judikatura neexistuje, ani o dokončenou negativní judikatorní rešerši.
 
-**4. Subsumpce.** Opakované oznámení neobsahuje nové skutečnosti → pověřený zaměstnanec se jím podle § 17 odst. 2 dále nezabývá a oznamovatele o tom vyrozumí. K novému (původnímu) oznámení má podezření ze spáchání protiprávního jednání a nemá indicii nepravdivosti → postupuje podle odst. 3 písm. a): neprodleně informuje příslušný orgán (SÚJB pro radiační ochranu) a o postoupení vyrozumí oznamovatele (odst. 4).
+#### Praktický checklist
 
-**5. Řešení.** Opakované oznámení: pověřený zaměstnanec se jím dále nezabývá a vyrozumí oznamovatele (odst. 2). Původní oznámení: postoupí SÚJB jako příslušnému orgánu [odst. 3 písm. a)], o čemž bez zbytečného odkladu vyrozumí oznamovatele (odst. 4); současně podle § 18 požádá SÚJB o informaci o dalším postupu a tu předá oznamovateli. Lhůta na posouzení je 30 dnů, prodloužitelná jednou o 30 dnů (max 60 dnů).
-
-**6. Varianty.** (a) Pokud by pro oznámené jednání neexistoval žádný příslušný orgán, MSp by se jím podle odst. 3 písm. a) in fine dále nezabývalo. (b) Pokud by z okolností plynulo, že oznámení je nepravdivé, MSp by nepostupovalo podle písm. a), ale podle písm. c) (neshledání podezření / nepravdivé informace) a poučilo oznamovatele o právu jít k orgánu veřejné moci.
-
-#### G. Protiargumenty a rizika
-
-- *Protiargument:* „MSp se nesmí vyhýbat opakovaným oznámením, každé je třeba vyřídit věcně." — Neutralizace: odst. 2 výslovně umožňuje opakované oznámení bez nových skutečností věcně neřešit; jde o procesní pojistku proti zahlcení.
-- *Protiargument:* „MSp mělo věc prošetřit samo, ne ji postupovat." — Neutralizace: MSp není věcným vyšetřovatelem; při podezření je povinno postoupit příslušnému orgánu [odst. 3 písm. a)] a sledovat další postup (§ 18).
-- *Slabé místo:* posouzení, zda opakované oznámení obsahuje „nové skutečnosti", je hodnotící; chybné posouzení může vést k nesprávnému odložení důvodného podání.
-
-#### H. Praktický závěr
-
-§ 17 stanoví postup MSp: lhůta 30 dnů (prodloužitelná jednou o 30, max 60 dnů); opakované oznámení bez nových skutečností se věcně neřeší (odst. 2); tři výstupní cesty (odst. 3): postoupení příslušnému orgánu při podezření [písm. a)], vyrozumění, že nejde o oznámení [písm. b)], nebo neshledání podezření / nepravdivost s poučením [písm. c)]. O postoupení se oznamovatel vyrozumí (odst. 4).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Byla dodržena lhůta 30 dnů (max 60 dnů při prodloužení) na posouzení a vyrozumění (odst. 1)?
-- [ ] Obsahuje opakované oznámení nové skutečnosti, nebo se jím MSp dále nezabývá (odst. 2)?
-- [ ] Byla zvolena správná výstupní cesta podle odst. 3 (postoupení / není oznámením / neshledání podezření)?
-- [ ] Byl oznamovatel vyrozuměn o postoupení a (podle § 18) o dalším postupu příslušného orgánu?
-
-**Typicky rozhodné důkazy / podklady:** obsah původního i opakovaného oznámení; posouzení MSp; identifikace příslušného orgánu a doklad o postoupení; vyrozumění oznamovatele.
+- [ ] Je doloženo datum přijetí a případná skutková nebo právní složitost odůvodňující prodloužení?
+- [ ] Bylo posouzení i výsledkové vyrozumění dokončeno do 30, nejvýše 60 dnů?
+- [ ] U opakovaného oznámení je porovnán obsah a zaznamenáno, zda přináší nové skutečnosti?
+- [ ] Odpovídá výsledek právě jedné variantě § 17 odst. 3 a je dohledatelně odůvodněn?
+- [ ] Byly u všech zpráv prověřeny výjimky § 16 odst. 2 a při předání údajů splněn § 20?
+- [ ] Při informování příslušného orgánu navázal postup podle § 18?
 
 ---
 
